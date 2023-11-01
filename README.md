@@ -1,5 +1,7 @@
 # FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models
 
+arXiv preprint: https://arxiv.org/abs/2310.20410
+
 we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following Benchmark for LLMs.
 - **FollowBench** comprehensively includes five different types (i.e., Content, Scenario, Style, Format, and Example) of _fine-grained constraints_. 
 - To enable a precise constraint following estimation on diverse difficulties, we introduce a _Multi-level_ mechanism that incrementally adds a single constraint to the initial instruction at each increased level. 
