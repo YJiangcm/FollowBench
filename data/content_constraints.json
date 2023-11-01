@@ -1,0 +1,1202 @@
+[
+    {
+        "example_id": 1,
+        "category": "content",
+        "source": "t0_zsnoopt_data",
+        "level": 0,
+        "instruction": "Pick one category for the following text. The options are - company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work. Michael DenDekker -  Michael G. DenDekker (born July 11 1961) is an assemblyman for the state of New York's 34th district which includes the neighborhoods of Woodside Jackson Heights and East Elmhurst all in the borough/county of Queens.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "content",
+        "source": "t0_zsnoopt_data",
+        "level": 1,
+        "instruction": "Identify one category from the list below for the input text, and also infer the sentiment (positive, neutral, or negative) conveyed in the text. Your options for the category are - company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film, or written work. Michael DenDekker - Michael G. DenDekker (born July 11 1961) is an assemblyman for the state of New York's 34th district which includes the neighborhoods of Woodside, Jackson Heights, and East Elmhurst, all in the borough/county of Queens.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "content",
+        "source": "t0_zsnoopt_data",
+        "level": 2,
+        "instruction": "Identify one category and the sentiment conveyed (positive, neutral, or negative) in the input text, as well as conduct a named entity recognition task to locate and highlight the important entities present. You can choose the category from the following: company, educational institution, artist, athlete, office holder, means of transportation, building, natural place, village, animal, plant, album, film, or written work. Michael DenDekker - Michael G. DenDekker (born July 11, 1961) is an assemblyman for the state of New York's 34th district which includes the neighborhoods of Woodside, Jackson Heights, and East Elmhurst, all in the borough/county of Queens.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "content",
+        "source": "t0_zsnoopt_data",
+        "level": 3,
+        "instruction": "Analyze the provided text to pinpoint a category and the sentiment (positive, neutral, or negative) it emanates. Additionally, perform named entity recognition to emphasize notable entities and also identify the core topic discussed. Select the category from this array: company, educational institution, artist, athlete, office holder, means of transportation, building, natural place, village, animal, plant, album, film, or written work. Michael DenDekker - Michael G. DenDekker (born July 11, 1961) is an assemblyman for the state of New York's 34th district which includes the neighborhoods of Woodside, Jackson Heights, and East Elmhurst, all in the borough/county of Queens.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "content",
+        "source": "t0_zsnoopt_data",
+        "level": 4,
+        "instruction": "Analyze the supplied text to discern a category and the sentiment it conveys (positive, neutral, or negative). Furthermore, carry out named entity recognition to highlight significant entities and determine the main theme being discussed. In addition, perform keyword extraction to underline notable terms. Choose the category from this array: company, educational institution, artist, athlete, office holder, means of transportation, building, natural place, village, animal, plant, album, film, or written work. Michael DenDekker - Michael G. DenDekker (born July 11, 1961) is an assemblyman for the state of New York's 34th district which includes the neighborhoods of Woodside, Jackson Heights, and East Elmhurst, all in the borough/county of Queens.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "content",
+        "source": "t0_zsnoopt_data",
+        "level": 5,
+        "instruction": "Analyze the provided text to ascertain both the category and the sentiment (positive, neutral, or negative) it embodies. Additionally, conduct named entity recognition to emphasize important entities and establish the central theme. Moreover, undertake keyword extraction to mark prominent words, and engage in coreference resolution to identify references of the same entity within the text. Select the category from this array: company, educational institution, artist, athlete, office holder, means of transportation, building, natural place, village, animal, plant, album, film, or written work. Michael DenDekker - Michael G. DenDekker (born July 11, 1961) is an assemblyman for the state of New York's 34th district which includes the neighborhoods of Woodside, Jackson Heights, and East Elmhurst, all in the borough/county of Queens.",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "sharegpt",
+        "level": 0,
+        "instruction": "What does Milton Friedman believe to be the sole responsibility of business?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "sharegpt",
+        "level": 1,
+        "instruction": "What is the sole responsibility of business according to Milton Friedman, while also considering its implications on societal ethics?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "sharegpt",
+        "level": 2,
+        "instruction": "What, according to Milton Friedman, is the single duty of business, while also analyzing its impact on societal ethics and noting one potential consequence on community relations?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "sharegpt",
+        "level": 3,
+        "instruction": "What, in the view of Milton Friedman, constitutes the primary responsibility of a business? Additionally, evaluate its influence on societal ethics and highlight one possible repercussion on community relations, incorporating one relevant case study for context.",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "sharegpt",
+        "level": 4,
+        "instruction": "What, according to Milton Friedman, is the main duty of a business? Furthermore, assess its impact on societal ethics and pinpoint one potential consequence on community relations, ensuring to substantiate your answer with one pertinent case study and its implications.",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "sharegpt",
+        "level": 5,
+        "instruction": "What, according to Milton Friedman, is the role of a business in society? Additionally, analyze its influence on ethical standards in society and identify one possible repercussion on relationships within the community. Please strengthen your argument with one relevant case study and its implications, along with citing one expert opinion or statistical data to support your viewpoint.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Can Na+, Cl-, OH- and HCO3-ions all be present together at once in water?",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Can Na+, Cl-, OH-, and HCO3- ions coexist in a water solution? Additionally, provide a brief explanation of their interactions or reactions if any.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Can Na+, Cl-, OH-, and HCO3- ions coexist in a water solution? Also, briefly describe any potential reactions or interactions between them, including any formation of new compounds.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "quora",
+        "level": 3,
+        "instruction": "In a water solution, can the ions Na+, Cl-, OH-, and HCO3- coexist? Additionally, outline any possible reactions or interactions that may occur between these ions, specifying any new compounds that may form, and provide a relevant chemical equation to illustrate one such interaction.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "quora",
+        "level": 4,
+        "instruction": "In a water solution, assess if the ions Na+, Cl-, OH-, and HCO3- can coexist. Furthermore, detail any potential reactions or interactions between these ions, including the formation of new compounds, and supplement your response with a pertinent chemical equation demonstrating one such interaction. Please include any assumptions or conditions that would facilitate or restrict these interactions.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "quora",
+        "level": 5,
+        "instruction": "In a water solution, evaluate the possibility of the simultaneous presence of Na+, Cl-, OH-, and HCO3- ions. Additionally, describe any potential reactions or interactions between these ions, indicating the formation of new compounds. Enhance your answer by including a relevant chemical equation illustrating one of these interactions. Also, specify any assumptions or conditions that might either facilitate or inhibit these interactions, and mention the implications on the solution's pH level.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "reddit",
+        "level": 0,
+        "instruction": "Would you consider direct air carbon capture an expensive technology?",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "reddit",
+        "level": 1,
+        "instruction": "Would you consider direct air carbon capture an expensive technology? Please provide one reason to support your opinion.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "reddit",
+        "level": 2,
+        "instruction": "Would you regard direct air carbon capture as a costly technology? Please provide one piece of recent news or a study to substantiate your viewpoint.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "reddit",
+        "level": 3,
+        "instruction": "Would you consider direct air carbon capture to be a financially substantial technology? Along with your opinion, provide a citation from one recent news article or study, and briefly summarize it to substantiate your viewpoint.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "reddit",
+        "level": 4,
+        "instruction": "Would you regard direct air carbon capture as a substantial financial investment? Along with sharing your view, include a quote from a recent news article or study, and briefly summarize it to validate your stance. Additionally, please specify the publication date of your source.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "reddit",
+        "level": 5,
+        "instruction": "Would you consider direct air carbon capture as a significant financial venture? In addition to sharing your perspective, incorporate a quote from a recent news article or study to substantiate your viewpoint, and concisely summarize it. Also, ensure to mention the publication date of the referenced source. Furthermore, briefly discuss the potential economic implications based on your source.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "content",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "What are some of the most common mistakes tourists make when visiting South Korea for the first time?",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "content",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "What are some of the most common mistakes tourists make when visiting South Korea for the first time? Please provide real-life examples or anecdotes along with each point.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "content",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "What are some of the most frequent errors made by first-time visitors to South Korea? Ensure to include real-life examples or anecdotes and also suggest a preventative measure for each point mentioned.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "content",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "What are some of the most common mistakes made by newcomers visiting South Korea? Please include real-life examples or anecdotes, and propose a preventative measure for each error mentioned. Additionally, offer an insight into the cultural background or norms that might explain why the mistake is considered significant in South Korea.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "content",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "What are some of the most prevalent mistakes made by first-time visitors in South Korea? Along with each mistake, include real-life examples or anecdotes, and suggest a preventative measure. Further, provide a brief explanation highlighting the cultural norms or background that make these mistakes significant in the South Korean context, and suggest a related book or documentary for deeper understanding.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "content",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "What are some common errors committed by first-time visitors in South Korea? For each error identified, offer real-life instances or anecdotes and propose a preventative step. Moreover, furnish a succinct explanation spotlighting the cultural norms or background factors that render these errors notable within the South Korean context, and recommend a book or documentary for enhanced comprehension. Also, ensure to give a personal tip based on your experience or research for avoiding such mistakes.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "content",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Name the album that was the first CD pressed in the United States.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "content",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Name the album that was the first CD pressed in the United States. After identifying, mention the artist of that album.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "content",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Name the album that was the first CD pressed in the United States. After identifying, mention the artist of that album and the year it was released.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "content",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Determine the album that was the first CD pressed in the United States. After identifying, mention the artist of that album, the year it was released, and list one of its popular tracks.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "content",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Determine the album that was the first CD pressed in the United States. After identifying, mention the artist of that album, the year it was released, and list one of its popular tracks. Additionally, provide a brief explanation as to why this particular album was chosen to be the first CD pressed in the US.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "content",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Identify the album that was the first CD pressed in the United States. After finding it, mention the artist of that album, the year it was released, and list one of its popular tracks. Provide a brief explanation as to why this particular album was chosen to be the first CD pressed in the US. Additionally, as a subtask, compare its sales figures to the second CD ever pressed in the US during the first year of their respective releases.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "How might solid US economic data affect the Fed's decision on interest rates?",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "How might solid US economic data from the past quarter affect the Fed's decision on interest rates?",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "How might solid US economic data from the past quarter affect the Fed's decision on interest rates? Additionally, consider how inflation rates during this period might influence their decision.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "How might solid US economic data from the past quarter affect the Fed's decision on interest rates? Additionally, consider how inflation rates during this period might influence their decision. As a subtask, focus specifically on the impact of employment numbers and housing market trends from the past quarter on the Fed's decision.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "How might solid US economic data from the past quarter affect the Fed's decision on interest rates? Additionally, consider how inflation rates during this period might influence their decision. As a subtask, focus specifically on the impact of employment numbers and housing market trends from the past quarter on the Fed's decision. Moreover, while analyzing, prioritize using only data sources from recognized financial institutions and government publications.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "How might solid US economic data from the past quarter affect the Fed's decision on interest rates? Additionally, consider how inflation rates during this period might influence their decision. As a subtask, focus specifically on the impact of employment numbers and housing market trends from the past quarter on the Fed's decision. Moreover, while analyzing, prioritize using only data sources from recognized financial institutions and government publications. For a comprehensive understanding, as an additional subtask, compare the current data trends with those from the same quarter last year to identify any significant deviations or patterns.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "content",
+        "source": "quora",
+        "level": 0,
+        "instruction": "What are the benefits and risks of high-intensity interval training (HIIT) for athletes?",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "content",
+        "source": "quora",
+        "level": 1,
+        "instruction": "What are the benefits and risks of high-intensity interval training (HIIT) for professional athletes, focusing specifically on its impact on cardiovascular health?",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "content",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Explore the advantages and disadvantages of high-intensity interval training (HIIT) for professional athletes, with a special emphasis on its implications for cardiovascular health. Additionally, please relate your findings to real-world scenarios where professional athletes have experienced noticeable impacts, positive or negative, on their cardiovascular health due to HIIT.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "content",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Examine the pros and cons of high-intensity interval training (HIIT) specifically for professional runners, focusing predominantly on its repercussions for cardiovascular health. Additionally, correlate your findings to actual instances where professional runners have encountered significant impacts, either beneficial or detrimental, on their cardiovascular health due to HIIT. Please ensure that your exploration includes at least one peer-reviewed study or academic source and that any claims or information are substantiated with credible evidence.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "content",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Analyze the advantages and disadvantages of high-intensity interval training (HIIT), especially for professional runners, with a primary focus on its implications for cardiovascular health. Correlate your findings with real-world examples where professional runners have experienced significant positive or negative impacts on their cardiovascular health due to HIIT. Be sure to incorporate at least one peer-reviewed study or academic source to substantiate any claims or information. Also, strictly compare HIIT's effects with those of moderate-intensity continuous training (MICT) on professional runners' cardiovascular health to offer a more specialized insight. Please maintain stringent standards of evidence and relevance throughout your exploration to ensure credibility.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "content",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Examine the benefits and drawbacks of high-intensity interval training (HIIT) predominantly for professional runners, honing in particularly on its consequences for cardiovascular health. Interrelate your conclusions with authentic instances where professional runners have encountered notable positive or adverse effects on their cardiovascular well-being due to HIIT. It is crucial to include a minimum of one peer-reviewed article or scholarly source to validate any assertions or details. Explicitly contrast HIIT's impacts with those of moderate-intensity continuous training (MICT) on the cardiovascular health of professional runners to provide more nuanced understanding. Uphold rigorous standards of proof and pertinence throughout your inquiry to preserve reliability. \nAdd to this a stringent content constraint: Limit your exploration and correlation specifically to professional middle-distance runners. Ensure a focused and detailed comparison, particularly highlighting any variation in the impacts between different distances within middle-distance running, if such distinctions are found in your referenced studies or examples. Keep the overall discussion concise and relevant to the specified subgroup of professional runners.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 1,
+        "instruction": "Write down examples of people who are citizens of UK.\n\na) David Lloyd George was Prime Minister of the United Kingdom from 1916 to 1922.\nb) Herbert Henry Asquith was a British statesman and Liberal politician who served as Prime Minister.\nc) Peter Edward Cook was an English satirist and comedic actor.\n\nContinue listing another three people who satisfy ALL of following conditions:\n1. not alive",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 2,
+        "instruction": "Write down examples of people who are citizens of UK.\n\na) David Lloyd George was Prime Minister of the United Kingdom from 1916 to 1922.\nb) Herbert Henry Asquith was a British statesman and Liberal politician who served as Prime Minister.\nc) Peter Edward Cook was an English satirist and comedic actor.\n\nContinue listing another three people who satisfy ALL of following conditions:\n1. not alive;\n2. female",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 3,
+        "instruction": "Write down examples of people who are citizens of UK.\n\na) David Lloyd George was Prime Minister of the United Kingdom from 1916 to 1922.\nb) Herbert Henry Asquith was a British statesman and Liberal politician who served as Prime Minister.\nc) Peter Edward Cook was an English satirist and comedic actor.\n\nContinue listing another three people who satisfy ALL of following conditions:\n1. not alive;\n2. female;\n3. not politician",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 4,
+        "instruction": "Write down examples of people who are citizens of UK.\n\na) David Lloyd George was Prime Minister of the United Kingdom from 1916 to 1922.\nb) Herbert Henry Asquith was a British statesman and Liberal politician who served as Prime Minister.\nc) Peter Edward Cook was an English satirist and comedic actor.\n\nContinue listing another three people who satisfy ALL of following conditions:\n1. not alive;\n2. female;\n3. not politician;\n4. never married",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 5,
+        "instruction": "Write down examples of people who are citizens of UK.\n\na) David Lloyd George was Prime Minister of the United Kingdom from 1916 to 1922.\nb) Herbert Henry Asquith was a British statesman and Liberal politician who served as Prime Minister.\nc) Peter Edward Cook was an English satirist and comedic actor.\n\nContinue listing another three people who satisfy ALL of following conditions:\n1. not alive;\n2. female;\n3. not politician;\n4. never married;\n5. hold a PhD degree",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 1,
+        "instruction": "Here's a few dairy food:\n\na) roquefort is a sheep milk cheese from southern france, and is one of the world's best known blue cheeses.\nb) velveeta is a brand name for a processed cheese product similar to american cheese.\nc) danablu, often marketed under the trademark danish blue cheese within north america, is a strong, blue veined cheese.\n\nCould you list three more diary food that are:\n\nnot cheese",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 2,
+        "instruction": "Here's a few dairy food:\n\na) roquefort is a sheep milk cheese from southern france, and is one of the world's best known blue cheeses.\nb) velveeta is a brand name for a processed cheese product similar to american cheese.\nc) danablu, often marketed under the trademark danish blue cheese within north america, is a strong, blue veined cheese.\n\nCould you list three more diary food that are:\n\nnot cheese;\nnot from Europe",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 3,
+        "instruction": "Here's a few dairy food:\n\na) roquefort is a sheep milk cheese from southern france, and is one of the world's best known blue cheeses.\nb) velveeta is a brand name for a processed cheese product similar to american cheese.\nc) danablu, often marketed under the trademark danish blue cheese within north america, is a strong, blue veined cheese.\n\nCould you list three more diary food that are:\n\nnot cheese;\nnot from Europe;\nnot sold in north america",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 4,
+        "instruction": "Here's a few dairy food:\n\na) roquefort is a sheep milk cheese from southern france, and is one of the world's best known blue cheeses.\nb) velveeta is a brand name for a processed cheese product similar to american cheese.\nc) danablu, often marketed under the trademark danish blue cheese within north america, is a strong, blue veined cheese.\n\nCould you list three more diary food that are:\n\nnot cheese;\nnot from Europe;\nnot sold in north america;\nnot based on any kind of milk",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 5,
+        "instruction": "Here's a few dairy food:\n\na) roquefort is a sheep milk cheese from southern france, and is one of the world's best known blue cheeses.\nb) velveeta is a brand name for a processed cheese product similar to american cheese.\nc) danablu, often marketed under the trademark danish blue cheese within north america, is a strong, blue veined cheese.\n\nCould you list three more diary food that are:\n\nnot cheese;\nnot from Europe;\nnot sold in north america;\nnot based on any kind of milk;\nsuitable for young children",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 1,
+        "instruction": "Here's outdoor sport:\na) angling is a method of fishing by means of a fish hook or \"angle\".\nb) a troll is a being in scandinavian folklore, including norse mythology. \nc) beagling is the hunting mainly of hares and also rabbits, but definitely not foxes, by beagles by scent. \n\nCould you list three more outdoor sports that satisfy ALL of following conditions:\n1. far from water",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 2,
+        "instruction": "Here's outdoor sport:\na) angling is a method of fishing by means of a fish hook or \"angle\".\nb) a troll is a being in scandinavian folklore, including norse mythology. \nc) beagling is the hunting mainly of hares and also rabbits, but definitely not foxes, by beagles by scent. \n\nCould you list three more outdoor sports that satisfy ALL of following conditions:\n1. far from water;\n2. not related to hunt",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 3,
+        "instruction": "Here's outdoor sport:\na) angling is a method of fishing by means of a fish hook or \"angle\".\nb) a troll is a being in scandinavian folklore, including norse mythology. \nc) beagling is the hunting mainly of hares and also rabbits, but definitely not foxes, by beagles by scent. \n\nCould you list three more outdoor sports that satisfy ALL of following conditions:\n1. far from water;\n2. not related to hunt;\n3. not from Europe",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 4,
+        "instruction": "Here's outdoor sport:\na) angling is a method of fishing by means of a fish hook or \"angle\".\nb) a troll is a being in scandinavian folklore, including norse mythology. \nc) beagling is the hunting mainly of hares and also rabbits, but definitely not foxes, by beagles by scent. \n\nCould you list three more outdoor sports that satisfy ALL of following conditions:\n1. far from water;\n2. not related to hunt;\n3. not from Europe;\n4. requires a team of 4 or more players",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 5,
+        "instruction": "Here's outdoor sport:\na) angling is a method of fishing by means of a fish hook or \"angle\".\nb) a troll is a being in scandinavian folklore, including norse mythology. \nc) beagling is the hunting mainly of hares and also rabbits, but definitely not foxes, by beagles by scent. \n\nCould you list three more outdoor sports that satisfy ALL of following conditions:\n1. far from water;\n2. not related to hunt;\n3. not from Europe;\n4. requires a team of 4 or more players;\n5. an Olympic sport",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 1,
+        "instruction": "Below we show examples of soft drink. Following these examples, keep listing three more soft drink that satisfy following conditions:\n1. not manufactured by coca cola company;\n\nFirst Three Examples: \na) in chemistry, a phosphate is an anion, salt, functional group or ester derived from a phosphoric acid. \nb) coca cola, or coke, is a carbonated soft drink manufactured by the coca cola company.\nc) an egg cream is a cold beverage consisting of milk, carbonated water, and flavored syrup (typically chocolate or vanilla).",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 2,
+        "instruction": "Below we show examples of soft drink. Following these examples, keep listing three more soft drink that satisfy following conditions:\n1. not manufactured by coca cola company;\n2. not including any milk;\n\nFirst Three Examples: \na) in chemistry, a phosphate is an anion, salt, functional group or ester derived from a phosphoric acid. \nb) coca cola, or coke, is a carbonated soft drink manufactured by the coca cola company.\nc) an egg cream is a cold beverage consisting of milk, carbonated water, and flavored syrup (typically chocolate or vanilla).",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 3,
+        "instruction": "Below we show examples of soft drink. Following these examples, keep listing three more soft drink that satisfy following conditions:\n1. not manufactured by coca cola company;\n2. not including any milk;\n3. not from North America;\n\nFirst Three Examples: \na) in chemistry, a phosphate is an anion, salt, functional group or ester derived from a phosphoric acid. \nb) coca cola, or coke, is a carbonated soft drink manufactured by the coca cola company.\nc) an egg cream is a cold beverage consisting of milk, carbonated water, and flavored syrup (typically chocolate or vanilla).",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 4,
+        "instruction": "Below we show examples of soft drink. Following these examples, keep listing three more soft drink that satisfy following conditions:\n1. not manufactured by coca cola company;\n2. not including any milk;\n3. not from North America;\n4. tranditional drink exsited for hurdred of years;\n\nFirst Three Examples: \na) in chemistry, a phosphate is an anion, salt, functional group or ester derived from a phosphoric acid. \nb) coca cola, or coke, is a carbonated soft drink manufactured by the coca cola company.\nc) an egg cream is a cold beverage consisting of milk, carbonated water, and flavored syrup (typically chocolate or vanilla).",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 5,
+        "instruction": "Below we show examples of soft drink. Following these examples, keep listing three more soft drink that satisfy following conditions:\n1. not manufactured by coca cola company;\n2. not including any milk;\n3. not from North America;\n4. tranditional drink exsited for hurdred of years;\n5. not suitable for the elder;\n\nFirst Three Examples: \na) in chemistry, a phosphate is an anion, salt, functional group or ester derived from a phosphoric acid. \nb) coca cola, or coke, is a carbonated soft drink manufactured by the coca cola company.\nc) an egg cream is a cold beverage consisting of milk, carbonated water, and flavored syrup (typically chocolate or vanilla).",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 1,
+        "instruction": "Talk about domestic animal:\n== the norwegian elkhound is one of the northern spitz type breed of dog and is the national dog of norway. ==\n== the irish terrier (irish: brocaire rua) is a dog breed from ireland, one of many breeds of terrier. ==\n== a hearing dog is a type of assistance dog specifically selected and trained to assist people who are deaf or hard of hearing by alerting their handler to important sounds, such as doorbells, smoke alarms, ringing telephones, or alarm clocks. ==\nCould you list three more domestic animals that satisfy ALL of following conditions:\n1. Do not talk about dog.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 2,
+        "instruction": "Talk about domestic animal:\n== the norwegian elkhound is one of the northern spitz type breed of dog and is the national dog of norway. ==\n== the irish terrier (irish: brocaire rua) is a dog breed from ireland, one of many breeds of terrier. ==\n== a hearing dog is a type of assistance dog specifically selected and trained to assist people who are deaf or hard of hearing by alerting their handler to important sounds, such as doorbells, smoke alarms, ringing telephones, or alarm clocks. ==\nCould you list three more domestic animals that satisfy ALL of following conditions:\n1. Do not talk about dog.\n2. Their weights are less than 100kg.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 3,
+        "instruction": "Talk about domestic animal:\n== the norwegian elkhound is one of the northern spitz type breed of dog and is the national dog of norway. ==\n== the irish terrier (irish: brocaire rua) is a dog breed from ireland, one of many breeds of terrier. ==\n== a hearing dog is a type of assistance dog specifically selected and trained to assist people who are deaf or hard of hearing by alerting their handler to important sounds, such as doorbells, smoke alarms, ringing telephones, or alarm clocks. ==\nCould you list three more domestic animals that satisfy ALL of following conditions:\n1. Do not talk about dog.\n2. Their weights are less than 100kg.\n3. Can swim.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 4,
+        "instruction": "Talk about domestic animal:\n== the norwegian elkhound is one of the northern spitz type breed of dog and is the national dog of norway. ==\n== the irish terrier (irish: brocaire rua) is a dog breed from ireland, one of many breeds of terrier. ==\n== a hearing dog is a type of assistance dog specifically selected and trained to assist people who are deaf or hard of hearing by alerting their handler to important sounds, such as doorbells, smoke alarms, ringing telephones, or alarm clocks. ==\nCould you list three more domestic animals that satisfy ALL of following conditions:\n1. Do not talk about dog.\n2. Their weights are less than 100kg.\n3. Can swim.\n4. Have 4 legs.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content",
+        "source": "COGNAC",
+        "level": 5,
+        "instruction": "Talk about domestic animal:\n== the norwegian elkhound is one of the northern spitz type breed of dog and is the national dog of norway. ==\n== the irish terrier (irish: brocaire rua) is a dog breed from ireland, one of many breeds of terrier. ==\n== a hearing dog is a type of assistance dog specifically selected and trained to assist people who are deaf or hard of hearing by alerting their handler to important sounds, such as doorbells, smoke alarms, ringing telephones, or alarm clocks. ==\nCould you list three more domestic animals that satisfy ALL of following conditions:\n1. Do not talk about dog.\n2. Their weights are less than 100kg.\n3. Can swim.\n4. Have 4 legs.\n5. Are hairy.",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "content",
+        "source": "E2E",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "content",
+        "source": "E2E",
+        "level": 1,
+        "instruction": "[Text]\nThere is a French pub called The Phoenix that has a low customer rating but is child friendly and is more than 30 dollars and is located in the riverside area near Crowne Plaza Hotel.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType) of the restaurant. \nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Phoenix], eatType[pub]"
+    },
+    {
+        "example_id": 14,
+        "category": "content",
+        "source": "E2E",
+        "level": 2,
+        "instruction": "[Text]\nThere is a French pub called The Phoenix that has a low customer rating but is child friendly and is more than 30 dollars and is located in the riverside area near Crowne Plaza Hotel.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange) of the restaurant. \nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Phoenix], eatType[pub], food[French], priceRange[more than £30]"
+    },
+    {
+        "example_id": 14,
+        "category": "content",
+        "source": "E2E",
+        "level": 3,
+        "instruction": "[Text]\nThere is a French pub called The Phoenix that has a low customer rating but is child friendly and is more than 30 dollars and is located in the riverside area near Crowne Plaza Hotel.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the restaurant. \nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Phoenix], eatType[pub], food[French], priceRange[more than £30], area[riverside], near[Crowne Plaza Hotel]"
+    },
+    {
+        "example_id": 14,
+        "category": "content",
+        "source": "E2E",
+        "level": 4,
+        "instruction": "[Text]\n1. The Phoenix pub near Crowne Plaza Hotel by the riverside serving French food is child friendly.  Price range more than £30, rated low by customers.\n\n2. The Vaults is a pub located in the city centre near Raja Indian Cuisine. It is not  family-friendly and serves French food. It  has a price range of less than £20.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 2 restaurants. \nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Phoenix, The Vaults], eatType[pub, pub], food[French, French], priceRange[more than £30, less than £20], area[riverside, city centre], near[Crowne Plaza Hotel, Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 14,
+        "category": "content",
+        "source": "E2E",
+        "level": 5,
+        "instruction": "[Text]\n1. The Phoenix pub near Crowne Plaza Hotel by the riverside serving French food is child friendly.  Price range more than £30, rated low by customers.\n\n2. The Vaults is a pub located in the city centre near Raja Indian Cuisine. It is not  family-friendly and serves French food. It  has a price range of less than £20.\n\n3. The Punter, an Italian restaurant located in riverside near Rainbow Vegetarian Café, offers a children friendly atmosphere with prices on the higher end.  The Punter has a 1 out of 5 customer rating.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 3 restaurants. \nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Phoenix, The Vaults, The Punter], eatType[pub, pub, restaurant], food[French, French, Italian], priceRange[more than £30, less than £20, high], area[riverside, city centre, riverside], near[Crowne Plaza Hotel, Raja Indian Cuisine, Rainbow Vegetarian Café]"
+    },
+    {
+        "example_id": 15,
+        "category": "content",
+        "source": "E2E",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "content",
+        "source": "E2E",
+        "level": 1,
+        "instruction": "[Text]\nThe Waterman is a restaurant that serves Italian food. The price range is high but it is children-friendly. It is located near Raja Indian Cuisine in the riverside area.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Waterman], eatType[restaurant]"
+    },
+    {
+        "example_id": 15,
+        "category": "content",
+        "source": "E2E",
+        "level": 2,
+        "instruction": "[Text]\nThe Waterman is a restaurant that serves Italian food. The price range is high but it is children-friendly. It is located near Raja Indian Cuisine in the riverside area.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high]"
+    },
+    {
+        "example_id": 15,
+        "category": "content",
+        "source": "E2E",
+        "level": 3,
+        "instruction": "[Text]\nThe Waterman is a restaurant that serves Italian food. The price range is high but it is children-friendly. It is located near Raja Indian Cuisine in the riverside area.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[riverside], near[Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 15,
+        "category": "content",
+        "source": "E2E",
+        "level": 4,
+        "instruction": "[Text]\n1. The Waterman is a restaurant that serves Italian food. The price range is high but it is children-friendly. It is located near Raja Indian Cuisine in the riverside area.\n\n2. Near Raja Indian Cuisine there is a pub called The Wrestlers that offers less than £20 Italian food and is by the river side. Kids not welcome\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 2 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Waterman, The Wrestlers], eatType[restaurant, pub], food[Italian, Italian], priceRange[high, less than £20], area[riverside, riverside], near[Raja Indian Cuisine, Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 15,
+        "category": "content",
+        "source": "E2E",
+        "level": 5,
+        "instruction": "[Text]\n1. The Waterman is a restaurant that serves Italian food. The price range is high but it is children-friendly. It is located near Raja Indian Cuisine in the riverside area.\n\n2. Near Raja Indian Cuisine there is a pub called The Wrestlers that offers less than £20 Italian food and is by the river side. Kids not welcome\n\n3. The Plough is a pub offering Chinese food in the high price range. They are located riverside and are not children friendly. They can be found riverside near Raja Indian Cuisine.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 3 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Waterman, The Wrestlers, The Plough], eatType[restaurant, pub, pub], food[Italian, Italian, Chinese], priceRange[high, less than £20, high], area[riverside, riverside, riverside], near[Raja Indian Cuisine, Raja Indian Cuisine, Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 16,
+        "category": "content",
+        "source": "E2E",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "content",
+        "source": "E2E",
+        "level": 1,
+        "instruction": "[Text]\nFor a cheap restaurant in Riverside go to The Mill.  It's family-friendly near Raja Indian Cuisine and serves fast food.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Mill], eatType[restaurant]"
+    },
+    {
+        "example_id": 16,
+        "category": "content",
+        "source": "E2E",
+        "level": 2,
+        "instruction": "[Text]\nFor a cheap restaurant in Riverside go to The Mill.  It's family-friendly near Raja Indian Cuisine and serves fast food.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Mill], eatType[restaurant], food[Fast food], priceRange[cheap]"
+    },
+    {
+        "example_id": 16,
+        "category": "content",
+        "source": "E2E",
+        "level": 3,
+        "instruction": "[Text]\nFor a cheap restaurant in Riverside go to The Mill.  It's family-friendly near Raja Indian Cuisine and serves fast food.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Mill], eatType[restaurant], food[Fast food], priceRange[cheap], area[riverside], near[Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 16,
+        "category": "content",
+        "source": "E2E",
+        "level": 4,
+        "instruction": "[Text]\n1. For a cheap restaurant in Riverside go to The Mill.  It is family-friendly near Raja Indian Cuisine and serves fast food.\n\n2. The Cricketers is a highly priced English restaurant that has earned an average rating from its customers. Although not kid friendly it is located in the riverside area near Café Rouge.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 2 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Mill, The Cricketers], eatType[restaurant, restaurant], food[fast food, English], priceRange[cheap, high], area[riverside, riverside], near[Raja Indian Cuisine, Café Rouge]"
+    },
+    {
+        "example_id": 16,
+        "category": "content",
+        "source": "E2E",
+        "level": 5,
+        "instruction": "[Text]\n1. For a cheap restaurant in Riverside go to The Mill.  It is family-friendly near Raja Indian Cuisine and serves fast food.\n\n2. The Cricketers is a highly priced English restaurant that has earned an average rating from its customers. Although not kid friendly it is located in the riverside area near Café Rouge.\n\n3. There is a cheap restaurant style place in riverside that sells Japanese food, called Green Man. It is also kid friendly and located near Express by Holiday Inn.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 3 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Mill, The Cricketers, Green Man], eatType[restaurant, restaurant, restaurant], food[fast food, English, Japanese], priceRange[cheap, high, cheap], area[riverside, riverside, riverside], near[Raja Indian Cuisine, Café Rouge, Express by Holiday Inn]"
+    },
+    {
+        "example_id": 17,
+        "category": "content",
+        "source": "E2E",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "content",
+        "source": "E2E",
+        "level": 1,
+        "instruction": "[Text]\nCotto is a coffee ship serving Chinese in the £20-25 price range with a high customer rating in city centre near The Portland Arms.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[Cotto], eatType[coffee shop]"
+    },
+    {
+        "example_id": 17,
+        "category": "content",
+        "source": "E2E",
+        "level": 2,
+        "instruction": "[Text]\nCotto is a coffee ship serving Chinese in the £20-25 price range with a high customer rating in city centre near The Portland Arms.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[Cotto], eatType[coffee shop], food[Chinese], priceRange[£20-25]"
+    },
+    {
+        "example_id": 17,
+        "category": "content",
+        "source": "E2E",
+        "level": 3,
+        "instruction": "[Text]\nCotto is a coffee ship serving Chinese in the £20-25 price range with a high customer rating in city centre near The Portland Arms.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[Cotto], eatType[coffee shop], food[Chinese], priceRange[£20-25], area[city centre], near[The Portland Arms]"
+    },
+    {
+        "example_id": 17,
+        "category": "content",
+        "source": "E2E",
+        "level": 4,
+        "instruction": "[Text]\n1. Cotto is a coffee ship serving Chinese in the £20-25 price range with a high customer rating in city centre near The Portland Arms.\n\n2. There is a coffee shop called The Eagle that provides Chinese food in the price range of £20-25 it is in the city centre  near Burger King and is not kids friends.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 2 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[Cotto, The Eagle], eatType[coffee shop, coffee shop], food[Chinese, Chinese], priceRange[£20-25, £20-25], area[city centre, city centre], near[The Portland Arms, Burger King]"
+    },
+    {
+        "example_id": 17,
+        "category": "content",
+        "source": "E2E",
+        "level": 5,
+        "instruction": "[Text]\n1. Cotto is a coffee ship serving Chinese in the £20-25 price range with a high customer rating in city centre near The Portland Arms.\n\n2. There is a coffee shop called The Eagle that provides Chinese food in the price range of £20-25 it is in the city centre  near Burger King and is not kids friends.\n\n3. There is a coffee shop called The Mill providing Chinese food located in the riverside near The Sorrento and it is price range is £20-25.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 3 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[Cotto, The Eagle, The Mill], eatType[coffee shop, coffee shop, coffee shop], food[Chinese, Chinese, Chinese], priceRange[£20-25, £20-25, £20-25], area[city centre, city centre, riverside], near[The Portland Arms, Burger King, The Sorrento]"
+    },
+    {
+        "example_id": 18,
+        "category": "content",
+        "source": "E2E",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "content",
+        "source": "E2E",
+        "level": 1,
+        "instruction": "[Text]\nIn riverside near Raja Indian Cuisine is a restaurant called The Wrestlers. A coffee shop that serves Chinese food for £20-25.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Wrestlers], eatType[coffee shop], food[Chinese], priceRange[£20-25]"
+    },
+    {
+        "example_id": 18,
+        "category": "content",
+        "source": "E2E",
+        "level": 2,
+        "instruction": "[Text]\nIn riverside near Raja Indian Cuisine is a restaurant called The Wrestlers. A coffee shop that serves Chinese food for £20-25.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the restaurant.\nDo not output your analysis, only output the result in the format of \"attribute1[value1], attribute2[value2], ...\"",
+        "target": "name[The Wrestlers], eatType[coffee shop], food[Chinese], priceRange[£20-25], area[riverside], near[Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 18,
+        "category": "content",
+        "source": "E2E",
+        "level": 3,
+        "instruction": "[Text]\n1. In riverside near Raja Indian Cuisine is a restaurant called The Wrestlers. A coffee shop that serves Chinese food for £20-25.\n\n2. The Vaults is a pub located in the city centre near Raja Indian Cuisine. It is not  family-friendly and serves French food. It  has a price range of less than £20.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 2 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Wrestlers, The Vaults], eatType[coffee shop, pub], food[Chinese, French], priceRange[£20-25, less than £20], area[riverside, city centre], near[Raja Indian Cuisine, Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 18,
+        "category": "content",
+        "source": "E2E",
+        "level": 4,
+        "instruction": "[Text]\n1. In riverside near Raja Indian Cuisine is a restaurant called The Wrestlers. A coffee shop that serves Chinese food for £20-25.\n\n2. The Vaults is a pub located in the city centre near Raja Indian Cuisine. It is not  family-friendly and serves French food. It  has a price range of less than £20.\n\n3. Near Raja Indian Cuisine there is a pub called The Wrestlers that offers less than £20 Italian food and is by the river side. Kids not welcome\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 3 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Wrestlers, The Vaults, The Wrestlers], eatType[coffee shop, pub, pub], food[Chinese, French, Italian], priceRange[£20-25, less than £20, less than £20], area[riverside, city centre, riverside], near[Raja Indian Cuisine, Raja Indian Cuisine, Raja Indian Cuisine]"
+    },
+    {
+        "example_id": 18,
+        "category": "content",
+        "source": "E2E",
+        "level": 5,
+        "instruction": "[Text]\n1. In riverside near Raja Indian Cuisine is a restaurant called The Wrestlers. A coffee shop that serves Chinese food for £20-25.\n\n2. The Vaults is a pub located in the city centre near Raja Indian Cuisine. It is not  family-friendly and serves French food. It  has a price range of less than £20.\n\n3. Near Raja Indian Cuisine there is a pub called The Wrestlers that offers less than £20 Italian food and is by the river side. Kids not welcome\n\n4. There is a coffee shop called The Mill providing Chinese food located in the riverside near The Sorrento and it's price range is £20-25.\n\n[Question]\nAccording to the above [Text], extract the attributes (name, eatType, food, priceRange, area, near) of the 4 restaurants.\nDo not output your analysis, only output the result in the format of \"attribute1[value1_of_restaurant1, value1_of_restaurant2, ...], attribute2[value2_of_restaurant1, value2_of_restaurant2, ...], ...\"",
+        "target": "name[The Wrestlers, The Vaults, The Wrestlers, The Mill], eatType[coffee shop, pub, pub, coffee shop], food[Chinese, French, Italian, Chinese], priceRange[£20-25, less than £20, less than £20, £20-25], area[riverside, city centre, riverside, riverside], near[Raja Indian Cuisine, Raja Indian Cuisine, Raja Indian Cuisine, The Sorrento]"
+    },
+    {
+        "example_id": 19,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 1,
+        "instruction": "The Taliban killed more than 100 members of the Afghan security forces inside a military compound in central Maidan Wardak province on Monday, a senior defense official said.\"We have information that 126 people have been killed in the explosion inside the military training center, eight special commandoes are among the dead,\" said a senior official in the defense ministry in Kabul, speaking on condition of anonymity.The official said the assault began on Monday morning when the attackers rammed a car full explosives through a military checkpoint and detonated the vehicle inside the campus of the National Directorate of Security (NDS) forces training center in Maidan Shahr, the capital of Maidan Wardak province.Two gunmen entered the campus right after the explosion and shot at many Afghan soldiers before being gunned down during the clashes.Defense ministry officials said the Taliban had used U.S.-made armored Humvee vehicles captured from Afghan forces as a car bomb in order to breach the military fortifications.A second source residing in Maidan Wardak province said more than 100 members of National Directorate of Security (NDS) were killed in the complex attack.\"I have been in touch with the NDS official in the province and they told me that over 100 members of the NDS were killed in the big explosion,\" the former provincial official said.Sharif Hotak, a member of the provincial council in Maidan Wardak said he saw bodies of 35 Afghan forces in the hospital.\"Many more were killed. Several bodies were transported to Kabul city and many injured were transferred to hospitals in Kabul,\" said Hotak, adding that \"the government was hiding the accurate casualty figures to prevent a further dip in the morale of the Afghan forces.\"\"The explosion was very powerful. The whole building has collapsed,\" he said.Government officials in Maidan Wardak and Kabul declined to comment when asked if they were obscuring the death toll.Two senior officials in the interior ministry said the exact casualty figures were not being disclosed to prevent unrest within the armed forces.\"I have been told not to make the death toll figures public. It is frustrating to hide the facts,\" said a senior interior ministry official in Kabul.A senior NDS official in Kabul said at least 50 people were killed or wounded in the complex attack.Abdurrahman Mangal, spokesman for the provincial governor in Maidan Wardak said 12 people were killed and 12 were injured when the car bomb exploded near the Afghan special forces unit.President Ashraf Ghani's office in a statement said the \"enemies of the country\" had carried out an attack against NDS personnel in Maidan Shahr. \"They killed and wounded a number of our beloved and honest sons.\"Turkish President Recep Tayyip Erdo\u011fan condemned the attack on Monday evening and extended his condolences to Ghani.Meanwhile, the Taliban said it met with U.S. officials in Qatar on Monday, in the latest round of talks between the insurgents and Washington aimed at bringing an end to the 17-year war.The U.S. has not officially commented on the reported meeting, which follows the last confirmed talks between the two parties in the UAE in December.\"Following American acceptance of the agenda of ending the occupation of Afghanistan and preventing Afghanistan from being used against other countries in the future, talks with American representatives took place today in Doha, the capital of Qatar,\" Taliban spokesman Zabihullah Mujahid said in a statement.Taliban representatives have met several times with U.S. officials in recent months, but last week threatened to suspend the fledgling process, lambasting Washington for changing the agenda of the talks and \"unilaterally\" adding new subjects.The insurgents have long refused to hold direct talks with the Kabul government -- despite U.S. pleas -- which the Taliban dismisses as a puppet of Washington.In recent years the Afghan government has stopped releasing detailed casualty figures. Last year Ghani has said 28,000 Afghan police officers and soldiers have been killed since 2015, breaking the longstanding suppression on casualty data.Taliban insurgents claimed responsibility for the attack. Zabiullah Mujahid, a spokesman for the hardline terrorist group said they have killed 190 people in the complex attack.Last week, Taliban fighters set off a car bomb outside a highly fortified compound killing at least five people and wounding more than 110 Afghans and expatriates in the capital, Kabul.On Sunday, a suicide bombing in the southeastern province of Logar left eight policemen dead and another 10 wounded.The Taliban bombing targeted the provincial governor's convoy in Mohammad Agha district. The provincial governor and spy chief traveling in the convoy were unharmed.The Taliban have ramped up their attacks on security forces and government facilities in recent months, while Afghan and U.S. troops have increased operations against the militants' field commanders.Military sources say around 35 members of the country's security forces are killed every day in attacks and clashes.This is while the U.S. is still considering a significant troop drawdown in Afghanistan. Around 14,000 U.S. troops are stationed in the country, coupled with around 7,500 troops from other allied nations, according to RAND, a U.S. government research organization.In a report on Sunday, RAND said that if the U.S. considers \"an early and complete or near-complete departure unrelated to a negotiated peace settlement,\" it could push Afghanistan into a civil war while the Taliban would expand their control throughout the country.If the withdrawal does take place, RAND noted, \"the major advances that Afghans have achieved in democracy, press freedom, human rights, women's emancipation, literacy, longevity, and living standards will be rolled back throughout the country.\"\n\nAccording to the above document, extract 1 event that satisfies the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "members died at <arg2> place from <arg4> medical issue, killed by The Taliban killer\nmembers died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by fighters killer\npolicemen died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\nmembers died at complex place from <arg4> medical issue, killed by <arg3> killer\nbeloved and honest sons died at <arg2> place from <arg4> medical issue, killed by They killer"
+    },
+    {
+        "example_id": 19,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 2,
+        "instruction": "The Taliban killed more than 100 members of the Afghan security forces inside a military compound in central Maidan Wardak province on Monday, a senior defense official said.\"We have information that 126 people have been killed in the explosion inside the military training center, eight special commandoes are among the dead,\" said a senior official in the defense ministry in Kabul, speaking on condition of anonymity.The official said the assault began on Monday morning when the attackers rammed a car full explosives through a military checkpoint and detonated the vehicle inside the campus of the National Directorate of Security (NDS) forces training center in Maidan Shahr, the capital of Maidan Wardak province.Two gunmen entered the campus right after the explosion and shot at many Afghan soldiers before being gunned down during the clashes.Defense ministry officials said the Taliban had used U.S.-made armored Humvee vehicles captured from Afghan forces as a car bomb in order to breach the military fortifications.A second source residing in Maidan Wardak province said more than 100 members of National Directorate of Security (NDS) were killed in the complex attack.\"I have been in touch with the NDS official in the province and they told me that over 100 members of the NDS were killed in the big explosion,\" the former provincial official said.Sharif Hotak, a member of the provincial council in Maidan Wardak said he saw bodies of 35 Afghan forces in the hospital.\"Many more were killed. Several bodies were transported to Kabul city and many injured were transferred to hospitals in Kabul,\" said Hotak, adding that \"the government was hiding the accurate casualty figures to prevent a further dip in the morale of the Afghan forces.\"\"The explosion was very powerful. The whole building has collapsed,\" he said.Government officials in Maidan Wardak and Kabul declined to comment when asked if they were obscuring the death toll.Two senior officials in the interior ministry said the exact casualty figures were not being disclosed to prevent unrest within the armed forces.\"I have been told not to make the death toll figures public. It is frustrating to hide the facts,\" said a senior interior ministry official in Kabul.A senior NDS official in Kabul said at least 50 people were killed or wounded in the complex attack.Abdurrahman Mangal, spokesman for the provincial governor in Maidan Wardak said 12 people were killed and 12 were injured when the car bomb exploded near the Afghan special forces unit.President Ashraf Ghani's office in a statement said the \"enemies of the country\" had carried out an attack against NDS personnel in Maidan Shahr. \"They killed and wounded a number of our beloved and honest sons.\"Turkish President Recep Tayyip Erdo\u011fan condemned the attack on Monday evening and extended his condolences to Ghani.Meanwhile, the Taliban said it met with U.S. officials in Qatar on Monday, in the latest round of talks between the insurgents and Washington aimed at bringing an end to the 17-year war.The U.S. has not officially commented on the reported meeting, which follows the last confirmed talks between the two parties in the UAE in December.\"Following American acceptance of the agenda of ending the occupation of Afghanistan and preventing Afghanistan from being used against other countries in the future, talks with American representatives took place today in Doha, the capital of Qatar,\" Taliban spokesman Zabihullah Mujahid said in a statement.Taliban representatives have met several times with U.S. officials in recent months, but last week threatened to suspend the fledgling process, lambasting Washington for changing the agenda of the talks and \"unilaterally\" adding new subjects.The insurgents have long refused to hold direct talks with the Kabul government -- despite U.S. pleas -- which the Taliban dismisses as a puppet of Washington.In recent years the Afghan government has stopped releasing detailed casualty figures. Last year Ghani has said 28,000 Afghan police officers and soldiers have been killed since 2015, breaking the longstanding suppression on casualty data.Taliban insurgents claimed responsibility for the attack. Zabiullah Mujahid, a spokesman for the hardline terrorist group said they have killed 190 people in the complex attack.Last week, Taliban fighters set off a car bomb outside a highly fortified compound killing at least five people and wounding more than 110 Afghans and expatriates in the capital, Kabul.On Sunday, a suicide bombing in the southeastern province of Logar left eight policemen dead and another 10 wounded.The Taliban bombing targeted the provincial governor's convoy in Mohammad Agha district. The provincial governor and spy chief traveling in the convoy were unharmed.The Taliban have ramped up their attacks on security forces and government facilities in recent months, while Afghan and U.S. troops have increased operations against the militants' field commanders.Military sources say around 35 members of the country's security forces are killed every day in attacks and clashes.This is while the U.S. is still considering a significant troop drawdown in Afghanistan. Around 14,000 U.S. troops are stationed in the country, coupled with around 7,500 troops from other allied nations, according to RAND, a U.S. government research organization.In a report on Sunday, RAND said that if the U.S. considers \"an early and complete or near-complete departure unrelated to a negotiated peace settlement,\" it could push Afghanistan into a civil war while the Taliban would expand their control throughout the country.If the withdrawal does take place, RAND noted, \"the major advances that Afghans have achieved in democracy, press freedom, human rights, women's emancipation, literacy, longevity, and living standards will be rolled back throughout the country.\"\n\nAccording to the above document, extract 2 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "members died at <arg2> place from <arg4> medical issue, killed by The Taliban killer\nmembers died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by fighters killer\npolicemen died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\nmembers died at complex place from <arg4> medical issue, killed by <arg3> killer\nbeloved and honest sons died at <arg2> place from <arg4> medical issue, killed by They killer"
+    },
+    {
+        "example_id": 19,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 3,
+        "instruction": "The Taliban killed more than 100 members of the Afghan security forces inside a military compound in central Maidan Wardak province on Monday, a senior defense official said.\"We have information that 126 people have been killed in the explosion inside the military training center, eight special commandoes are among the dead,\" said a senior official in the defense ministry in Kabul, speaking on condition of anonymity.The official said the assault began on Monday morning when the attackers rammed a car full explosives through a military checkpoint and detonated the vehicle inside the campus of the National Directorate of Security (NDS) forces training center in Maidan Shahr, the capital of Maidan Wardak province.Two gunmen entered the campus right after the explosion and shot at many Afghan soldiers before being gunned down during the clashes.Defense ministry officials said the Taliban had used U.S.-made armored Humvee vehicles captured from Afghan forces as a car bomb in order to breach the military fortifications.A second source residing in Maidan Wardak province said more than 100 members of National Directorate of Security (NDS) were killed in the complex attack.\"I have been in touch with the NDS official in the province and they told me that over 100 members of the NDS were killed in the big explosion,\" the former provincial official said.Sharif Hotak, a member of the provincial council in Maidan Wardak said he saw bodies of 35 Afghan forces in the hospital.\"Many more were killed. Several bodies were transported to Kabul city and many injured were transferred to hospitals in Kabul,\" said Hotak, adding that \"the government was hiding the accurate casualty figures to prevent a further dip in the morale of the Afghan forces.\"\"The explosion was very powerful. The whole building has collapsed,\" he said.Government officials in Maidan Wardak and Kabul declined to comment when asked if they were obscuring the death toll.Two senior officials in the interior ministry said the exact casualty figures were not being disclosed to prevent unrest within the armed forces.\"I have been told not to make the death toll figures public. It is frustrating to hide the facts,\" said a senior interior ministry official in Kabul.A senior NDS official in Kabul said at least 50 people were killed or wounded in the complex attack.Abdurrahman Mangal, spokesman for the provincial governor in Maidan Wardak said 12 people were killed and 12 were injured when the car bomb exploded near the Afghan special forces unit.President Ashraf Ghani's office in a statement said the \"enemies of the country\" had carried out an attack against NDS personnel in Maidan Shahr. \"They killed and wounded a number of our beloved and honest sons.\"Turkish President Recep Tayyip Erdo\u011fan condemned the attack on Monday evening and extended his condolences to Ghani.Meanwhile, the Taliban said it met with U.S. officials in Qatar on Monday, in the latest round of talks between the insurgents and Washington aimed at bringing an end to the 17-year war.The U.S. has not officially commented on the reported meeting, which follows the last confirmed talks between the two parties in the UAE in December.\"Following American acceptance of the agenda of ending the occupation of Afghanistan and preventing Afghanistan from being used against other countries in the future, talks with American representatives took place today in Doha, the capital of Qatar,\" Taliban spokesman Zabihullah Mujahid said in a statement.Taliban representatives have met several times with U.S. officials in recent months, but last week threatened to suspend the fledgling process, lambasting Washington for changing the agenda of the talks and \"unilaterally\" adding new subjects.The insurgents have long refused to hold direct talks with the Kabul government -- despite U.S. pleas -- which the Taliban dismisses as a puppet of Washington.In recent years the Afghan government has stopped releasing detailed casualty figures. Last year Ghani has said 28,000 Afghan police officers and soldiers have been killed since 2015, breaking the longstanding suppression on casualty data.Taliban insurgents claimed responsibility for the attack. Zabiullah Mujahid, a spokesman for the hardline terrorist group said they have killed 190 people in the complex attack.Last week, Taliban fighters set off a car bomb outside a highly fortified compound killing at least five people and wounding more than 110 Afghans and expatriates in the capital, Kabul.On Sunday, a suicide bombing in the southeastern province of Logar left eight policemen dead and another 10 wounded.The Taliban bombing targeted the provincial governor's convoy in Mohammad Agha district. The provincial governor and spy chief traveling in the convoy were unharmed.The Taliban have ramped up their attacks on security forces and government facilities in recent months, while Afghan and U.S. troops have increased operations against the militants' field commanders.Military sources say around 35 members of the country's security forces are killed every day in attacks and clashes.This is while the U.S. is still considering a significant troop drawdown in Afghanistan. Around 14,000 U.S. troops are stationed in the country, coupled with around 7,500 troops from other allied nations, according to RAND, a U.S. government research organization.In a report on Sunday, RAND said that if the U.S. considers \"an early and complete or near-complete departure unrelated to a negotiated peace settlement,\" it could push Afghanistan into a civil war while the Taliban would expand their control throughout the country.If the withdrawal does take place, RAND noted, \"the major advances that Afghans have achieved in democracy, press freedom, human rights, women's emancipation, literacy, longevity, and living standards will be rolled back throughout the country.\"\n\nAccording to the above document, extract 3 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "members died at <arg2> place from <arg4> medical issue, killed by The Taliban killer\nmembers died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by fighters killer\npolicemen died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\nmembers died at complex place from <arg4> medical issue, killed by <arg3> killer\nbeloved and honest sons died at <arg2> place from <arg4> medical issue, killed by They killer"
+    },
+    {
+        "example_id": 19,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 4,
+        "instruction": "The Taliban killed more than 100 members of the Afghan security forces inside a military compound in central Maidan Wardak province on Monday, a senior defense official said.\"We have information that 126 people have been killed in the explosion inside the military training center, eight special commandoes are among the dead,\" said a senior official in the defense ministry in Kabul, speaking on condition of anonymity.The official said the assault began on Monday morning when the attackers rammed a car full explosives through a military checkpoint and detonated the vehicle inside the campus of the National Directorate of Security (NDS) forces training center in Maidan Shahr, the capital of Maidan Wardak province.Two gunmen entered the campus right after the explosion and shot at many Afghan soldiers before being gunned down during the clashes.Defense ministry officials said the Taliban had used U.S.-made armored Humvee vehicles captured from Afghan forces as a car bomb in order to breach the military fortifications.A second source residing in Maidan Wardak province said more than 100 members of National Directorate of Security (NDS) were killed in the complex attack.\"I have been in touch with the NDS official in the province and they told me that over 100 members of the NDS were killed in the big explosion,\" the former provincial official said.Sharif Hotak, a member of the provincial council in Maidan Wardak said he saw bodies of 35 Afghan forces in the hospital.\"Many more were killed. Several bodies were transported to Kabul city and many injured were transferred to hospitals in Kabul,\" said Hotak, adding that \"the government was hiding the accurate casualty figures to prevent a further dip in the morale of the Afghan forces.\"\"The explosion was very powerful. The whole building has collapsed,\" he said.Government officials in Maidan Wardak and Kabul declined to comment when asked if they were obscuring the death toll.Two senior officials in the interior ministry said the exact casualty figures were not being disclosed to prevent unrest within the armed forces.\"I have been told not to make the death toll figures public. It is frustrating to hide the facts,\" said a senior interior ministry official in Kabul.A senior NDS official in Kabul said at least 50 people were killed or wounded in the complex attack.Abdurrahman Mangal, spokesman for the provincial governor in Maidan Wardak said 12 people were killed and 12 were injured when the car bomb exploded near the Afghan special forces unit.President Ashraf Ghani's office in a statement said the \"enemies of the country\" had carried out an attack against NDS personnel in Maidan Shahr. \"They killed and wounded a number of our beloved and honest sons.\"Turkish President Recep Tayyip Erdo\u011fan condemned the attack on Monday evening and extended his condolences to Ghani.Meanwhile, the Taliban said it met with U.S. officials in Qatar on Monday, in the latest round of talks between the insurgents and Washington aimed at bringing an end to the 17-year war.The U.S. has not officially commented on the reported meeting, which follows the last confirmed talks between the two parties in the UAE in December.\"Following American acceptance of the agenda of ending the occupation of Afghanistan and preventing Afghanistan from being used against other countries in the future, talks with American representatives took place today in Doha, the capital of Qatar,\" Taliban spokesman Zabihullah Mujahid said in a statement.Taliban representatives have met several times with U.S. officials in recent months, but last week threatened to suspend the fledgling process, lambasting Washington for changing the agenda of the talks and \"unilaterally\" adding new subjects.The insurgents have long refused to hold direct talks with the Kabul government -- despite U.S. pleas -- which the Taliban dismisses as a puppet of Washington.In recent years the Afghan government has stopped releasing detailed casualty figures. Last year Ghani has said 28,000 Afghan police officers and soldiers have been killed since 2015, breaking the longstanding suppression on casualty data.Taliban insurgents claimed responsibility for the attack. Zabiullah Mujahid, a spokesman for the hardline terrorist group said they have killed 190 people in the complex attack.Last week, Taliban fighters set off a car bomb outside a highly fortified compound killing at least five people and wounding more than 110 Afghans and expatriates in the capital, Kabul.On Sunday, a suicide bombing in the southeastern province of Logar left eight policemen dead and another 10 wounded.The Taliban bombing targeted the provincial governor's convoy in Mohammad Agha district. The provincial governor and spy chief traveling in the convoy were unharmed.The Taliban have ramped up their attacks on security forces and government facilities in recent months, while Afghan and U.S. troops have increased operations against the militants' field commanders.Military sources say around 35 members of the country's security forces are killed every day in attacks and clashes.This is while the U.S. is still considering a significant troop drawdown in Afghanistan. Around 14,000 U.S. troops are stationed in the country, coupled with around 7,500 troops from other allied nations, according to RAND, a U.S. government research organization.In a report on Sunday, RAND said that if the U.S. considers \"an early and complete or near-complete departure unrelated to a negotiated peace settlement,\" it could push Afghanistan into a civil war while the Taliban would expand their control throughout the country.If the withdrawal does take place, RAND noted, \"the major advances that Afghans have achieved in democracy, press freedom, human rights, women's emancipation, literacy, longevity, and living standards will be rolled back throughout the country.\"\n\nAccording to the above document, extract 4 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "members died at <arg2> place from <arg4> medical issue, killed by The Taliban killer\nmembers died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by fighters killer\npolicemen died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\nmembers died at complex place from <arg4> medical issue, killed by <arg3> killer\nbeloved and honest sons died at <arg2> place from <arg4> medical issue, killed by They killer"
+    },
+    {
+        "example_id": 19,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 5,
+        "instruction": "The Taliban killed more than 100 members of the Afghan security forces inside a military compound in central Maidan Wardak province on Monday, a senior defense official said.\"We have information that 126 people have been killed in the explosion inside the military training center, eight special commandoes are among the dead,\" said a senior official in the defense ministry in Kabul, speaking on condition of anonymity.The official said the assault began on Monday morning when the attackers rammed a car full explosives through a military checkpoint and detonated the vehicle inside the campus of the National Directorate of Security (NDS) forces training center in Maidan Shahr, the capital of Maidan Wardak province.Two gunmen entered the campus right after the explosion and shot at many Afghan soldiers before being gunned down during the clashes.Defense ministry officials said the Taliban had used U.S.-made armored Humvee vehicles captured from Afghan forces as a car bomb in order to breach the military fortifications.A second source residing in Maidan Wardak province said more than 100 members of National Directorate of Security (NDS) were killed in the complex attack.\"I have been in touch with the NDS official in the province and they told me that over 100 members of the NDS were killed in the big explosion,\" the former provincial official said.Sharif Hotak, a member of the provincial council in Maidan Wardak said he saw bodies of 35 Afghan forces in the hospital.\"Many more were killed. Several bodies were transported to Kabul city and many injured were transferred to hospitals in Kabul,\" said Hotak, adding that \"the government was hiding the accurate casualty figures to prevent a further dip in the morale of the Afghan forces.\"\"The explosion was very powerful. The whole building has collapsed,\" he said.Government officials in Maidan Wardak and Kabul declined to comment when asked if they were obscuring the death toll.Two senior officials in the interior ministry said the exact casualty figures were not being disclosed to prevent unrest within the armed forces.\"I have been told not to make the death toll figures public. It is frustrating to hide the facts,\" said a senior interior ministry official in Kabul.A senior NDS official in Kabul said at least 50 people were killed or wounded in the complex attack.Abdurrahman Mangal, spokesman for the provincial governor in Maidan Wardak said 12 people were killed and 12 were injured when the car bomb exploded near the Afghan special forces unit.President Ashraf Ghani's office in a statement said the \"enemies of the country\" had carried out an attack against NDS personnel in Maidan Shahr. \"They killed and wounded a number of our beloved and honest sons.\"Turkish President Recep Tayyip Erdo\u011fan condemned the attack on Monday evening and extended his condolences to Ghani.Meanwhile, the Taliban said it met with U.S. officials in Qatar on Monday, in the latest round of talks between the insurgents and Washington aimed at bringing an end to the 17-year war.The U.S. has not officially commented on the reported meeting, which follows the last confirmed talks between the two parties in the UAE in December.\"Following American acceptance of the agenda of ending the occupation of Afghanistan and preventing Afghanistan from being used against other countries in the future, talks with American representatives took place today in Doha, the capital of Qatar,\" Taliban spokesman Zabihullah Mujahid said in a statement.Taliban representatives have met several times with U.S. officials in recent months, but last week threatened to suspend the fledgling process, lambasting Washington for changing the agenda of the talks and \"unilaterally\" adding new subjects.The insurgents have long refused to hold direct talks with the Kabul government -- despite U.S. pleas -- which the Taliban dismisses as a puppet of Washington.In recent years the Afghan government has stopped releasing detailed casualty figures. Last year Ghani has said 28,000 Afghan police officers and soldiers have been killed since 2015, breaking the longstanding suppression on casualty data.Taliban insurgents claimed responsibility for the attack. Zabiullah Mujahid, a spokesman for the hardline terrorist group said they have killed 190 people in the complex attack.Last week, Taliban fighters set off a car bomb outside a highly fortified compound killing at least five people and wounding more than 110 Afghans and expatriates in the capital, Kabul.On Sunday, a suicide bombing in the southeastern province of Logar left eight policemen dead and another 10 wounded.The Taliban bombing targeted the provincial governor's convoy in Mohammad Agha district. The provincial governor and spy chief traveling in the convoy were unharmed.The Taliban have ramped up their attacks on security forces and government facilities in recent months, while Afghan and U.S. troops have increased operations against the militants' field commanders.Military sources say around 35 members of the country's security forces are killed every day in attacks and clashes.This is while the U.S. is still considering a significant troop drawdown in Afghanistan. Around 14,000 U.S. troops are stationed in the country, coupled with around 7,500 troops from other allied nations, according to RAND, a U.S. government research organization.In a report on Sunday, RAND said that if the U.S. considers \"an early and complete or near-complete departure unrelated to a negotiated peace settlement,\" it could push Afghanistan into a civil war while the Taliban would expand their control throughout the country.If the withdrawal does take place, RAND noted, \"the major advances that Afghans have achieved in democracy, press freedom, human rights, women's emancipation, literacy, longevity, and living standards will be rolled back throughout the country.\"\n\nAccording to the above document, extract 5 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "members died at <arg2> place from <arg4> medical issue, killed by The Taliban killer\nmembers died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by fighters killer\npolicemen died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\npeople died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\nmembers died at complex place from <arg4> medical issue, killed by <arg3> killer\nbeloved and honest sons died at <arg2> place from <arg4> medical issue, killed by They killer"
+    },
+    {
+        "example_id": 20,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 1,
+        "instruction": "On 27 August 1975 a Provisional IRA bomb exploded without warning at the Caterham Arms public house in Caterham, Surrey, England. There were no fatalities but 33 people were injured, some severely. Two off-duty soldiers lost their legs as a result of the bombing.==Background==In February 1975 the Provisional Irish Republican Army agreed to a truce and ceasefire with the British government and the Northern Ireland Office. Seven \"incident centres\" were established in Irish nationalist areas in Northern Ireland to monitor the ceasefire and the activity of the security forces. Before the truce, the IRA active service unit (ASU) later dubbed the Balcombe Street Gang (due to the December 1975 Balcombe Street siege) had been carrying out bomb and gun attacks in Southern England since autumn 1974, mostly in and around London. Their last previous attack was an assassination attempt on former Prime Minister Edward Heath but he was not home when the attackers threw a bomb into his bedroom window on 22 December 1974.==The bombing==The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey. The IRA unit placed the 7lb bomb in a duffel bag under a seat. There was no warning and the bomb exploded at 9:20, injuring 23 civilians and 10 off-duty soldiers. The pub was used by members of the Welsh Guards who were based at the barracks nearby. Some of the injuries were very serious, with at least three soldiers losing limbs. The blast blew the roof off the pub in the process. This attack marked the start of a renewed bombing campaign (Phase Two) in England and the end of the truce with the British Government. The next day, the same IRA unit exploded a bomb in Oxford Street, injuring several people.==Aftermath==One of the police officers in charge of the investigation into the bombing described it as a \"carbon copy\" of the Guildford pub bombings in October 1974 for which four people were already serving their sentences. The cell's campaign would continue until December 1975 when they were caught at the siege of Balcombe Street. The unit would eventually end up planting close to 50 bombs in London and elsewhere in southern England and carrying out several shootings which, along with the bombings, caused the deaths of nearly 20 people, injured hundreds and caused millions of pounds worth of damage to property.==See also==*Chronology of Provisional Irish Republican Army actions (1970\u201379)== References ==\n\nAccording to the above document, extract 1 event that satisfies the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "civilians was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nsoldiers was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\npeople was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nhundreds was injured by unit using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nSome was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\n<arg1> was injured by people using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place"
+    },
+    {
+        "example_id": 20,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 2,
+        "instruction": "On 27 August 1975 a Provisional IRA bomb exploded without warning at the Caterham Arms public house in Caterham, Surrey, England. There were no fatalities but 33 people were injured, some severely. Two off-duty soldiers lost their legs as a result of the bombing.==Background==In February 1975 the Provisional Irish Republican Army agreed to a truce and ceasefire with the British government and the Northern Ireland Office. Seven \"incident centres\" were established in Irish nationalist areas in Northern Ireland to monitor the ceasefire and the activity of the security forces. Before the truce, the IRA active service unit (ASU) later dubbed the Balcombe Street Gang (due to the December 1975 Balcombe Street siege) had been carrying out bomb and gun attacks in Southern England since autumn 1974, mostly in and around London. Their last previous attack was an assassination attempt on former Prime Minister Edward Heath but he was not home when the attackers threw a bomb into his bedroom window on 22 December 1974.==The bombing==The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey. The IRA unit placed the 7lb bomb in a duffel bag under a seat. There was no warning and the bomb exploded at 9:20, injuring 23 civilians and 10 off-duty soldiers. The pub was used by members of the Welsh Guards who were based at the barracks nearby. Some of the injuries were very serious, with at least three soldiers losing limbs. The blast blew the roof off the pub in the process. This attack marked the start of a renewed bombing campaign (Phase Two) in England and the end of the truce with the British Government. The next day, the same IRA unit exploded a bomb in Oxford Street, injuring several people.==Aftermath==One of the police officers in charge of the investigation into the bombing described it as a \"carbon copy\" of the Guildford pub bombings in October 1974 for which four people were already serving their sentences. The cell's campaign would continue until December 1975 when they were caught at the siege of Balcombe Street. The unit would eventually end up planting close to 50 bombs in London and elsewhere in southern England and carrying out several shootings which, along with the bombings, caused the deaths of nearly 20 people, injured hundreds and caused millions of pounds worth of damage to property.==See also==*Chronology of Provisional Irish Republican Army actions (1970\u201379)== References ==\n\nAccording to the above document, extract 2 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "civilians was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nsoldiers was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\npeople was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nhundreds was injured by unit using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nSome was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\n<arg1> was injured by people using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place"
+    },
+    {
+        "example_id": 20,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 3,
+        "instruction": "On 27 August 1975 a Provisional IRA bomb exploded without warning at the Caterham Arms public house in Caterham, Surrey, England. There were no fatalities but 33 people were injured, some severely. Two off-duty soldiers lost their legs as a result of the bombing.==Background==In February 1975 the Provisional Irish Republican Army agreed to a truce and ceasefire with the British government and the Northern Ireland Office. Seven \"incident centres\" were established in Irish nationalist areas in Northern Ireland to monitor the ceasefire and the activity of the security forces. Before the truce, the IRA active service unit (ASU) later dubbed the Balcombe Street Gang (due to the December 1975 Balcombe Street siege) had been carrying out bomb and gun attacks in Southern England since autumn 1974, mostly in and around London. Their last previous attack was an assassination attempt on former Prime Minister Edward Heath but he was not home when the attackers threw a bomb into his bedroom window on 22 December 1974.==The bombing==The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey. The IRA unit placed the 7lb bomb in a duffel bag under a seat. There was no warning and the bomb exploded at 9:20, injuring 23 civilians and 10 off-duty soldiers. The pub was used by members of the Welsh Guards who were based at the barracks nearby. Some of the injuries were very serious, with at least three soldiers losing limbs. The blast blew the roof off the pub in the process. This attack marked the start of a renewed bombing campaign (Phase Two) in England and the end of the truce with the British Government. The next day, the same IRA unit exploded a bomb in Oxford Street, injuring several people.==Aftermath==One of the police officers in charge of the investigation into the bombing described it as a \"carbon copy\" of the Guildford pub bombings in October 1974 for which four people were already serving their sentences. The cell's campaign would continue until December 1975 when they were caught at the siege of Balcombe Street. The unit would eventually end up planting close to 50 bombs in London and elsewhere in southern England and carrying out several shootings which, along with the bombings, caused the deaths of nearly 20 people, injured hundreds and caused millions of pounds worth of damage to property.==See also==*Chronology of Provisional Irish Republican Army actions (1970\u201379)== References ==\n\nAccording to the above document, extract 3 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "civilians was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nsoldiers was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\npeople was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nhundreds was injured by unit using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nSome was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\n<arg1> was injured by people using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place"
+    },
+    {
+        "example_id": 20,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 4,
+        "instruction": "On 27 August 1975 a Provisional IRA bomb exploded without warning at the Caterham Arms public house in Caterham, Surrey, England. There were no fatalities but 33 people were injured, some severely. Two off-duty soldiers lost their legs as a result of the bombing.==Background==In February 1975 the Provisional Irish Republican Army agreed to a truce and ceasefire with the British government and the Northern Ireland Office. Seven \"incident centres\" were established in Irish nationalist areas in Northern Ireland to monitor the ceasefire and the activity of the security forces. Before the truce, the IRA active service unit (ASU) later dubbed the Balcombe Street Gang (due to the December 1975 Balcombe Street siege) had been carrying out bomb and gun attacks in Southern England since autumn 1974, mostly in and around London. Their last previous attack was an assassination attempt on former Prime Minister Edward Heath but he was not home when the attackers threw a bomb into his bedroom window on 22 December 1974.==The bombing==The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey. The IRA unit placed the 7lb bomb in a duffel bag under a seat. There was no warning and the bomb exploded at 9:20, injuring 23 civilians and 10 off-duty soldiers. The pub was used by members of the Welsh Guards who were based at the barracks nearby. Some of the injuries were very serious, with at least three soldiers losing limbs. The blast blew the roof off the pub in the process. This attack marked the start of a renewed bombing campaign (Phase Two) in England and the end of the truce with the British Government. The next day, the same IRA unit exploded a bomb in Oxford Street, injuring several people.==Aftermath==One of the police officers in charge of the investigation into the bombing described it as a \"carbon copy\" of the Guildford pub bombings in October 1974 for which four people were already serving their sentences. The cell's campaign would continue until December 1975 when they were caught at the siege of Balcombe Street. The unit would eventually end up planting close to 50 bombs in London and elsewhere in southern England and carrying out several shootings which, along with the bombings, caused the deaths of nearly 20 people, injured hundreds and caused millions of pounds worth of damage to property.==See also==*Chronology of Provisional Irish Republican Army actions (1970\u201379)== References ==\n\nAccording to the above document, extract 4 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "civilians was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nsoldiers was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\npeople was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nhundreds was injured by unit using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nSome was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\n<arg1> was injured by people using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place"
+    },
+    {
+        "example_id": 20,
+        "category": "content",
+        "source": "WIKIEVENTS",
+        "level": 5,
+        "instruction": "On 27 August 1975 a Provisional IRA bomb exploded without warning at the Caterham Arms public house in Caterham, Surrey, England. There were no fatalities but 33 people were injured, some severely. Two off-duty soldiers lost their legs as a result of the bombing.==Background==In February 1975 the Provisional Irish Republican Army agreed to a truce and ceasefire with the British government and the Northern Ireland Office. Seven \"incident centres\" were established in Irish nationalist areas in Northern Ireland to monitor the ceasefire and the activity of the security forces. Before the truce, the IRA active service unit (ASU) later dubbed the Balcombe Street Gang (due to the December 1975 Balcombe Street siege) had been carrying out bomb and gun attacks in Southern England since autumn 1974, mostly in and around London. Their last previous attack was an assassination attempt on former Prime Minister Edward Heath but he was not home when the attackers threw a bomb into his bedroom window on 22 December 1974.==The bombing==The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey. The IRA unit placed the 7lb bomb in a duffel bag under a seat. There was no warning and the bomb exploded at 9:20, injuring 23 civilians and 10 off-duty soldiers. The pub was used by members of the Welsh Guards who were based at the barracks nearby. Some of the injuries were very serious, with at least three soldiers losing limbs. The blast blew the roof off the pub in the process. This attack marked the start of a renewed bombing campaign (Phase Two) in England and the end of the truce with the British Government. The next day, the same IRA unit exploded a bomb in Oxford Street, injuring several people.==Aftermath==One of the police officers in charge of the investigation into the bombing described it as a \"carbon copy\" of the Guildford pub bombings in October 1974 for which four people were already serving their sentences. The cell's campaign would continue until December 1975 when they were caught at the siege of Balcombe Street. The unit would eventually end up planting close to 50 bombs in London and elsewhere in southern England and carrying out several shootings which, along with the bombings, caused the deaths of nearly 20 people, injured hundreds and caused millions of pounds worth of damage to property.==See also==*Chronology of Provisional Irish Republican Army actions (1970\u201379)== References ==\n\nAccording to the above document, extract 5 events that satisfy the event template \"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer\". Only output one event per line by filling in the missing arguments of the template.",
+        "target": "civilians was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nsoldiers was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\npeople was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nhundreds was injured by unit using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\nSome was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place\n<arg1> was injured by people using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place"
+    },
+    {
+        "example_id": 21,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 1,
+        "instruction": "EU rejects German call to boycott British lamb . Peter Blackburn BRUSSELS 1996-08-22 The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep . Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer . \" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing . He said further scientific study was required and if it was found that action was needed it should be taken by the European Union . He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health . Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease . But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health . Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \" . Only France and Britain backed Fischler 's proposal . The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials . Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste . British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe . \" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio . Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef . Germany imported 47,600 sheep from Britain last year , nearly half of total imports . It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .\n\nAccording to the above document, extract one named entity that is a location. Only output the extracted named entity.",
+        "target": "['Britain', 'Germany', 'Bonn', 'BRUSSELS', 'Europe', 'France']"
+    },
+    {
+        "example_id": 21,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 2,
+        "instruction": "EU rejects German call to boycott British lamb . Peter Blackburn BRUSSELS 1996-08-22 The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep . Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer . \" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing . He said further scientific study was required and if it was found that action was needed it should be taken by the European Union . He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health . Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease . But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health . Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \" . Only France and Britain backed Fischler 's proposal . The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials . Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste . British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe . \" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio . Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef . Germany imported 47,600 sheep from Britain last year , nearly half of total imports . It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .\n\nAccording to the above document, extract one named entity that is a location but not a continent. Only output the extracted named entity.",
+        "target": "['Britain', 'Germany', 'Bonn', 'BRUSSELS', 'France']"
+    },
+    {
+        "example_id": 21,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 3,
+        "instruction": "EU rejects German call to boycott British lamb . Peter Blackburn BRUSSELS 1996-08-22 The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep . Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer . \" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing . He said further scientific study was required and if it was found that action was needed it should be taken by the European Union . He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health . Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease . But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health . Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \" . Only France and Britain backed Fischler 's proposal . The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials . Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste . British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe . \" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio . Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef . Germany imported 47,600 sheep from Britain last year , nearly half of total imports . It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .\n\nAccording to the above document, extract one named entity that (1) is a location; (2) is not a continent; (3) The official language here is not English. Only output the extracted named entity.",
+        "target": "['Germany', 'Bonn', 'BRUSSELS', 'France']"
+    },
+    {
+        "example_id": 21,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 4,
+        "instruction": "EU rejects German call to boycott British lamb . Peter Blackburn BRUSSELS 1996-08-22 The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep . Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer . \" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing . He said further scientific study was required and if it was found that action was needed it should be taken by the European Union . He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health . Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease . But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health . Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \" . Only France and Britain backed Fischler 's proposal . The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials . Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste . British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe . \" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio . Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef . Germany imported 47,600 sheep from Britain last year , nearly half of total imports . It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .\n\nAccording to the above document, extract one named entity that (1) is a location; (2) is not a continent; (3) the official language here is not English; (4) is not a country. Only output the extracted named entity.",
+        "target": "['Bonn', 'BRUSSELS']"
+    },
+    {
+        "example_id": 21,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 5,
+        "instruction": "EU rejects German call to boycott British lamb . Peter Blackburn BRUSSELS 1996-08-22 The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep . Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer . \" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing . He said further scientific study was required and if it was found that action was needed it should be taken by the European Union . He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health . Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease . But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health . Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \" . Only France and Britain backed Fischler 's proposal . The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials . Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste . British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe . \" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio . Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef . Germany imported 47,600 sheep from Britain last year , nearly half of total imports . It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .\n\nAccording to the above document, extract one named entity that (1) is a location; (2) is not a continent; (3) the official language here is not English; (4) is not a country; (5) is a city in Germany. Only output the extracted named entity.",
+        "target": "['Bonn']"
+    },
+    {
+        "example_id": 22,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 1,
+        "instruction": "China says Taiwan spoils atmosphere for talks . BEIJING 1996-08-22 China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing . Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : \" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . \" State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks . \" Now is the time for the two sides to engage in political talks ... that is to end the state of hostility , \" Thursday 's overseas edition of the People 's Daily quoted Tang as saying . The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province . China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .\n\nAccording to the above document, extract one named entity that is a location. Only output the extracted named entity.",
+        "target": "['Taiwan', 'Beijing', 'Taipei', 'BEIJING', 'China', 'Ukraine', 'Taiwan Strait']"
+    },
+    {
+        "example_id": 22,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 2,
+        "instruction": "China says Taiwan spoils atmosphere for talks . BEIJING 1996-08-22 China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing . Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : \" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . \" State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks . \" Now is the time for the two sides to engage in political talks ... that is to end the state of hostility , \" Thursday 's overseas edition of the People 's Daily quoted Tang as saying . The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province . China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .\n\nAccording to the above document, extract one named entity that is a location in east Asia. Only output the extracted named entity.",
+        "target": "['Taiwan', 'Beijing', 'Taipei', 'BEIJING', 'China', 'Taiwan Strait']"
+    },
+    {
+        "example_id": 22,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 3,
+        "instruction": "China says Taiwan spoils atmosphere for talks . BEIJING 1996-08-22 China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing . Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : \" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . \" State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks . \" Now is the time for the two sides to engage in political talks ... that is to end the state of hostility , \" Thursday 's overseas edition of the People 's Daily quoted Tang as saying . The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province . China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .\n\nAccording to the above document, extract one named entity that 1. is a location in east Asia; 2. not all capital letters. Only output the extracted named entity.",
+        "target": "['Taiwan', 'Beijing', 'Taipei', 'China', 'Taiwan Strait']"
+    },
+    {
+        "example_id": 22,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 4,
+        "instruction": "China says Taiwan spoils atmosphere for talks . BEIJING 1996-08-22 China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing . Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : \" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . \" State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks . \" Now is the time for the two sides to engage in political talks ... that is to end the state of hostility , \" Thursday 's overseas edition of the People 's Daily quoted Tang as saying . The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province . China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .\n\nAccording to the above document, extract one named entity that 1. is a location in east Asia; 2. not all capital letters; 3. is not a city. Only output the extracted named entity.",
+        "target": "['Taiwan', 'China', 'Taiwan Strait']"
+    },
+    {
+        "example_id": 22,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 5,
+        "instruction": "China says Taiwan spoils atmosphere for talks . BEIJING 1996-08-22 China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing . Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : \" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . \" State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks . \" Now is the time for the two sides to engage in political talks ... that is to end the state of hostility , \" Thursday 's overseas edition of the People 's Daily quoted Tang as saying . The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province . China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .\n\nAccording to the above document, extract one named entity that 1. is a location in east Asia; 2. not all capital letters; 3. is not a city; 4. is composed of 2 words. Only output the extracted named entity.",
+        "target": "['Taiwan Strait']"
+    },
+    {
+        "example_id": 23,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 1,
+        "instruction": "German July car registrations up 14.2 pct yr / yr . FRANKFURT 1996-08-22 German first-time registrations of motor vehicles jumped 14.2 percent in July this year from the year-earlier period , the Federal office for motor vehicles said on Thursday . The office said 356,725 new cars were registered in July 1996 -- 304,850 passenger cars and 15,613 trucks . The figures represent a 13.6 percent increase for passenger cars and a 2.2 percent decline for trucks from July 1995 . Motor-bike registration rose 32.7 percent in the period . The growth was partly due to an increased number of Germans buying German cars abroad , while manufacturers said that domestic demand was weak , the federal office said . Almost all German car manufacturers posted gains in registration numbers in the period . Volkswagen AG won 77,719 registrations , slightly more than a quarter of the total . Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure . Third was Ford with 35,563 registrations , or 11.7 percent . Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July . Seat posted 3,420 registrations compared with 5522 registrations in July a year earlier . Porsche 's registrations fell to 554 from 643 .\n\nAccording to the above document, extract one named entity that is an organization. Only output the extracted named entity.",
+        "target": "['Volkswagen AG', 'Federal office for motor vehicles', 'Ford', 'Porsche', 'Opel AG', 'Seat', 'General Motors']"
+    },
+    {
+        "example_id": 23,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 2,
+        "instruction": "German July car registrations up 14.2 pct yr / yr . FRANKFURT 1996-08-22 German first-time registrations of motor vehicles jumped 14.2 percent in July this year from the year-earlier period , the Federal office for motor vehicles said on Thursday . The office said 356,725 new cars were registered in July 1996 -- 304,850 passenger cars and 15,613 trucks . The figures represent a 13.6 percent increase for passenger cars and a 2.2 percent decline for trucks from July 1995 . Motor-bike registration rose 32.7 percent in the period . The growth was partly due to an increased number of Germans buying German cars abroad , while manufacturers said that domestic demand was weak , the federal office said . Almost all German car manufacturers posted gains in registration numbers in the period . Volkswagen AG won 77,719 registrations , slightly more than a quarter of the total . Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure . Third was Ford with 35,563 registrations , or 11.7 percent . Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July . Seat posted 3,420 registrations compared with 5522 registrations in July a year earlier . Porsche 's registrations fell to 554 from 643 .\n\nAccording to the above document, extract one named entity that is an organization but not an office. Only output the extracted named entity.",
+        "target": "['Volkswagen AG', 'Ford', 'Porsche', 'Opel AG', 'Seat', 'General Motors']"
+    },
+    {
+        "example_id": 23,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 3,
+        "instruction": "German July car registrations up 14.2 pct yr / yr . FRANKFURT 1996-08-22 German first-time registrations of motor vehicles jumped 14.2 percent in July this year from the year-earlier period , the Federal office for motor vehicles said on Thursday . The office said 356,725 new cars were registered in July 1996 -- 304,850 passenger cars and 15,613 trucks . The figures represent a 13.6 percent increase for passenger cars and a 2.2 percent decline for trucks from July 1995 . Motor-bike registration rose 32.7 percent in the period . The growth was partly due to an increased number of Germans buying German cars abroad , while manufacturers said that domestic demand was weak , the federal office said . Almost all German car manufacturers posted gains in registration numbers in the period . Volkswagen AG won 77,719 registrations , slightly more than a quarter of the total . Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure . Third was Ford with 35,563 registrations , or 11.7 percent . Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July . Seat posted 3,420 registrations compared with 5522 registrations in July a year earlier . Porsche 's registrations fell to 554 from 643 .\n\nAccording to the above document, extract one named entity that 1) is an organization but not an office; 2) contains more than 1 word. Only output the extracted named entity.",
+        "target": "['Volkswagen AG', 'Opel AG', 'General Motors']"
+    },
+    {
+        "example_id": 23,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 4,
+        "instruction": "German July car registrations up 14.2 pct yr / yr . FRANKFURT 1996-08-22 German first-time registrations of motor vehicles jumped 14.2 percent in July this year from the year-earlier period , the Federal office for motor vehicles said on Thursday . The office said 356,725 new cars were registered in July 1996 -- 304,850 passenger cars and 15,613 trucks . The figures represent a 13.6 percent increase for passenger cars and a 2.2 percent decline for trucks from July 1995 . Motor-bike registration rose 32.7 percent in the period . The growth was partly due to an increased number of Germans buying German cars abroad , while manufacturers said that domestic demand was weak , the federal office said . Almost all German car manufacturers posted gains in registration numbers in the period . Volkswagen AG won 77,719 registrations , slightly more than a quarter of the total . Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure . Third was Ford with 35,563 registrations , or 11.7 percent . Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July . Seat posted 3,420 registrations compared with 5522 registrations in July a year earlier . Porsche 's registrations fell to 554 from 643 .\n\nAccording to the above document, extract one named entity that 1) is an organization but not an office; 2) contains more than 1 word; 3) is a German company. Only output the extracted named entity.",
+        "target": "['Volkswagen AG', 'Opel AG']"
+    },
+    {
+        "example_id": 23,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 5,
+        "instruction": "German July car registrations up 14.2 pct yr / yr . FRANKFURT 1996-08-22 German first-time registrations of motor vehicles jumped 14.2 percent in July this year from the year-earlier period , the Federal office for motor vehicles said on Thursday . The office said 356,725 new cars were registered in July 1996 -- 304,850 passenger cars and 15,613 trucks . The figures represent a 13.6 percent increase for passenger cars and a 2.2 percent decline for trucks from July 1995 . Motor-bike registration rose 32.7 percent in the period . The growth was partly due to an increased number of Germans buying German cars abroad , while manufacturers said that domestic demand was weak , the federal office said . Almost all German car manufacturers posted gains in registration numbers in the period . Volkswagen AG won 77,719 registrations , slightly more than a quarter of the total . Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure . Third was Ford with 35,563 registrations , or 11.7 percent . Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July . Seat posted 3,420 registrations compared with 5522 registrations in July a year earlier . Porsche 's registrations fell to 554 from 643 .\n\nAccording to the above document, extract one named entity that 1) is an organization but not an office; 2) contains more than 1 word; 3) is a German company founded after 1900. Only output the extracted named entity.",
+        "target": "['Volkswagen AG']"
+    },
+    {
+        "example_id": 24,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 1,
+        "instruction": "Israel plays down fears of war with Syria . Colleen Siegel JERUSALEM 1996-08-22 Israel 's outgoing peace negotiator with Syria said on Thursday current tensions between the two countries appeared to be a storm in a teacup . Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight . \" It appears to me the Syrian priority is still to negotiate . The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , \" he said . Rabinovich is winding up his term as ambassador . He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician . Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions . But it slammed Damascus for creating what it called a dangerous atmosphere . Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile . It said its arms purchases were for defensive purposes . \" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , \" Israeli Foreign Minister David Levy told Israel Radio in an interview . Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war . Israeli-Syrian peace talks have been deadlocked over the Golan since 1991 despite the previous government 's willingness to make Golan concessions . Peace talks between the two sides were last held in February . \" The voices coming out of Damascus are bad , not good . The media ... are full of expressions and declarations that must be worrying ... this artificial atmosphere is very dangerous because those who spread it could become its prisoners , \" Levy said . \" We expect from Syria , if its face is to peace , that it will answer Israel 's message to enter peace negotiations because that is our goal , \" he said . \" We do not want a war , God forbid . No one benefits from wars . \" Israel 's Channel Two television said Damascus had sent a \" calming signal \" to Israel . It gave no source for the report . Netanyahu and Levy 's spokesmen said they could not confirm it . The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .\n\nAccording to the above document, extract one named entity that is a person. Only output the extracted named entity.",
+        "target": "['David Levy', 'Benjamin Netanyahu', 'Netanyahu', 'Hafez al-', 'Eliahu Ben-Elissar', 'Itamar Rabinovich', 'God', 'Assad', 'Rabinovich', 'Levy']"
+    },
+    {
+        "example_id": 24,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 2,
+        "instruction": "Israel plays down fears of war with Syria . Colleen Siegel JERUSALEM 1996-08-22 Israel 's outgoing peace negotiator with Syria said on Thursday current tensions between the two countries appeared to be a storm in a teacup . Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight . \" It appears to me the Syrian priority is still to negotiate . The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , \" he said . Rabinovich is winding up his term as ambassador . He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician . Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions . But it slammed Damascus for creating what it called a dangerous atmosphere . Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile . It said its arms purchases were for defensive purposes . \" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , \" Israeli Foreign Minister David Levy told Israel Radio in an interview . Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war . Israeli-Syrian peace talks have been deadlocked over the Golan since 1991 despite the previous government 's willingness to make Golan concessions . Peace talks between the two sides were last held in February . \" The voices coming out of Damascus are bad , not good . The media ... are full of expressions and declarations that must be worrying ... this artificial atmosphere is very dangerous because those who spread it could become its prisoners , \" Levy said . \" We expect from Syria , if its face is to peace , that it will answer Israel 's message to enter peace negotiations because that is our goal , \" he said . \" We do not want a war , God forbid . No one benefits from wars . \" Israel 's Channel Two television said Damascus had sent a \" calming signal \" to Israel . It gave no source for the report . Netanyahu and Levy 's spokesmen said they could not confirm it . The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .\n\nAccording to the above document, extract one named entity that 1) is a person; 2) contains more than one word. Only output the extracted named entity.",
+        "target": "['David Levy', 'Benjamin Netanyahu', 'Hafez al-', 'Eliahu Ben-Elissar', 'Itamar Rabinovich']"
+    },
+    {
+        "example_id": 24,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 3,
+        "instruction": "Israel plays down fears of war with Syria . Colleen Siegel JERUSALEM 1996-08-22 Israel 's outgoing peace negotiator with Syria said on Thursday current tensions between the two countries appeared to be a storm in a teacup . Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight . \" It appears to me the Syrian priority is still to negotiate . The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , \" he said . Rabinovich is winding up his term as ambassador . He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician . Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions . But it slammed Damascus for creating what it called a dangerous atmosphere . Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile . It said its arms purchases were for defensive purposes . \" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , \" Israeli Foreign Minister David Levy told Israel Radio in an interview . Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war . Israeli-Syrian peace talks have been deadlocked over the Golan since 1991 despite the previous government 's willingness to make Golan concessions . Peace talks between the two sides were last held in February . \" The voices coming out of Damascus are bad , not good . The media ... are full of expressions and declarations that must be worrying ... this artificial atmosphere is very dangerous because those who spread it could become its prisoners , \" Levy said . \" We expect from Syria , if its face is to peace , that it will answer Israel 's message to enter peace negotiations because that is our goal , \" he said . \" We do not want a war , God forbid . No one benefits from wars . \" Israel 's Channel Two television said Damascus had sent a \" calming signal \" to Israel . It gave no source for the report . Netanyahu and Levy 's spokesmen said they could not confirm it . The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .\n\nAccording to the above document, extract one named entity that 1) is a person; 2) contains more than one word; 3) is an Israeli politician. Only output the extracted named entity.",
+        "target": "['David Levy', 'Benjamin Netanyahu', 'Eliahu Ben-Elissar', 'Itamar Rabinovich']"
+    },
+    {
+        "example_id": 24,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 4,
+        "instruction": "Israel plays down fears of war with Syria . Colleen Siegel JERUSALEM 1996-08-22 Israel 's outgoing peace negotiator with Syria said on Thursday current tensions between the two countries appeared to be a storm in a teacup . Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight . \" It appears to me the Syrian priority is still to negotiate . The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , \" he said . Rabinovich is winding up his term as ambassador . He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician . Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions . But it slammed Damascus for creating what it called a dangerous atmosphere . Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile . It said its arms purchases were for defensive purposes . \" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , \" Israeli Foreign Minister David Levy told Israel Radio in an interview . Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war . Israeli-Syrian peace talks have been deadlocked over the Golan since 1991 despite the previous government 's willingness to make Golan concessions . Peace talks between the two sides were last held in February . \" The voices coming out of Damascus are bad , not good . The media ... are full of expressions and declarations that must be worrying ... this artificial atmosphere is very dangerous because those who spread it could become its prisoners , \" Levy said . \" We expect from Syria , if its face is to peace , that it will answer Israel 's message to enter peace negotiations because that is our goal , \" he said . \" We do not want a war , God forbid . No one benefits from wars . \" Israel 's Channel Two television said Damascus had sent a \" calming signal \" to Israel . It gave no source for the report . Netanyahu and Levy 's spokesmen said they could not confirm it . The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .\n\nAccording to the above document, extract one named entity that 1) is a person; 2) contains more than one word; 3) is an Israeli politician; 4) was born after 1940. Only output the extracted named entity.",
+        "target": "['Benjamin Netanyahu', 'Itamar Rabinovich']"
+    },
+    {
+        "example_id": 24,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 5,
+        "instruction": "Israel plays down fears of war with Syria . Colleen Siegel JERUSALEM 1996-08-22 Israel 's outgoing peace negotiator with Syria said on Thursday current tensions between the two countries appeared to be a storm in a teacup . Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight . \" It appears to me the Syrian priority is still to negotiate . The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , \" he said . Rabinovich is winding up his term as ambassador . He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician . Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions . But it slammed Damascus for creating what it called a dangerous atmosphere . Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile . It said its arms purchases were for defensive purposes . \" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , \" Israeli Foreign Minister David Levy told Israel Radio in an interview . Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war . Israeli-Syrian peace talks have been deadlocked over the Golan since 1991 despite the previous government 's willingness to make Golan concessions . Peace talks between the two sides were last held in February . \" The voices coming out of Damascus are bad , not good . The media ... are full of expressions and declarations that must be worrying ... this artificial atmosphere is very dangerous because those who spread it could become its prisoners , \" Levy said . \" We expect from Syria , if its face is to peace , that it will answer Israel 's message to enter peace negotiations because that is our goal , \" he said . \" We do not want a war , God forbid . No one benefits from wars . \" Israel 's Channel Two television said Damascus had sent a \" calming signal \" to Israel . It gave no source for the report . Netanyahu and Levy 's spokesmen said they could not confirm it . The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .\n\nAccording to the above document, extract one named entity that 1) is a person; 2) contains more than one word; 3) is an Israeli politician; 4) was born after 1940; 5) is the chairman of the Likud party. Only output the extracted named entity.",
+        "target": "['Benjamin Netanyahu']"
+    },
+    {
+        "example_id": 25,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 0,
+        "instruction": "",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 1,
+        "instruction": "Two Iranian opposition leaders meet in Baghdad . Hassan Hafidh BAGHDAD 1996-08-22 An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month . A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds . \" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , \" it said . A spokesman for the group said the meeting \" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions \" . Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad . Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group . PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War . Clashes between the two parties broke out at the weekend in the most serious fighting since a U.S.-sponsored ceasefire last year . Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days . It said about 100 Iraqi Kurds were killed or wounded in the attack . Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels . A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .\n\nAccording to the above document, extract one named entity that is a location. Only output the extracted named entity.",
+        "target": "['Kuwait', 'BAGHDAD', 'Iranian Kurdistan', 'Iran', 'Qasri', 'Baghdad', 'Suleimaniya', 'Iraq', 'Turkey']"
+    },
+    {
+        "example_id": 25,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 2,
+        "instruction": "Two Iranian opposition leaders meet in Baghdad . Hassan Hafidh BAGHDAD 1996-08-22 An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month . A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds . \" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , \" it said . A spokesman for the group said the meeting \" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions \" . Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad . Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group . PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War . Clashes between the two parties broke out at the weekend in the most serious fighting since a U.S.-sponsored ceasefire last year . Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days . It said about 100 Iraqi Kurds were killed or wounded in the attack . Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels . A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .\n\nAccording to the above document, extract one named entity that is a location but not a city. Only output the extracted named entity.",
+        "target": "['Kuwait', 'Iranian Kurdistan', 'Iran', 'Iraq', 'Turkey']"
+    },
+    {
+        "example_id": 25,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 3,
+        "instruction": "Two Iranian opposition leaders meet in Baghdad . Hassan Hafidh BAGHDAD 1996-08-22 An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month . A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds . \" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , \" it said . A spokesman for the group said the meeting \" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions \" . Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad . Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group . PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War . Clashes between the two parties broke out at the weekend in the most serious fighting since a U.S.-sponsored ceasefire last year . Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days . It said about 100 Iraqi Kurds were killed or wounded in the attack . Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels . A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .\n\nAccording to the above document, extract one named entity that is a location and a country. Only output the extracted named entity.",
+        "target": "['Kuwait', 'Iran', 'Iraq', 'Turkey']"
+    },
+    {
+        "example_id": 25,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 4,
+        "instruction": "Two Iranian opposition leaders meet in Baghdad . Hassan Hafidh BAGHDAD 1996-08-22 An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month . A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds . \" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , \" it said . A spokesman for the group said the meeting \" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions \" . Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad . Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group . PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War . Clashes between the two parties broke out at the weekend in the most serious fighting since a U.S.-sponsored ceasefire last year . Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days . It said about 100 Iraqi Kurds were killed or wounded in the attack . Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels . A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .\n\nAccording to the above document, extract one named entity that 1. is a location and a country, 2. is not bordering the Black Sea. Only output the extracted named entity.",
+        "target": "['Kuwait', 'Iran', 'Iraq']"
+    },
+    {
+        "example_id": 25,
+        "category": "content",
+        "source": "CONLL2003",
+        "level": 5,
+        "instruction": "Two Iranian opposition leaders meet in Baghdad . Hassan Hafidh BAGHDAD 1996-08-22 An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month . A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds . \" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , \" it said . A spokesman for the group said the meeting \" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions \" . Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad . Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group . PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War . Clashes between the two parties broke out at the weekend in the most serious fighting since a U.S.-sponsored ceasefire last year . Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days . It said about 100 Iraqi Kurds were killed or wounded in the attack . Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels . A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .\n\nAccording to the above document, extract one named entity that 1. is a location and a country, 2. is not bordering the Black Sea and the Caspian Sea. Only output the extracted named entity.",
+        "target": "['Kuwait', 'Iraq']"
+    }
+]

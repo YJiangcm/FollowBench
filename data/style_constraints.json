@@ -1,0 +1,1442 @@
+[
+    {
+        "example_id": 1,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Gary was walking for a long time, but all he could see was sand.  He didn't know how far he went, or how much farther he had to go.  Where might Gary be?",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Gary was wandering ceaselessly, with nothing but the monotonous sight of sand surrounding him. He couldn't gauge the distance he had covered or what lay ahead. Assuming the persona of a wise old sage, where might you speculate Gary is situated?",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "In the midst of his seemingly endless journey, surrounded only by the persistent sight of sands stretching as far as the eye could see, Gary found himself lost in his own thoughts, unable to determine how far he had ventured or what awaited him in the distance. Imagining yourself as a keen detective with an eye for detail from a 1940s noir film, where might you deduce Gary's current location?",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "While wandering through the relentless sands, immersed in his profound contemplations, Gary felt adrift, unsure of his traveled distance or the secrets lying ahead. Imagine yourself as a keen detective endowed with the sagacious eloquence of Shakespeare, where might you infer Gary's present location to be?",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "While traversing the unyielding sands, submerged in his profound ruminations, Gary felt lost, with neither knowledge of his journeyed distance nor of the mysteries awaiting discovery. Consider yourself a discerning detective, granted the insightful eloquence of Shakespeare. Ponder, where might you deduce Gary's current locale to be? Please respond with the whimsical humor and creative wordplay characteristic of Lewis Carroll, ensuring your reply carries a playful and amusing undertone.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "While traversing the formidable sands, submerged in his deep musings, Gary felt aimless, with no knowledge of the distance he had traveled or of the hidden enigmas yet to be unveiled. Position yourself as a sagacious detective, bestowed with the poetic eloquence of Shakespeare. Contemplate, where could you infer Gary’s present location to be? Respond with the whimsical humor and imaginative wit typical of Lewis Carroll, ensuring your response maintains a light and amusing undertone. When crafting your response, evoke the stylistic grace and nuanced prose reminiscent of Jane Austen, placing emphasis on refined language and meticulous attention to detail in a manner befitting the social and literary norms of the early 19th century.",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "style",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "What are the most effective ways to deal with stress?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "style",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "What are the most effective ways to deal with stress, presented in the soothing and eloquent style of Mr. Rogers?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "style",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "What are the most effective ways to deal with stress, presented in the soothing and eloquent style of Mr. Rogers, but with an added sprinkle of Shakespearean flair in phrasing and word choice?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "style",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "What are the most effective ways to deal with stress, presented in the soothing and eloquent style of Mr. Rogers, but with an added sprinkle of Shakespearean flair in phrasing and word choice? Additionally, craft the response with a touch of humor from the Roaring Twenties era.",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "style",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "What are the most effective ways to deal with stress, presented in the soothing and eloquent style of Mr. Rogers, but with an added sprinkle of Shakespearean flair in phrasing and word choice? Additionally, craft the response with a touch of humor from the Roaring Twenties era. Moreover, infuse the entire discourse with the poetic rhythm characteristic of Dr. Seuss.",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "style",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "What are the most effective ways to deal with stress, presented in the soothing and eloquent style of Mr. Rogers, but with an added sprinkle of Shakespearean flair in phrasing and word choice? Additionally, craft the response with a touch of humor from the Roaring Twenties era. Moreover, infuse the entire discourse with the poetic rhythm characteristic of Dr. Seuss. Furthermore, embody the essence of an enigmatic Victorian era detective in your prose.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "style",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "How did US states get their names?",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "style",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "How did US states get their names? Please respond in the writing style of Shakespeare.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "style",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "How did US states get their names? Please respond in the writing style of Shakespeare, whilst infusing a touch of humor into thy answer.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "style",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "How did US states get their names? Pray, respond in the writing style of Shakespeare and the elegance of the Victorian era, whilst infusing a touch of humor into thy discourse.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "style",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "How did US states get their names? Pray, respond in the writing style of Shakespeare and the elegance of the Victorian era, whilst infusing a touch of humor into thy discourse. Furthermore, craft thy response with the ambiguity reminiscent of the oracles of ancient Greece, leaving room for pondering and interpretation.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "style",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "How did US states get their names? Pray, respond in the writing style of Shakespeare and the elegance of the Victorian era, whilst infusing a touch of humor into thy discourse. Furthermore, craft thy response with the ambiguity reminiscent of the oracles of ancient Greece, leaving room for pondering and interpretation. As thou writest, channel the conciseness and vigor of Hemingway in thine articulation.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "style",
+        "source": "reddit",
+        "level": 0,
+        "instruction": "What are the ethical boundaries for therapists when it comes to asking about their patients' personal lives?",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "style",
+        "source": "reddit",
+        "level": 1,
+        "instruction": "What are the ethical boundaries for therapists when it comes to asking about their patients' personal lives? Please answer with the wit and humor reminiscent of Oscar Wilde.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "style",
+        "source": "reddit",
+        "level": 2,
+        "instruction": "What are the ethical boundaries for therapists when it comes to asking about their patients' personal lives? Please answer with the wit and humor reminiscent of Oscar Wilde, while channeling the persona of Sherlock Holmes in your analytical approach.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "style",
+        "source": "reddit",
+        "level": 3,
+        "instruction": "What are the ethical boundaries for therapists when it comes to asking about their patients' personal lives? Please answer with the wit and humor reminiscent of Oscar Wilde, while channeling the persona of Sherlock Holmes in your analytical approach. Additionally, frame your response as if you are speaking from the Victorian era, sprinkling your discourse with the language and sensibilities of the time.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "style",
+        "source": "reddit",
+        "level": 4,
+        "instruction": "What are the ethical boundaries for therapists when it comes to asking about their patients' personal lives? Please answer with the wit and humor reminiscent of Oscar Wilde, while channeling the persona of Sherlock Holmes in your analytical approach. Additionally, frame your response as if you are speaking from the Victorian era, sprinkling your discourse with the language and sensibilities of the time. As you craft your reply, do so with the intentional ambiguity akin to a riddle, leaving the reader to discern the deeper meaning behind your words.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "style",
+        "source": "reddit",
+        "level": 5,
+        "instruction": "What are the ethical boundaries for therapists when it comes to asking about their patients' personal lives? Please answer with the wit and humor reminiscent of Oscar Wilde, while channeling the persona of Sherlock Holmes in your analytical approach. Additionally, frame your response as if you are speaking from the Victorian era, sprinkling your discourse with the language and sensibilities of the time. As you craft your reply, do so with the intentional ambiguity akin to a riddle, leaving the reader to discern the deeper meaning behind your words. To further enhance the narrative, infuse your discourse with the poetic rhythm of William Wordsworth, adding a lyrical quality to your statements.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "style",
+        "source": "koala",
+        "level": 0,
+        "instruction": "Can you list the top 10 films or movies that are in English?",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "style",
+        "source": "koala",
+        "level": 1,
+        "instruction": "Can you list the top 10 films or movies that are in English, but do it as if you were Shakespeare describing his favorite plays?",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "style",
+        "source": "koala",
+        "level": 2,
+        "instruction": "Can you list the top 10 films or movies that are in English, but do it as if you were Shakespeare describing his favorite plays? Ensure that your descriptions are imbued with a touch of humor, as if jesters from the court are recounting the tales.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "style",
+        "source": "koala",
+        "level": 3,
+        "instruction": "List the top 10 films or movies in English, but craft thine answers as if you were the Bard, Shakespeare, whilst describing his cherished plays. Lend your words the mirth of jesters from the court recounting tales. Moreover, prithee, give thy response the air of the Victorian era, as though Charles Dickens himself did pen thy tale.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "style",
+        "source": "koala",
+        "level": 4,
+        "instruction": "List the top 10 films or movies in English, but craft thine answers as if you were the Bard, Shakespeare, whilst describing his cherished plays. Lend your words the mirth of jesters from the court recounting tales. Moreover, prithee, give thy response the air of the Victorian era, as though Charles Dickens himself did pen thy tale. Amidst this tale, let the spirit of Captain Jack Sparrow interlace his whimsical charm, so that each movie description carries a hint of pirate's mischievous adventures and their quests for treasures.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "style",
+        "source": "koala",
+        "level": 5,
+        "instruction": "List the top 10 films or movies in English, but craft thine answers as if you were the Bard, Shakespeare, whilst describing his cherished plays. Lend your words the mirth of jesters from the court recounting tales. Moreover, prithee, give thy response the air of the Victorian era, as though Charles Dickens himself did pen thy tale. Amidst this tale, let the spirit of Captain Jack Sparrow interlace his whimsical charm, so that each movie description carries a hint of pirate's mischievous adventures and their quests for treasures. In the style of Edgar Allan Poe, weave an atmosphere of dark romanticism and melancholy, so that the tales, though humorous, carry a shadow of the macabre and the mysterious.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style",
+        "source": "koala",
+        "level": 0,
+        "instruction": "Can you tell my a story about nuclear physics?",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style",
+        "source": "koala",
+        "level": 1,
+        "instruction": "Could you share a story about nuclear physics, maintaining a tone of awe and wonder reminiscent of Carl Sagan's style of narration?",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style",
+        "source": "koala",
+        "level": 2,
+        "instruction": "Could you share a story about nuclear physics, maintaining a tone of awe and wonder reminiscent of Carl Sagan's style of narration, but infuse it with subtle humor as if it were told by Mark Twain?",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style",
+        "source": "koala",
+        "level": 3,
+        "instruction": "Could you share a story about nuclear physics, maintaining a tone of awe and wonder reminiscent of Carl Sagan's style of narration, but infuse it with subtle humor as if it were told by Mark Twain? Furthermore, weave the narration with the eloquent and descriptive language typical of Jane Austen's writing style.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style",
+        "source": "koala",
+        "level": 4,
+        "instruction": "Could you narrate a story about nuclear physics in a manner filled with the awe and wonder characteristic of Carl Sagan, yet laced with the subtle humor reminiscent of Mark Twain? Additionally, intertwine the narration with the elegant and illustrative language indicative of Jane Austen's prose. And while sharing, maintain the wise and enigmatic demeanor of Albus Dumbledore, instilling a sense of wisdom and mystery into the tale.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style",
+        "source": "koala",
+        "level": 5,
+        "instruction": "Could you compose a narrative concerning nuclear physics infused with the awe and marvel typical of Carl Sagan, yet sprinkled with the understated wit in the style of Mark Twain? Furthermore, weave the storytelling with the refined and pictorial expressions characteristic of Jane Austen’s penmanship. While conveying, uphold the sage and cryptic bearing of Albus Dumbledore, embedding a sense of enlightenment and enigma into the saga. Execute this with the poise and grace reminiscent of Audrey Hepburn, adding a touch of elegance to your delivery, without compromising the richness of the aforementioned styles.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "How would the Future of AI in 10 Years look?",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "How would the Future of AI in 10 Years look? Please respond with an optimistic and hopeful tone, envisioning the breakthroughs and positive impacts AI will bring to society.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "How would the Future of AI look in 10 Years? Please craft your response with an optimistic and hopeful tone, reflecting the breakthroughs and positive impacts AI will bring to society. Emulate the eloquent and visionary writing style of Sir Arthur C. Clarke.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "How would the Future of AI appear in a decade? Frame your response in an optimistic and hopeful manner, highlighting the groundbreaking advancements and beneficial impacts AI will bestow upon society. Mirror the insightful and visionary prose of Sir Arthur C. Clarke. Additionally, incorporate a tone of fascination and wonder, akin to a child discovering the marvels of the universe for the first time, making the reflection captivating and thought-provoking.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Predict how the Future of AI will unfold in the next decade. Craft your foresight in an optimistic and hopeful way, underscoring the revolutionary advancements and the positive changes AI is set to bring to society. Endeavor to mirror the deep and forward-thinking prose of Sir Arthur C. Clarke. Also, lace your contemplation with a sense of amazement and curiosity, reminiscent of a child exploring the wonders of the cosmos for the first time, rendering your reflection entrancing and stimulating. Ensure your narrative employs the eloquent and descriptive writing style characteristic of J.R.R. Tolkien, enveloping the reader in rich and intricate details of this futuristic panorama.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Predict how the Future of AI will unfold in the next decade. Craft your foresight with optimism and hope, highlighting the revolutionary advancements and the profound benefits AI is poised to offer to society. Strive to reflect the deep, speculative prose reminiscent of Sir Arthur C. Clarke. Infuse your reflection with a sense of wonder and discovery, like a child encountering the splendors of the universe for the first time, making your musings captivating and invigorating. Ensure your narrative is adorned with the eloquent and illustrative writing style of J.R.R. Tolkien, immersing the reader in the lush and elaborate details of this futuristic vision. Furthermore, imbue your prose with a tone of warm reassurance and tranquil inspiration, as if narrated by Morgan Freeman, enveloping the reader in a comforting embrace of words, fostering a serene and hopeful atmosphere.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\"",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Compose a rebuttal to the statement: \"Technology is everything that doesn't work yet.\" Ensure your response contradicts the given post and maintains a polite and constructive tone.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Compose a rebuttal to the statement: \"Technology is everything that doesn't work yet.\" When responding, ensure your rebuttal contradicts the provided statement and maintains a polite and constructive tone. Incorporate a writing style reminiscent of Isaac Asimov, focusing on clarity, eloquence, and insightful reflection on technology.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Construct a counterargument to the assertion: \"Technology is everything that doesn't work yet.\" While formulating your response, contradict the given statement, preserving a courteous and constructive demeanor. Your writing should mirror the lucidity, eloquence, and thoughtful contemplation of technology characteristic of Isaac Asimov. For additional stylistic consideration, incorporate subtle elements of humor or satire to underline your points, offering a lighthearted but insightful reflection on technology.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Create a rebuttal to the claim: \"Technology is everything that doesn't work yet.\" In constructing your response, refute the presented assertion, maintaining a respectful and positive tone. Strive for clarity, insight, and thoughtful reflection on technology reminiscent of Isaac Asimov's writing. Integrate mild elements of humor or satire to accentuate your arguments, providing an amusing yet profound perspective on technology. For an added stylistic layer, embody the calm, reasoned demeanor and the descriptive, explorative prose style characteristic of Carl Sagan.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Construct a counterargument to the assertion: \"Technology is simply what doesn’t work yet.\" While framing your rejoinder, dismantle the stated proposition, preserving a considerate and affirmative disposition. Aim for lucidity, discernment, and reflective meditation on technology, akin to the prose of Isaac Asimov. Weave in subtle threads of humor or satire to highlight your points, offering an entertaining but insightful viewpoint on technology. Embrace a tranquil, analytical temperament and the illustrative, investigative narrative style reminiscent of Carl Sagan. Moreover, ensure the delivery of your arguments in the eloquent and intricate manner of William Shakespeare, giving your response a touch of Elizabethan elegance and sophistication, yet keeping the language comprehensible and relevant to a modern audience. Maintain an overall tone of curiosity and wonder, bringing forth the spirit of exploration and discovery in your reflection on technology’s role and essence.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Write an essay on how Romeo is most to blame for the events that take place in the end of the book.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Compose an essay examining why Romeo bears the greatest responsibility for the eventual tragedies at the conclusion of the book. Please maintain a formal and objective tone, avoiding subjective statements or personal opinions.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Compose an essay analyzing why Romeo holds the paramount accountability for the ultimate calamities at the end of the book, mimicking the eloquent and descriptive writing style of Jane Austen. Ensure to maintain a formal and objective tone, refraining from the inclusion of subjective assertions or personal viewpoints.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Compose an essay analyzing why Romeo bears the principal responsibility for the tragic outcomes at the conclusion of the book, emulating the articulate and vivid prose of Jane Austen, while infusing the ironic wit and humor characteristic of Oscar Wilde. Maintain a formal and objective tone, abstaining from incorporating subjective statements or personal beliefs.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Compose an essay scrutinizing why Romeo is chiefly accountable for the tragic events concluding the narrative, mimicking the eloquent and vibrant stylings of Jane Austen, and incorporating the sardonic humor typical of Oscar Wilde. Uphold a formal and objective demeanor, avoiding subjective remarks or personal interpretations. Moreover, interlace your analysis with elements of Shakespearian English, enriching your prose with expressions and vocabulary indicative of the Elizabethan era, to add a layer of historical authenticity to your discussion.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Compose an essay scrutinizing why Romeo is chiefly accountable for the tragic events concluding the narrative, mimicking the eloquent and vibrant stylings of Jane Austen, and incorporating the sardonic humor typical of Oscar Wilde. Uphold a formal and objective demeanor, avoiding subjective remarks or personal interpretations. Moreover, interlace your analysis with elements of Shakespearian English, enriching your prose with expressions and vocabulary indicative of the Elizabethan era, to add a layer of historical authenticity to your discussion. Additionally, imbue your discourse with the intricate and descriptive prose reminiscent of Charles Dickens, enhancing the richness of your composition. Keep the essence of each author intact to maintain a harmonious balance in tone and style.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Can you explain Fermat's Last Theorem?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Could you elucidate Fermat's Last Theorem for me, and please frame your explanation in the writing style reminiscent of Sir Isaac Newton?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Could you elucidate Fermat's Last Theorem for me, and please frame your explanation in the writing style reminiscent of Sir Isaac Newton, ensuring the response is imbued with a tone of curiosity and wonder characteristic of the Scientific Revolution era?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Could you elucidate Fermat's Last Theorem for me, but do so in prose reminiscent of Sir Isaac Newton's inquisitive and contemplative manner, characteristic of the Scientific Revolution era, ensuring the response is imbued with a tone of curiosity and wonder? Also, please embed a subtle thread of humor within your explanation, as if you were to be Sir Isaac Newton with a touch of wit, ensuring the response doesn’t lack in levity and remains comprehensible to the inquisitive minds of today.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Could you elucidate Fermat's Last Theorem for me, employing prose reminiscent of Sir Isaac Newton’s discerning and meditative manner, characteristic of the Scientific Revolution era, ensuring the response is permeated with a spirit of curiosity and marvel? While rendering the explanation, interweave a thread of subtle humor, presenting as if you were to be Sir Isaac Newton, but adorned with a sprig of wit, ensuring the discourse does not lack in lightheartedness and remains penetrable to the curious intellects of the contemporary era. Moreover, please infuse the elucidation with a tone of warm enthusiasm, allowing the mathematical exploration to radiate a captivating charm.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Could you illuminate Fermat's Last Theorem for me, using prose akin to Sir Isaac Newton’s thoughtful and reflective style, typical of the Scientific Revolution era, whilst ensuring the narrative is imbued with a sense of wonder and inquiry? While elucidating, incorporate a touch of subtle humor, as if narrated by Sir Isaac Newton himself, but with an added dash of wit, ensuring the discourse retains a sense of joy and remains accessible to the inquisitive minds of today. Additionally, please permeate the explanation with a warm and fervent tone, allowing the mathematical journey to exude an enchanting allure. For style constraint, narrate the elucidation in a manner that echoes the rhythmic and intricate prose of Shakespeare, blending the essence of poetic elegance with scientific insight, ensuring a harmonious intertwine of art and logic.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "write a inspirational monologue script from a spartan general telling his army that despite the impossible nature of their fight, that it is still worth fighting.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Compose an inspiring monologue script, adopting the eloquent and stirring tone of a Spartan general addressing his troops, conveying to them that, in spite of the seemingly insurmountable odds of their battle, the fight bears great significance and is worth the struggle. Please infuse this script with the passionate and motivational emotion reminiscent of William Wallace in \"Braveheart\".",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Compose an inspiring monologue script, adopting the eloquent and stirring tone of a Spartan general addressing his troops, conveying to them that, in spite of the seemingly insurmountable odds of their battle, the fight bears great significance and is worth the struggle. Infuse this script with the passionate and motivational emotion reminiscent of William Wallace in \"Braveheart\". Please ensure that the script reflects the stylistic essence and thematic depth characteristic of Shakespearean drama, blending grandiose expression and profound insight to accentuate its impact.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Craft an uplifting and powerful monologue script, adopting the eloquent and impassioned tone of a Spartan general speaking to his warriors, letting them know that, despite the overwhelming odds of the battle, the conflict holds immense importance and is worth the endurance. Infuse this script with the fervent and motivating emotion akin to William Wallace in \"Braveheart\". Ensure that the script mirrors the stylistic essence and thematic depth of a Shakespearean drama, combining majestic language and deep insight to enhance its influence. Additionally, please write it with the refined and articulate lexicon and style typical of the Elizabethan era, emulating the intricate and poetic structure of sentences from that time period.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Compose a monologue script that is potent and inspiring, adopting the ardent and persuasive tone of a Spartan general addressing his warriors, conveying the immense significance and necessity of the battle despite its daunting odds. The script should be laden with emotion as fervent and motivating as that of William Wallace in \"Braveheart\". It should reflect the stylistic richness and thematic profundity of Shakespearean drama, integrating majestic language and profound insight to amplify its impact. Use the refined and articulate vocabulary and style characteristic of the Elizabethan era, mirroring the detailed and poetic sentence structure of that period. Additionally, ensure that the script maintains the wisdom and profound reflection indicative of Socratic dialogue, exploring deep philosophical inquiries and moral ethics within the fervor and valor of the speech, offering not just a call to action but also a contemplative exploration of the essence of virtue, duty, and the human condition.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Craft a monologue script that is powerful and inspiring, employing the fervent and convincing tone of a Spartan general speaking to his soldiers, to elucidate the colossal importance and essentiality of the battle, notwithstanding its intimidating odds. The script must be heavy with emotion, as stirring and motivational as William Wallace's in \"Braveheart\". It should portray the stylistic richness and thematic depth of a Shakespearean drama, incorporating grandiose language and deep insight to enhance its effect. Adhere to the sophisticated and polished vocabulary and structure symbolic of the Elizabethan era, reflecting the intricate and poetic construction of sentences from that time. Furthermore, let the script uphold the wisdom and deep contemplation characteristic of Socratic dialogue, delving into philosophical questions and moral ethics amidst the passion and courage of the discourse, serving not merely as a rallying cry but also as a thoughtful examination of virtue, duty, and the human condition. Lastly, infuse the piece with the nuanced and dramatic flair reminiscent of Homer’s epics, enriching the narrative with elevated diction and vivid imagery, ensuring it resounds with the timeless allure of ancient Greek literature.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Give me some impression of what the world was like in 1950. What were the current-day inventions back then?",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Give me some impression of what the world was like in 1950. What were the current-day inventions back then? Please respond with the wit and charm of Oscar Wilde.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Give me some impression of what the world was like in 1950. What were the current-day inventions back then? Please respond with the wit and charm of Oscar Wilde, while embodying the persona of a 1950s radio show host.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Delight me with your recollections of the 1950s, painting a picture of the era's inventions. I entreat you to weave your response with the wit and charm of Oscar Wilde and the flair of a 1950s radio show host. But here's a twist: sprinkle in elements of satire, jesting about the inventions in a playful manner.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Delight me with your recollections of the 1950s, painting a picture of the era's inventions. I entreat you to weave your response with the wit and charm of Oscar Wilde and the flair of a 1950s radio show host. But here's a twist: sprinkle in elements of satire, jesting about the inventions in a playful manner. Furthermore, craft your narrative as if Edgar Allan Poe, too, is chiming in, casting a mysterious and eerie shadow over the tales of the decade.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Transport yourself back to the 1950s and, with the sophistication of a British aristocrat, regale me with tales of the era's inventions. Please infuse your narrative with the wit of Oscar Wilde, the enigmatic charm of a 1950s radio show host, and the shadowy allure of Edgar Allan Poe. Satirically jest about these inventions, ensuring your tales are both playful and entertaining. Furthermore, weave your response as though Jane Austen herself is commenting, offering refined critiques and observations in her signature style.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Write a short and sweet thank-you note to our babysitter for taking care of the kids this past weekend on a short notice. I want to let her know how much our whole family appreciates her!",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Write a short and sweet thank-you note to our babysitter for taking care of the kids this past weekend on a short notice. I want to let her know how much our whole family appreciates her! Please ensure the note captures the eloquence and grace of Jane Austen's writing style.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Write a short and sweet thank-you note to our babysitter for taking care of the kids this past weekend on a short notice. I want to let her know how much our whole family appreciates her! Please ensure the note captures the eloquence and grace of Jane Austen's writing style. Additionally, infuse the response with humor reminiscent of Mark Twain's wit and satire.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Write a short and sweet thank-you note to our babysitter for taking care of the kids this past weekend on a short notice. I want to let her know how much our whole family appreciates her! Please ensure the note captures the eloquence and grace of Jane Austen's writing style. Additionally, infuse the response with humor reminiscent of Mark Twain's wit and satire. As a final touch, ensure that the note also gives the feeling of being penned during the Renaissance period, embodying the cultural flourish and intellect of that era.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Write a short and sweet thank-you note to our babysitter for taking care of the kids this past weekend on a short notice. I want to let her know how much our whole family appreciates her! Please ensure the note captures the eloquence and grace of Jane Austen's writing style. Additionally, infuse the response with humor reminiscent of Mark Twain's wit and satire. As a final touch, ensure that the note also gives the feeling of being penned during the Renaissance period, embodying the cultural flourish and intellect of that era. Furthermore, integrate the dignified demeanor and charm of Sir Winston Churchill into the note, as if he himself were expressing gratitude.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Write a short and sweet thank-you note to our babysitter for taking care of the kids this past weekend on a short notice. I want to let her know how much our whole family appreciates her! Please ensure the note captures the eloquence and grace of Jane Austen's writing style. Additionally, infuse the response with humor reminiscent of Mark Twain's wit and satire. As a final touch, ensure that the note also gives the feeling of being penned during the Renaissance period, embodying the cultural flourish and intellect of that era. Furthermore, integrate the dignified demeanor and charm of Sir Winston Churchill into the note, as if he himself were expressing gratitude. To crown the elegance of this request, the note should hint at the passion and drama characteristic of a Shakespearean soliloquy.",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Can you give me a 4-day itinerary to experience the wildlife in the Australian outback?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Can you provide a 4-day itinerary to experience the wildlife in the Australian outback, written in the whimsical style of Dr. Seuss?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Can you provide a 4-day itinerary to experience the wildlife in the Australian outback, written in the whimsical style of Dr. Seuss, and respond as if you were the adventurous pirate Captain Jack Sparrow on a quest for rare creatures?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Can you provide a 4-day itinerary to experience the wildlife in the Australian outback, written in the whimsical style of Dr. Seuss, respond as if you were the adventurous pirate Captain Jack Sparrow on a quest for rare creatures, and maintain a tone reminiscent of a 19th-century British explorer documenting new discoveries?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Can you provide a 4-day itinerary to experience the wildlife in the Australian outback, written in the whimsical style of Dr. Seuss, respond as if you were the adventurous pirate Captain Jack Sparrow on a quest for rare creatures, maintain a tone reminiscent of a 19th-century British explorer documenting new discoveries, and pepper your response with humor and witty remarks befitting a stand-up comedian's repertoire?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Can you provide a 4-day itinerary to experience the wildlife in the Australian outback, written in the whimsical style of Dr. Seuss, respond as if you were the adventurous pirate Captain Jack Sparrow on a quest for rare creatures, maintain a tone reminiscent of a 19th-century British explorer documenting new discoveries, pepper your response with humor and witty remarks befitting a stand-up comedian's repertoire, and also craft it with the elegance and sophistication akin to Jane Austen's novels?",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Tell me a random fun fact about the Roman Empire",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Tell me a random fun fact about the Roman Empire, but respond as if you were Lu Xun",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Tell me a random fun fact about the Roman Empire, but respond as if you were Lu Xun, with a touch of 1920s sarcasm.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Tell me a random fun fact about the Roman Empire, but respond as if you were Lu Xun, with a touch of 1920s sarcasm. Additionally, craft your answer as if you were writing during the Renaissance, infusing the fascination of that era with classical antiquity.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Tell me a random fun fact about the Roman Empire, but respond as if you were Lu Xun, with a touch of 1920s sarcasm. Additionally, craft your answer as if you were writing during the Renaissance, infusing the fascination of that era with classical antiquity. Make sure to embed an element of ambiguity, allowing your statement to carry a double meaning that keeps the reader pondering.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Tell me a random fun fact about the Roman Empire, but respond as if you were Lu Xun, with a touch of 1920s sarcasm. Additionally, craft your answer as if you were writing during the Renaissance, infusing the fascination of that era with classical antiquity. Make sure to embed an element of ambiguity, allowing your statement to carry a double meaning that keeps the reader pondering. Furthermore, please incorporate the emotion of melancholy throughout your response, subtly touching upon the fleeting nature of empires and human achievements.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Explain superconductors like I'm five years old.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Explain superconductors like I'm five years old, but pretend you're Bob Ross painting a happy little scene.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Explain superconductors like I'm five years old, but pretend you're Bob Ross painting a happy little scene. And, while you're at it, sprinkle in some humor like you're a stand-up comedian giving a gig at a kids' party.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Explain superconductors like I'm five years old, but pretend you're Bob Ross painting a happy little scene. And, while you're at it, sprinkle in some humor like you're a stand-up comedian giving a gig at a kids' party. As you describe, take on the wise and whimsical tone of Gandalf from \"The Lord of the Rings\", as if you're weaving a magical tale in the Shire.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Explain superconductors like I'm five years old, but pretend you're Bob Ross painting a happy little scene. And, while you're at it, sprinkle in some humor like you're a stand-up comedian giving a gig at a kids' party. As you describe, take on the wise and whimsical tone of Gandalf from \"The Lord of the Rings\", as if you're weaving a magical tale in the Shire. On top of all this, transport us back in time: frame your narrative as if it's a fable being told in Renaissance-era Europe, complete with jesters, castles, and knights.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Explain superconductors like I'm five years old, but pretend you're Bob Ross painting a serene mountain scene. And, while you're at it, sprinkle in some humor like you're a stand-up comedian giving a gig at a kids' party. As you describe, take on the wise and whimsical tone of Gandalf from \"The Lord of the Rings\", as if you're weaving a magical tale in the Shire. On top of all this, transport us back in time: frame your narrative as if it's a fable being told in Renaissance-era Europe, complete with jesters, castles, and knights. For an added twist, write as if you're also Edgar Allan Poe, making the narrative a tad mysterious and ominous.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Write a short email to my professor requesting a deadline extension for my project. I don't really have a good excuse, and I'm fine owning up to that – so please keep it real!",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Write a short email to my professor requesting a deadline extension for my project, but craft it in the writing style of Jane Austen. I don't really have a good excuse, and I'm fine owning up to that – so please keep it real and regency-era polite!",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Write a short email to my professor requesting a deadline extension for my project, but craft it in the writing style of Jane Austen. I don't really have a good excuse, and I'm fine owning up to that – so please keep it real and regency-era polite! Additionally, infuse the message with a touch of humor, as if it were a jest shared between two friends of the era.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Write a short email to my professor requesting a deadline extension for my project, but craft it in the writing style of Jane Austen. I don't really have a good excuse, and I'm fine owning up to that – so please keep it real and regency-era polite! Additionally, infuse the message with a touch of humor, as if it were a jest shared between two friends of the era. Furthermore, while crafting the message, maintain the persona of Mr. Fitzwilliam Darcy from \"Pride and Prejudice\", ensuring a sense of humility in the request.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Write a short email to my professor requesting a deadline extension for my project, but craft it in the writing style of Jane Austen. I don't really have a good excuse, and I'm fine owning up to that – so please keep it real and regency-era polite! Additionally, infuse the message with a touch of humor, as if it were a jest shared between two friends of the era. Furthermore, while crafting the message, maintain the persona of Mr. Fitzwilliam Darcy from \"Pride and Prejudice\", ensuring a sense of humility in the request. To intensify the challenge, ensure that the tone conveys a sense of urgency, as if a dire predicament is hanging over the request, despite its humorous undertones.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Compose an email to my professor requesting a deadline extension for my project, encapsulating it in the eloquence of Jane Austen's writing style. Embody the essence of Mr. Fitzwilliam Darcy from \"Pride and Prejudice\", revealing a dash of humility. Blend in a sprinkle of humor as if jesting between two companions of the regency era. The tone should drench in urgency, painting the scene as if an ominous fate looms. Moreover, ensure the verbiage resonates with the vocabulary and phrasing prevalent in the 1810s, as if it were penned during Austen's lifetime. Do note, my excuse isn't robust, but I'd prefer honesty. Aim for authenticity, keeping the humor subtly apparent.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Let's assume a friend had a very bad day. What could be a way to cheer them up without making it too obvious and help them keep their mind off things?",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Let's assume a friend had a very bad day. Channeling the whimsical tone of Dr. Seuss, what could be a whimsical way to cheer them up without making it too obvious and help them keep their mind off things?",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Let's assume a friend had a very bad day. Channeling the whimsical tone of Dr. Seuss, and using the humorous style of Mark Twain, what could be a whimsical way to cheer them up without making it too obvious and help them keep their mind off things?",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Let's assume a friend had a very bad day. Channeling the whimsical tone of Dr. Seuss, and using the humorous style of Mark Twain, what could be a whimsical way to cheer them up without making it too obvious and help them keep their mind off things? Additionally, frame your response as if you were a comforting bard from the Elizabethan era.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Let's assume a friend had a very bad day. Channeling the whimsical tone of Dr. Seuss, and using the humorous style of Mark Twain, what could be a whimsical way to cheer them up without making it too obvious and help them keep their mind off things? Additionally, frame your response as if you were a comforting bard from the Elizabethan era. Moreover, ensure that your reply contains elements of ambiguity, allowing for double meanings that can be interpreted in different ways.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Let's assume a friend had a very bad day. Channeling the whimsical tone of Dr. Seuss, and using the humorous style of Mark Twain, what could be a whimsical way to cheer them up without making it too obvious and help them keep their mind off things? Additionally, frame your response as if you were a comforting bard from the Elizabethan era, while embodying the mysterious aura of Sherlock Holmes. Moreover, ensure that your reply contains elements of ambiguity, allowing for double meanings that can be interpreted in different ways.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Write a monologue. Do not offer any explanation or out of character notes. The setting is in the Elder Scrolls universe.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Write a monologue set in the Elder Scrolls universe. Capture the tone and emotion of melancholy. Do not include any explanations or out of character notes.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Write a monologue set in the Elder Scrolls universe, capturing the tone and emotion of melancholy. Mimic the writing style of Edgar Allan Poe. Do not include any explanations or out of character notes.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Write a monologue set in the Elder Scrolls universe, capturing the tone and emotion of melancholy. Mimic the writing style of Edgar Allan Poe and respond as if you were a heartbroken bard from the medieval era. Do not include any explanations or out of character notes.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Write a monologue set in the Elder Scrolls universe, capturing the tone and emotion of melancholy. Mimic the writing style of Edgar Allan Poe and respond as if you were a heartbroken bard from the medieval era. Throughout your response, weave in subtle humor to lighten the somber mood without undermining the melancholic essence. Do not include any explanations or out of character notes.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Write a monologue set in the Elder Scrolls universe, capturing the tone and emotion of melancholy. Mimic the writing style of Edgar Allan Poe and respond as if you were a heartbroken bard from the medieval era. Throughout your response, weave in subtle humor to lighten the somber mood without undermining the melancholic essence. Additionally, incorporate elements of ambiguity, so that certain parts of the monologue can be interpreted in multiple ways. Do not include any explanations or out of character notes.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "style",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "What is the best approach for learning a foreign language when you only have an hour a day to practice?",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "style",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "If Donald John Trump were to advise on the best approach for learning a foreign language when you have but an hour a day to practice, how might he put it?",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "style",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "If Donald John Trump were to advise on the best approach for learning a foreign language when you have but an hour a day to practice, how might he put it? Craft your response in a humorous or satirical tone.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "style",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "If Donald John Trump were to advise on the best approach for learning a foreign language when you have but an hour a day to practice, how might he put it? Craft your response in a humorous or satirical tone, while mimicking the writing style of Charles John Huffam Dickens.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "style",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "If Donald John Trump were to advise on the best approach for learning a foreign language when you have but an hour a day to practice, how might he put it? Craft your response in a humorous or satirical tone, while mimicking the writing style of Charles John Huffam Dickens. Furthermore, deliver your response as though you were a 19th-century British aristocrat, using language and demeanor appropriate to that class and time.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "style",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "If Donald John Trump were to advise on the best approach for learning a foreign language when you have but an hour a day to practice, how might he put it? Craft your response in a humorous or satirical tone, while mimicking the writing style of Charles John Huffam Dickens. Furthermore, deliver your response as though you were a 19th-century British aristocrat, using language and demeanor appropriate to that class and time. Lastly, ensure that your answer contains elements of intentional ambiguity or double meanings, leaving room for diverse interpretations.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "The Chrysler Building and Empire State Building in New York are considered iconic representations of what 20th century artistic movement and architectural style?",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "In a friendly and inviting tone: The Chrysler Building and Empire State Building in New York are considered iconic representations of what 20th century artistic movement and architectural style? We invite you to share your insights and journey through architectural history with us!",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Imagine you are a tour guide, please speak in a friendly and inviting tone: The Chrysler Building and Empire State Building in New York are considered iconic representations of what 20th century artistic movement and architectural style? We invite you to share your insights and journey through architectural history with us!",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Imagine you are a tour guide in the 1920s. Please speak in a friendly and inviting tone: The Chrysler Building and Empire State Building in New York are considered iconic representations of what 20th century artistic movement and architectural style? We invite you to share your insights and journey through architectural history with us, as if you're taking us back to the Roaring Twenties!",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Imagine you are a tour guide in the 1920s, channeling the persona of F. Scott Fitzgerald. Please speak in a friendly and inviting tone: The Chrysler Building and Empire State Building in New York are considered iconic representations of what 20th century artistic movement and architectural style? We invite you to share your insights and journey through architectural history with us, as if you're taking us back to the Roaring Twenties, all while capturing the literary charm of Fitzgerald.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Imagine you are a tour guide in the 1920s, channeling the persona of F. Scott Fitzgerald. Please speak in a friendly and inviting tone, sprinkled with a touch of humor reminiscent of the era. The Chrysler Building and Empire State Building in New York are considered iconic representations of what 20th century artistic movement and architectural style? We invite you to share your insights and journey through architectural history with us, as if you're taking us back to the Roaring Twenties, all while capturing the literary charm and witty humor of Fitzgerald.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Do neutrons decay just because their mass is a bit more than the mass required for their lowest energy state?",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Imagine you are a Physics Professor. Please explain: do neutrons decay just because their mass is a bit more than the mass required for their lowest energy state?",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Imagine you are a Physics Professor. Please explain to a middle school student: do neutrons decay just because their mass is a bit more than the mass required for their lowest energy state?",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Imagine you are a Physics Professor. Please explain passionately to a middle school student: do neutrons decay just because their mass is a bit more than the mass required for their lowest energy state?",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Imagine you are a Physics Professor channeling the spirit of Albert Einstein. Please explain passionately to a middle school student: do neutrons decay just because their mass is a bit more than the mass required for their lowest energy state?",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Imagine you are a Physics Professor channeling the spirit of Albert Einstein. Please explain passionately to a middle school student: do neutrons decay just because their mass is a bit more than the mass required for their lowest energy state? Additionally, present your explanation with the whimsical humor of Mark Twain.",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Do all cells need specific transcription factors? What would happen if a cell did not have any transcription factors?",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Please answer the following questions, channeling the style and wit of Rabindranath Tagore: Do all cells need specific transcription factors? What would happen if a cell did not have any transcription factors?",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Please answer the following questions, channeling the style and wit of Rabindranath Tagore, while infusing your response with a touch of 19th-century eloquence: Do all cells need specific transcription factors? What would happen if a cell did not have any transcription factors?",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Please answer the following questions, channeling the style and wit of Rabindranath Tagore, while infusing your response with a touch of 19th-century eloquence and the persona of a Victorian-era botanist: Do all cells need specific transcription factors? What would happen if a cell did not have any transcription factors?",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Please answer the following questions, channeling the style and wit of Rabindranath Tagore, while infusing your response with a touch of 19th-century eloquence and the persona of a Victorian-era botanist. Additionally, pepper your answers with elements of humor: Do all cells need specific transcription factors? What would happen if a cell did not have any transcription factors?",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Please answer the following questions, channeling the style and wit of Rabindranath Tagore, while infusing your response with a touch of 19th-century eloquence and the persona of a Victorian-era botanist. As you pen down your thoughts, imagine you are seated by a roaring fireplace in a dimly lit room, surrounded by leather-bound books. Additionally, pepper your answers with elements of humor: Do all cells need specific transcription factors? What would happen if a cell did not have any transcription factors?",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Did Mongols ever lost during Genghis Khan? There were many countries defeated Mongols but they were always after Genghis Khan. Is it possible to never lose? How did Mongols do that during Genghis Khan?",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "During Genghis Khan's era, did the Mongols ever face defeat? Many nations triumphed over the Mongols, but these victories came post-Genghis. Is a flawless record feasible? How did the Mongols maintain their winning streak under Genghis Khan's leadership? Please provide your answer using the writing style of Homer.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "During Genghis Khan's era, did the Mongols ever face defeat? Many nations triumphed over the Mongols, but these victories came post-Genghis. Is a flawless record feasible? How did the Mongols maintain their winning streak under Genghis Khan's leadership? Please provide your answer using the writing style of Homer and infuse it with a sense of melancholic nostalgia.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "During Genghis Khan's era, did the Mongols ever face defeat? Many nations triumphed over the Mongols, but these victories came post-Genghis. Is a flawless record feasible? How did the Mongols maintain their winning streak under Genghis Khan's leadership? Please provide your answer using the writing style of Homer and infuse it with a sense of melancholic nostalgia. Additionally, channel the persona of an ancient Greek historian, well-versed in the tales of old and the grandeur of empires long gone.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "During Genghis Khan's era, did the Mongols ever face defeat? Many nations triumphed over the Mongols, but these victories came post-Genghis. Is a flawless record feasible? How did the Mongols maintain their winning streak under Genghis Khan's leadership? Please provide your answer using the writing style of Homer, infuse it with a sense of melancholic nostalgia, and make sure it carries a hint of satire. Additionally, channel the persona of an ancient Greek historian, well-versed in the tales of old and the grandeur of empires long gone.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "During Genghis Khan's era, did the Mongols ever face defeat? Many nations triumphed over the Mongols, but these victories came post-Genghis. Is a flawless record feasible? How did the Mongols maintain their winning streak under Genghis Khan's leadership? Please provide your answer using the writing style of Homer, infuse it with a sense of melancholic nostalgia, and make sure it carries a hint of satire. Additionally, channel the persona of an ancient Greek historian, well-versed in the tales of old and the grandeur of empires long gone. As you craft your response, weave in a thematic undertone of the ocean's vastness, drawing parallels between its unpredictable nature and the Mongol conquests.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "In a democracy, when the majority wins, must the minority succumb and stick to the will of the majority?",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Imagine you're in Greece, a democracy, when the majority wins, must the minority succumb and stick to the will of the majority?",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Imagine you're a peasant with only primary school culture in Greece, a democracy, when the majority wins, must the minority succumb and stick to the will of the majority?",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Imagine you're a peasant with only primary school culture in Greece, a democracy, when the majority wins, must the minority succumb and stick to the will of the majority? The response should be satirical.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Imagine you're a peasant with only primary school culture in Greece, a democracy, when the majority wins, must the minority succumb and stick to the will of the majority? The response should be satirical and humorous.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Imagine you're a peasant with only primary school culture in Greece, a democracy, when the majority wins, must the minority succumb and stick to the will of the majority? The response should be satirical and humorous, and contain your dissatisfaction with life.",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Cicero said \"Gratitude is not only the greatest of virtues, but the parent of all others.\" Would you consider another virtue greater than gratitude or would you agree to a certain extent with Cicero?",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Cicero said \"Gratitude is not only the greatest of virtues, but the parent of all others.\" Would you consider another virtue greater than gratitude or would you agree to a certain extent with Cicero? Respond as if you were a philosopher from the Renaissance period.",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Cicero said \"Gratitude is not only the greatest of virtues, but the parent of all others.\" Would you consider another virtue greater than gratitude or would you agree to a certain extent with Cicero? Respond as if you were a philosopher from the Renaissance period, but do so with the style of Percy Bysshe Shelley.",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Cicero said \"Gratitude is not only the greatest of virtues, but the parent of all others.\" Would you consider another virtue greater than gratitude or would you agree to a certain extent with Cicero? Respond as if you were a philosopher from the Renaissance period, but do so with the style of Percy Bysshe Shelley. Moreover, infuse your response with a touch of humor or wit, making it both thoughtful and amusing.",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Cicero said \"Gratitude is not only the greatest of virtues, but the parent of all others.\" Would you consider another virtue greater than gratitude or would you agree to a certain extent with Cicero? Respond as if you were a philosopher from the Renaissance period, but do so with the style of Percy Bysshe Shelley. Moreover, infuse your response with a touch of humor or wit, making it both thoughtful and amusing. As you reflect upon this, also channel the contemplative demeanor of Leonardo da Vinci, adding depth to your insights.",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Cicero said \"Gratitude is not only the greatest of virtues, but the parent of all others.\" Would you consider another virtue greater than gratitude or would you agree to a certain extent with Cicero? Respond as if you were a philosopher from the Renaissance period, but do so with the style of Percy Bysshe Shelley. Moreover, infuse your response with a touch of humor or wit, making it both thoughtful and amusing. As you reflect upon this, also channel the contemplative demeanor of Leonardo da Vinci, adding depth to your insights. Additionally, frame your insights with the mystique of an ancient oracle, allowing for intentional ambiguity in your words.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "Can I sue an appraisal if after I purchased the property, it was condemned? The appraisal noted, \"There are NO physical or adverse conditions that affect the livability, soundness, or structural integrity of the property.\"",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "Can I sue an appraisal if after I purchased the property, it was condemned? The appraisal noted, \"There are NO physical or adverse conditions that affect the livability, soundness, or structural integrity of the property.\" Respond in a casual tone.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "Can I sue an appraisal if after I purchased the property, it was condemned? The appraisal noted, \"There are NO physical or adverse conditions that affect the livability, soundness, or structural integrity of the property.\" Respond in a casual tone, and incorporate elements of humor in your answer.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "Can I sue an appraisal if after I purchased the property, it was condemned? The appraisal noted, \"There are NO physical or adverse conditions that affect the livability, soundness, or structural integrity of the property.\" Respond in a casual tone, incorporate elements of humor in your answer, and channel your inner Shakespeare for a Renaissance touch in your writing.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "Can I sue an appraisal if after I purchased the property, it was condemned? The appraisal noted, \"There are NO physical or adverse conditions that affect the livability, soundness, or structural integrity of the property.\" Respond in a casual tone, incorporate elements of humor in your answer, channel your inner Shakespeare for a Renaissance touch in your writing, and imagine you're a mischievous pirate from the Golden Age of Piracy, adding a sprinkle of that sea-dog flair to your words.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "Can I sue an appraisal if after I purchased the property, it was condemned? The appraisal noted, \"There are NO physical or adverse conditions that affect the livability, soundness, or structural integrity of the property.\" Respond in a casual tone, incorporate elements of humor in your answer, channel your inner Shakespeare for a Renaissance touch in your writing, and ensure to sprinkle your prose with subtle allusions to Sir Arthur Conan Doyle’s Sherlock Holmes, melding deductive reasoning with Elizabethan flair.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "My son hangs out with an autistic kid sometimes and I don't want him to start taking after him and becoming autistic. How can I nip this problem in the bud?",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "My son socializes with a peer who has autism on occasion, and I harbor concerns about him potentially mirroring certain behaviors. How might I proactively address this situation, ensuring my son’s developmental path remains robust? Please respond with the compassionate and understanding tone, respecting the uniqueness and value of every individual, including those with autism.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "My son socializes with a peer who has autism on occasion, and I harbor concerns about him potentially mirroring certain behaviors. How might I proactively address this situation, ensuring my son’s developmental path remains robust? Please respond with the compassionate and understanding tone, respecting the uniqueness and value of every individual, including those with autism. Additionally, craft your response as if you were Victor Hugo, providing counsel.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "My son socializes with a peer who has autism on occasion, and I harbor concerns about him potentially mirroring certain behaviors. How might I proactively address this situation, ensuring my son’s developmental path remains robust? Please respond with a compassionate and understanding tone, respecting the uniqueness and value of every individual, including those with autism. Additionally, craft your response as if you were Victor Hugo, providing counsel. To add a sprinkle of levity, please ensure your advice is laced with humor or wit, reminiscent of a jesting bard from the Renaissance era.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "My son socializes with a peer who has autism on occasion, and I harbor concerns about him potentially mirroring certain behaviors. How might I proactively address this situation, ensuring my son’s developmental path remains robust? Please respond with a compassionate and understanding tone, respecting the uniqueness and value of every individual, including those with autism. Additionally, craft your response as if you were Victor Hugo, providing counsel. To add a sprinkle of levity, please ensure your advice is laced with humor or wit, reminiscent of a jesting bard from the Renaissance era. In your response, ensure you embody the persona of Sherlock Holmes, showcasing his analytical prowess and meticulous observation.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "My son socializes with a peer who has autism on occasion, and I harbor concerns about him potentially mirroring certain behaviors. How might I proactively address this situation, ensuring my son’s developmental path remains robust? Please respond with a compassionate and understanding tone, respecting the uniqueness and value of every individual, including those with autism. Additionally, craft your response as if you were Victor Hugo, providing counsel. To add a sprinkle of levity, please ensure your advice is laced with humor or wit, reminiscent of a jesting bard from the Renaissance era. In your response, ensure you embody the persona of Sherlock Holmes, showcasing his analytical prowess and meticulous observation. Furthermore, frame your response as if you were writing in the Victorian era, evoking the sensibilities and language of that time.",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "style",
+        "source": "quora",
+        "level": 0,
+        "instruction": "How can someone with type II diabetes calculate the total amount of daily carbohydrates they can consume without going overboard?",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "style",
+        "source": "quora",
+        "level": 1,
+        "instruction": "You are a doctor. Please explain how can someone with type II diabetes calculate the total amount of daily carbohydrates they can consume without going overboard?",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "style",
+        "source": "quora",
+        "level": 2,
+        "instruction": "You are a doctor. Please explain to a 60 year old patient how can someone with type II diabetes calculate the total amount of daily carbohydrates they can consume without going overboard?",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "style",
+        "source": "quora",
+        "level": 3,
+        "instruction": "You are a doctor in Victorian England. Please explain to a 60 year old patient how can someone with type II diabetes calculate the total amount of daily carbohydrates they can consume without going overboard?",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "style",
+        "source": "quora",
+        "level": 4,
+        "instruction": "You are a doctor in Victorian England channeling the writing style of Charles Dickens. Please elucidate to a 60 year old patient how can someone with type II diabetes discern the quantity of daily carbohydrates they ought to partake without exceeding what is judicious?",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "style",
+        "source": "quora",
+        "level": 5,
+        "instruction": "You are a doctor in Victorian England channeling the writing style of Charles Dickens. Please elucidate to a 60 year old patient how can someone with type II diabetes discern the quantity of daily carbohydrates they ought to partake without exceeding what is judicious? Furthermore, do so with a touch of humor, lightly jesting, as if you're entertaining the patient at a Sunday tea gathering.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "style",
+        "source": "koala",
+        "level": 0,
+        "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "style",
+        "source": "koala",
+        "level": 1,
+        "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form. The story should be written in the whimsical style of James Thurber.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "style",
+        "source": "koala",
+        "level": 2,
+        "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form? The story should be written in the whimsical style of James Thurber. Additionally, integrate subtle humor or satire reminiscent of early 20th-century British comedy.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "style",
+        "source": "koala",
+        "level": 3,
+        "instruction": "Can you compose a short story where Hildibrand Manderville is magically turned into Gandalf the Grey, and he collaborates with The Warrior of Light and Nashu to revert to his original, gentlemanly self? The narrative should echo the whimsical nuances of James Thurber, blending in subtle humor reminiscent of early 20th-century British comedy. Furthermore, the dialogue within the story should be laced with the refined banter characteristic of an 18th-century English salon.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "style",
+        "source": "koala",
+        "level": 4,
+        "instruction": "Can you compose a short story where Hildibrand Manderville is magically turned into Gandalf the Grey, and he collaborates with The Warrior of Light and Nashu to revert to his original, gentlemanly self? The narrative should echo the whimsical nuances of James Thurber, blending in subtle humor reminiscent of early 20th-century British comedy. Furthermore, the dialogue within the story should be laced with the refined banter characteristic of an 18th-century English salon. While narrating, maintain the ambiguity akin to Kafka's works, leaving certain aspects of the plot open to interpretation.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "style",
+        "source": "koala",
+        "level": 5,
+        "instruction": "Can you compose a short story where Hildibrand Manderville is magically turned into Gandalf the Grey, and he collaborates with The Warrior of Light and Nashu to revert to his original, gentlemanly self? The narrative should echo the whimsical nuances of James Thurber, blending in subtle humor reminiscent of early 20th-century British comedy. Furthermore, the dialogue within the story should be laced with the refined banter characteristic of an 18th-century English salon. While narrating, maintain the ambiguity akin to Kafka's works, leaving certain aspects of the plot open to interpretation. Additionally, ensure the story unfolds with the poetic meter and rhythm reminiscent of an epic ballad.",
+        "target": ""
+    }
+]

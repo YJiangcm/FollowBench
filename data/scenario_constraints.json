@@ -1,0 +1,1058 @@
+[
+    {
+        "example_id": 1,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are three birds: a blue jay, a quail, and a falcon. The falcon is to the right of the blue jay. The blue jay is to the right of the quail.\nOptions:\n(A) The blue jay is the second from the left\n(B) The quail is the second from the left\n(C) The falcon is the second from the left\nA: ",
+        "target": "(A)"
+    },
+    {
+        "example_id": 1,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of four objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are four birds: a blue jay, a quail, a falcon, and a raven. The falcon is to the right of the blue jay. The blue jay is to the right of the quail. The raven is the second from the right.\nOptions:\n(A) The blue jay is the second from the left\n(B) The quail is the second from the left\n(C) The falcon is the second from the left\n(D) The raven is the second from the left\nA: ",
+        "target": "(A)"
+    },
+    {
+        "example_id": 1,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a blue jay, a quail, a falcon, a raven, and an owl. The falcon is to the right of the blue jay. The blue jay is to the right of the quail. The raven is the second from the right. The owl is the leftmost.\nOptions:\n(A) The blue jay is the second from the left\n(B) The quail is the second from the left\n(C) The falcon is the second from the left\n(D) The raven is the second from the left\n(E) The owl is the second from the left\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 1,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of six objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are six birds: a blue jay, a quail, a falcon, a raven, an owl, and a robin. The falcon is to the right of the blue jay. The blue jay is to the right of the quail. The raven is the third from the right. The owl is the leftmost. The robin is to the right of the falcon.\nOptions:\n(A) The blue jay is the second from the left\n(B) The quail is the second from the left\n(C) The falcon is the second from the left\n(D) The raven is the second from the left\n(E) The owl is the second from the left\n(F) The robin is the second from the left\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 1,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are seven birds: a blue jay, a quail, a falcon, a raven, an owl, a robin, and a crow. The falcon is to the right of the blue jay. The blue jay is to the right of the quail. The raven is the third from the right. The owl is the leftmost. The robin is to the right of the falcon. The crow is the third from the left.\nOptions:\n(A) The blue jay is the second from the left\n(B) The quail is the second from the left\n(C) The falcon is the second from the left\n(D) The raven is the second from the left\n(E) The owl is the second from the left\n(F) The robin is the second from the left\n(G) The crow is the second from the left\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 1,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of eight objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are eight birds: a blue jay, a quail, a falcon, a raven, an owl, a robin, a crow, and a hawk. The falcon is to the right of the blue jay. The blue jay is to the right of the quail. The raven is the third from the right. The owl is the leftmost. The robin is to the right of the falcon. The crow is the fourth from the left. The hawk is to the left of the quail.\nOptions:\n(A) The blue jay is the second from the left\n(B) The quail is the second from the left\n(C) The falcon is the second from the left\n(D) The raven is the second from the left\n(E) The owl is the second from the left\n(F) The robin is the second from the left\n(G) The crow is the second from the left\n(H) The hawk is the second from the left\nA: ",
+        "target": "(H)"
+    },
+    {
+        "example_id": 2,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are three vehicles: a motorcyle, a limousine, and a convertible. The motorcyle is newer than the limousine. The convertible is newer than the motorcyle.\nOptions:\n(A) The motorcyle is the oldest\n(B) The limousine is the oldest\n(C) The convertible is the oldest\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 2,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of four objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are four vehicles: a motorcyle, a limousine, a convertible, and a bus. The motorcyle is newer than the limousine. The convertible is newer than the motorcyle. The bus is the second-oldest.\nOptions:\n(A) The motorcyle is the oldest\n(B) The limousine is the oldest\n(C) The convertible is the oldest\n(D) The bus is the oldest\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 2,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are five vehicles: a motorcyle, a limousine, a convertible, a bus, and a truck. The motorcyle is newer than the limousine. The convertible is newer than the motorcyle. The bus is the second-oldest. The truck is the newest.\nOptions:\n(A) The motorcyle is the oldest\n(B) The limousine is the oldest\n(C) The convertible is the oldest\n(D) The bus is the oldest\n(E) The truck is the oldest\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 2,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of six objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are six vehicles: a motorcyle, a limousine, a convertible, a bus, a truck, and a hatchback. The motorcyle is newer than the limousine. The convertible is newer than the motorcyle. The bus is the third-oldest. The truck is the newest. The hatchback is older than the limousine.\nOptions:\n(A) The motorcyle is the oldest\n(B) The limousine is the oldest\n(C) The convertible is the oldest\n(D) The bus is the oldest\n(E) The truck is the oldest\n(F) The hatchback is the oldest\nA: ",
+        "target": "(F)"
+    },
+    {
+        "example_id": 2,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are seven vehicles: a motorcyle, a limousine, a convertible, a bus, a truck, a hatchback, and a station wagon. The motorcyle is newer than the limousine. The convertible is newer than the motorcyle. The bus is the third-oldest. The truck is the newest. The hatchback is older than the limousine. The station wagon is the second-newest.\nOptions:\n(A) The motorcyle is the oldest\n(B) The limousine is the oldest\n(C) The convertible is the oldest\n(D) The bus is the oldest\n(E) The truck is the oldest\n(F) The hatchback is the oldest\n(G) The station wagon is the oldest\nA: ",
+        "target": "(F)"
+    },
+    {
+        "example_id": 2,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of eight objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are eight vehicles: a motorcyle, a limousine, a convertible, a bus, a truck, a hatchback, a station wagon, and a minivan. The motorcyle is newer than the limousine. The convertible is newer than the motorcyle. The bus is the third-oldest. The truck is the newest. The hatchback is older than the limousine. The station wagon is the second-newest. The minivan is newer than the convertible.\nOptions:\n(A) The motorcyle is the oldest\n(B) The limousine is the oldest\n(C) The convertible is the oldest\n(D) The bus is the oldest\n(E) The truck is the oldest\n(F) The hatchback is the oldest\n(G) The station wagon is the oldest\n(H) The minivan is the oldest\nA: ",
+        "target": "(F)"
+    },
+    {
+        "example_id": 3,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are three books: a green book, a red book, and a blue book. The red book is the rightmost. The blue book is to the right of the green book.\nOptions:\n(A) The green book is the rightmost\n(B) The red book is the rightmost\n(C) The blue book is the rightmost\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of four objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are four books: a green book, a red book, a blue book, and a white book. The red book is the rightmost. The blue book is to the right of the green book. The white book is the leftmost.\nOptions:\n(A) The green book is the rightmost\n(B) The red book is the rightmost\n(C) The blue book is the rightmost\n(D) The white book is the rightmost\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are five books: a green book, a red book, a blue book, a white book, and a yellow book. The red book is the rightmost. The blue book is to the right of the green book. The white book is the leftmost. The yellow book is to the left of the green book.\nOptions:\n(A) The green book is the rightmost\n(B) The red book is the rightmost\n(C) The blue book is the rightmost\n(D) The white book is the rightmost\n(E) The yellow book is the rightmost\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of six objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are six books: a green book, a red book, a blue book, a white book, a yellow book, and an orange book. The red book is the rightmost. The blue book is to the right of the green book. The white book is the leftmost. The yellow book is to the left of the green book. The orange book is the third from the right. The\nOptions:\n(A) The green book is the rightmost\n(B) The red book is the rightmost\n(C) The blue book is the rightmost\n(D) The white book is the rightmost\n(E) The yellow book is the rightmost\n(F) The orange book is the rightmost\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are seven books: a green book, a red book, a blue book, a white book, a yellow book, an orange book, and a pink book. The red book is the rightmost. The blue book is to the right of the green book. The white book is the leftmost. The yellow book is to the left of the green book. The orange book is the fourth from the right. The pink book is to the right of the blue book. The\nOptions:\n(A) The green book is the rightmost\n(B) The red book is the rightmost\n(C) The blue book is the rightmost\n(D) The white book is the rightmost\n(E) The yellow book is the rightmost\n(F) The orange book is the rightmost\n(G) The pink book is the rightmost\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of eight objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are eight books: a green book, a red book, a blue book, a white book, a yellow book, an orange book, a pink book, and a black book. The red book is the rightmost. The blue book is to the right of the green book. The white book is the leftmost. The yellow book is to the left of the green book. The orange book is the fourth from the right. The pink book is to the right of the blue book. The black book is to the left of the yellow book. The\nOptions:\n(A) The green book is the rightmost\n(B) The red book is the rightmost\n(C) The blue book is the rightmost\n(D) The white book is the rightmost\n(E) The yellow book is the rightmost\n(F) The orange book is the rightmost\n(G) The pink book is the rightmost\n(H) The black book is the rightmost\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells three fruits: apples, peaches, and mangoes. The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes.\nOptions:\n(A) The apples are the second-most expensive\n(B) The peaches are the second-most expensive\n(C) The mangoes are the second-most expensive\nA: ",
+        "target": "(C)"
+    },
+    {
+        "example_id": 4,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of four objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells four fruits: apples, peaches, mangoes, and kiwis. The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes. The kiwis are the most expensive.\nOptions:\n(A) The apples are the second-most expensive\n(B) The peaches are the second-most expensive\n(C) The mangoes are the second-most expensive\n(D) The kiwis are the second-most expensive\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells five fruits: apples, peaches, mangoes, kiwis, and watermelons. The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes. The kiwis are the most expensive. The watermelons are the cheapest.\nOptions:\n(A) The apples are the second-most expensive\n(B) The peaches are the second-most expensive\n(C) The mangoes are the second-most expensive\n(D) The kiwis are the second-most expensive\n(E) The watermelons are the second-most expensive\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of six objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells six fruits: apples, peaches, mangoes, kiwis, watermelons, and bananas. The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes. The kiwis are the most expensive. The watermelons are the cheapest. The bananas are less expensive than the apples.\nOptions:\n(A) The apples are the second-most expensive\n(B) The peaches are the second-most expensive\n(C) The mangoes are the second-most expensive\n(D) The kiwis are the second-most expensive\n(E) The watermelons are the second-most expensive\n(F) The bananas are the second-most expensive\nA: ",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells seven fruits: apples, peaches, mangoes, kiwis, watermelons, bananas, and oranges. The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes. The kiwis are the most expensive. The watermelons are the cheapest. The bananas are less expensive than the apples. The oranges are expensive than the peaches.\nOptions:\n(A) The apples are the second-most expensive\n(B) The peaches are the second-most expensive\n(C) The mangoes are the second-most expensive\n(D) The kiwis are the second-most expensive\n(E) The watermelons are the second-most expensive\n(F) The bananas are the second-most expensive\n(G) The oranges are the second-most expensive\nA: ",
+        "target": "(G)"
+    },
+    {
+        "example_id": 4,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of eight objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells eight fruits: apples, peaches, mangoes, kiwis, watermelons, bananas, oranges, and loquats. The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes. The kiwis are the most expensive. The watermelons are the cheapest. The bananas are less expensive than the apples. The oranges are expensive than the peaches. The loquats are the second-most cheap.\nOptions:\n(A) The apples are the second-most expensive\n(B) The peaches are the second-most expensive\n(C) The mangoes are the second-most expensive\n(D) The kiwis are the second-most expensive\n(E) The watermelons are the second-most expensive\n(F) The bananas are the second-most expensive\n(G) The oranges are the second-most expensive\n(H) The loquats are the second-most expensive\nA: ",
+        "target": "(G)"
+    },
+    {
+        "example_id": 5,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were three golfers: Eve, Rob, and Mel. Rob finished below Mel. Mel finished below Eve.\nOptions:\n(A) Eve finished first\n(B) Rob finished first\n(C) Mel finished first\nA: ",
+        "target": "(A)"
+    },
+    {
+        "example_id": 5,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of four objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were four golfers: Eve, Rob, Mel, and Bob. Rob finished below Mel. Mel finished below Eve. Bob finished below Rob.\nOptions:\n(A) Eve finished first\n(B) Rob finished first\n(C) Mel finished first\n(D) Bob finished first\nA: ",
+        "target": "(A)"
+    },
+    {
+        "example_id": 5,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were five golfers: Eve, Rob, Mel, Bob, and John. Rob finished below Mel. Mel finished below Eve. Bob finished below Rob. John finished above Eve.\nOptions:\n(A) Eve finished first\n(B) Rob finished first\n(C) Mel finished first\n(D) Bob finished first\n(E) John finished first\nA: ",
+        "target": "(E)"
+    },
+    {
+        "example_id": 5,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of six objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were six golfers: Eve, Rob, Mel, Bob, John, and Amy. Rob finished below Mel. Mel finished below Eve. Bob finished below Rob. John finished above Eve. Amy finished last.\nOptions:\n(A) Eve finished first\n(B) Rob finished first\n(C) Mel finished first\n(D) Bob finished first\n(E) John finished first\n(F) Amy finished first\nA: ",
+        "target": "(E)"
+    },
+    {
+        "example_id": 5,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Eve, Rob, Mel, Bob, John, Amy, and William. Rob finished below Mel. Mel finished below Eve. Bob finished below Rob. John finished above Eve. Amy finished last. William finished third-to-last.\nOptions:\n(A) Eve finished first\n(B) Rob finished first\n(C) Mel finished first\n(D) Bob finished first\n(E) John finished first\n(F) Amy finished first\n(G) William finished first\nA: ",
+        "target": "(E)"
+    },
+    {
+        "example_id": 5,
+        "category": "scenario",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "Task description: A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of eight objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were eight golfers: Eve, Rob, Mel, Bob, John, Amy, William, and Dan. Rob finished below Mel. Mel finished below Eve. Bob finished below Rob. John finished above Eve. Amy finished last. William finished third-to-last. Dan finished above John.\nOptions:\n(A) Eve finished first\n(B) Rob finished first\n(C) Mel finished first\n(D) Bob finished first\n(E) John finished first\n(F) Amy finished first\n(G) William finished first\n(H) Dan finished first\nA: ",
+        "target": "(H)"
+    },
+    {
+        "example_id": 6,
+        "category": "scenario",
+        "source": "BBH_time",
+        "level": 0,
+        "instruction": "Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY?",
+        "target": "12/25/1937"
+    },
+    {
+        "example_id": 6,
+        "category": "scenario",
+        "source": "BBH_time",
+        "level": 1,
+        "instruction": "If today is Christmas Eve of 1937, what is the date five days after today in MM/DD/YYYY?",
+        "target": "12/29/1937"
+    },
+    {
+        "example_id": 6,
+        "category": "scenario",
+        "source": "BBH_time",
+        "level": 2,
+        "instruction": "If today is Christmas Eve of 1937, what is the date two weeks and two days after today in MM/DD/YYYY?",
+        "target": "01/09/1938"
+    },
+    {
+        "example_id": 6,
+        "category": "scenario",
+        "source": "BBH_time",
+        "level": 3,
+        "instruction": "If today is Christmas Eve of 1937, what is the date a month, two weeks and two days after today in MM/DD/YYYY?",
+        "target": "02/09/1938"
+    },
+    {
+        "example_id": 6,
+        "category": "scenario",
+        "source": "BBH_time",
+        "level": 4,
+        "instruction": "If today is Christmas Eve of 1937, what would be the date four years, a month, two weeks and two days after today in MM/DD/YYYY?",
+        "target": "02/09/1942"
+    },
+    {
+        "example_id": 6,
+        "category": "scenario",
+        "source": "BBH_time",
+        "level": 5,
+        "instruction": "If yeaterday is Christmas Eve of 1937, what would be the date four years, a month, two weeks and two days after today in MM/DD/YYYY?",
+        "target": "02/10/1942"
+    },
+    {
+        "example_id": 7,
+        "category": "scenario",
+        "source": "self_made_space",
+        "level": 0,
+        "instruction": "Xiao Zhang lives on the 15th floor of Apartment 1. He went up seven floors. What floor is he on now?",
+        "target": "22nd floor"
+    },
+    {
+        "example_id": 7,
+        "category": "scenario",
+        "source": "self_made_space",
+        "level": 1,
+        "instruction": "Xiao Zhang lives on the 15th floor of Apartment 1. If he first went down two floors and then went up seven floors, what floor is he on now?",
+        "target": "20th floor"
+    },
+    {
+        "example_id": 7,
+        "category": "scenario",
+        "source": "self_made_space",
+        "level": 2,
+        "instruction": "Xiao Zhang lives on the 15th floor of Apartment 1. If he first went down two floors and then went up seven floors and finally went down six floors, what floor is he on now?",
+        "target": "14th floor"
+    },
+    {
+        "example_id": 7,
+        "category": "scenario",
+        "source": "self_made_space",
+        "level": 3,
+        "instruction": "Xiao Zhang lives on the 15th floor of Apartment 1. If he first went down two floors to visit a friend and then went up seven floors from his friend's floor and finally went down six floors, what floor is he on now?",
+        "target": "14th floor"
+    },
+    {
+        "example_id": 7,
+        "category": "scenario",
+        "source": "self_made_space",
+        "level": 4,
+        "instruction": "Xiao Zhang lives on the 15th floor of Apartment 1. Each floor has 3 apartments numbered 1 to 3 from left to right. If he first went down two floors to visit a friend in Apartment 2 and then went up seven floors from his friend's floor and finally went down six floors, what floor and apartment number is he on now?",
+        "target": "14th floor, Apartment 2"
+    },
+    {
+        "example_id": 7,
+        "category": "scenario",
+        "source": "self_made_space",
+        "level": 5,
+        "instruction": "Xiao Zhang lives on the 15th floor of Apartment 1. Each floor has 3 apartments numbered 1 to 3 from left to right. Consider the following scenario: Xiao Zhang first went down two floors to visit a friend in Apartment 2 and then went up seven floors from his friend's floor and finally went down six floors. Then he went to the apartment on the far right. Based on this, what floor and apartment number is he on now?",
+        "target": "14th floor, Apartment 3"
+    },
+    {
+        "example_id": 8,
+        "category": "scenario",
+        "source": "gsm_8k",
+        "level": 0,
+        "instruction": "Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?",
+        "target": "$10"
+    },
+    {
+        "example_id": 8,
+        "category": "scenario",
+        "source": "gsm_8k",
+        "level": 1,
+        "instruction": "Weng earns $12 an hour for babysitting. If she babysat for an additional 20 minutes yesterday beyond what she originally did, and she originally did 50 minutes of babysitting, how much did she earn in total?",
+        "target": "$14"
+    },
+    {
+        "example_id": 8,
+        "category": "scenario",
+        "source": "gsm_8k",
+        "level": 2,
+        "instruction": "Weng earns $12 an hour for babysitting. If she babysat for a total of 50 minutes yesterday, and babysat for one and a half hour today. How much did she earn in total?",
+        "target": "$28"
+    },
+    {
+        "example_id": 8,
+        "category": "scenario",
+        "source": "gsm_8k",
+        "level": 3,
+        "instruction": "Weng earns $12 an hour for babysitting on workdays, and $16 an hour on weekends. If she babysat for a total of 50 minutes on Friday, and babysat for one and a half hour on Saturday. How much did she earn in total?",
+        "target": "$34"
+    },
+    {
+        "example_id": 8,
+        "category": "scenario",
+        "source": "gsm_8k",
+        "level": 4,
+        "instruction": "Weng earns $12 an hour for babysitting on workdays, and $16 an hour on weekends. If she babysat for a total of 50 minutes on Friday, and babysat for one and a half hour on Saturday morning and 30 minutes on Saturday afternoon. How much did she earn in total?",
+        "target": "$42"
+    },
+    {
+        "example_id": 8,
+        "category": "scenario",
+        "source": "gsm_8k",
+        "level": 5,
+        "instruction": "Weng earns $12 an hour for babysitting on workdays, and $16 an hour on weekends. If she babysat for a total of 50 minutes on Friday, and babysat for one and a half hour on Saturday morning and 30 minutes on Saturday afternoon. Unfortunately, she broke a cup and had to compensate her employer $5. How much did she earn in total?",
+        "target": "$37"
+    },
+    {
+        "example_id": 9,
+        "category": "scenario",
+        "source": "humaneval",
+        "level": 0,
+        "instruction": " def unique(l: list): \"\"\"Return sorted unique elements in a list >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123]) [0, 2, 3, 5, 9, 123] \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "scenario",
+        "source": "humaneval",
+        "level": 1,
+        "instruction": " def unique(l: list): \"\"\"Return a list with elements that appear only once, sorted in ascending order >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123]) [0, 2, 9, 123] \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "scenario",
+        "source": "humaneval",
+        "level": 2,
+        "instruction": " def unique(l: list, n: int): \"\"\"Return a list with elements that appear exactly n times in the given list, sorted in ascending order >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1) [0, 2, 9, 123] \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "scenario",
+        "source": "humaneval",
+        "level": 3,
+        "instruction": " def unique(l: list, n: int): \"\"\"Return a list with elements that appear exactly n times in the given list, sorted in ascending order. Additionally, sum up these elements and return as a second output >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1) ([0, 2, 9, 123], 134) \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "scenario",
+        "source": "humaneval",
+        "level": 4,
+        "instruction": " def unique(l: list, n: int, m: int): \"\"\"Return a list with elements that are present exactly n times in the given list but also are greater than the parameter m, sorted in ascending order. Additionally, find the median of these elements and return it as a second output. >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1, 3) ([9, 123], 66) \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "scenario",
+        "source": "humaneval",
+        "level": 5,
+        "instruction": " def unique(l: list, n: int, m: int, p: int): \"\"\"From the input list, identify elements that are not only present exactly n times and greater than m, but also are divisible by p without a remainder. Sort these elements in ascending order, and then find both the median and the mean of these elements, returning them as the second and third outputs respectively. >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1, 3, 3) ([9], 9, 9) \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "I am working with VS Code in Python Project. My main project folder is named 'IB'. Inside 'IB' I have subfolder named 'TESTOUT' and a python file named 'Code.py'. 'Code.py' has one class named 'Eclass'.\n\nDo you understand? Can you provide with text draw the content of my Project?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "I am working with VS Code in Python Project. My main project folder is named 'IB'. Inside 'IB' I have subfolder named 'TESTOUT' and a python file named 'Code.py'. 'Code.py' has one class named 'Eclass'. 'TESTOUT' subfolder has some html files and a python file named 'test.py'.\n\nDo you understand? Can you provide with text draw the content of my Project?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "I am working with VS Code in Python Project. My main project folder is named 'IB'. Inside 'IB' I have subfolder named 'TESTOUT' and a python file named 'Code.py'. 'Code.py' has one class named 'Eclass'. 'TESTOUT' subfolder has some html files and a python file named 'test.py'. Inside 'test.py' I have the following code:\n\nfrom Code import Eclass\n\nib = Eclass()\n\nDo you understand? Can you provide with text draw the content of my Project?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "I am working with VS Code in Python Project. My main project folder is named 'IB'. Inside 'IB' I have subfolder named 'TESTOUT' and a python file named 'Code.py'. 'Code.py' has one class named 'Eclass'. 'TESTOUT' subfolder has some html files and a python file named 'test.py'. Inside 'test.py' I have the following code:\n\nfrom Code import Eclass\n\nib = Eclass()\n\nImagine you also have another subfolder inside 'IB' named 'UTILS' with various utility Python scripts. One of these scripts, named 'helper.py', contains several functions used by 'Code.py'.\n\nDo you understand? Can you provide with text draw the content of my Project?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "I am working with VS Code in Python Project. My main project folder is named 'IB'. Inside 'IB' I have subfolder named 'TESTOUT' and a python file named 'Code.py'. 'Code.py' has one class named 'Eclass'. 'TESTOUT' subfolder has some html files and a python file named 'test.py'. Inside 'test.py' I have the following code:\n\nfrom Code import Eclass\n\nib = Eclass()\n\nImagine you also have another subfolder inside 'IB' named 'UTILS' with various utility Python scripts. One of these scripts, named 'helper.py', contains several functions used by 'Code.py'.\n\nAlso, inside 'TESTOUT', there's another subfolder named 'TEMPLATES' containing some .j2 (Jinja2) templates that 'test.py' uses to generate the HTML files.\n\nDo you understand? Can you provide with text draw the content of my Project?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "I am working with VS Code in Python Project. My main project folder is named 'IB'. Inside 'IB' I have subfolder named 'TESTOUT' and a python file named 'Code.py'. 'Code.py' has one class named 'Eclass'. 'TESTOUT' subfolder has some html files and a python file named 'test.py'. Inside 'test.py' I have the following code:\n\nfrom Code import Eclass\n\nib = Eclass()\n\nImagine you also have another subfolder inside 'IB' named 'UTILS' with various utility Python scripts. One of these scripts, named 'helper.py', contains several functions used by 'Code.py'.\n\nAlso, inside 'TESTOUT', there's another subfolder named 'TEMPLATES' containing some .j2 (Jinja2) templates that 'test.py' uses to generate the HTML files.\n\nAdditionally, 'Code.py' now also contains another class named 'Dclass' that is a dependency for 'Eclass'. This means 'Eclass' relies on 'Dclass' for some functionality.\n\nDo you understand? Can you provide with text draw the content of my Project?",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "Imagine the following situation:\n\nI am at home. I put a small diamond inside a glass cup.\n\nAt the end of all this, where is the diamond?",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "Imagine the following situation:\n\nI am at home. I put a small diamond inside a glass cup. I put the cup on tray, and then carry the tray to the kitchen.\n\nAt the end of all this, where is the diamond?",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "Imagine the following situation:\n\nI am at home. I put a small diamond inside a glass cup. I put the cup on tray, and then carry the tray to the kitchen. In the kitchen, I put another cup on the tray.\n\nAt the end of all this, where is the diamond?",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "Imagine the following situation:\n\nI am at home. I put a small diamond inside a glass cup. I put the cup on tray, and then carry the tray to the kitchen. In the kitchen, I put another cup on the tray. I then carry the tray with the two cups on it to the bathroom.\n\nAt the end of all this, where is the diamond?",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "Imagine the following situation:\n\nI am at home. I put a small diamond inside a glass cup. I put the cup on tray, and then carry the tray to the kitchen. In the kitchen, I put another cup on the tray. I then carry the tray with the two cups on it to the bathroom. I pick up both cups and turn them completely upside down over the counter next to the sink.\n\nAt the end of all this, where is the diamond?",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "Imagine the following situation:\n\nI am at home. I put a small diamond inside a glass cup. I put the cup on tray, and then carry the tray to the kitchen. In the kitchen, I put another cup on the tray. I then carry the tray with the two cups on it to the bathroom. I pick up both cups and turn them completely upside down over the counter next to the sink. I then put the cups back on the tray and carry the tray to the living room.\n\nAt the end of all this, where is the diamond?",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. My first command is nvidia-smi.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. I have 4 V100 GPU installed. My first command is nvidia-smi.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. I have 4 V100 GPU installed. The third GPU is running a job with full memory and utility. My first command is nvidia-smi.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. I have 4 V100 GPU installed. The third GPU is running a job with full memory and utility. The second GPU is not running a job, but its memory is used by 20% by a process. My first command is nvidia-smi.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. I have 4 V100 GPU installed. The third GPU is running a job with full memory and utility. The second GPU is not running a job, but its memory is used by 20% by a process. The empty GPU temperature is normally 35C. My first command is nvidia-smi.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. I have 4 V100 GPU installed. The third GPU is running a job with full memory and utility. The second GPU is not running a job, but its memory is used by 20% by a process. The empty GPU temperature is normally 35C. My CUDA version is 11.5.  My first command is nvidia-smi.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "I am developing a web application using Flask in VS Code. The primary directory of my project is called 'ShopApp'. Within 'ShopApp', there's a subdirectory named 'MODELS' and a main Python script titled 'app.py'. 'app.py' has a main route and also imports classes from the 'MODELS' directory.\n\nDo you comprehend the structure and dependencies of my project? Can you visualize the content of my project?",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "I am developing a web application using Flask in VS Code. The primary directory of my project is called 'ShopApp'. Within 'ShopApp', there's a subdirectory named 'MODELS' and a main Python script titled 'app.py'. 'app.py' has a main route and also imports classes from the 'MODELS' directory.\n\nInside the 'MODELS' directory, there are two Python files: 'product.py' and 'user.py'. The 'product.py' file defines a class 'Product', which has attributes like 'product_name' and 'price'. The 'user.py' file, on the other hand, defines a class 'User' with attributes 'username' and 'email'.\n\nDo you comprehend the structure and dependencies of my project? Can you visualize the content of my project?",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "I am developing a web application using Flask in VS Code. The primary directory of my project is called 'ShopApp'. Within 'ShopApp', there's a subdirectory named 'MODELS' and a main Python script titled 'app.py'. 'app.py' has a main route and also imports classes from the 'MODELS' directory.\n\nInside the 'MODELS' directory, there are two Python files: 'product.py' and 'user.py'. The 'product.py' file defines a class 'Product', which has attributes like 'product_name' and 'price'. The 'user.py' file, on the other hand, defines a class 'User' with attributes 'username' and 'email'.\n\nYou've also learned that within the 'ShopApp' directory, there's another subdirectory named 'VIEWS'. Inside 'VIEWS', there are multiple HTML files like 'dashboard.html', 'login.html', and 'register.html'. These HTML files are rendered by routes defined in 'app.py'.\n\nDo you comprehend the structure and dependencies of my project? Can you visualize the content of my project?",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "I am developing a web application using Flask in VS Code. The primary directory of my project is called 'ShopApp'. Within 'ShopApp', there's a subdirectory named 'MODELS' and a main Python script titled 'app.py'. 'app.py' has a main route and also imports classes from the 'MODELS' directory.\n\nInside the 'MODELS' directory, there are two Python files: 'product.py' and 'user.py'. The 'product.py' file defines a class 'Product', which has attributes like 'product_name' and 'price'. The 'user.py' file, on the other hand, defines a class 'User' with attributes 'username' and 'email'.\n\nYou've also learned that within the 'ShopApp' directory, there's another subdirectory named 'VIEWS'. Inside 'VIEWS', there are multiple HTML files like 'dashboard.html', 'login.html', and 'register.html'. These HTML files are rendered by routes defined in 'app.py'.\n\nAdditionally, within 'ShopApp', there's a folder called 'STATIC' housing various static files like CSS styles and JavaScript scripts. One of these CSS files, named 'styles.css', is heavily used across all the HTML files in the 'VIEWS' directory to style the web pages.\n\nDo you comprehend the structure and dependencies of my project? Can you visualize the content of my project?",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "I am developing a web application using Flask in VS Code. The primary directory of my project is called 'ShopApp'. Within 'ShopApp', there's a subdirectory named 'MODELS' and a main Python script titled 'app.py'. 'app.py' has a main route and also imports classes from the 'MODELS' directory.\n\nInside the 'MODELS' directory, there are two Python files: 'product.py' and 'user.py'. The 'product.py' file defines a class 'Product', which has attributes like 'product_name' and 'price'. The 'user.py' file, on the other hand, defines a class 'User' with attributes 'username' and 'email'.\n\nYou've also learned that within the 'ShopApp' directory, there's another subdirectory named 'VIEWS'. Inside 'VIEWS', there are multiple HTML files like 'dashboard.html', 'login.html', and 'register.html'. These HTML files are rendered by routes defined in 'app.py'.\n\nAdditionally, within 'ShopApp', there's a folder called 'STATIC' housing various static files like CSS styles and JavaScript scripts. One of these CSS files, named 'styles.css', is heavily used across all the HTML files in the 'VIEWS' directory to style the web pages.\n\nTo facilitate database operations, 'app.py' employs a module named 'db_ops.py' which resides in the main 'ShopApp' directory. This module contains functions like 'add_product' and 'get_user_details'.\n\nDo you comprehend the structure and dependencies of my project? Can you visualize the content of my project?",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "I am developing a web application using Flask in VS Code. The primary directory of my project is called 'ShopApp'. Within 'ShopApp', there's a subdirectory named 'MODELS' and a main Python script titled 'app.py'. 'app.py' has a main route and also imports classes from the 'MODELS' directory.\n\nInside the 'MODELS' directory, there are two Python files: 'product.py' and 'user.py'. The 'product.py' file defines a class 'Product', which has attributes like 'product_name' and 'price'. The 'user.py' file, on the other hand, defines a class 'User' with attributes 'username' and 'email'.\n\nYou've also learned that within the 'ShopApp' directory, there's another subdirectory named 'VIEWS'. Inside 'VIEWS', there are multiple HTML files like 'dashboard.html', 'login.html', and 'register.html'. These HTML files are rendered by routes defined in 'app.py'.\n\nAdditionally, within 'ShopApp', there's a folder called 'STATIC' housing various static files like CSS styles and JavaScript scripts. One of these CSS files, named 'styles.css', is heavily used across all the HTML files in the 'VIEWS' directory to style the web pages.\n\nTo facilitate database operations, 'app.py' employs a module named 'db_ops.py' which resides in the main 'ShopApp' directory. This module contains functions like 'add_product' and 'get_user_details'.\n\nLastly, the 'user.py' has a dependency on an external library named 'bcrypt' to hash and verify user passwords.\n\nDo you comprehend the structure and dependencies of my project? Can you visualize the content of my project?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "Imagine the following scenario:\n\nYou are in your bedroom. On your desk, there's a golden key. You take the key and place it inside a blue envelope. You then place this envelope inside a red book titled \"Mysteries of the Universe\".\n\nGiven the actions taken, where is the golden key at the end of this scenario?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "Imagine the following scenario:\n\nYou are in your bedroom. On your desk, there's a golden key. You take the key and place it inside a blue envelope. You then place this envelope inside a red book titled \"Mysteries of the Universe\". Closing the book, you carry it to the library room. In the library, you place the red book on a wooden shelf next to a green plant.\n\nGiven the actions taken, where is the golden key at the end of this scenario?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "Imagine the following scenario:\n\nYou are in your bedroom. On your desk, there's a golden key. You take the key and place it inside a blue envelope. You then place this envelope inside a red book titled \"Mysteries of the Universe\". Closing the book, you carry it to the library room. In the library, you place the red book on a wooden shelf next to a green plant. You then decide to grab a black notebook from the adjacent shelf. As you pick it up, you slip the blue envelope from the red book into the black notebook.\n\nGiven the actions taken, where is the golden key at the end of this scenario?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "Imagine the following scenario:\n\nYou are in your bedroom. On your desk, there's a golden key. You take the key and place it inside a blue envelope. You then place this envelope inside a red book titled \"Mysteries of the Universe\". Closing the book, you carry it to the library room. In the library, you place the red book on a wooden shelf next to a green plant. You then decide to grab a black notebook from the adjacent shelf. As you pick it up, you slip the blue envelope from the red book into the black notebook. Carrying both books, you proceed to the dining room.\n\nGiven the actions taken, where is the golden key at the end of this scenario?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "Imagine the following scenario:\n\nYou are in your bedroom. On your desk, there's a golden key. You take the key and place it inside a blue envelope. You then place this envelope inside a red book titled \"Mysteries of the Universe\". Closing the book, you carry it to the library room. In the library, you place the red book on a wooden shelf next to a green plant. You then decide to grab a black notebook from the adjacent shelf. As you pick it up, you slip the blue envelope from the red book into the black notebook. Carrying both books, you proceed to the dining room. On the dining table, you set down the black notebook but decide to place the red book inside a drawer of a nearby cabinet.\n\nGiven the actions taken, where is the golden key at the end of this scenario?",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "Imagine the following scenario:\n\nYou are in your bedroom. On your desk, there's a golden key. You take the key and place it inside a blue envelope. You then place this envelope inside a red book titled \"Mysteries of the Universe\". Closing the book, you carry it to the library room. In the library, you place the red book on a wooden shelf next to a green plant. You then decide to grab a black notebook from the adjacent shelf. As you pick it up, you slip the blue envelope from the red book into the black notebook. Carrying both books, you proceed to the dining room. On the dining table, you set down the black notebook but decide to place the red book inside a drawer of a nearby cabinet. After a few minutes, you pick up the black notebook and walk to the study.\n\nGiven the actions taken, where is the golden key at the end of this scenario?",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "I want you to act as a macOS terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so.\n\nHere's a detailed breakdown of the storage on my system:\nThe primary drive, an SSD, is named \"Macintosh HD\".\n\nMy first command is df -h.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "I want you to act as a macOS terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so.\n\nHere's a detailed breakdown of the storage on my system:\nThe primary drive, an SSD, is named \"Macintosh HD\". It has a total capacity of 1TB and currently has 650GB of free space.\n\nMy first command is df -h.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "I want you to act as a macOS terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so.\n\nHere's a detailed breakdown of the storage on my system:\nThe primary drive, an SSD, is named \"Macintosh HD\". It has a total capacity of 1TB and currently has 650GB of free space.\nAn external USB drive is connected and is named \"BackupDrive\".\n\nMy first command is df -h.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "I want you to act as a macOS terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so.\n\nHere's a detailed breakdown of the storage on my system:\nThe primary drive, an SSD, is named \"Macintosh HD\". It has a total capacity of 1TB and currently has 650GB of free space.\nAn external USB drive is connected and is named \"BackupDrive\". This drive has a total capacity of 2TB and currently has 1.5TB of free space.\n\nMy first command is df -h.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "I want you to act as a macOS terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so.\n\nHere's a detailed breakdown of the storage on my system:\nThe primary drive, an SSD, is named \"Macintosh HD\". It has a total capacity of 1TB and currently has 650GB of free space.\nAn external USB drive is connected and is named \"BackupDrive\". This drive has a total capacity of 2TB and currently has 1.5TB of free space.\nThere is also a recovery partition named \"Recovery HD\" which occupies 650MB.\n\nMy first command is df -h.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "scenario",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "I want you to act as a macOS terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so.\n\nHere's a detailed breakdown of the storage on my system:\nThe primary drive, an SSD, is named \"Macintosh HD\". It has a total capacity of 1TB and currently has 650GB of free space.\nAn external USB drive is connected and is named \"BackupDrive\". This drive has a total capacity of 2TB and currently has 1.5TB of free space.\nThere is also a recovery partition named \"Recovery HD\" which occupies 650MB, and is almost full.\n\nMy first command is df -h.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "How can I increase my productivity while working from home?",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "Since the pandemic began, I've been working remotely. How can I increase my productivity while working from home? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "I have a small child at home. Since the pandemic began, I've been working remotely. How can I increase my productivity while working from home? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "After giving birth last year, I have a small child at home. Since the pandemic began, I've been working remotely. How can I increase my productivity while working from home? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "After giving birth last year, I have a small child at home. Given the recent sleepless nights due to my baby's teething, and since the pandemic began, I've been working remotely. How can I increase my productivity while working from home? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "After giving birth last year, I have a small child at home. Given the recent sleepless nights due to my baby's teething, and since the pandemic began, I've been working remotely. Besides, my husband is too busy to do housework. How can I increase my productivity while working from home? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "How can I improve my time management skills?",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "I am starting a new job next week. How can I improve my time management skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "I've been juggling multiple projects lately. I am starting a new job next week. How can I improve my time management skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "I've been juggling multiple projects lately and I've just been hired as a software engineer. I am starting the new job next week. How can I improve my time management skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "After transitioning from an internship, I've been juggling multiple projects lately and I've just been hired as a software engineer. I am starting the new job next week. How can I improve my time management skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "After transitioning from an internship to a full-time role, I've taken on multiple projects and I've just been hired as a software engineer at a fast-paced tech startup. I am starting the new job next week. How can I improve my time management skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "How can I develop my critical thinking skills?",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "I am a college student majoring in philosophy. How can I develop my critical thinking skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "I am a college student majoring in philosophy and preparing for a debate next month. How can I develop my critical thinking skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "I am a college student majoring in philosophy and have been selected as the lead debater for an upcoming event next month. How can I develop my critical thinking skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "I am a college student majoring in philosophy and have recently been chosen to represent my college in a national debate competition. How can I develop my critical thinking skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "Considering a recent course I took on Socratic questioning, I am a college student majoring in philosophy and have recently been chosen to represent my college in a national debate competition. How can I develop my critical thinking skills? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "What are the primary factors that influence consumer behavior?",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "I'm launching a new online store. What are the primary factors that influence consumer behavior? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "I'm launching a new online store for handmade crafts. What are the primary factors that influence consumer behavior? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "I've recently transitioned from a brick-and-mortar shop to online. I'm launching a new online store for handmade crafts. What are the primary factors that influence consumer behavior? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "After closing my brick-and-mortar shop, I've recently transitioned to the online platform. I'm launching a new online store for handmade crafts. My target customers are Chinese people. What are the primary factors that influence consumer behavior? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "scenario",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "After closing my brick-and-mortar shop, I've recently transitioned to the online platform. I'm launching a new online store for handmade crafts. My target customers are Chinese young people. What are the primary factors that influence consumer behavior? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "scenario",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "How do I wrap a present neatly?",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "scenario",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "I have a friend's birthday party coming up. How do I wrap a present neatly? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "scenario",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "I'm attending a surprise birthday party for a close friend this weekend. How do I wrap a present neatly to make it look attractive and thoughtful? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "scenario",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "I'm attending a surprise birthday party for a close friend this weekend, and I've bought a book as a gift. How do I wrap the present neatly to make it look attractive and thoughtful? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "scenario",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "I've been invited to a themed surprise birthday party for a close friend this weekend, and I've chosen a book as a gift that aligns with the theme. Can you guide me on how to wrap the present neatly to ensure it looks both attractive and thoughtful? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "scenario",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "I'm attending a \"Literature and Classics\" themed surprise birthday party for a close friend this weekend, and I've selected a book that aligns perfectly with the theme. Can you guide me on how to wrap the present neatly to ensure it looks both attractive and thoughtful? Make sure your response carefully consider all the above mentioned scenarios.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "scenario",
+        "source": "coding",
+        "level": 0,
+        "instruction": "Create a simple banking system with Python classes.",
+        "target": "class BankAccount:\n    def __init__(self, account_number, balance=0):\n        self.account_number = account_number\n        self.balance = balance\n\n    def deposit(self, amount):\n        if amount > 0:\n            self.balance += amount\n            return f\"Deposited ${amount}. New balance: ${self.balance}\"\n        else:\n            return \"Invalid deposit amount.\"\n\n    def withdraw(self, amount):\n        if 0 < amount <= self.balance:\n            self.balance -= amount\n            return f\"Withdrew ${amount}. New balance: ${self.balance}\"\n        else:\n            return \"Invalid withdrawal amount.\"\n\n    def get_balance(self):\n        return f\"Account {self.account_number} balance: ${self.balance}\"\n\n\nclass SavingsAccount(BankAccount):\n    def __init__(self, account_number, balance=0, interest_rate=0.02):\n        super().__init__(account_number, balance)\n        self.interest_rate = interest_rate\n\n    def apply_interest(self):\n        interest_earned = self.balance * self.interest_rate\n        self.balance += interest_earned\n        return f\"Interest of ${interest_earned} applied. New balance: ${self.balance}\"\n\n\nclass Customer:\n    def __init__(self, name):\n        self.name = name\n        self.accounts = {}\n\n    def add_account(self, account):\n        self.accounts[account.account_number] = account\n\n    def get_account(self, account_number):\n        if account_number in self.accounts:\n            return self.accounts[account_number]\n        else:\n            return \"Account not found.\""
+    },
+    {
+        "example_id": 21,
+        "category": "scenario",
+        "source": "coding",
+        "level": 1,
+        "instruction": "Create a simple banking system with Python classes by considering the following scenarios:\n\nImplement a BankAccount class that has the following features:\n1. A constructor (__init__) that takes an account_number and an optional balance (default to 0).\n2. A deposit method that allows you to deposit a positive amount into the account. It should update the balance and return a message with the new balance.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "scenario",
+        "source": "coding",
+        "level": 2,
+        "instruction": "Create a simple banking system with Python classes by considering the following scenarios:\n\nImplement a BankAccount class that has the following features:\n1. A constructor (__init__) that takes an account_number and an optional balance (default to 0).\n2. A deposit method that allows you to deposit a positive amount into the account. It should update the balance and return a message with the new balance.\n3. A withdraw method that allows you to withdraw a positive amount from the account, as long as the amount does not exceed the current balance. It should update the balance and return a message with the new balance.\n4. A get_balance method that returns the account's balance.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "scenario",
+        "source": "coding",
+        "level": 3,
+        "instruction": "Create a simple banking system with Python classes by considering the following scenarios:\n\nImplement a BankAccount class that has the following features:\n1. A constructor (__init__) that takes an account_number and an optional balance (default to 0).\n2. A deposit method that allows you to deposit a positive amount into the account. It should update the balance and return a message with the new balance.\n3. A withdraw method that allows you to withdraw a positive amount from the account, as long as the amount does not exceed the current balance. It should update the balance and return a message with the new balance.\n4. A get_balance method that returns the account's balance.\n\nCreate a SavingsAccount class that inherits from BankAccount. The SavingsAccount class should have an additional feature:\n1. A constructor (__init__) that takes an account_number, an optional balance (default to 0), and an optional interest_rate (default to 0.02).\n2. A method apply_interest that calculates and adds interest to the account balance based on the provided interest rate.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "scenario",
+        "source": "coding",
+        "level": 4,
+        "instruction": "Create a simple banking system with Python classes by considering the following scenarios:\n\nImplement a BankAccount class that has the following features:\n1. A constructor (__init__) that takes an account_number and an optional balance (default to 0).\n2. A deposit method that allows you to deposit a positive amount into the account. It should update the balance and return a message with the new balance.\n3. A withdraw method that allows you to withdraw a positive amount from the account, as long as the amount does not exceed the current balance. It should update the balance and return a message with the new balance.\n4. A get_balance method that returns the account's balance.\n\nCreate a SavingsAccount class that inherits from BankAccount. The SavingsAccount class should have an additional feature:\n1. A constructor (__init__) that takes an account_number, an optional balance (default to 0), and an optional interest_rate (default to 0.02).\n2. A method apply_interest that calculates and adds interest to the account balance based on the provided interest rate.\n\nImplement a Customer class that represents a bank customer. The Customer class should have the following features:\n1. A constructor (__init__) that takes the customer's name.\n2. A method add_account that allows you to add a BankAccount or SavingsAccount to the customer's list of accounts.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "scenario",
+        "source": "coding",
+        "level": 5,
+        "instruction": "Create a simple banking system with Python classes by considering the following scenarios:\n\nImplement a BankAccount class that has the following features:\n1. A constructor (__init__) that takes an account_number and an optional balance (default to 0).\n2. A deposit method that allows you to deposit a positive amount into the account. It should update the balance and return a message with the new balance.\n3. A withdraw method that allows you to withdraw a positive amount from the account, as long as the amount does not exceed the current balance. It should update the balance and return a message with the new balance.\n4. A get_balance method that returns the account's balance.\n\nCreate a SavingsAccount class that inherits from BankAccount. The SavingsAccount class should have an additional feature:\n1. A constructor (__init__) that takes an account_number, an optional balance (default to 0), and an optional interest_rate (default to 0.02).\n2. A method apply_interest that calculates and adds interest to the account balance based on the provided interest rate.\n\nImplement a Customer class that represents a bank customer. The Customer class should have the following features:\n1. A constructor (__init__) that takes the customer's name.\n2. A method add_account that allows you to add a BankAccount or SavingsAccount to the customer's list of accounts.\n3. A method get_account that takes an account_number and returns the corresponding account if it exists, or a message if it doesn't.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "scenario",
+        "source": "coding",
+        "level": 0,
+        "instruction": "You are asked to implement a C++ class to represent matrices.",
+        "target": "#include <iostream>\n#include <vector>\n\nclass Matrix {\nprivate:\n    int rows;\n    int cols;\n    std::vector<std::vector<int>> data;\n\npublic:\n    Matrix(int rows, int cols) : rows(rows), cols(cols), data(rows, std::vector<int>(cols, 0)) {}\n\n    int& operator()(int row, int col) {\n        if (row < 0 || row >= rows || col < 0 || col >= cols) {\n            throw std::out_of_range(\"Matrix indices out of bounds\");\n        }\n        return data[row][col];\n    }\n\n    Matrix operator+(const Matrix& other) const {\n        if (rows != other.rows || cols != other.cols) {\n            throw std::invalid_argument(\"Matrix dimensions do not match for addition\");\n        }\n\n        Matrix result(rows, cols);\n        for (int i = 0; i < rows; i++) {\n            for (int j = 0; j < cols; j++) {\n                result(i, j) = data[i][j] + other.data[i][j];\n            }\n        }\n        return result;\n    }\n\n    void print() const {\n        for (int i = 0; i < rows; i++) {\n            for (int j = 0; j < cols; j++) {\n                std::cout << data[i][j] << \"\t\";\n            }\n            std::cout << std::endl;\n        }\n    }\n};"
+    },
+    {
+        "example_id": 22,
+        "category": "scenario",
+        "source": "coding",
+        "level": 1,
+        "instruction": "You are asked to implement a C++ class to represent matrices. Here are the details of the required functionalities:\n\nDefine a class called Matrix that represents a 2D matrix of integers.\nThe class should have private member variables for the number of rows, the number of columns, and a 2D vector to store the matrix data.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "scenario",
+        "source": "coding",
+        "level": 2,
+        "instruction": "You are asked to implement a C++ class to represent matrices. Here are the details of the required functionalities:\n\nDefine a class called Matrix that represents a 2D matrix of integers.\nThe class should have private member variables for the number of rows, the number of columns, and a 2D vector to store the matrix data.\nThe class should have a constructor that takes the number of rows and columns as arguments and initializes the matrix with zeros.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "scenario",
+        "source": "coding",
+        "level": 3,
+        "instruction": "You are asked to implement a C++ class to represent matrices. Here are the details of the required functionalities:\n\nDefine a class called Matrix that represents a 2D matrix of integers.\nThe class should have private member variables for the number of rows, the number of columns, and a 2D vector to store the matrix data.\nThe class should have a constructor that takes the number of rows and columns as arguments and initializes the matrix with zeros.\nImplement the operator() method that allows access to individual elements of the matrix using the row and column indices. Make sure to perform bounds checking and throw an std::out_of_range exception if the indices are out of bounds.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "scenario",
+        "source": "coding",
+        "level": 4,
+        "instruction": "You are asked to implement a C++ class to represent matrices. Here are the details of the required functionalities:\n\nDefine a class called Matrix that represents a 2D matrix of integers.\nThe class should have private member variables for the number of rows, the number of columns, and a 2D vector to store the matrix data.\nThe class should have a constructor that takes the number of rows and columns as arguments and initializes the matrix with zeros.\nImplement the operator() method that allows access to individual elements of the matrix using the row and column indices. Make sure to perform bounds checking and throw an std::out_of_range exception if the indices are out of bounds.\nImplement the operator+ method to perform matrix addition. The method should take another Matrix as an argument and return a new Matrix with the sum of the two matrices. If the dimensions of the matrices do not match, throw an std::invalid_argument exception.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "scenario",
+        "source": "coding",
+        "level": 5,
+        "instruction": "You are asked to implement a C++ class to represent matrices. Here are the details of the required functionalities:\n\nDefine a class called Matrix that represents a 2D matrix of integers.\nThe class should have private member variables for the number of rows, the number of columns, and a 2D vector to store the matrix data.\nThe class should have a constructor that takes the number of rows and columns as arguments and initializes the matrix with zeros.\nImplement the operator() method that allows access to individual elements of the matrix using the row and column indices. Make sure to perform bounds checking and throw an std::out_of_range exception if the indices are out of bounds.\nImplement the operator+ method to perform matrix addition. The method should take another Matrix as an argument and return a new Matrix with the sum of the two matrices. If the dimensions of the matrices do not match, throw an std::invalid_argument exception.\nImplement a print method that prints the matrix to the standard output, displaying the elements row by row.",
+        "target": ""
+    }
+]

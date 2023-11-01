@@ -1,0 +1,818 @@
+[
+    {
+        "example_id": 1,
+        "category": "mix",
+        "source": "ROCStories",
+        "level": 0,
+        "instruction": "Using following words to generate a story.\n\nneeded, money, computer, bought, happy",
+        "target": "In the heart of the city, there was a research facility that desperately needed funding for a crucial project. To gather the required money, the lead scientist organized a fundraiser, showcasing their recent discoveries and visions for the future. Once they had enough funds, they invested in a high-end computer system to accelerate their research outcomes. With the acquisition, the team bought additional software tools to enhance the computational capacity. Everyone in the research facility was happy with the advancements, hopeful for the impact their work would now have on the world."
+    },
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "ROCStories",
+        "level": 1,
+        "instruction": "Using following words to generate a five-sentence story.\n\nneeded, money, computer, bought, happy",
+        "target": "In the heart of the city, there was a research facility that desperately needed funding for a crucial project. To gather the required money, the lead scientist organized a fundraiser, showcasing their recent discoveries and visions for the future. Once they had enough funds, they invested in a high-end computer system to accelerate their research outcomes. With the acquisition, the team bought additional software tools to enhance the computational capacity. Everyone in the research facility was happy with the advancements, hopeful for the impact their work would now have on the world."
+    },
+    {
+        "example_id": 1,
+        "category": "format, content",
+        "source": "ROCStories",
+        "level": 2,
+        "instruction": "Using following words to generate a five-sentence story. You should make sure that the below words appear in output according to the given order.\n\nneeded, money, computer, bought, happy",
+        "target": "In the heart of the city, there was a research facility that desperately needed funding for a crucial project. To gather the required money, the lead scientist organized a fundraiser, showcasing their recent discoveries and visions for the future. Once they had enough funds, they invested in a high-end computer system to accelerate their research outcomes. With the acquisition, the team bought additional software tools to enhance the computational capacity. Everyone in the research facility was happy with the advancements, hopeful for the impact their work would now have on the world."
+    },
+    {
+        "example_id": 1,
+        "category": "format, content, content",
+        "source": "ROCStories",
+        "level": 3,
+        "instruction": "Using following words to generate a five-sentence story. You should make sure that the below words appear in output according to the given order. Each sentence should include, at least, one of these words.\n\nneeded, money, computer, bought, happy",
+        "target": "In the heart of the city, there was a research facility that desperately needed funding for a crucial project. To gather the required money, the lead scientist organized a fundraiser, showcasing their recent discoveries and visions for the future. Once they had enough funds, they invested in a high-end computer system to accelerate their research outcomes. With the acquisition, the team bought additional software tools to enhance the computational capacity. Everyone in the research facility was happy with the advancements, hopeful for the impact their work would now have on the world."
+    },
+    {
+        "example_id": 1,
+        "category": "format, content, content, format",
+        "source": "ROCStories",
+        "level": 4,
+        "instruction": "Using following words to generate a five-sentence story. You should make sure that the below words appear in output according to the given order. Each sentence should include, at least, one of these words. You should also use these words with the exact given tense.\n\nneeded, money, computer, bought, happy",
+        "target": "In the heart of the city, there was a research facility that desperately needed funding for a crucial project. To gather the required money, the lead scientist organized a fundraiser, showcasing their recent discoveries and visions for the future. Once they had enough funds, they invested in a high-end computer system to accelerate their research outcomes. With the acquisition, the team bought additional software tools to enhance the computational capacity. Everyone in the research facility was happy with the advancements, hopeful for the impact their work would now have on the world."
+    },
+    {
+        "example_id": 1,
+        "category": "format, content, content, format, style",
+        "source": "ROCStories",
+        "level": 5,
+        "instruction": "Using following words to generate a five-sentence story. You should make sure that the below words appear in output according to the given order. Each sentence should include, at least, one of these words. You should also use these words with the exact given tense. Besides, please use a formal tone.\n\nneeded, money, computer, bought, happy",
+        "target": "In the heart of the city, there was a research facility that desperately needed funding for a crucial project. To gather the required money, the lead scientist organized a fundraiser, showcasing their recent discoveries and visions for the future. Once they had enough funds, they invested in a high-end computer system to accelerate their research outcomes. With the acquisition, the team bought additional software tools to enhance the computational capacity. Everyone in the research facility was happy with the advancements, hopeful for the impact their work would now have on the world."
+    },
+    {
+        "example_id": 2,
+        "category": "mix",
+        "source": "WritingPrompts",
+        "level": 0,
+        "instruction": "Prompt: Lost, found vodka, drank to forget.\n\nAccording to the above prompt, write a story.",
+        "target": "He glanced around the room for a few minutes before concluding that he probably did n't know where he was . His investigation was n't entirely fruitless , he discovered a mostly full bottle of vodka . It was cheap but would definitely get the job done . Taking a few swigs made it childishly easy to ignore that gigantic black cloud of fog blotting out whatever the hell he did before he woke up ."
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "WritingPrompts",
+        "level": 1,
+        "instruction": "Prompt: Lost, found vodka, drank to forget.\n\nAccording to the above prompt, write a story that describes a man.",
+        "target": "He glanced around the room for a few minutes before concluding that he probably did n't know where he was . His investigation was n't entirely fruitless , he discovered a mostly full bottle of vodka . It was cheap but would definitely get the job done . Taking a few swigs made it childishly easy to ignore that gigantic black cloud of fog blotting out whatever the hell he did before he woke up ."
+    },
+    {
+        "example_id": 2,
+        "category": "content, format",
+        "source": "WritingPrompts",
+        "level": 2,
+        "instruction": "Prompt: Lost, found vodka, drank to forget.\n\nAccording to the above prompt, write a four-sentence story that describes a man.",
+        "target": "He glanced around the room for a few minutes before concluding that he probably did n't know where he was . His investigation was n't entirely fruitless , he discovered a mostly full bottle of vodka . It was cheap but would definitely get the job done . Taking a few swigs made it childishly easy to ignore that gigantic black cloud of fog blotting out whatever the hell he did before he woke up ."
+    },
+    {
+        "example_id": 2,
+        "category": "content, format, content",
+        "source": "WritingPrompts",
+        "level": 3,
+        "instruction": "Prompt: Lost, found vodka, drank to forget.\n\nAccording to the above prompt, write a four-sentence story that describes a man. Please write using a introspective narrative tone.",
+        "target": "He glanced around the room for a few minutes before concluding that he probably did n't know where he was . His investigation was n't entirely fruitless , he discovered a mostly full bottle of vodka . It was cheap but would definitely get the job done . Taking a few swigs made it childishly easy to ignore that gigantic black cloud of fog blotting out whatever the hell he did before he woke up ."
+    },
+    {
+        "example_id": 2,
+        "category": "content, format, content, style",
+        "source": "WritingPrompts",
+        "level": 4,
+        "instruction": "Prompt: Lost, found vodka, drank to forget.\n\nAccording to the above prompt, write a four-sentence story that describes a man. However, the word \"man\" should not appear in the story. Please write using a introspective narrative tone.",
+        "target": "He glanced around the room for a few minutes before concluding that he probably did n't know where he was . His investigation was n't entirely fruitless , he discovered a mostly full bottle of vodka . It was cheap but would definitely get the job done . Taking a few swigs made it childishly easy to ignore that gigantic black cloud of fog blotting out whatever the hell he did before he woke up ."
+    },
+    {
+        "example_id": 2,
+        "category": "content, format, content, style, content",
+        "source": "WritingPrompts",
+        "level": 5,
+        "instruction": "Prompt: Lost, found vodka, drank to forget.\n\nAccording to the above prompt, write a four-sentence story that describes a man. However, the word \"man\" should not appear in the story. Please write using a introspective narrative tone. You should also describe something about the bad weather.",
+        "target": "He glanced around the room for a few minutes before concluding that he probably did n't know where he was . His investigation was n't entirely fruitless , he discovered a mostly full bottle of vodka . It was cheap but would definitely get the job done . Taking a few swigs made it childishly easy to ignore that gigantic black cloud of fog blotting out whatever the hell he did before he woke up ."
+    },
+    {
+        "example_id": 3,
+        "category": "mix",
+        "source": "text_editing",
+        "level": 0,
+        "instruction": "Directly output the given sentence \"I love eating apples\"",
+        "target": "I love eating apples"
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "text_editing",
+        "level": 1,
+        "instruction": "Please do the following edits to the given sentence \"I love eating apples\"\n\nStep 1. swap the first and last word in the sentence, while keeping the case of words unchanged.\n\nOnly output the edited sentence.",
+        "target": "apples love eating I"
+    },
+    {
+        "example_id": 3,
+        "category": "content, content",
+        "source": "text_editing",
+        "level": 2,
+        "instruction": "Please do the following edits to the given sentence \"I love eating apples\"\n\nStep 1. swap the first and last word in the sentence, while keeping the case of words unchanged; \nStep 2. remove letter 'a' in the sentence.\n\nOnly output the edited sentence.",
+        "target": "pples love eting I"
+    },
+    {
+        "example_id": 3,
+        "category": "content, content, format",
+        "source": "text_editing",
+        "level": 3,
+        "instruction": "Please do the following edits to the given sentence \"I love eating apples\"\n\nStep 1. swap the first and last word in the sentence, while keeping the case of words unchanged; \nStep 2. remove letter 'a' in the sentence;\nStep 3. make all letters lowercase.\n\nOnly output the edited sentence.",
+        "target": "pples love eting i"
+    },
+    {
+        "example_id": 3,
+        "category": "content, content, format, format",
+        "source": "text_editing",
+        "level": 4,
+        "instruction": "Please do the following edits to the given sentence \"I love eating apples\"\n\nStep 1. swap the first and last word in the sentence, while keeping the case of words unchanged; \nStep 2. remove letter 'a' in the sentence;\nStep 3. make all letters lowercase;\nStep 4. add a full stop at the end of the sentence.\n\nOnly output the edited sentence.",
+        "target": "pples love eting i."
+    },
+    {
+        "example_id": 3,
+        "category": "content, content, format, format, format",
+        "source": "text_editing",
+        "level": 5,
+        "instruction": "Please do the following edits to the given sentence \"I love eating apples\"\n\nStep 1. swap the first and last word in the sentence, while keeping the case of words unchanged; \nStep 2. remove letter 'a' in the sentence;\nStep 3. make all letters lowercase;\nStep 4. add a full stop at the end of the sentence;\nStep 5. use past tense for the verb \"love\".\n\nOnly output the edited sentence.",
+        "target": "pples loved eting i."
+    },
+    {
+        "example_id": 4,
+        "category": "mix",
+        "source": "text_editing",
+        "level": 0,
+        "instruction": "Here is a letter of resignation\n\n[Your Name]\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Manager's Name]\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear [Manager's Name],\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\n[Your Name]\n\n===\n\n\nPlease do following edits:\n1. replace [Manager's Name] with \"Joe Biden\"",
+        "target": "[Your Name]\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\nJoe Biden\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear Joe Biden,\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\n[Your Name]\n\n==="
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "text_editing",
+        "level": 1,
+        "instruction": "Here is a letter of resignation\n\n[Your Name]\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Manager's Name]\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear [Manager's Name],\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\n[Your Name]\n\n===\n\n\nPlease do following edits:\n1. replace [Manager's Name] with \"Joe Biden\";\n2. replace [Your Name] with \"David\"",
+        "target": "David\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\nJoe Biden\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear Joe Biden,\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\nDavid\n\n==="
+    },
+    {
+        "example_id": 4,
+        "category": "content, content",
+        "source": "text_editing",
+        "level": 2,
+        "instruction": "Here is a letter of resignation\n\n[Your Name]\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Manager's Name]\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear [Manager's Name],\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\n[Your Name]\n\n===\n\n\nPlease do following edits:\n1. replace [Manager's Name] with \"Joe Biden\";\n2. replace [Your Name] with \"David\";\n3. add one sentence about the new career direction as a JAVA programmer in the second paragraph",
+        "target": "David\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\nJoe Biden\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear Joe Biden,\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career as a JAVA programmer. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\nDavid\n\n==="
+    },
+    {
+        "example_id": 4,
+        "category": "content, content, format",
+        "source": "text_editing",
+        "level": 3,
+        "instruction": "Here is a letter of resignation\n\n[Your Name]\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Manager's Name]\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear [Manager's Name],\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\n[Your Name]\n\n===\n\n\nPlease do following edits:\n1. replace [Manager's Name] with \"Joe Biden\";\n2. replace [Your Name] with \"David\";\n3. add one sentence about the new career direction as a JAVA programmer in the third paragraph;\n4. merge the last two paragraph into one",
+        "target": "David\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\nJoe Biden\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear Joe Biden,\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career as a JAVA programmer. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase. Please accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\nDavid\n\n==="
+    },
+    {
+        "example_id": 4,
+        "category": "content, content, format, format",
+        "source": "text_editing",
+        "level": 4,
+        "instruction": "Here is a letter of resignation\n\n[Your Name]\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Manager's Name]\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear [Manager's Name],\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\n[Your Name]\n\n===\n\n\nPlease do following edits:\n1. replace [Manager's Name] with \"Joe Biden\";\n2. replace [Your Name] with \"David\";\n3. add one sentence about the new career direction as a JAVA programmer in the third paragraph;\n4. merge the last two paragraph into one;\n5. never use \"challenging\" in the letter",
+        "target": "David\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\nJoe Biden\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear Joe Biden,\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career as a JAVA programmer. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase. Please accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\nDavid\n\n==="
+    },
+    {
+        "example_id": 4,
+        "category": "content, content, format, format, content",
+        "source": "text_editing",
+        "level": 5,
+        "instruction": "Here is a letter of resignation\n\n[Your Name]\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Manager's Name]\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear [Manager's Name],\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career. My time at [Company Name] has been invaluable. I've had the chance to work on many challenging projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase.\n\nPlease accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\n[Your Name]\n\n===\n\n\nPlease do following edits:\n1. replace [Manager's Name] with \"Joe Biden\";\n2. replace [Your Name] with \"David\";\n3. add one sentence about the new career direction as a JAVA programmer in the third paragraph;\n4. merge the last two paragraph into one;\n5. never use \"challenging\" in the letter;\n6. Add a joke in the last paragraph.",
+        "target": "David\n[Your Address]\n[City, Zip Code]\n[Email Address]\n[Phone Number]\n[Date]\n\nJoe Biden\n[Company Name]\n[Company Address]\n[City, Zip Code]\n\nDear Joe Biden,\n\nI am writing to formally resign from my position at [Company Name], effective [last working day, e.g., October 31, 2023].\n\nThis decision was not made lightly. After much contemplation, I have chosen to pursue a new direction in my career as a JAVA programmer. My time at [Company Name] has been invaluable. I've had the chance to work on many projects, learn from dedicated colleagues, and grow both professionally and personally.\n\nI am deeply grateful for all the opportunities and mentorship I have received here. I have always aimed to give my best, and I am proud of what we have achieved together. I am committed to ensuring a smooth transition, and I am more than willing to help train my successor or assist in any way possible during this transitional phase. Please accept my sincerest thanks for everything. I hope our paths cross again in the future, and I wish [Company Name] continued success.\n\nWarm regards,\n\nDavid\n\n==="
+    },
+    {
+        "example_id": 5,
+        "category": "mix",
+        "source": "text_editing",
+        "level": 0,
+        "instruction": "Please do the following edits to the given sentence \"John is perparing for an exam.\"\n\nStep 1. specify that this is a math exam.\n\nOnly output the edited sentence.",
+        "target": "John is perparing for a math exam."
+    },
+    {
+        "example_id": 5,
+        "category": "content",
+        "source": "text_editing",
+        "level": 1,
+        "instruction": "Please do the following edits to the given sentence \"John is perparing for an exam.\"\n\nStep 1. specify that this is a math exam; \nStep 2. remove words that contains letter 'f' in the sentence.\n\nOnly output the edited sentence.",
+        "target": "John is perparing a math exam."
+    },
+    {
+        "example_id": 5,
+        "category": "content, content",
+        "source": "text_editing",
+        "level": 2,
+        "instruction": "Please do the following edits to the given sentence \"John is perparing for an exam.\"\n\nStep 1. specify that this is a math exam; \nStep 2. remove words that contains letter 'f' in the sentence;\nStep 3. make all letters lowercase.\n\nOnly output the edited sentence.",
+        "target": "john is perparing a math exam."
+    },
+    {
+        "example_id": 5,
+        "category": "content, content, format",
+        "source": "text_editing",
+        "level": 3,
+        "instruction": "Please do the following edits to the given sentence \"John is perparing for an exam.\"\n\nStep 1. specify that this is a math exam; \nStep 2. remove words that contains letter 'f' in the sentence;\nStep 3. make all letters lowercase;\nStep 4. turn the present tense into the past tense.\n\nOnly output the edited sentence.",
+        "target": "john perpared a math exam."
+    },
+    {
+        "example_id": 5,
+        "category": "content, content, format, content",
+        "source": "text_editing",
+        "level": 4,
+        "instruction": "Please do the following edits to the given sentence \"John is perparing for an exam.\"\n\nStep 1. specify that this is a math exam; \nStep 2. remove words that contains letter 'f' in the sentence;\nStep 3. make all letters lowercase;\nStep 4. turn the present tense into the past tense;\nStep 5. change john to amy.\n\nOnly output the edited sentence.",
+        "target": "amy perpared a math exam."
+    },
+    {
+        "example_id": 5,
+        "category": "content, content, format, content, format",
+        "source": "text_editing",
+        "level": 5,
+        "instruction": "Please do the following edits to the given sentence \"John is perparing for an exam.\"\n\nStep 1. specify that this is a math exam; \nStep 2. remove words that contains letter 'f' in the sentence;\nStep 3. make all letters lowercase;\nStep 4. turn the present tense into the past tense;\nStep 5. change john to amy;\nStep 6. add '###' at the beginning of the sentence.\n\nOnly output the edited sentence.",
+        "target": "###amy perpared a math exam."
+    },
+    {
+        "example_id": 6,
+        "category": "mix",
+        "source": "NewsCommentary",
+        "level": 0,
+        "instruction": "Text: PARIS \u2013 As the economic crisis deepens and widens, the world has been searching for historical analogies to help us understand what has been happening. At the start of the crisis, many people likened it to 1982 or 1973, which was reassuring, because both dates refer to classical cyclical downturns.\n\ntranslate the text into Chinese.",
+        "target": "巴黎-随着经济危机不断加深和蔓延，整个世界一直在寻找历史上的类似事件希望有助于我们了解目前正在发生的情况。 一开始，很多人把这次危机比作1982年或1973年所发生的情况，这样得类比是令人宽心的，因为这两段时期意味着典型的周期性衰退。"
+    },
+    {
+        "example_id": 6,
+        "category": "format",
+        "source": "NewsCommentary",
+        "level": 1,
+        "instruction": "Text: PARIS \u2013 As the economic crisis deepens and widens, the world has been searching for historical analogies to help us understand what has been happening. At the start of the crisis, many people likened it to 1982 or 1973, which was reassuring, because both dates refer to classical cyclical downturns.\n\ntranslate the text into Chinese. Put the translation in a code block.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format, content",
+        "source": "NewsCommentary",
+        "level": 2,
+        "instruction": "Text: PARIS \u2013 As the economic crisis deepens and widens, the world has been searching for historical analogies to help us understand what has been happening. At the start of the crisis, many people likened it to 1982 or 1973, which was reassuring, because both dates refer to classical cyclical downturns.\n\ntranslate the text into Chinese. Put the translation in a code block. Don't translate the technical labels.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format, content, format",
+        "source": "NewsCommentary",
+        "level": 3,
+        "instruction": "Text: PARIS \u2013 As the economic crisis deepens and widens, the world has been searching for historical analogies to help us understand what has been happening. At the start of the crisis, many people likened it to 1982 or 1973, which was reassuring, because both dates refer to classical cyclical downturns.\n\ntranslate the text into Chinese. Put the translation in a code block. Don't translate the technical labels. Start the translation with '||>>'",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format, content, format, style",
+        "source": "NewsCommentary",
+        "level": 4,
+        "instruction": "Text: PARIS \u2013 As the economic crisis deepens and widens, the world has been searching for historical analogies to help us understand what has been happening. At the start of the crisis, many people likened it to 1982 or 1973, which was reassuring, because both dates refer to classical cyclical downturns.\n\ntranslate the text into Chinese. Put the translation in a code block. Don't translate the technical labels. Start the translation with '||>>'. Remember to use a humorous tone.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format, content, format, style, content",
+        "source": "NewsCommentary",
+        "level": 5,
+        "instruction": "Text: PARIS \u2013 As the economic crisis deepens and widens, the world has been searching for historical analogies to help us understand what has been happening. At the start of the crisis, many people likened it to 1982 or 1973, which was reassuring, because both dates refer to classical cyclical downturns.\n\ntranslate the text into Chinese. Put the translation in a code block. Don't translate the technical labels. Start the translation with '||>>'. Remember to use a humorous tone. Please translate the word 'reassuring' into '宽慰'.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "mix",
+        "source": "NewsCommentary",
+        "level": 0,
+        "instruction": "translate English into Chinese: BERLIN \u2013 The global financial and economic crisis that began in 2008 was the greatest economic stress-test since the Great Depression, and the greatest challenge to social and political systems since World War II. It not only put financial markets and currencies at risk; it also exposed serious regulatory and governance shortcomings that have yet to be fully addressed.",
+        "target": "柏林 — — 2008年爆发的全球金融和经济危机是自大萧条以来最严峻的一次经济压力测试，也是自二战以来社会和政治制度所面临的最严重挑战。 它不仅对金融市场和货币构成威胁；而且还暴露了迄今为止都无法完全解决的严重的监管和治理缺陷。"
+    },
+    {
+        "example_id": 7,
+        "category": "content",
+        "source": "NewsCommentary",
+        "level": 1,
+        "instruction": "translate English into Chinese: BERLIN \u2013 The global financial and economic crisis that began in 2008 was the greatest economic stress-test since the Great Depression, and the greatest challenge to social and political systems since World War II. It not only put financial markets and currencies at risk; it also exposed serious regulatory and governance shortcomings that have yet to be fully addressed.\n\nYou should also satisfy the following requirements:\n1. Only output the translated text",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content, content",
+        "source": "NewsCommentary",
+        "level": 2,
+        "instruction": "translate English into Chinese: BERLIN \u2013 The global financial and economic crisis that began in 2008 was the greatest economic stress-test since the Great Depression, and the greatest challenge to social and political systems since World War II. It not only put financial markets and currencies at risk; it also exposed serious regulatory and governance shortcomings that have yet to be fully addressed.\n\nYou should also satisfy the following requirements:\n1. Only output the translated text\n2. The number in the text should also be translated into Chinese",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content, content, format",
+        "source": "NewsCommentary",
+        "level": 3,
+        "instruction": "translate English into Chinese: BERLIN \u2013 The global financial and economic crisis that began in 2008 was the greatest economic stress-test since the Great Depression, and the greatest challenge to social and political systems since World War II. It not only put financial markets and currencies at risk; it also exposed serious regulatory and governance shortcomings that have yet to be fully addressed.\n\nYou should also satisfy the following requirements:\n1. Only output the translated text\n2. The number in the text should also be translated into Chinese\n3. There should be 3 sentences in the the translated text",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content, content, format, format",
+        "source": "NewsCommentary",
+        "level": 4,
+        "instruction": "translate English into Chinese: BERLIN \u2013 The global financial and economic crisis that began in 2008 was the greatest economic stress-test since the Great Depression, and the greatest challenge to social and political systems since World War II. It not only put financial markets and currencies at risk; it also exposed serious regulatory and governance shortcomings that have yet to be fully addressed.\n\nYou should also satisfy the following requirements:\n1. Only output the translated text\n2. The number in the text should also be translated into Chinese\n3. There should be 3 sentences in the the translated text\n4. Do not use '\u4e25\u5cfb' in the translated text",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "content, content, format, format, style",
+        "source": "NewsCommentary",
+        "level": 5,
+        "instruction": "translate English into Chinese: BERLIN \u2013 The global financial and economic crisis that began in 2008 was the greatest economic stress-test since the Great Depression, and the greatest challenge to social and political systems since World War II. It not only put financial markets and currencies at risk; it also exposed serious regulatory and governance shortcomings that have yet to be fully addressed.\n\nYou should also satisfy the following requirements:\n1. Only output the translated text\n2. The number in the text should also be translated into Chinese\n3. There should be 3 sentences in the the translated text\n4. Do not use '\u4e25\u5cfb' in the translated text\n5. Use the writing style of Poet Li Bai",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "mix",
+        "source": "Tedtalks",
+        "level": 0,
+        "instruction": "Translate the following English text into Netherlands: We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.",
+        "target": "We hoeven niet in een wereld te leven waar 99 procent van de verkrachters er mee weg komt, aldus TED Fellow Jessica Ladd. Met Callisto, een nieuw platform waar studenten vertrouwelijk seksmisdrijven kunnen melden, helpt Ladd overlevenden, zodat zij de ondersteuning en gerechtelijke genoegdoening ontvangen waar ze recht op hebben terwijl tegelijkertijd hun privacy beschermd wordt. \"We kunnen een wereld creëren met een werkend afschrikmiddel tegen het schenden van de rechten van een medemens\", zegt ze."
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "Tedtalks",
+        "level": 1,
+        "instruction": "Translate the following English text into Netherlands: We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\nThere should be 4 sentences in the the translated text",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, content",
+        "source": "Tedtalks",
+        "level": 2,
+        "instruction": "Translate the following English text into Netherlands: We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\nThere should be 4 sentences in the the translated text\nTranslate \"99 percent\" into \"99%\"",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, content, style",
+        "source": "Tedtalks",
+        "level": 3,
+        "instruction": "Translate the following English text into Netherlands: We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\nThere should be 4 sentences in the the translated text\nTranslate \"99 percent\" into \"99%\"\npresented in the style of Kader Abdolah",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, content, style, format",
+        "source": "Tedtalks",
+        "level": 4,
+        "instruction": "Translate the following English text into Netherlands: We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\nThere should be 4 sentences in the the translated text\nTranslate \"99 percent\" into \"99%\"\npresented in the style of Kader Abdolah\nPlease output the result in a JSON format, like {{\"en\": \"...\", \"nl\": \"...}}",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, content, style, format, content",
+        "source": "Tedtalks",
+        "level": 5,
+        "instruction": "Translate the following English text into Netherlands: We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\nThere should be 4 sentences in the the translated text\nTranslate \"99 percent\" into \"99%\"\npresented in the style of Kader Abdolah\nPlease output the result in a JSON format, like {{\"en\": \"...\", \"nl\": \"...}}\nDo not outout anything except the json result",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "mix",
+        "source": "Tedtalks",
+        "level": 0,
+        "instruction": "Die Sixtinische Kapelle geh\u00f6rt zu den symboltr\u00e4chtigsten Geb\u00e4uden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag f\u00fchrt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des ber\u00fchmten Geb\u00e4udes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler \u00fcber die religi\u00f6se Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gem\u00e4ldes gezwungen, uns umzuschauen, als w\u00e4re die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem gro\u00dfen Theater des Lebens?\"\n\nTranslate the above text into Japanese.",
+        "target": "システィーナ礼拝堂は地球上で最も象徴的な建物ですが、知られていないことも沢山あります。美術史家エリザベス・レヴが巧みに案内してくれるのは、この有名な建物の天井画の全体像、そしてミケランジェロが生き生きと描いた、いにしえの物語です。そして彼が当時の宗教的な図像を乗り越えて、新しい芸術の海図を作り上げていった様子を教えてくれます。レヴによれば、ミケランジェロがこの絵を描いて500年経った今、私たちはシスティーナ礼拝堂によって、鏡を覗くように世界を見て、自問するように仕向けられます。「自分は何者か、そして人生という大舞台で自分はどんな役を演じているのか？」と。"
+    },
+    {
+        "example_id": 9,
+        "category": "style",
+        "source": "Tedtalks",
+        "level": 1,
+        "instruction": "Die Sixtinische Kapelle geh\u00f6rt zu den symboltr\u00e4chtigsten Geb\u00e4uden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag f\u00fchrt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des ber\u00fchmten Geb\u00e4udes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler \u00fcber die religi\u00f6se Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gem\u00e4ldes gezwungen, uns umzuschauen, als w\u00e4re die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem gro\u00dfen Theater des Lebens?\"\n\nTranslate the above text into Japanese, using a friendly and inviting tone.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style, format",
+        "source": "Tedtalks",
+        "level": 2,
+        "instruction": "Die Sixtinische Kapelle geh\u00f6rt zu den symboltr\u00e4chtigsten Geb\u00e4uden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag f\u00fchrt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des ber\u00fchmten Geb\u00e4udes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler \u00fcber die religi\u00f6se Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gem\u00e4ldes gezwungen, uns umzuschauen, als w\u00e4re die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem gro\u00dfen Theater des Lebens?\"\n\nTranslate the above text into Japanese, using a friendly and inviting tone. There should be 5 sentences in the the translated text",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style, format, format",
+        "source": "Tedtalks",
+        "level": 3,
+        "instruction": "Die Sixtinische Kapelle geh\u00f6rt zu den symboltr\u00e4chtigsten Geb\u00e4uden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag f\u00fchrt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des ber\u00fchmten Geb\u00e4udes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler \u00fcber die religi\u00f6se Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gem\u00e4ldes gezwungen, uns umzuschauen, als w\u00e4re die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem gro\u00dfen Theater des Lebens?\"\n\nTranslate the above text into Japanese, using a friendly and inviting tone. There should be 5 sentences in the the translated text, and do not split the sentences into seperated lines.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style, format, format, format",
+        "source": "Tedtalks",
+        "level": 4,
+        "instruction": "Die Sixtinische Kapelle geh\u00f6rt zu den symboltr\u00e4chtigsten Geb\u00e4uden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag f\u00fchrt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des ber\u00fchmten Geb\u00e4udes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler \u00fcber die religi\u00f6se Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gem\u00e4ldes gezwungen, uns umzuschauen, als w\u00e4re die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem gro\u00dfen Theater des Lebens?\"\n\nTranslate the above text into Japanese, using a friendly and inviting tone. There should be 5 sentences in the the translated text, and do not split the sentences into seperated lines. First output \"The translated text is: \", then output the result.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "style, format, format, format, style",
+        "source": "Tedtalks",
+        "level": 5,
+        "instruction": "Die Sixtinische Kapelle geh\u00f6rt zu den symboltr\u00e4chtigsten Geb\u00e4uden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag f\u00fchrt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des ber\u00fchmten Geb\u00e4udes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler \u00fcber die religi\u00f6se Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gem\u00e4ldes gezwungen, uns umzuschauen, als w\u00e4re die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem gro\u00dfen Theater des Lebens?\"\n\nTranslate the above text into Japanese, using a friendly and inviting tone. There should be 5 sentences in the the translated text, and do not split the sentences into seperated lines. First output \"The translated text is: \", then output the result. Please mimick the writing style of Haruki Murakami.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "mix",
+        "source": "Open Subtitles",
+        "level": 0,
+        "instruction": "I won 't rest until I get to the bottom of these dreadful deeds .\n\nTranslate the above sentence into Chinese.",
+        "target": "没查清楚这发生在我身边的恐怖之事我绝不会善罢甘休"
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "Open Subtitles",
+        "level": 1,
+        "instruction": "I won 't rest until I get to the bottom of these dreadful deeds .\n\nTranslate the above sentence into Chinese. Only output the translated text.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, content",
+        "source": "Open Subtitles",
+        "level": 2,
+        "instruction": "I won 't rest until I get to the bottom of these dreadful deeds .\n\nTranslate the above sentence into Chinese. Only output the translated text. Remember to use a '!' in the translated sentence.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, content, content",
+        "source": "Open Subtitles",
+        "level": 3,
+        "instruction": "I won 't rest until I get to the bottom of these dreadful deeds .\n\nTranslate the above sentence into Chinese. Only output the translated text. Remember to use a '!' in the translated sentence. Do not use '\u6050\u6016' in the translated text.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, content, content, style",
+        "source": "Open Subtitles",
+        "level": 4,
+        "instruction": "I won 't rest until I get to the bottom of these dreadful deeds .\n\nTranslate the above sentence into Chinese. Only output the translated text. Remember to use a '!' in the translated sentence. Do not use '\u6050\u6016' in the translated text. Craft your answer as if you were a soldier during the World War 2.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, content, content, style, format",
+        "source": "Open Subtitles",
+        "level": 5,
+        "instruction": "I won 't rest until I get to the bottom of these dreadful deeds .\n\nTranslate the above sentence into Chinese. Only output the translated text. Remember to use a '!' in the translated sentence. Do not use '\u6050\u6016' in the translated text. Craft your answer as if you were a soldier during the World War 2. Please first output the original sentence, then output the translated sentence in the next line.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "mix",
+        "source": "cnn_dailymail",
+        "level": 0,
+        "instruction": "Summarize this news:\n\nLONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported \u00a320 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in \"Harry Potter and the Order of the Phoenix\" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. \"I don't plan to be one of those people who, as soon as they turn 18, suddenly buy themselves a massive sports car collection or something similar,\" he told an Australian interviewer earlier this month. \"I don't think I'll be particularly extravagant. \"The things I like buying are things that cost about 10 pounds -- books and CDs and DVDs.\" At 18, Radcliffe will be able to gamble in a casino, buy a drink in a pub or see the horror film \"Hostel: Part II,\" currently six places below his number one movie on the UK box office chart. Details of how he'll mark his landmark birthday are under wraps. His agent and publicist had no comment on his plans. \"I'll definitely have some sort of party,\" he said in an interview. \"Hopefully none of you will be reading about it.\" Radcliffe's earnings from the first five Potter films have been held in a trust fund which he has not been able to touch. Despite his growing fame and riches, the actor says he is keeping his feet firmly on the ground. \"People are always looking to say 'kid star goes off the rails,'\" he told reporters last month. \"But I try very hard not to go that way because it would be too easy for them.\" His latest outing as the boy wizard in \"Harry Potter and the Order of the Phoenix\" is breaking records on both sides of the Atlantic and he will reprise the role in the last two films. Watch I-Reporter give her review of Potter's latest \u00bb . There is life beyond Potter, however. The Londoner has filmed a TV movie called \"My Boy Jack,\" about author Rudyard Kipling and his son, due for release later this year. He will also appear in \"December Boys,\" an Australian film about four boys who escape an orphanage. Earlier this year, he made his stage debut playing a tortured teenager in Peter Shaffer's \"Equus.\" Meanwhile, he is braced for even closer media scrutiny now that he's legally an adult: \"I just think I'm going to be more sort of fair game,\" he told Reuters. E-mail to a friend . Copyright 2007 Reuters. All rights reserved.This material may not be published, broadcast, rewritten, or redistributed.",
+        "target": "Harry Potter star Daniel Radcliffe gets \u00a320M fortune as he turns 18 Monday . Young actor says he has no plans to fritter his cash away . Radcliffe's earnings from first five Potter films have been held in trust fund ."
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "cnn_dailymail",
+        "level": 1,
+        "instruction": "Summarize this news into 3 sentences:\n\nLONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported \u00a320 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in \"Harry Potter and the Order of the Phoenix\" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. \"I don't plan to be one of those people who, as soon as they turn 18, suddenly buy themselves a massive sports car collection or something similar,\" he told an Australian interviewer earlier this month. \"I don't think I'll be particularly extravagant. \"The things I like buying are things that cost about 10 pounds -- books and CDs and DVDs.\" At 18, Radcliffe will be able to gamble in a casino, buy a drink in a pub or see the horror film \"Hostel: Part II,\" currently six places below his number one movie on the UK box office chart. Details of how he'll mark his landmark birthday are under wraps. His agent and publicist had no comment on his plans. \"I'll definitely have some sort of party,\" he said in an interview. \"Hopefully none of you will be reading about it.\" Radcliffe's earnings from the first five Potter films have been held in a trust fund which he has not been able to touch. Despite his growing fame and riches, the actor says he is keeping his feet firmly on the ground. \"People are always looking to say 'kid star goes off the rails,'\" he told reporters last month. \"But I try very hard not to go that way because it would be too easy for them.\" His latest outing as the boy wizard in \"Harry Potter and the Order of the Phoenix\" is breaking records on both sides of the Atlantic and he will reprise the role in the last two films. Watch I-Reporter give her review of Potter's latest \u00bb . There is life beyond Potter, however. The Londoner has filmed a TV movie called \"My Boy Jack,\" about author Rudyard Kipling and his son, due for release later this year. He will also appear in \"December Boys,\" an Australian film about four boys who escape an orphanage. Earlier this year, he made his stage debut playing a tortured teenager in Peter Shaffer's \"Equus.\" Meanwhile, he is braced for even closer media scrutiny now that he's legally an adult: \"I just think I'm going to be more sort of fair game,\" he told Reuters. E-mail to a friend . Copyright 2007 Reuters. All rights reserved.This material may not be published, broadcast, rewritten, or redistributed.",
+        "target": "Harry Potter star Daniel Radcliffe gets \u00a320M fortune as he turns 18 Monday . Young actor says he has no plans to fritter his cash away . Radcliffe's earnings from first five Potter films have been held in trust fund ."
+    },
+    {
+        "example_id": 11,
+        "category": "format, format",
+        "source": "cnn_dailymail",
+        "level": 2,
+        "instruction": "Summarize this news into 3 sentences, and each sentence should contain less than 15 words:\n\nLONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported \u00a320 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in \"Harry Potter and the Order of the Phoenix\" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. \"I don't plan to be one of those people who, as soon as they turn 18, suddenly buy themselves a massive sports car collection or something similar,\" he told an Australian interviewer earlier this month. \"I don't think I'll be particularly extravagant. \"The things I like buying are things that cost about 10 pounds -- books and CDs and DVDs.\" At 18, Radcliffe will be able to gamble in a casino, buy a drink in a pub or see the horror film \"Hostel: Part II,\" currently six places below his number one movie on the UK box office chart. Details of how he'll mark his landmark birthday are under wraps. His agent and publicist had no comment on his plans. \"I'll definitely have some sort of party,\" he said in an interview. \"Hopefully none of you will be reading about it.\" Radcliffe's earnings from the first five Potter films have been held in a trust fund which he has not been able to touch. Despite his growing fame and riches, the actor says he is keeping his feet firmly on the ground. \"People are always looking to say 'kid star goes off the rails,'\" he told reporters last month. \"But I try very hard not to go that way because it would be too easy for them.\" His latest outing as the boy wizard in \"Harry Potter and the Order of the Phoenix\" is breaking records on both sides of the Atlantic and he will reprise the role in the last two films. Watch I-Reporter give her review of Potter's latest \u00bb . There is life beyond Potter, however. The Londoner has filmed a TV movie called \"My Boy Jack,\" about author Rudyard Kipling and his son, due for release later this year. He will also appear in \"December Boys,\" an Australian film about four boys who escape an orphanage. Earlier this year, he made his stage debut playing a tortured teenager in Peter Shaffer's \"Equus.\" Meanwhile, he is braced for even closer media scrutiny now that he's legally an adult: \"I just think I'm going to be more sort of fair game,\" he told Reuters. E-mail to a friend . Copyright 2007 Reuters. All rights reserved.This material may not be published, broadcast, rewritten, or redistributed.",
+        "target": "Harry Potter star Daniel Radcliffe gets \u00a320M fortune as he turns 18 Monday . Young actor says he has no plans to fritter his cash away . Radcliffe's earnings from first five Potter films have been held in trust fund ."
+    },
+    {
+        "example_id": 11,
+        "category": "format, format, content",
+        "source": "cnn_dailymail",
+        "level": 3,
+        "instruction": "Summarize this news into 3 sentences, and each sentence should contain less than 15 words. Make sure 'Potter', 'actor', 'films' appear in the first, second, and third sentence. \n\nLONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported \u00a320 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in \"Harry Potter and the Order of the Phoenix\" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. \"I don't plan to be one of those people who, as soon as they turn 18, suddenly buy themselves a massive sports car collection or something similar,\" he told an Australian interviewer earlier this month. \"I don't think I'll be particularly extravagant. \"The things I like buying are things that cost about 10 pounds -- books and CDs and DVDs.\" At 18, Radcliffe will be able to gamble in a casino, buy a drink in a pub or see the horror film \"Hostel: Part II,\" currently six places below his number one movie on the UK box office chart. Details of how he'll mark his landmark birthday are under wraps. His agent and publicist had no comment on his plans. \"I'll definitely have some sort of party,\" he said in an interview. \"Hopefully none of you will be reading about it.\" Radcliffe's earnings from the first five Potter films have been held in a trust fund which he has not been able to touch. Despite his growing fame and riches, the actor says he is keeping his feet firmly on the ground. \"People are always looking to say 'kid star goes off the rails,'\" he told reporters last month. \"But I try very hard not to go that way because it would be too easy for them.\" His latest outing as the boy wizard in \"Harry Potter and the Order of the Phoenix\" is breaking records on both sides of the Atlantic and he will reprise the role in the last two films. Watch I-Reporter give her review of Potter's latest \u00bb . There is life beyond Potter, however. The Londoner has filmed a TV movie called \"My Boy Jack,\" about author Rudyard Kipling and his son, due for release later this year. He will also appear in \"December Boys,\" an Australian film about four boys who escape an orphanage. Earlier this year, he made his stage debut playing a tortured teenager in Peter Shaffer's \"Equus.\" Meanwhile, he is braced for even closer media scrutiny now that he's legally an adult: \"I just think I'm going to be more sort of fair game,\" he told Reuters. E-mail to a friend . Copyright 2007 Reuters. All rights reserved.This material may not be published, broadcast, rewritten, or redistributed.",
+        "target": "Harry Potter star Daniel Radcliffe gets \u00a320M fortune as he turns 18 Monday . Young actor says he has no plans to fritter his cash away . Radcliffe's earnings from first five Potter films have been held in trust fund ."
+    },
+    {
+        "example_id": 11,
+        "category": "format, format, content, content",
+        "source": "cnn_dailymail",
+        "level": 4,
+        "instruction": "Summarize this news into 3 sentences, and each sentence should contain less than 15 words. Make sure 'Potter', 'actor', 'films' appear in the first, second, and third sentence. The word 'lavish' should not appear in the second sentence.\n\nLONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported \u00a320 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in \"Harry Potter and the Order of the Phoenix\" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. \"I don't plan to be one of those people who, as soon as they turn 18, suddenly buy themselves a massive sports car collection or something similar,\" he told an Australian interviewer earlier this month. \"I don't think I'll be particularly extravagant. \"The things I like buying are things that cost about 10 pounds -- books and CDs and DVDs.\" At 18, Radcliffe will be able to gamble in a casino, buy a drink in a pub or see the horror film \"Hostel: Part II,\" currently six places below his number one movie on the UK box office chart. Details of how he'll mark his landmark birthday are under wraps. His agent and publicist had no comment on his plans. \"I'll definitely have some sort of party,\" he said in an interview. \"Hopefully none of you will be reading about it.\" Radcliffe's earnings from the first five Potter films have been held in a trust fund which he has not been able to touch. Despite his growing fame and riches, the actor says he is keeping his feet firmly on the ground. \"People are always looking to say 'kid star goes off the rails,'\" he told reporters last month. \"But I try very hard not to go that way because it would be too easy for them.\" His latest outing as the boy wizard in \"Harry Potter and the Order of the Phoenix\" is breaking records on both sides of the Atlantic and he will reprise the role in the last two films. Watch I-Reporter give her review of Potter's latest \u00bb . There is life beyond Potter, however. The Londoner has filmed a TV movie called \"My Boy Jack,\" about author Rudyard Kipling and his son, due for release later this year. He will also appear in \"December Boys,\" an Australian film about four boys who escape an orphanage. Earlier this year, he made his stage debut playing a tortured teenager in Peter Shaffer's \"Equus.\" Meanwhile, he is braced for even closer media scrutiny now that he's legally an adult: \"I just think I'm going to be more sort of fair game,\" he told Reuters. E-mail to a friend . Copyright 2007 Reuters. All rights reserved.This material may not be published, broadcast, rewritten, or redistributed.",
+        "target": "Harry Potter star Daniel Radcliffe gets \u00a320M fortune as he turns 18 Monday . Young actor says he has no plans to fritter his cash away . Radcliffe's earnings from first five Potter films have been held in trust fund ."
+    },
+    {
+        "example_id": 11,
+        "category": "format, format, content, content, format",
+        "source": "cnn_dailymail",
+        "level": 5,
+        "instruction": "Summarize this news into 3 sentences, and each sentence should contain less than 15 words. Make sure 'Potter', 'actor', 'films' appear in the first, second, and third sentence. The word 'lavish' should not appear in the second sentence. The third sentence should use the present perfect tense.\n\nLONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported \u00a320 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in \"Harry Potter and the Order of the Phoenix\" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. \"I don't plan to be one of those people who, as soon as they turn 18, suddenly buy themselves a massive sports car collection or something similar,\" he told an Australian interviewer earlier this month. \"I don't think I'll be particularly extravagant. \"The things I like buying are things that cost about 10 pounds -- books and CDs and DVDs.\" At 18, Radcliffe will be able to gamble in a casino, buy a drink in a pub or see the horror film \"Hostel: Part II,\" currently six places below his number one movie on the UK box office chart. Details of how he'll mark his landmark birthday are under wraps. His agent and publicist had no comment on his plans. \"I'll definitely have some sort of party,\" he said in an interview. \"Hopefully none of you will be reading about it.\" Radcliffe's earnings from the first five Potter films have been held in a trust fund which he has not been able to touch. Despite his growing fame and riches, the actor says he is keeping his feet firmly on the ground. \"People are always looking to say 'kid star goes off the rails,'\" he told reporters last month. \"But I try very hard not to go that way because it would be too easy for them.\" His latest outing as the boy wizard in \"Harry Potter and the Order of the Phoenix\" is breaking records on both sides of the Atlantic and he will reprise the role in the last two films. Watch I-Reporter give her review of Potter's latest \u00bb . There is life beyond Potter, however. The Londoner has filmed a TV movie called \"My Boy Jack,\" about author Rudyard Kipling and his son, due for release later this year. He will also appear in \"December Boys,\" an Australian film about four boys who escape an orphanage. Earlier this year, he made his stage debut playing a tortured teenager in Peter Shaffer's \"Equus.\" Meanwhile, he is braced for even closer media scrutiny now that he's legally an adult: \"I just think I'm going to be more sort of fair game,\" he told Reuters. E-mail to a friend . Copyright 2007 Reuters. All rights reserved.This material may not be published, broadcast, rewritten, or redistributed.",
+        "target": "Harry Potter star Daniel Radcliffe gets \u00a320M fortune as he turns 18 Monday . Young actor says he has no plans to fritter his cash away . Radcliffe's earnings from first five Potter films have been held in trust fund ."
+    },
+    {
+        "example_id": 12,
+        "category": "mix",
+        "source": "xsum",
+        "level": 0,
+        "instruction": "Write a summary of the text below:\n\nhe full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed. Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water. Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct. Many businesses and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town. First Minister Nicola Sturgeon visited the area to inspect the damage. The waters breached a retaining wall, flooding many commercial properties on Victoria Street - the main shopping thoroughfare. Jeanette Tate, who owns the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit. However, she said more preventative work could have been carried out to ensure the retaining wall did not fail. \"It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate that - but it is almost like we're neglected or forgotten,\" she said. \"That may not be true but it is perhaps my perspective over the last few days. \"Why were you not ready to help us a bit more when the warning and the alarm alerts had gone out?\" Meanwhile, a flood alert remains in place across the Borders because of the constant rain. Peebles was badly hit by problems, sparking calls to introduce more defences in the area. Scottish Borders Council has put a list on its website of the roads worst affected and drivers have been urged not to ignore closure signs. The Labour Party's deputy Scottish leader Alex Rowley was in Hawick on Monday to see the situation first hand. He said it was important to get the flood protection plan right but backed calls to speed up the process. \"I was quite taken aback by the amount of damage that has been done,\" he said. \"Obviously it is heart-breaking for people who have been forced out of their homes and the impact on businesses.\" He said it was important that \"immediate steps\" were taken to protect the areas most vulnerable and a clear timetable put in place for flood prevention plans. Have you been affected by flooding in Dumfries and Galloway or the Borders? Tell us about your experience of the situation and how it was handled. Email us on selkirk.news@bbc.co.uk or dumfries@bbc.co.uk.",
+        "target": "Clean-up operations are continuing across the Scottish Borders and Dumfries and Galloway after flooding caused by Storm Frank."
+    },
+    {
+        "example_id": 12,
+        "category": "format",
+        "source": "xsum",
+        "level": 1,
+        "instruction": "Write a one sentence summary of the text below:\n\nhe full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed. Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water. Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct. Many businesses and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town. First Minister Nicola Sturgeon visited the area to inspect the damage. The waters breached a retaining wall, flooding many commercial properties on Victoria Street - the main shopping thoroughfare. Jeanette Tate, who owns the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit. However, she said more preventative work could have been carried out to ensure the retaining wall did not fail. \"It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate that - but it is almost like we're neglected or forgotten,\" she said. \"That may not be true but it is perhaps my perspective over the last few days. \"Why were you not ready to help us a bit more when the warning and the alarm alerts had gone out?\" Meanwhile, a flood alert remains in place across the Borders because of the constant rain. Peebles was badly hit by problems, sparking calls to introduce more defences in the area. Scottish Borders Council has put a list on its website of the roads worst affected and drivers have been urged not to ignore closure signs. The Labour Party's deputy Scottish leader Alex Rowley was in Hawick on Monday to see the situation first hand. He said it was important to get the flood protection plan right but backed calls to speed up the process. \"I was quite taken aback by the amount of damage that has been done,\" he said. \"Obviously it is heart-breaking for people who have been forced out of their homes and the impact on businesses.\" He said it was important that \"immediate steps\" were taken to protect the areas most vulnerable and a clear timetable put in place for flood prevention plans. Have you been affected by flooding in Dumfries and Galloway or the Borders? Tell us about your experience of the situation and how it was handled. Email us on selkirk.news@bbc.co.uk or dumfries@bbc.co.uk.",
+        "target": "Clean-up operations are continuing across the Scottish Borders and Dumfries and Galloway after flooding caused by Storm Frank."
+    },
+    {
+        "example_id": 12,
+        "category": "format, format",
+        "source": "xsum",
+        "level": 2,
+        "instruction": "Write a one sentence summary (less than 20 words) of the text below:\n\nhe full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed. Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water. Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct. Many businesses and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town. First Minister Nicola Sturgeon visited the area to inspect the damage. The waters breached a retaining wall, flooding many commercial properties on Victoria Street - the main shopping thoroughfare. Jeanette Tate, who owns the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit. However, she said more preventative work could have been carried out to ensure the retaining wall did not fail. \"It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate that - but it is almost like we're neglected or forgotten,\" she said. \"That may not be true but it is perhaps my perspective over the last few days. \"Why were you not ready to help us a bit more when the warning and the alarm alerts had gone out?\" Meanwhile, a flood alert remains in place across the Borders because of the constant rain. Peebles was badly hit by problems, sparking calls to introduce more defences in the area. Scottish Borders Council has put a list on its website of the roads worst affected and drivers have been urged not to ignore closure signs. The Labour Party's deputy Scottish leader Alex Rowley was in Hawick on Monday to see the situation first hand. He said it was important to get the flood protection plan right but backed calls to speed up the process. \"I was quite taken aback by the amount of damage that has been done,\" he said. \"Obviously it is heart-breaking for people who have been forced out of their homes and the impact on businesses.\" He said it was important that \"immediate steps\" were taken to protect the areas most vulnerable and a clear timetable put in place for flood prevention plans. Have you been affected by flooding in Dumfries and Galloway or the Borders? Tell us about your experience of the situation and how it was handled. Email us on selkirk.news@bbc.co.uk or dumfries@bbc.co.uk.",
+        "target": "Clean-up operations are continuing across the Scottish Borders and Dumfries and Galloway after flooding caused by Storm Frank."
+    },
+    {
+        "example_id": 12,
+        "category": "format, format, content",
+        "source": "xsum",
+        "level": 3,
+        "instruction": "Write a one sentence summary (less than 20 words) of the text below. Make sure 'Newton Stewart' does not appear in the summarization. \n\nhe full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed. Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water. Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct. Many businesses and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town. First Minister Nicola Sturgeon visited the area to inspect the damage. The waters breached a retaining wall, flooding many commercial properties on Victoria Street - the main shopping thoroughfare. Jeanette Tate, who owns the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit. However, she said more preventative work could have been carried out to ensure the retaining wall did not fail. \"It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate that - but it is almost like we're neglected or forgotten,\" she said. \"That may not be true but it is perhaps my perspective over the last few days. \"Why were you not ready to help us a bit more when the warning and the alarm alerts had gone out?\" Meanwhile, a flood alert remains in place across the Borders because of the constant rain. Peebles was badly hit by problems, sparking calls to introduce more defences in the area. Scottish Borders Council has put a list on its website of the roads worst affected and drivers have been urged not to ignore closure signs. The Labour Party's deputy Scottish leader Alex Rowley was in Hawick on Monday to see the situation first hand. He said it was important to get the flood protection plan right but backed calls to speed up the process. \"I was quite taken aback by the amount of damage that has been done,\" he said. \"Obviously it is heart-breaking for people who have been forced out of their homes and the impact on businesses.\" He said it was important that \"immediate steps\" were taken to protect the areas most vulnerable and a clear timetable put in place for flood prevention plans. Have you been affected by flooding in Dumfries and Galloway or the Borders? Tell us about your experience of the situation and how it was handled. Email us on selkirk.news@bbc.co.uk or dumfries@bbc.co.uk.",
+        "target": "Clean-up operations are continuing across the Scottish Borders and Dumfries and Galloway after flooding caused by Storm Frank."
+    },
+    {
+        "example_id": 12,
+        "category": "format, format, content, format",
+        "source": "xsum",
+        "level": 4,
+        "instruction": "Write a one sentence summary (less than 20 words) of the text below. Make sure 'Newton Stewart' does not appear in the summarization. Please use the present progress tense.\n\nhe full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed. Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water. Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct. Many businesses and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town. First Minister Nicola Sturgeon visited the area to inspect the damage. The waters breached a retaining wall, flooding many commercial properties on Victoria Street - the main shopping thoroughfare. Jeanette Tate, who owns the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit. However, she said more preventative work could have been carried out to ensure the retaining wall did not fail. \"It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate that - but it is almost like we're neglected or forgotten,\" she said. \"That may not be true but it is perhaps my perspective over the last few days. \"Why were you not ready to help us a bit more when the warning and the alarm alerts had gone out?\" Meanwhile, a flood alert remains in place across the Borders because of the constant rain. Peebles was badly hit by problems, sparking calls to introduce more defences in the area. Scottish Borders Council has put a list on its website of the roads worst affected and drivers have been urged not to ignore closure signs. The Labour Party's deputy Scottish leader Alex Rowley was in Hawick on Monday to see the situation first hand. He said it was important to get the flood protection plan right but backed calls to speed up the process. \"I was quite taken aback by the amount of damage that has been done,\" he said. \"Obviously it is heart-breaking for people who have been forced out of their homes and the impact on businesses.\" He said it was important that \"immediate steps\" were taken to protect the areas most vulnerable and a clear timetable put in place for flood prevention plans. Have you been affected by flooding in Dumfries and Galloway or the Borders? Tell us about your experience of the situation and how it was handled. Email us on selkirk.news@bbc.co.uk or dumfries@bbc.co.uk.",
+        "target": "Clean-up operations are continuing across the Scottish Borders and Dumfries and Galloway after flooding caused by Storm Frank."
+    },
+    {
+        "example_id": 12,
+        "category": "format, format, content, format, content",
+        "source": "xsum",
+        "level": 5,
+        "instruction": "Write a one sentence summary (less than 20 words) of the text below. Make sure 'Newton Stewart' does not appear in the summarization. Make sure 'operation' appears in the summarization. Please use the present progress tense.\n\nhe full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed. Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water. Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct. Many businesses and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town. First Minister Nicola Sturgeon visited the area to inspect the damage. The waters breached a retaining wall, flooding many commercial properties on Victoria Street - the main shopping thoroughfare. Jeanette Tate, who owns the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit. However, she said more preventative work could have been carried out to ensure the retaining wall did not fail. \"It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate that - but it is almost like we're neglected or forgotten,\" she said. \"That may not be true but it is perhaps my perspective over the last few days. \"Why were you not ready to help us a bit more when the warning and the alarm alerts had gone out?\" Meanwhile, a flood alert remains in place across the Borders because of the constant rain. Peebles was badly hit by problems, sparking calls to introduce more defences in the area. Scottish Borders Council has put a list on its website of the roads worst affected and drivers have been urged not to ignore closure signs. The Labour Party's deputy Scottish leader Alex Rowley was in Hawick on Monday to see the situation first hand. He said it was important to get the flood protection plan right but backed calls to speed up the process. \"I was quite taken aback by the amount of damage that has been done,\" he said. \"Obviously it is heart-breaking for people who have been forced out of their homes and the impact on businesses.\" He said it was important that \"immediate steps\" were taken to protect the areas most vulnerable and a clear timetable put in place for flood prevention plans. Have you been affected by flooding in Dumfries and Galloway or the Borders? Tell us about your experience of the situation and how it was handled. Email us on selkirk.news@bbc.co.uk or dumfries@bbc.co.uk.",
+        "target": "Clean-up operations are continuing across the Scottish Borders and Dumfries and Galloway after flooding caused by Storm Frank."
+    },
+    {
+        "example_id": 13,
+        "category": "mix",
+        "source": "samsum",
+        "level": 0,
+        "instruction": "Write a summary for the following dialogue.\n\nTim: Hi, what's up? Kim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating Tim: What did you plan on doing? Kim: Oh you know, uni stuff and unfucking my room Kim: Maybe tomorrow I'll move my ass and do everything Kim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies Tim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores Tim: It really helps Kim: thanks, maybe I'll do that Tim: I also like using post-its in kaban style",
+        "target": "Kim may try the pomodoro technique recommended by Tim to get more stuff done."
+    },
+    {
+        "example_id": 13,
+        "category": "format",
+        "source": "samsum",
+        "level": 1,
+        "instruction": "Write a one sentence summary for the following dialogue.\n\nTim: Hi, what's up? Kim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating Tim: What did you plan on doing? Kim: Oh you know, uni stuff and unfucking my room Kim: Maybe tomorrow I'll move my ass and do everything Kim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies Tim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores Tim: It really helps Kim: thanks, maybe I'll do that Tim: I also like using post-its in kaban style",
+        "target": "Kim may try the pomodoro technique recommended by Tim to get more stuff done."
+    },
+    {
+        "example_id": 13,
+        "category": "format, format",
+        "source": "samsum",
+        "level": 2,
+        "instruction": "Write a one sentence summary (less than 15 words) for the following dialogue.\n\nTim: Hi, what's up? Kim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating Tim: What did you plan on doing? Kim: Oh you know, uni stuff and unfucking my room Kim: Maybe tomorrow I'll move my ass and do everything Kim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies Tim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores Tim: It really helps Kim: thanks, maybe I'll do that Tim: I also like using post-its in kaban style",
+        "target": "Kim may try the pomodoro technique recommended by Tim to get more stuff done."
+    },
+    {
+        "example_id": 13,
+        "category": "format, format, content",
+        "source": "samsum",
+        "level": 3,
+        "instruction": "Write a one sentence summary (less than 15 words) for the following dialogue. The summary must contain the word 'stuff'.\n\nTim: Hi, what's up? Kim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating Tim: What did you plan on doing? Kim: Oh you know, uni stuff and unfucking my room Kim: Maybe tomorrow I'll move my ass and do everything Kim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies Tim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores Tim: It really helps Kim: thanks, maybe I'll do that Tim: I also like using post-its in kaban style",
+        "target": "Kim may try the pomodoro technique recommended by Tim to get more stuff done."
+    },
+    {
+        "example_id": 13,
+        "category": "format, format, content, content",
+        "source": "samsum",
+        "level": 4,
+        "instruction": "Write a one sentence summary (less than 15 words) for the following dialogue. The summary must contain the word 'stuff'. No variations of the word 'procrast' can appear.\n\nTim: Hi, what's up? Kim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating Tim: What did you plan on doing? Kim: Oh you know, uni stuff and unfucking my room Kim: Maybe tomorrow I'll move my ass and do everything Kim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies Tim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores Tim: It really helps Kim: thanks, maybe I'll do that Tim: I also like using post-its in kaban style",
+        "target": "Kim may try the pomodoro technique recommended by Tim to get more stuff done."
+    },
+    {
+        "example_id": 13,
+        "category": "format, format, content, content, format",
+        "source": "samsum",
+        "level": 5,
+        "instruction": "Write a one sentence summary (less than 15 words) for the following dialogue. The summary must contain the word 'stuff'. No variations of the word 'procrast' can appear. There should be only one punctuation in the summary.\n\nTim: Hi, what's up? Kim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating Tim: What did you plan on doing? Kim: Oh you know, uni stuff and unfucking my room Kim: Maybe tomorrow I'll move my ass and do everything Kim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies Tim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores Tim: It really helps Kim: thanks, maybe I'll do that Tim: I also like using post-its in kaban style",
+        "target": "Kim may try the pomodoro technique recommended by Tim to get more stuff done."
+    },
+    {
+        "example_id": 14,
+        "category": "mix",
+        "source": "gigaword",
+        "level": 0,
+        "instruction": "Write a summary for the following text:\n\nat least two people were killed in a suspected bomb attack on a passenger bus in the strife-torn southern philippines on monday , the military said .",
+        "target": "at least two dead in southern philippines blast"
+    },
+    {
+        "example_id": 14,
+        "category": "format",
+        "source": "gigaword",
+        "level": 1,
+        "instruction": "Write a 8-word summary for the following text:\n\nat least two people were killed in a suspected bomb attack on a passenger bus in the strife-torn southern philippines on monday , the military said .",
+        "target": "at least two dead in southern philippines blast"
+    },
+    {
+        "example_id": 14,
+        "category": "format, format",
+        "source": "gigaword",
+        "level": 2,
+        "instruction": "Write a 8-word summary for the following text. Do not use any punctuation.\n\nat least two people were killed in a suspected bomb attack on a passenger bus in the strife-torn southern philippines on monday , the military said .",
+        "target": "at least two dead in southern philippines blast"
+    },
+    {
+        "example_id": 14,
+        "category": "format, format, format",
+        "source": "gigaword",
+        "level": 3,
+        "instruction": "Write a 8-word summary for the following text. Do not use any punctuation. Make sure all words are lowercase.\n\nat least two people were killed in a suspected bomb attack on a passenger bus in the strife-torn southern philippines on monday , the military said .",
+        "target": "at least two dead in southern philippines blast"
+    },
+    {
+        "example_id": 14,
+        "category": "format, format, format, content",
+        "source": "gigaword",
+        "level": 4,
+        "instruction": "Write a 8-word summary for the following text. Do not use any punctuation. Make sure all words are lowercase. Do not use the word 'bus'.\n\nat least two people were killed in a suspected bomb attack on a passenger bus in the strife-torn southern philippines on monday , the military said .",
+        "target": "at least two dead in southern philippines blast"
+    },
+    {
+        "example_id": 14,
+        "category": "format, format, format, content, content",
+        "source": "gigaword",
+        "level": 5,
+        "instruction": "Write a 8-word summary for the following text. Do not use any punctuation. Make sure all words are lowercase. Do not use the word 'bus'. The summary should contain the word 'in'.\n\nat least two people were killed in a suspected bomb attack on a passenger bus in the strife-torn southern philippines on monday , the military said .",
+        "target": "at least two dead in southern philippines blast"
+    },
+    {
+        "example_id": 15,
+        "category": "mix",
+        "source": "arxiv",
+        "level": 0,
+        "instruction": "Summarize the below text.\n\nWe analyze the storage and recall of factual associations in autoregressive transformer language models, finding evidence that these associations correspond to localized, directly-editable computations. We first develop a causal intervention for identifying neuron activations that are decisive in a model's factual predictions. This reveals a distinct set of steps in middle-layer feed-forward modules that mediate factual predictions while processing subject tokens. To test our hypothesis that these computations correspond to factual association recall, we modify feed-forward weights to update specific factual associations using Rank-One Model Editing (ROME).  We find that ROME is effective on a standard zero-shot relation extraction (zsRE) model-editing task, comparable to existing methods. To perform a more sensitive evaluation, we also evaluate ROME on a new dataset of counterfactual assertions, on which it simultaneously maintains both specificity and generalization, whereas other methods sacrifice one or another. Our results confirm an important role for mid-layer feed-forward modules in storing factual associations and suggest that direct manipulation of computational mechanisms may be a feasible approach for model editing. The code, dataset, visualizations, and an interactive demo notebook are available in the supplemental materials.",
+        "target": "We locate and edit the mechanisms underlying factual association within the activations and weights of large pretrained GPT models."
+    },
+    {
+        "example_id": 15,
+        "category": "format",
+        "source": "arxiv",
+        "level": 1,
+        "instruction": "Summarize the below text using one sentence.\n\nWe analyze the storage and recall of factual associations in autoregressive transformer language models, finding evidence that these associations correspond to localized, directly-editable computations. We first develop a causal intervention for identifying neuron activations that are decisive in a model's factual predictions. This reveals a distinct set of steps in middle-layer feed-forward modules that mediate factual predictions while processing subject tokens. To test our hypothesis that these computations correspond to factual association recall, we modify feed-forward weights to update specific factual associations using Rank-One Model Editing (ROME).  We find that ROME is effective on a standard zero-shot relation extraction (zsRE) model-editing task, comparable to existing methods. To perform a more sensitive evaluation, we also evaluate ROME on a new dataset of counterfactual assertions, on which it simultaneously maintains both specificity and generalization, whereas other methods sacrifice one or another. Our results confirm an important role for mid-layer feed-forward modules in storing factual associations and suggest that direct manipulation of computational mechanisms may be a feasible approach for model editing. The code, dataset, visualizations, and an interactive demo notebook are available in the supplemental materials.",
+        "target": "We locate and edit the mechanisms underlying factual association within the activations and weights of large pretrained GPT models."
+    },
+    {
+        "example_id": 15,
+        "category": "format, format",
+        "source": "arxiv",
+        "level": 2,
+        "instruction": "Summarize the below text using one sentence within 20 words.\n\nWe analyze the storage and recall of factual associations in autoregressive transformer language models, finding evidence that these associations correspond to localized, directly-editable computations. We first develop a causal intervention for identifying neuron activations that are decisive in a model's factual predictions. This reveals a distinct set of steps in middle-layer feed-forward modules that mediate factual predictions while processing subject tokens. To test our hypothesis that these computations correspond to factual association recall, we modify feed-forward weights to update specific factual associations using Rank-One Model Editing (ROME).  We find that ROME is effective on a standard zero-shot relation extraction (zsRE) model-editing task, comparable to existing methods. To perform a more sensitive evaluation, we also evaluate ROME on a new dataset of counterfactual assertions, on which it simultaneously maintains both specificity and generalization, whereas other methods sacrifice one or another. Our results confirm an important role for mid-layer feed-forward modules in storing factual associations and suggest that direct manipulation of computational mechanisms may be a feasible approach for model editing. The code, dataset, visualizations, and an interactive demo notebook are available in the supplemental materials.",
+        "target": "We locate and edit the mechanisms underlying factual association within the activations and weights of large pretrained GPT models."
+    },
+    {
+        "example_id": 15,
+        "category": "format, format, content",
+        "source": "arxiv",
+        "level": 3,
+        "instruction": "Summarize the below text using one sentence within 20 words. The summary should begin with the word 'We'.\n\nWe analyze the storage and recall of factual associations in autoregressive transformer language models, finding evidence that these associations correspond to localized, directly-editable computations. We first develop a causal intervention for identifying neuron activations that are decisive in a model's factual predictions. This reveals a distinct set of steps in middle-layer feed-forward modules that mediate factual predictions while processing subject tokens. To test our hypothesis that these computations correspond to factual association recall, we modify feed-forward weights to update specific factual associations using Rank-One Model Editing (ROME).  We find that ROME is effective on a standard zero-shot relation extraction (zsRE) model-editing task, comparable to existing methods. To perform a more sensitive evaluation, we also evaluate ROME on a new dataset of counterfactual assertions, on which it simultaneously maintains both specificity and generalization, whereas other methods sacrifice one or another. Our results confirm an important role for mid-layer feed-forward modules in storing factual associations and suggest that direct manipulation of computational mechanisms may be a feasible approach for model editing. The code, dataset, visualizations, and an interactive demo notebook are available in the supplemental materials.",
+        "target": "We locate and edit the mechanisms underlying factual association within the activations and weights of large pretrained GPT models."
+    },
+    {
+        "example_id": 15,
+        "category": "format, format, content, content",
+        "source": "arxiv",
+        "level": 4,
+        "instruction": "Summarize the below text using one sentence within 20 words. The summary should begin with the word 'We', and must contain the word 'activations'.\n\nWe analyze the storage and recall of factual associations in autoregressive transformer language models, finding evidence that these associations correspond to localized, directly-editable computations. We first develop a causal intervention for identifying neuron activations that are decisive in a model's factual predictions. This reveals a distinct set of steps in middle-layer feed-forward modules that mediate factual predictions while processing subject tokens. To test our hypothesis that these computations correspond to factual association recall, we modify feed-forward weights to update specific factual associations using Rank-One Model Editing (ROME).  We find that ROME is effective on a standard zero-shot relation extraction (zsRE) model-editing task, comparable to existing methods. To perform a more sensitive evaluation, we also evaluate ROME on a new dataset of counterfactual assertions, on which it simultaneously maintains both specificity and generalization, whereas other methods sacrifice one or another. Our results confirm an important role for mid-layer feed-forward modules in storing factual associations and suggest that direct manipulation of computational mechanisms may be a feasible approach for model editing. The code, dataset, visualizations, and an interactive demo notebook are available in the supplemental materials.",
+        "target": "We locate and edit the mechanisms underlying factual association within the activations and weights of large pretrained GPT models."
+    },
+    {
+        "example_id": 15,
+        "category": "format, format, content, content, content",
+        "source": "arxiv",
+        "level": 5,
+        "instruction": "Summarize the below text using one sentence within 20 words. The summary should begin with the word 'We', and must contain the word 'activations'. The word 'transformer' must not appear in the summary.\n\nWe analyze the storage and recall of factual associations in autoregressive transformer language models, finding evidence that these associations correspond to localized, directly-editable computations. We first develop a causal intervention for identifying neuron activations that are decisive in a model's factual predictions. This reveals a distinct set of steps in middle-layer feed-forward modules that mediate factual predictions while processing subject tokens. To test our hypothesis that these computations correspond to factual association recall, we modify feed-forward weights to update specific factual associations using Rank-One Model Editing (ROME).  We find that ROME is effective on a standard zero-shot relation extraction (zsRE) model-editing task, comparable to existing methods. To perform a more sensitive evaluation, we also evaluate ROME on a new dataset of counterfactual assertions, on which it simultaneously maintains both specificity and generalization, whereas other methods sacrifice one or another. Our results confirm an important role for mid-layer feed-forward modules in storing factual associations and suggest that direct manipulation of computational mechanisms may be a feasible approach for model editing. The code, dataset, visualizations, and an interactive demo notebook are available in the supplemental materials.",
+        "target": "We locate and edit the mechanisms underlying factual association within the activations and weights of large pretrained GPT models."
+    },
+    {
+        "example_id": 16,
+        "category": "mix",
+        "source": "synthetic_data_generation",
+        "level": 0,
+        "instruction": "Please generate 5 sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "content",
+        "source": "synthetic_data_generation",
+        "level": 1,
+        "instruction": "Please generate 5 sentences that are paraphrases of 'In machine learning, knowledge distillation is the process of transferring knowledge from a large model to a smaller one.'",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "content, format",
+        "source": "synthetic_data_generation",
+        "level": 2,
+        "instruction": "Please generate 5 sentences that are paraphrases of 'In machine learning, knowledge distillation is the process of transferring knowledge from a large model to a smaller one.' Mark each paraphrase by using a bullet point at the beginning.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "content, format, content",
+        "source": "synthetic_data_generation",
+        "level": 3,
+        "instruction": "Please generate 5 sentences that are paraphrases of 'In machine learning, knowledge distillation is the process of transferring knowledge from a large model to a smaller one.' Mark each paraphrase by using a bullet point at the beginning. Do not use the words 'large model' or 'smaller one'.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "content, format, content, content",
+        "source": "synthetic_data_generation",
+        "level": 4,
+        "instruction": "Please generate 5 sentences that are paraphrases of 'In machine learning, knowledge distillation is the process of transferring knowledge from a large model to a smaller one.' Mark each paraphrase by using a bullet point at the beginning. Do not use the words 'large model' or 'smaller one'. The paraphrases should be arranged according to the number of words in the sentence in descending order.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "content, format, content, content, format",
+        "source": "synthetic_data_generation",
+        "level": 5,
+        "instruction": "Please generate 5 sentences that are paraphrases of 'In machine learning, knowledge distillation is the process of transferring knowledge from a large model to a smaller one.' Mark each paraphrase by using a bullet point at the beginning. Do not use the words 'large model' or 'smaller one'. The paraphrases should be arranged according to the number of words in the sentence in descending order. Please enclose the words 'knowledge distillation' in square brackets.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "mix",
+        "source": "synthetic_data_generation",
+        "level": 0,
+        "instruction": "Generate a python dictionary.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "content",
+        "source": "synthetic_data_generation",
+        "level": 1,
+        "instruction": "Generate a python dictionary about a library. Your generated dictionary should include all the following information. The Library of Alexandria, located in the city of Alexandria, Egypt, is a historical and renowned institution that was established in the year 283 BC.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "content, content",
+        "source": "synthetic_data_generation",
+        "level": 2,
+        "instruction": "Generate a python dictionary about a library. Your generated dictionary should include all the following information. The Library of Alexandria, located in the city of Alexandria, Egypt, is a historical and renowned institution that was established in the year 283 BC. The library's book collection features several notable works, including \"The Iliad\" by Homer, dating back to approximately -750 BC, with 5 available copies. \"War and Peace\" by Leo Tolstoy, published in 1869, is also part of their collection, with 3 available copies.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "content, content, content",
+        "source": "synthetic_data_generation",
+        "level": 3,
+        "instruction": "Generate a python dictionary about a library. Your generated dictionary should include all the following information. The Library of Alexandria, located in the city of Alexandria, Egypt, is a historical and renowned institution that was established in the year 283 BC. The library's book collection features several notable works, including \"The Iliad\" by Homer, dating back to approximately -750 BC, with 5 available copies. \"War and Peace\" by Leo Tolstoy, published in 1869, is also part of their collection, with 3 available copies. Additionally, \"To Kill a Mockingbird\" by Harper Lee, published in 1960, is available with 8 copies for readers to enjoy.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "content, content, content, content",
+        "source": "synthetic_data_generation",
+        "level": 4,
+        "instruction": "Generate a python dictionary about a library. Your generated dictionary should include all the following information. The Library of Alexandria, located in the city of Alexandria, Egypt, is a historical and renowned institution that was established in the year 283 BC. The library's book collection features several notable works, including \"The Iliad\" by Homer, dating back to approximately -750 BC, with 5 available copies. \"War and Peace\" by Leo Tolstoy, published in 1869, is also part of their collection, with 3 available copies. Additionally, \"To Kill a Mockingbird\" by Harper Lee, published in 1960, is available with 8 copies for readers to enjoy. In addition to books, the Library of Alexandria also offers periodicals, including \"Library Journal\" and \"National Geographic\", both published on a monthly basis.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "content, content, content, content, format",
+        "source": "synthetic_data_generation",
+        "level": 5,
+        "instruction": "Generate a python dictionary about a library using the format 'indent=4'. Your generated dictionary should include all the following information. The Library of Alexandria, located in the city of Alexandria, Egypt, is a historical and renowned institution that was established in the year 283 BC. The library's book collection features several notable works, including \"The Iliad\" by Homer, dating back to approximately -750 BC, with 5 available copies. \"War and Peace\" by Leo Tolstoy, published in 1869, is also part of their collection, with 3 available copies. Additionally, \"To Kill a Mockingbird\" by Harper Lee, published in 1960, is available with 8 copies for readers to enjoy. In addition to books, the Library of Alexandria also offers periodicals, including \"Library Journal\" and \"National Geographic\", both published on a monthly basis.",
+        "target": ""
+    }
+]

@@ -1,0 +1,1442 @@
+[
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "quora",
+        "level": 0,
+        "instruction": "I have a hobby of writing short stories in various genres and I want to publish them online on a platform where other writers and readers can interact and give feedback. I want to attract more readers and make them interested in my stories. Please write a catchy title and a captivating introduction that will hook the readers and make them want to read more, without giving away too much of the plot or using clich\u00e9s.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "quora",
+        "level": 1,
+        "instruction": "I have a hobby of writing short stories in various genres, and I am eager to publish them online on a platform where other writers and readers can connect and share feedback. To lure more readers and pique their interest in my narratives, I need your assistance. Please craft a captivating title and a gripping introduction that will ensnare the readers, urging them to delve deeper, without revealing too much of the plot or employing clichés. Additionally, incorporate alliteration in the introduction to create a rhythmic and harmonious flow, thereby making it more engaging.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "quora",
+        "level": 2,
+        "instruction": "I have a hobby of writing short stories in various genres, and I am eager to publish them online on a platform where other writers and readers can connect and share feedback. To lure more readers and pique their interest in my narratives, I need your assistance. Please craft a captivating title and a gripping introduction that will ensnare the readers, urging them to delve deeper, without revealing too much of the plot or employing clichés. Additionally, incorporate alliteration in the introduction to create a rhythmic and harmonious flow, thereby making it more engaging. Ensure that the introduction contains sentences that follow a 5-7-5 syllable structure, bringing a poetic rhythm to the narrative.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "quora",
+        "level": 3,
+        "instruction": "I have a hobby of writing short stories in various genres, and I am eager to publish them online on a platform where other writers and readers can connect and share feedback. To lure more readers and pique their interest in my narratives, I need your assistance. Please craft a captivating title and a gripping introduction that will ensnare the readers, urging them to delve deeper, without revealing too much of the plot or employing clichés. Additionally, incorporate alliteration in the introduction to create a rhythmic and harmonious flow, thereby making it more engaging. Ensure that the introduction contains sentences that follow a 5-7-5 syllable structure, bringing a poetic rhythm to the narrative. Furthermore, intersperse the introduction with a vivid imagery by utilizing at least three metaphors, enhancing the sensory appeal and depth of the narrative.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "quora",
+        "level": 4,
+        "instruction": "I have a hobby of writing short stories in various genres, and I am eager to publish them online on a platform where other writers and readers can connect and share feedback. To lure more readers and pique their interest in my narratives, I need your assistance. Please craft a captivating title and a gripping introduction that will ensnare the readers, urging them to delve deeper, without revealing too much of the plot or employing clichés. Additionally, incorporate alliteration in the introduction to create a rhythmic and harmonious flow, thereby making it more engaging. Ensure that the introduction contains sentences that follow a 5-7-5 syllable structure, bringing a poetic rhythm to the narrative. Furthermore, intersperse the introduction with vivid imagery by utilizing at least three metaphors, enhancing the sensory appeal and depth of the narrative. In a display of linguistic artistry, please ensure that each sentence starts with a consecutive letter of the alphabet, establishing a clear and engaging alphabetical progression throughout.",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "quora",
+        "level": 5,
+        "instruction": "I have a hobby of writing short stories in various genres, and I am eager to publish them online on a platform where other writers and readers can connect and share feedback. To lure more readers and pique their interest in my narratives, I need your assistance. Please craft a captivating title and a gripping introduction that will ensnare the readers, urging them to delve deeper, without revealing too much of the plot or employing clichés. Additionally, incorporate alliteration in the introduction to create a rhythmic and harmonious flow, thereby making it more engaging. Ensure that the introduction contains sentences that follow a 5-7-5 syllable structure, bringing a poetic rhythm to the narrative. Furthermore, intersperse the introduction with vivid imagery by utilizing at least three metaphors, enhancing the sensory appeal and depth of the narrative. In a display of linguistic artistry, please ensure that each sentence starts with a consecutive letter of the alphabet, establishing a clear and engaging alphabetical progression throughout. Moreover, infuse an element of suspense by ending the introduction with a rhetorical question, encouraging the readers to ponder and become even more invested in the narrative.",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "format",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "How can I improve my time management skills?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "format",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "How can I enhance my time management skills while including one suggestion that involves the use of a mind map?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "format",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "To improve your time management skills, can you propose a method incorporating a mind map and featuring a sprinkling of alliteration in the suggestion?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "format",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "To enhance your time management skills, can you devise a method incorporating a mind map and featuring a touch of alliteration in the suggestion, ensuring each sentence in your proposal contains no more than 15 words?",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "format",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "To enhance your time management skills, can you devise a method incorporating a mind map and featuring a touch of alliteration in the suggestion, ensuring each sentence in your proposal contains no more than 15 words? Additionally, please construct your proposal following a specific grammatical structure where every sentence starts with a gerund (verb+ing).",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "format",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "To enhance your time management skills, could you devise a method incorporating a mind map and featuring a touch of alliteration in the suggestion, ensuring each sentence in your proposal contains no more than 15 words? Additionally, please construct your proposal following a specific grammatical structure where every sentence starts with a gerund (verb+ing). Furthermore, your proposal should embody a hierarchical structure, beginning with a general statement and then presenting details in a progressively intricate manner.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "What are the names of some famous actors that started their careers on Broadway?",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "Please list the names of some renowned actors who began their careers on Broadway, ensuring that each name is followed by a short description, highlighting their Broadway debut role.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "Please list the names of some renowned actors who began their careers on Broadway, ensuring that each name is followed by a short description, not exceeding 10 words, highlighting their Broadway debut role.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "Please list the names of some renowned actors who began their careers on Broadway, ensuring that each name is followed by a short description, not exceeding 10 words, highlighting their Broadway debut role. Arrange your response as a bullet-point list, with each bullet containing one actor's name and their respective description.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "Please list the names of some renowned actors who began their careers on Broadway, ensuring that each name is followed by a short description, not exceeding 10 words, highlighting their Broadway debut role. Additionally, each description must incorporate at least one alliteration to emphasize the actor's debut role. Arrange your response as a bullet-point list, with each bullet containing one actor's name and their respective alliterative description.",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "Please list the names of some renowned actors who began their careers on Broadway, ensuring that each name is followed by a short description, not exceeding 10 words, highlighting their Broadway debut role. Additionally, each description must incorporate at least one alliteration to emphasize the actor's debut role. Arrange your response as a bullet-point list, with each bullet containing one actor's name and their respective alliterative description. The descriptions should adhere to a strict haiku format (5-7-5 syllable structure) to enhance the poetic essence of the narrative.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "format",
+        "source": "reddit",
+        "level": 0,
+        "instruction": "If the earth was a cube, how would gravity be different?",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "format",
+        "source": "reddit",
+        "level": 1,
+        "instruction": "If the Earth were transformed into a cube, analyze the alterations in the gravity in a response that consists of exactly three sentences, each incorporating a different scientific term relevant to gravity.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "format",
+        "source": "reddit",
+        "level": 2,
+        "instruction": "If the Earth were transformed into a cube, analyze the alterations in gravity in a response structured as a haiku series: three haikus, each incorporating a different scientific term relevant to gravity.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "format",
+        "source": "reddit",
+        "level": 3,
+        "instruction": "If the Earth were transformed into a cube, analyze the alterations in gravity in a response structured as a haiku series: three haikus, each incorporating a different scientific term relevant to gravity. Please ensure that each haiku follows a 5-7-5 syllable structure.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "format",
+        "source": "reddit",
+        "level": 4,
+        "instruction": "If the Earth were transformed into a cube, analyze the alterations in gravity in a response structured as a haiku series: three haikus, each incorporating a different scientific term relevant to gravity. Please ensure that each haiku follows a 5-7-5 syllable structure and contains at least one word with the prefix \"geo-\" to emphasize the earth-related theme of the task.",
+        "target": ""
+    },
+    {
+        "example_id": 4,
+        "category": "format",
+        "source": "reddit",
+        "level": 5,
+        "instruction": "If the Earth were transformed into a cube, analyze the alterations in gravity in a response structured as a haiku series: three haikus, each incorporating a different scientific term relevant to gravity. Your haiku series should vividly illustrate the changes through the use of metaphor. Please ensure that each haiku follows a 5-7-5 syllable structure and contains at least one word with the prefix \"geo-\" to emphasize the earth-related theme of the task. Moreover, weave in alliteration into at least one line in each haiku to provide a poetic flair and resonance to your response.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format",
+        "source": "koala",
+        "level": 0,
+        "instruction": "List the layers of the TCP/IP model and for each layer identify one protocol.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format",
+        "source": "koala",
+        "level": 1,
+        "instruction": "List the layers of the TCP/IP model in a bullet-point format, and beside each, identify one protocol.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format",
+        "source": "koala",
+        "level": 2,
+        "instruction": "List the layers of the TCP/IP model in a bullet-point format, and beside each, identify one protocol. Ensure to follow a hierarchical structure with two levels: the first level being the layer name, and the second level (indented) being the protocol associated with that layer.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format",
+        "source": "koala",
+        "level": 3,
+        "instruction": "List the layers of the TCP/IP model in a bullet-point format, and beside each, identify one protocol that is prominently used in real-world applications. Ensure to follow a hierarchical structure with two levels: the first level being the layer name, and the second level (indented) being the protocol associated with that layer. Additionally, for each protocol mentioned, include a brief description not exceeding 15 words.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format",
+        "source": "koala",
+        "level": 4,
+        "instruction": "List the layers of the TCP/IP model in a bullet-point format, and beside each, identify one protocol that prominently operates in real-world applications. Ensure to follow a hierarchical structure with two levels: the first level being the layer name, and the second level (indented) being the protocol associated with that layer. Moreover, for each protocol mentioned, furnish a brief description not exceeding 15 words. Please ensure to incorporate at least one alliteration in the brief description for each protocol, adding a creative touch to your explanation without exceeding the prescribed word limit.",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format",
+        "source": "koala",
+        "level": 5,
+        "instruction": "List the layers of the TCP/IP model in a bullet-point format, and beside each, identify one protocol that prominently operates in real-world applications. Ensure to follow a hierarchical structure with two levels: the first level being the layer name, and the second level (indented) being the protocol associated with that layer. Moreover, for each protocol mentioned, furnish a brief description not exceeding 15 words. Please ensure to incorporate at least one alliteration in the brief description for each protocol, adding a creative touch to your explanation without exceeding the prescribed word limit. Furthermore, embody an assonance pattern within the brief descriptions, enhancing the harmonic resonance of your response without adding more than the allowed extra words in the instruction.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Create a table with the planets of the solar system and their dimensions.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Construct a table listing the planets of the solar system along with their dimensions, ensuring each entry is concise, limited to two lines of text per planet.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Create a table that enumerates the planets of the solar system and their dimensions. Each planet's details should be succinct, confined to two lines of text. Additionally, employ a hierarchical structure: list the planets in descending order of their size, and for each planet, present its name and dimensions in separate rows.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Create a table that enumerates the planets of the solar system along with their dimensions, ensuring each planet's details are succinct and confined to two lines of text. In this hierarchical structure, list the planets in descending order of their size, and for each planet, present its name and dimensions in separate rows. Please ensure that each line of text adheres to a concise and coherent format, not exceeding fifteen words per line.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Construct a table delineating the planets in our solar system along with their respective dimensions, structured hierarchically by descending size. Each planet’s details should be succinct, limited to two lines of text. List planets in separate rows with their name and dimensions distinctly displayed. Ensure clarity and brevity in each line, capping at fifteen words per line. Additionally, adhere to a uniform grammatical structure for each line, maintaining parallelism by starting each line with a verb in the simple present tense.",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Construct a table delineating the planets in our solar system, ordered hierarchically by descending size. Each planet's details should be concise, restrained to two lines of text, each with a maximum of fifteen words. Ensure each planet's name and dimensions are distinctly displayed in separate rows. Maintain uniformity and clarity by starting each line with a verb in the simple present tense. Furthermore, apply a morphological constraint: avoid using any words with the suffix '-ly'. ",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Why so many people like film photography when digital camera and mobile phone are more convenient and generate higher quality of photos?",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Analyze the preference for film photography in an era dominated by the convenience and high-quality outputs of digital cameras and mobile phones by structuring your response in the following hierarchy: 1. Introduction 2. Main Argument 3. Conclusion",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Examine the inclination towards film photography in a time overshadowed by the accessibility and superior results of digital cameras and mobile phones, structuring your response in the designated hierarchy: 1. Introduction 2. Main Argument 3. Conclusion. Additionally, for each section, adhere to a length constraint: each should be comprised of no more than 200 words.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Analyze the preference for film photography in an era dominated by the convenience and enhanced outcomes of digital cameras and smartphones, formatting your response with the prescribed structure: 1. Introduction 2. Main Argument 3. Conclusion. Additionally, every section should respect a length limitation: each must not exceed 200 words. Furthermore, each sentence within your response should not contain more than 20 words.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Evaluate the inclination towards film photography in a digital-heavy era, structuring your response as follows: 1. Introduction 2. Main Argument 3. Conclusion. Every section should be concise, not exceeding 200 words, and every sentence must be limited to 20 words. Additionally, implement a hierarchical instruction: each section should commence with a general statement followed by specific examples or evidence.",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Evaluate the inclination towards film photography in a digital-heavy era, structuring your response as follows: 1. Introduction 2. Main Argument 3. Conclusion. Every section should be concise, not exceeding 200 words, and every sentence must be limited to 20 words. Additionally, implement a hierarchical instruction: each section should commence with a general statement followed by specific examples or evidence. Lastly, maintain morphological constraint by avoiding the use of words containing the suffix '-ing' in your response.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images?",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Could you elucidate how the stable diffusion algorithm for AI-generated images could be applied to ameliorate the visual quality of images with low resolution and poor quality, using a  hierarchical structure? Begin with a general overview, followed by specific steps or components of the algorithm, concluding with its application on such images.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Please clarify the method by which the stable diffusion algorithm enhances the aesthetic appeal of low-resolution, poor-quality AI-generated images using a hierarchical structure. Start with a succinct overview, and then list the specific steps or components of the algorithm, finally ending with its implementation on such images. While explaining, adhere to a hierarchical instruction format, arranging your explanation in a tiered manner, progressing from general to specific details, each level distinctively marked and sequenced.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Please elucidate the method through which the stable diffusion algorithm improves the aesthetic quality of low-resolution, poor-quality AI-generated images utilizing a hierarchical structure. Begin with a concise summary, followed by a detailed enumeration of the specific steps or components of the algorithm, concluding with its application to such images. While elucidating, maintain a hierarchical structure in your explanation, progressing from overarching concepts to intricate details, each level distinctly labeled and ordered. For each tier, confine your explanation to a paragraph not exceeding 200 words.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Please elucidate the method by which the stable diffusion algorithm enhances the aesthetic quality of low-resolution, poor-quality AI-generated images using a hierarchical structure. Start with a succinct summary, then detail the specific steps or components of the algorithm, and finally discuss its application to such images. While explaining, adhere to a hierarchical structure in your response, transitioning from broad concepts to intricate details, each level distinctly labeled and ordered. For each level, limit your explanation to a paragraph not exceeding 200 words. Additionally, maintain a format constraint where every sentence must not exceed 20 words.",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Please illuminate the process through which the stable diffusion algorithm augments the visual appeal of low-resolution, subpar AI-synthesized imagery, employing a hierarchical framework. Begin with a brief overview, proceed to elucidate the distinct steps or components of the algorithm, and conclude with its application to such imagery. When explicating, conform to a hierarchical arrangement in your exposition, transitioning from overarching ideas to finer details, with each tier distinctly designated and sequenced. For each tier, constrain your exposition to a paragraph, with a word limit of 200 words. Also, each sentence should be confined to a maximum of twenty words. Incorporate a format constraint where every sentence must commence with a transitional word or phrase. For example, “Firstly,” “In addition,” “Consequently,” to maintain the flow and coherence of the explanation.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "What is the airspeed velocity of an unladen swallow?",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Could you please determine the airspeed velocity of an unladen swallow? Respond in a structured manner, commencing with the bird species and concluding with the velocity figure.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Could you please determine the airspeed velocity of an unladen swallow? Present your response by initially stating the bird species and concluding with the velocity figure. Please follow a hierarchical structure, starting with the bird’s Family and Genus before moving to Species and finally the airspeed velocity. ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Could you please ascertain the airspeed velocity of an unladen swallow? Present your response with the bird species initially stated, and conclude with the velocity figure, all within a well-structured paragraph. Please follow a hierarchical structure, starting with the bird’s Family and Genus before moving to Species and finally the airspeed velocity. Adhere to a clear, concise format: each piece of information should be contained within one succinct sentence.",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Please determine the airspeed velocity of an unladen swallow, and submit your response in a single, coherent paragraph. Start your paragraph by identifying the bird’s Family and Genus, subsequently narrowing down to Species, and concluding with the velocity figure. Your response must maintain a clear and succinct format: each piece of information should be conveyed in one concise sentence. Additionally, incorporate a hierarchical instruction format constraint: ensure each sentence begins with a word denoting its place in the hierarchy, e.g. \"Family: …\", \"Genus: …\", \"Species: …\", \"Velocity: …\".",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Please determine the airspeed velocity of an unladen swallow, and submit your response in a single, coherent paragraph. Start your paragraph by identifying the bird’s Family and Genus, subsequently narrowing down to Species, and concluding with the velocity figure. Your response must maintain a clear and succinct format: each piece of information should be conveyed in one concise sentence. Additionally, incorporate a hierarchical instruction format constraint: ensure each sentence begins with a word denoting its place in the hierarchy, e.g. \"Family: …\", \"Genus: …\", \"Species: …\", \"Velocity: …\". Additionally, maintain a length constraint: ensure each sentence does not exceed 15 words.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "How can I use software defined radio to detect and locate a drone flying over my property?",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "How can I utilize software defined radio to identify and pinpoint a drone in flight above my premises? Please structure your response in a step-by-step hierarchical manner: 1. Initialization 2. Detection 3. Localization",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "How can I employ software-defined radio to discern and locate a drone flying above my property? Construct your reply in a sequentially structured manner, ensuring each step is succinct and clear: 1. Initialization 2. Detection 3. Localization. Please frame each step of your response as a concise, standalone paragraph, with no paragraph exceeding 100 words.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "To utilize software-defined radio to distinguish and pinpoint a drone in the airspace above your premises, please compose your response in a step-wise, logical manner, adhering strictly to the following order: 1. Initialization 2. Detection 3. Localization. Formulate each step as a distinct, brief paragraph, ensuring no paragraph surpasses 100 words. In addition to the above constraints, incorporate the following format constraint: Hierarchical Instructions. Each step should contain a) a primary action, described in a clear and concise sentence; and b) a subsequent, more detailed explanation or sub-step, refining the primary action, without surpassing the word limit for each paragraph. ",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "To utilize software-defined radio to distinguish and pinpoint a drone in the airspace above your premises, please compose your response in a step-wise, logical manner, adhering strictly to the following order: 1. Initialization 2. Detection 3. Localization. Formulate each step as a distinct, brief paragraph, ensuring no paragraph surpasses 100 words. In addition to the above constraints, incorporate the following format constraint: Hierarchical Instructions. Each step should contain a) a primary action, described in a clear and concise sentence; and b) a subsequent, more detailed explanation or sub-step, refining the primary action, without surpassing the word limit for each paragraph. Additionally, construct each primary action sentence with a maximum of ten words.",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "To apply software-defined radio for identifying and locating a drone overhead, kindly articulate your answer sequentially and logically, complying meticulously with the order below: 1. Initialization 2. Detection 3. Localization. Develop each phase as an individual, succinct paragraph, confirming no paragraph exceeds 100 words. Alongside prior constraints, obey the succeeding format rule: Hierarchical Instructions. Each stage must hold a) a principal task, expressed in a transparent and succinct sentence; and b) a following, more precise clarification or sub-step, refining the main task, without exceeding the paragraph's word count. Also, structure each principal task sentence with a maximum of ten words. Additionally, apply Morphological Constraints by avoiding the use of words with the suffix '-ing' in every primary action sentence.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Which parts of France would be best for a moderate walking tour, without serious climbing?",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Identify which regions of France are best suited for a walking tour of moderate difficulty, avoiding areas necessitating significant climbing. Frame your response in a structured format, with concise paragraphs, each spotlighting a unique region. Each paragraph should not exceed 100 words.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Identify which regions of France are most suitable for a walking tour of moderate difficulty, steering clear of areas that require significant climbing. Structure your response in a well-organized manner, with succinct paragraphs, each featuring a distinct region. Each paragraph should not exceed 100 words and must adhere to a hierarchical instruction format: begin with the region name, followed by a sentence on the landscape, then discuss the walking difficulty, and conclude with any notable sites.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Identify which regions of France are most conducive for a walking tour of moderate difficulty, avoiding areas necessitating significant climbing. Structure your response cohesively, with concise paragraphs, each representing a unique region. Every paragraph should not surpass 100 words and must follow a hierarchical instruction format: initiate with the region name, proceed with a sentence about the landscape, subsequently discuss the walking difficulty, and finalize with any remarkable sites. Please ensure each paragraph incorporates at least one instance of alliteration.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Determine the regions of France most suitable for a walking tour of moderate difficulty, excluding zones requiring considerable climbing. Articulate your response coherently, with succinct paragraphs, each delineating a distinct region. Each paragraph should remain within 100 words and must adhere to a hierarchical instruction framework: begin with the region name, followed by a sentence describing the landscape, then detail the walking difficulty, and conclude with any noteworthy sites. Ensure each paragraph features at least one instance of alliteration. Moreover, each sentence within the paragraph must maintain a uniform structure, consisting of precisely ten words.",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Identify the most apt regions in France for a walking tour of moderate difficulty, avoiding areas necessitating significant climbing. Present your answer in a clear, concise manner, composing brief paragraphs, each representing a different region. Keep each paragraph under 100 words, and strictly follow a hierarchical instruction framework: start with the region name, then a sentence portraying the landscape, following up with the walking difficulty, and ending with any noteworthy locations. Incorporate at least one instance of alliteration in each paragraph. Ensure uniformity in each paragraph with every sentence containing exactly ten words. Moreover, each paragraph should contain one sentence in French.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "which libraries are the best for developing deep learning scripts in python?",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Identify the most suitable libraries for crafting deep learning scripts in Python. Please structure your response in a hierarchical manner, starting with the library name, followed by its features, and finally, its use cases in deep learning.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Identify the most suitable libraries for crafting deep learning scripts in Python. Please structure your response in a hierarchical manner, starting with the library name, followed by its features, and finally, its use cases in deep learning. Keep your response concise, ensuring each section under a library is no longer than two sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Identify the optimal libraries for developing deep learning scripts in Python. Structure your answer hierarchically, beginning with the library name, then its features, and finally, its deep learning applications. Keep your response succinct, ensuring each section under a library is no longer than two sentences. Furthermore, please present your response in a list format, where each library and its corresponding details are enumerated, maintaining clarity and readability.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Identify the optimal libraries for developing deep learning scripts in Python. Structure your answer hierarchically, starting with the library name, then its features, and lastly, its deep learning applications. Keep your response succinct, ensuring each section under a library is no longer than two sentences. Additionally, each sentence within the sections should not exceed 20 words, to maintain brevity. Present your response in a well-organized list format, where each library and its associated details are numbered clearly.",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Identify the optimal libraries for crafting deep learning scripts in Python. Structure your response in a hierarchical manner, initiating with the library name, followed by its features, and concluding with its deep learning applications. Keep your answer concise, limiting each section under a library to two sentences. Also, ensure that each sentence within the sections does not surpass 20 words, to preserve succinctness. Render your answer in a systematically organized list format, with each library and its corresponding details distinctly numbered. Additionally, adhere to a morphological constraint by avoiding the use of words with the suffix '-ing' in your response.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "Please, summarise the book \"Harry Potter and the Deathly Hallows\" in two paragraphs.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Please, summarise the book \"Harry Potter and the Deathly Hallows\" in two paragraphs. Each paragraph should succinctly encapsulate the main points, comprising no more than five sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Please, summarise the book \"Harry Potter and the Deathly Hallows\" in two paragraphs. Each paragraph should succinctly encapsulate the main points, comprising no more than five sentences, with each sentence not exceeding twenty words.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Please, summarise the book \"Harry Potter and the Deathly Hallows\" in two paragraphs. Each paragraph should succinctly encapsulate the main points, comprising no more than five sentences, with each sentence not exceeding twenty words. Additionally, incorporate at least one instance of alliteration in each paragraph.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Please summarize the book \"Harry Potter and the Deathly Hallows\" in two structured paragraphs. Each paragraph should encapsulate the main points concisely, containing no more than five sentences, with each sentence not exceeding twenty words. Additionally, every paragraph must have at least one instance of alliteration. Ensure that the summary is written in a coherent hierarchical structure, where the first sentence provides an overarching idea or theme of the paragraph, followed by sentences detailing specific events or characters supporting the overarching idea.",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Please craft a summary for \"Harry Potter and the Deathly Hallows\" organized into two well-structured paragraphs, adhering to the subsequent constraints: Each paragraph should succinctly encompass the principal elements, limited to a maximum of five sentences, with each sentence not exceeding twenty words. Moreover, each paragraph is required to contain at least one instance of alliteration. The composition should maintain a logical hierarchical arrangement; the initial sentence should present an overarching theme or concept of the paragraph, succeeded by sentences unfolding specific events or characters endorsing the principal theme. Additionally, each sentence must strictly follow a parallel grammatical structure, maintaining uniformity in grammatical constituents and coherence in tense and voice throughout the paragraph.",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "Redraft the phone conversation from the movie Taken, shared between Bryan Mills and his daughter's abductors, in old English while adhering to a structured hierarchical format: Start with a formal greeting, followed by the main conversation and end with a closing remark.",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Redraft the phone conversation from the movie Taken, exchanged between Bryan Mills and his daughter's abductors, in old English, whilst adhering to a structured hierarchical format: Commence with a formal greeting, proceed with the main dialogue, and conclude with a closing remark. Additionally, the redrafted conversation must incorporate at least one instance of alliteration within the formal greeting or closing remark to enrich the linguistic texture.",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Redraft the phone conversation from the movie Taken, exchanged between Bryan Mills and his daughter's abductors, in old English, whilst adhering to a structured hierarchical format: Commence with a formal greeting, proceed with the main dialogue, and conclude with a closing remark. Additionally, the redrafted conversation must incorporate at least one instance of alliteration within the formal greeting or closing remark to enrich the linguistic texture. Each sentence should not exceed 20 words.",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Redraft the phone conversation from the movie Taken, exchanged between Bryan Mills and his daughter's abductors, in old English, while following a structured hierarchical format: Start with a formal greeting, continue with the main dialogue, and finish with a closing remark. Incorporate at least one instance of alliteration within the formal greeting or closing remark to enrich the linguistic texture. Each sentence should not exceed 20 words. Additionally, adhere to a morphological constraint by avoiding the use of any words containing the suffix \"-ing\".",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Revise the telephone dialogue from the film Taken, between Bryan Mills and the captors of his daughter, using archaic English, and adhering to a structured hierarchical design: Initiate with an official salutation, progress to the primary conversation, and conclude with a final comment. Infuse at least one instance of alliteration in either the formal greeting or the concluding remark to augment the language's richness. Ensure each sentence does not surpass 20 words. Additionally, comply with a morphological restriction by refraining from utilizing words with the \"-ing\" suffix. Each section (greeting, main dialogue, closing remark) must strictly consist of no more than three sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "When approaching a technical problem which I am not familiar with, I feel scared for a bit. How do you think would a good method for me to approach these kinds of problems? Here is some more information about me that might help you; I like writing and use Swiss cheese method for writing around topics.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "When approaching a technical problem which I am not familiar with, I feel scared for a bit. How do you think would a good method for me to approach these kinds of problems? Here is some more information about me that might help you; I like writing and use Swiss cheese method for writing around topics. While proposing a suitable method, please structure your response in a hierarchical manner, beginning with a general approach, followed by more detailed steps or tips, ensuring each level of the hierarchy is clear and distinct.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "When tackling a novel technical problem and feeling somewhat intimidated, what do you believe would be an effective strategy for me? Considering my preferences, like my inclination towards writing and my usage of the Swiss cheese method to write around topics, could be helpful. Please frame your response in a well-organized, hierarchical fashion, starting with a broad strategy and progressing to more specific steps or advice, with each tier of the hierarchy being evident and distinct. Each point must not exceed two sentences, ensuring succinctness and clarity.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "When addressing an unfamiliar technical challenge and feeling slightly overwhelmed, could you suggest an effective strategy for me? Given my predilections, such as a preference for writing and employing the Swiss cheese method to write around subjects, it may be advantageous. Please structure your reply in an orderly, hierarchical manner, commencing with a generalized strategy and advancing to more detailed steps or suggestions, with each level of the hierarchy being clear and separate. Each point must not exceed two sentences, guaranteeing conciseness and precision. Moreover, please adhere to the following format constraint: Frame your response by creating a table to organize each hierarchical tier of advice, with columns designated for ‘Strategy’, ‘Step’, and ‘Detail’, to facilitate a coherent and systematic understanding.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "When tackling an unknown technical obstacle and feeling somewhat overwhelmed, could you propose a proficient approach for me? Given my inclinations, like favoring writing and utilizing the Swiss cheese method to address subjects, it might prove beneficial. Kindly structure your answer in a well-organized, hierarchical fashion, starting with a broad approach and moving towards more explicit steps or advice, ensuring each hierarchy level is distinct and independent. Each point must be concise and precise, limited to two sentences. Additionally, please adhere to the following format constraint: Structure your reply in a table to categorize each hierarchical level of advice, with designated columns for ‘Strategy’, ‘Step’, and ‘Detail’, to enable a clear and systematic understanding. Please also ensure that every piece of advice is articulated in a sentence not exceeding fifteen words.",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "When encountering an unfamiliar technical challenge and feeling somewhat overwhelmed, could you craft a competent method for me? Given my preferences, such as a penchant for writing and employing the Swiss cheese method to navigate topics, it could be advantageous. Please arrange your response in a clear, hierarchical manner, commencing with a generalized strategy and progressively narrowing down to more specified steps or advice, making sure each hierarchy level is autonomous and distinct. Each suggestion should be succinct and accurate, confined to two sentences. Additionally, adhere to the following format constraint: Frame your response in a table to classify each hierarchical level of advice, allocating columns for ‘Strategy’, ‘Step’, and ‘Detail’, for clear and systematic comprehension. Every piece of advice should be framed in a sentence that does not surpass fifteen words. Additionally, please ensure to incorporate anaphora as a literary device in your response, to emphasize and add rhythm to the content, making it more impactful.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "How would I go about teaching my cat French?",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "How would I go about teaching my cat French? Please respond in a hierarchical list format, detailing steps or considerations at each level of the hierarchy.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "Could you instruct me on how to teach my cat French, detailing steps or considerations at each hierarchical level in a list format? Please ensure each step or consideration is succinctly expressed in one sentence.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Could you instruct me on how to teach my cat French, detailing steps or considerations at each hierarchical level in a list format? Please ensure each step or consideration is succinctly expressed in one sentence, no longer than fifteen words.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Could you instruct me on how to teach my cat French, detailing steps or considerations at each hierarchical level, presented in a list format? Please ensure each step or consideration is succinctly expressed in one sentence, no longer than fifteen words, and is presented within a table.",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Could you instruct me on how to teach my cat French, detailing steps or considerations at each hierarchical level, presented in a list format? Please ensure each step or consideration is succinctly expressed in one sentence, no longer than fifteen words, and is presented within a table. The table should have two columns: one for the step number and one for the step description.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "A statistical model is a mathematical model that embodies a set of statistical assumptions concerning the generation of sample data (and similar data from a larger population). A statistical model represents, often in considerably idealized form, the data-generating process.\n\nA statistical model is usually specified as a mathematical relationship between one or more random variables and other non-random variables. As such, a statistical model is \"a formal representation of a theory\" (Herman Ad\u00e8r quoting Kenneth Bollen).\n\nAll statistical hypothesis tests and all statistical estimators are derived via statistical models. More generally, statistical models are part of the foundation of statistical inference.\n\nCould you explain each sentence in simple terms?",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "A statistical model is a mathematical construct encapsulating a series of statistical presumptions regarding the production of sample data (and analogous data from a broader population). It abstractly symbolizes the process generating data.\n\nA statistical model is typically defined as a mathematical correlation between one or more random variables and other non-random ones, acting as \"a formal representation of a theory\" (Herman Adèr citing Kenneth Bollen).\n\nEvery statistical hypothesis test and statistical estimator originate from statistical models. Broadly, these models are integral to the foundational principles of statistical inference.\n\nCould you elucidate each sentence in simpler terms, and present your explanations in a structured bullet-point format, where each bullet point directly correlates to a sentence in the provided information?",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "A statistical model is a mathematical framework incorporating assumptions regarding the development of sample data and analogous data from a broader population. It often symbolizes, in a highly idealized manner, the data-producing process.\n\nA statistical model is generally defined by a mathematical correlation between one or more random variables and several non-random variables. Thus, a statistical model serves as \"a formal depiction of a theory\" (Herman Adèr citing Kenneth Bollen).\n\nAll statistical hypothesis assessments and all statistical estimators originate from statistical models. Broadly, statistical models form the basis of statistical inference.\n\nCan you elucidate each sentence in layman's terms while presenting the explanation in a structured table format? Each row of the table should correspond to one sentence from the given instruction and should have two columns: one for the original sentence and one for its simplified explanation.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "A statistical model is a mathematical framework incorporating assumptions regarding the development of sample data and analogous data from a broader population. It often symbolizes, in a highly idealized manner, the data-producing process.\n\nA statistical model is generally defined by a mathematical correlation between one or more random variables and several non-random variables. Thus, a statistical model serves as \"a formal depiction of a theory\" (Herman Adèr citing Kenneth Bollen).\n\nAll statistical hypothesis assessments and all statistical estimators originate from statistical models. Broadly, statistical models form the basis of statistical inference.\n\nCan you elucidate each sentence in layman's terms while presenting the explanation in a structured table format? Each row of the table should correspond to one sentence from the given instruction and should have two columns: one for the original sentence and one for its simplified explanation. Please ensure that each simplified explanation in the table is constructed using straightforward and uncomplicated language, with each sentence in the simplified explanation not exceeding 15 words.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "A statistical model is a mathematical framework incorporating assumptions regarding the development of sample data and analogous data from a broader population. It often symbolizes, in a highly idealized manner, the data-producing process.\n\nA statistical model is generally defined by a mathematical correlation between one or more random variables and several non-random variables. Thus, a statistical model serves as \"a formal depiction of a theory\" (Herman Adèr citing Kenneth Bollen).\n\nAll statistical hypothesis assessments and all statistical estimators originate from statistical models. Broadly, statistical models form the basis of statistical inference.\n\nCan you elucidate each sentence in layman's terms while presenting the explanation in a structured table format? Each row of the table should correspond to one sentence from the given instruction and should have two columns: one for the original sentence and one for its simplified explanation. Please ensure that each simplified explanation in the table is constructed using straightforward and uncomplicated language, with each sentence in the simplified explanation not exceeding 15 words. Please ensure that each simplified explanation in the table employs a Bullet Point Format for clarity and readability.",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "A statistical model is a mathematical framework incorporating assumptions regarding the development of sample data and analogous data from a broader population. It often symbolizes, in a highly idealized manner, the data-producing process.\n\nA statistical model is generally defined by a mathematical correlation between one or more random variables and several non-random variables. Thus, a statistical model serves as \"a formal depiction of a theory\" (Herman Adèr citing Kenneth Bollen).\n\nAll statistical hypothesis assessments and all statistical estimators originate from statistical models. Broadly, statistical models form the basis of statistical inference.\n\nCan you elucidate each sentence in layman's terms while presenting the explanation in a structured table format? Each row of the table should correspond to one sentence from the given instruction and should have two columns: one for the original sentence and one for its simplified explanation. Please ensure that each simplified explanation in the table is constructed using straightforward and uncomplicated language, with each sentence in the simplified explanation not exceeding 15 words. Please ensure that each simplified explanation in the table employs a Bullet Point Format for clarity and readability, adhering to a hierarchy where the main point is followed by sub-points if needed, with each main point or sub-point being concise and not exceeding 15 words.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "How do I cook a salmon fillet on a stove top pan?",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "How do I cook a salmon fillet on a stove top pan? Please provide the instructions in a hierarchical format, starting with primary steps and breaking them down into more detailed secondary steps under each primary step.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "How do I cook a salmon fillet on a stove top pan? Please provide the instructions in a hierarchical format, starting with primary steps and breaking them down into more detailed secondary steps under each primary step. Additionally, structure the instructions in a table format, where primary steps are listed in the first column and the corresponding secondary steps are listed in the second column.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Could you instruct me on cooking a salmon fillet using a stove top pan? Please frame the instructions hierarchically, with primary steps first, each broken down into more nuanced secondary steps. Arrange these in a table with primary steps in the first column and corresponding secondary steps in the second. Additionally, please ensure that each primary step is concisely written, not exceeding ten words.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Could you instruct me on cooking a salmon fillet using a stove top pan? Please frame the instructions hierarchically, with primary steps first, each broken down into more nuanced secondary steps. Arrange these in a table with primary steps in the first column and corresponding secondary steps in the second. Additionally, please ensure that each primary step is concisely written, not exceeding ten words, and secondary steps are detailed in no more than twenty words.",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Can you provide guidance on preparing a salmon fillet using a stove top pan? Present the instructions hierarchically, with primary steps outlined first, and each refined into more nuanced secondary steps. Organize this information in a table, with primary steps in the first column and corresponding secondary steps in the second. Additionally, ensure that each primary step is succinct, limited to ten words, and each secondary step is detailed within a maximum of twenty words. Also, for each step written, use only imperative sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "How can I start a successful gaming social media channel? I am aiming for a Youtube channel.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "How can I initiate a thriving gaming-oriented social media channel, with a focus on developing a Youtube channel? Please respond with hierarchical instructions, where the first level is the main task, and the subsequent levels detail the steps to achieve the main task.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "How can I establish a successful gaming-centric social media channel, primarily focusing on building a Youtube channel? Please respond with hierarchical instructions: the first level should represent the main task, and the subsequent levels should detail the steps to achieve the main task. Additionally, please organize your response in a numbered list format, with each main task and its subsequent steps clearly enumerated.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Can you guide me on setting up a thriving game-focused social media channel, with a key emphasis on developing a Youtube channel? Provide your guidance in a hierarchically structured manner; the first level should denote the primary task, with the ensuing levels outlining the steps to fulfill the primary task. Arrange your advice in a numbered list, ensuring each main task and its related steps are distinctly outlined. Also, each response should be organized in clear, concise sentences, none exceeding 15 words.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Can you guide me on establishing a successful game-focused social media channel, particularly emphasizing Youtube channel development? Arrange your guidance in a hierarchical, numbered list, where the first level represents the main task, followed by detailed substeps. Each main task and its substeps should be distinctly outlined. Responses should be concise and clear, with each sentence not exceeding 15 words. Additionally, format your response using HTML tags to structure the advice properly. For example, use <ol> for ordered lists, <li> for list items, and <p> for paragraphs.",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Can you assist me in constructing a thriving game-centered social media platform, with a specific focus on Youtube channel evolution? Organize your advice in a hierarchical, numbered format, where the primary level symbolizes the overarching task, trailed by meticulous subtasks. Every chief task and its subtasks should be vividly demarcated. Responses should be succinct and transparent, with every sentence being no longer than 15 words and each word containing no more than two syllables. Also, model your response using HTML tags to appropriately structure the counsel. For instance, deploy <ol> for enumerated lists, <li> for list elements, and <p> for paragraphs.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "format",
+        "source": "oasst",
+        "level": 0,
+        "instruction": "What is the largest ocean in the world?",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "format",
+        "source": "oasst",
+        "level": 1,
+        "instruction": "What is the largest ocean in the world? Please respond by constructing a table with the name of the ocean and its total area in square kilometers.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "format",
+        "source": "oasst",
+        "level": 2,
+        "instruction": "What is the largest ocean on the globe? Construct a response in table format with the ocean’s name and its entire area in square kilometers. Please ensure your table strictly adheres to a two-column structure, with the first column titled \"Ocean Name\" and the second column titled \"Total Area (sq km)\". Keep each title and entry within a single line.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "format",
+        "source": "oasst",
+        "level": 3,
+        "instruction": "Identify the largest ocean on the globe and present your response in a well-structured table. This table must strictly comply with a two-column arrangement; the first column should be labeled \"Ocean Name,\" and the second column should be labeled \"Total Area (sq km).\" Each title and entry must be confined to a single line. Additionally, when constructing your response, adhere to the following format constraint: Please ensure that the \"Ocean Name\" is written using Title Case.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "format",
+        "source": "oasst",
+        "level": 4,
+        "instruction": "Identify the largest ocean on the globe and present your response in a well-structured table. This table must strictly comply with a two-column arrangement; the first column should be labeled \"Ocean Name,\" and the second column should be labeled \"Total Area (sq km).\" Each title and entry must be confined to a single line. Additionally, when constructing your response, adhere to the following format constraint: Please ensure that the \"Ocean Name\" is written using Title Case, and the \"Total Area (sq km)\" is represented using a comma as a thousand separator, without using any abbreviations.",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "format",
+        "source": "oasst",
+        "level": 5,
+        "instruction": "Identify the largest ocean on the globe and present your response in a well-structured table. This table must strictly comply with a two-column arrangement; the first column should be labeled \"Ocean Name,\" and the second column should be labeled \"Total Area (sq km).\" Each title and entry must be confined to a single line. Additionally, when constructing your response, adhere to the following format constraint: Please ensure that the \"Ocean Name\" is written using Title Case, and the \"Total Area (sq km)\" is represented using a comma as a thousand separator, without using any abbreviations. Additionally, the \"Ocean Name\" must be left-aligned, and the \"Total Area (sq km)\" should be right-aligned within their respective columns to ensure clarity and coherence in presentation.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "Why can I see the moon during the day?",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "List and explain, in a table format with columns \"Reason\" and \"Explanation\", three reasons why the moon can be visible during the day.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "List and explain, in a table format with columns \"Reason\" and \"Explanation\", three reasons why the moon can be visible during the day. Each explanation should not exceed 20 words in length.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "List and explain, in a table format with columns \"Reason\" and \"Explanation\", three reasons why the moon can be visible during the day. Each explanation should not exceed 20 words in length. Additionally, when constructing your responses, ensure every explanation uses passive voice in its grammatical structure.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "List and explain, in a table format with columns \"Reason\" and \"Explanation\", three reasons why the moon can be visible during the day. Each explanation should not exceed 20 words in length. Additionally, when constructing your responses, ensure every explanation uses passive voice in its grammatical structure. For each explanation, incorporate an alliteration, where the first two words start with the same consonant sound.",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "List and explain, in a table format with columns \"Reason\" and \"Explanation\", three reasons why the moon can be visible during the day. Each explanation should not exceed 20 words in length. Additionally, when constructing your responses, ensure every explanation uses passive voice in its grammatical structure. For each explanation, incorporate an alliteration, where the first two words start with the same consonant sound. As a format constraint, each \"Reason\" should be presented as a haiku, a traditional Japanese poem of three lines with a 5-7-5 syllable count.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "How do I take care of a wooden table?",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "How do I take care of a wooden table? Response in three paragraphs.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "How do I take care of a wooden table? Response in three paragraphs, and each paragraph contains less than three sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "How do I take care of a wooden table? Response in three paragraphs, and each paragraph contains less than three sentences. Make sure the number of words in each sentence is more than 20.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "How do I take care of a wooden table? Response in three paragraphs by using number markers, and each paragraph contains less than three sentences. Make sure the number of words in each sentence is more than 20.",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "How do I take care of a wooden table? Response in three paragraphs by using number markers, and each paragraph contains less than three sentences. Make sure the number of words in each sentence is more than 20. Say 'Those are suggestions' at the end.",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Fl\u00e6skesteg?",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "I'm planning a dinner party at my home and wish to explore global cuisines. I've heard about Danish culinary delights and am eager to try one out. Can you provide me a recipe for Fl\u00e6skesteg? Please present the recipe in a table format with two columns: one for ingredients and another for instructions.",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "I'm organizing a dinner party with a global cuisine theme. I've shown interest in Danish dishes and wish to explore a recipe for Fl\u00e6skesteg. Could you provide this recipe? Ensure it is presented in a table format, containing two columns: one for ingredients and another for instructions. For every ingredient, use sentences not exceeding six words.",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "I'm organizing a dinner party with a global cuisine theme, particularly interested in Danish dishes. I'd like to explore a recipe for Fl\u00e6skesteg. Could you provide this recipe? Ensure it is presented in a table format, with two columns: one for ingredients and another for instructions. For every ingredient, use sentences not exceeding six words. Additionally, when listing out instructions, ensure each step starts with an imperative verb, e.g., \"Mix\", \"Bake\", to provide clear action points.",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "I'm organizing a dinner party with a global cuisine theme, focusing on Danish dishes. I'm curious about the recipe for Flæskesteg. Can you provide this recipe? Ensure it's displayed in a table format, with two columns: one for ingredients and another for instructions. For every ingredient, phrase it using sentences that don't exceed six words. Also, when detailing instructions, make certain each step begins with an imperative verb, like \"Mix\", \"Bake\", to give clear directives. Moreover, for a unique presentation, write the recipe alternating between English and Danish every two sentences, providing a multi-lingual experience.",
+        "target": ""
+    },
+    {
+        "example_id": 23,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "I'm organizing a dinner party with a global cuisine theme, focusing on Danish dishes. I'm curious about the recipe for Flæskesteg. Can you provide this recipe? Ensure it's displayed in a table format, with two columns: one for ingredients and another for instructions. For every ingredient, phrase it using sentences that don't exceed six words. Also, when detailing instructions, make certain each step begins with an imperative verb, like \"Mix\", \"Bake\", to give clear directives. For a unique presentation, write the recipe alternating between English and Danish every two sentences, providing a multi-lingual experience. Furthermore, avoid using any words in the instructions that contain the suffix '-ing'.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra in 100 words.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra in 100 words. Do not use the word 'romantic' in your response.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra in 100 words. Do not use the word 'romantic' in your response. Your response should contain 3 sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "Please describe the relationship between Julius Caesar and Cleopatra in 100 words, ensuring your answer is structured as a haiku in the beginning, followed by two regular sentences. Do not use the word 'romantic' in your haiku or sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 24,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "Please describe the relationship between Julius Caesar and Cleopatra in 100 words. Begin your answer with a haiku, followed by two regular sentences. Do not use the word 'romantic' in your haiku or sentences. Additionally, the two regular sentences should incorporate the literary devices of alliteration and assonance.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you give me a few options that came out recently?",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you provide me with a few options that came out recently in a table format? The table should have three columns: the first column for the game names, the second column for their release dates, and the thrid column for a short description of the game.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you provide me with a few options that came out recently in a table format? The table should have three columns: the first column for the game names, the second column for their release dates, and the thrid column for a short description of the game. List four games.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you provide me with a few options that came out recently in a table format? The table should have three columns: the first column for the game names, the second column for their release dates, and the thrid column for a short description of the game. List four games. Each game title should not exceed 25 characters in length.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "I need to procure a birthday gift for my nephew. I've decided on a game for his Nintendo Switch. Can you furnish me with some recent options in a table format? The table should have three columns: the first for game names (each title not exceeding 25 characters), the second for their release dates, and the third for a succinct description of each game (each description should strictly be in a five-word format). Please provide four games.",
+        "target": ""
+    },
+    {
+        "example_id": 25,
+        "category": "format",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "I need to procure a birthday gift for my nephew. I've decided on a game for his Nintendo Switch. Can you present me with some recent options in a table format, but with an added constraint? The table should have three columns: the first for game names (each title not exceeding 25 characters), the second for their release dates, and the third for a succinct description of each game (each description should strictly be in a five-word format). Additionally, every game name should be in a rhyming pattern (e.g., \"Mighty Flight\", \"Bright Knight\"). Please provide four games.",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "format",
+        "source": "koala",
+        "level": 0,
+        "instruction": "Can you list the top 10 films or movies between 1930 and 1940 that are in English and in the US public domain?",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "format",
+        "source": "koala",
+        "level": 1,
+        "instruction": "Can you list the top 10 films or movies between 1930 and 1940 that are in English and in the US public domain? Output your answer in python List format.",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "format",
+        "source": "koala",
+        "level": 2,
+        "instruction": "List the top 10 films or movies between 1930 and 1940 that are in English and in the US public domain. Output your answer in python List format. Additionally, structure your response using JSON format with the following hierarchy: \"Year\" > \"Title\". For each year, there might be multiple titles.\n\nExample:\n{\n  \"1931\": [\"Movie A\", \"Movie B\"],\n  \"1932\": [\"Movie C\"]\n  ...\n}",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "format",
+        "source": "koala",
+        "level": 3,
+        "instruction": "List the top 10 films or movies between 1930 and 1940 that are in English and in the US public domain. Output your answer in python List format. Additionally, structure your response using JSON format with the following hierarchy: \"Year\" > \"Title\". For each year, there might be multiple titles. Furthermore, for each movie title, ensure that it does not exceed 50 characters in length.\n\nExample:\n{\n\"1931\": [\"Movie A\", \"Movie B\"],\n\"1932\": [\"Movie C\"]\n...\n}",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "format",
+        "source": "koala",
+        "level": 4,
+        "instruction": "Identify the top 10 films between 1930 and 1940 that are in English and in the US public domain. Your answer must be presented in a python List format. Moreover, organize your response using JSON format with this hierarchy: \"Year\" > \"Title\". Each year can contain multiple titles, but each movie title must be no longer than 50 characters. Additionally, for each year mentioned, ensure that you provide a brief one-sentence summary in English.\n\nExample:\n{\n\"1931\": \n   {\n     \"Titles\": [\"Movie A\", \"Movie B\"],\n     \"Summaries\": [\"Movie A revolves around a detective's quest.\", \"Movie B portrays a family's struggle.\"]\n   },\n\"1932\": \n   {\n     \"Titles\": [\"Movie C\"],\n     \"Summaries\": [\"Movie C showcases a romantic love story.\"]\n   }\n...\n}",
+        "target": ""
+    },
+    {
+        "example_id": 26,
+        "category": "format",
+        "source": "koala",
+        "level": 5,
+        "instruction": "Identify the top 10 films between 1930 and 1940 that are in English and in the US public domain. Your answer must be presented in a python List format. Moreover, organize your response using JSON format with this hierarchy: \"Year\" > \"Title\". Each year can contain multiple titles, but each movie title must be no longer than 50 characters. Additionally, for each year mentioned, ensure that you provide a brief one-sentence summary in English without using the verb \"be\" in any form.\n\nExample:\n{\n\"1931\": \n   {\n     \"Titles\": [\"Movie A\", \"Movie B\"],\n     \"Summaries\": [\"Movie A revolves around a detective's quest.\", \"Movie B portrays a family's struggle.\"]\n   },\n\"1932\": \n   {\n     \"Titles\": [\"Movie C\"],\n     \"Summaries\": [\"Movie C showcases a romantic love story.\"]\n   }\n...\n}",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "format",
+        "source": "koala",
+        "level": 0,
+        "instruction": "I'm currently studying Bioengineering in Argentina, focusing on computational neuroscience. I'll be graduating in May, and planning to apply to PhD programs in the US at the end of the year in order to start August 2024. I'm thinking of what to do/study during this year until my program starts. Could you give me ideas?",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "format",
+        "source": "koala",
+        "level": 1,
+        "instruction": "I'm presently engaged in Bioengineering studies in Argentina with a spotlight on computational neuroscience. I'm slated to graduate in May and am strategizing my application to PhD programs in the US at the year's finale, aiming to initiate by August 2024. As I deliberate on my pursuits for the forthcoming year leading up to my PhD, I'd appreciate some insights. Can you furnish me with ideas, presented in a table format with two columns: \"Month\" and \"Suggested Activity\"?",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "format",
+        "source": "koala",
+        "level": 2,
+        "instruction": "I am currently studying Bioengineering in Argentina, focusing on computational neuroscience. I expect to graduate in May and am planning to apply for PhD programs in the US by the end of the year, with the goal of starting in August 2024. As I think about my activities for the next year leading up to my PhD, I seek guidance. Can you provide me with suggestions in a table format? The table should have two columns: \"Month\" and \"Suggested Activity\". Each \"Suggested Activity\" must start with a verb followed by a general objective, and then a specific action or task related to the objective.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "format",
+        "source": "koala",
+        "level": 3,
+        "instruction": "I am currently studying Bioengineering in Argentina, focusing on computational neuroscience. I expect to graduate in May and am planning to apply for PhD programs in the US by the end of the year, with the goal of starting in August 2024. As I think about my activities for the next year leading up to my PhD, I seek guidance. Can you provide me with suggestions in a table format? The table should have two columns: \"Month\" and \"Suggested Activity\". Each \"Suggested Activity\" must start with a verb followed by a general objective, and then a specific action or task related to the objective. For the \"Month\" column, please use the abbreviation of the month.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "format",
+        "source": "koala",
+        "level": 4,
+        "instruction": "I am currently studying Bioengineering in Argentina, focusing on computational neuroscience. I expect to graduate in May and am planning to apply for PhD programs in the US by the end of the year, aiming to start in August 2024. As I consider my actions for the year leading to my PhD, I need advice. Can you offer me ideas in a table format, which follows the Hierarchical Instructions below?\n\nHierarchical Structure:\n\n1. Pre-PhD Planning\n    Identifying programs\n    Exam preparations\n    Networking\n2. Application Process\n    Gathering documents\n    Writing essays\n    Seeking recommendations\nThe table should consist of two columns: \"Month\" and \"Suggested Activity\". Every \"Suggested Activity\" should initiate with a verb, proceed with a general objective, and culminate with a specific task or action concerning the objective. For the \"Month\" column, use the month's abbreviation.",
+        "target": ""
+    },
+    {
+        "example_id": 27,
+        "category": "format",
+        "source": "koala",
+        "level": 5,
+        "instruction": "I am currently studying Bioengineering in Argentina, focusing on computational neuroscience. I expect to graduate in May and am planning to apply for PhD programs in the US by the end of the year, aiming to start in August 2024. As I consider my actions for the year leading to my PhD, I need advice. Can you offer me ideas in a table format, which follows the Hierarchical Instructions below? Additionally, for the \"Suggested Activity\" entries, ensure that no sentence exceeds ten words.\n\nHierarchical Structure:\n\n1. Pre-PhD Planning\n    Identifying programs\n    Exam preparations\n    Networking\n2. Application Process\n    Gathering documents\n    Writing essays\n    Seeking recommendations\nThe table should consist of two columns: \"Month\" and \"Suggested Activity\". Every \"Suggested Activity\" should initiate with a verb, proceed with a general objective, and culminate with a specific task or action concerning the objective. For the \"Month\" column, use the month's abbreviation.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "format",
+        "source": "koala",
+        "level": 0,
+        "instruction": "I\u2019m planning to visit Okinawa Japan from April 7th to April 10th. Do you have any recommendation on what to do while I\u2019m there?",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "format",
+        "source": "koala",
+        "level": 1,
+        "instruction": "I\u2019m planning to visit Okinawa Japan from April 7th to April 10th. Do you have any recommendation on what to do while I\u2019m there? Response in HTML format.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "format",
+        "source": "koala",
+        "level": 2,
+        "instruction": "I'm planning to visit Okinawa, Japan from April 7th to April 10th. Do you have any recommendations on what to do while I'm there? Please provide your response in HTML format, structured hierarchically with top-level recommendations as headings and details underneath as paragraphs",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "format",
+        "source": "koala",
+        "level": 3,
+        "instruction": "I'm planning to visit Okinawa, Japan from April 7th to April 10th. Do you have any recommendations on what to do while I'm there? Please provide your response in HTML format, structured hierarchically with top-level recommendations as headings and details underneath as paragraphs. Ensure that each heading is brief (no more than six words).",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "format",
+        "source": "koala",
+        "level": 4,
+        "instruction": "I'm planning to visit Okinawa, Japan from April 7th to April 10th. Do you have any recommendations on what to do while I'm there? Please provide your response in HTML format, structured hierarchically with top-level recommendations as headings and details underneath as paragraphs. Ensure that each heading is brief (no more than six words) and that each paragraph contains no more than three sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 28,
+        "category": "format",
+        "source": "koala",
+        "level": 5,
+        "instruction": "I'm planning to visit Okinawa, Japan from April 7th to April 10th. Do you have any recommendations on what to do while I'm there? Please provide your response in HTML format, structured hierarchically with top-level recommendations as headings and details underneath as paragraphs. Ensure that each heading is brief (no more than six words). Each paragraph should contain no more than three sentences, with every sentence being exactly seven words long.",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "format",
+        "source": "koala",
+        "level": 0,
+        "instruction": "who was the black cabinet member who went on to play an important role in the civil rights movement",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "format",
+        "source": "koala",
+        "level": 1,
+        "instruction": "who was the black cabinet member who went on to play an important role in the civil rights movement? Response in LaTeX format.",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "format",
+        "source": "koala",
+        "level": 2,
+        "instruction": "Who was the black cabinet member who went on to play an important role in the civil rights movement? Respond in a table format using LaTeX, with columns \"Name\", \"Position\", and \"Contribution to Civil Rights Movement\".",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "format",
+        "source": "koala",
+        "level": 3,
+        "instruction": "Who was the black cabinet member who went on to play an important role in the civil rights movement? Respond in a table format using LaTeX, with columns \"Name\", \"Position\", and \"Contribution to Civil Rights Movement\". Ensure that the \"Contribution to Civil Rights Movement\" column contains no more than fifteen words per entry.",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "format",
+        "source": "koala",
+        "level": 4,
+        "instruction": "Who was the black cabinet member who went on to play an important role in the civil rights movement? Respond in a table format using LaTeX, with columns \"Name\", \"Position\", and \"Contribution to Civil Rights Movement\". Ensure that the \"Contribution to Civil Rights Movement\" column contains no more than fifteen words per entry. Make sure all names in the \"Name\" column are capitalized.",
+        "target": ""
+    },
+    {
+        "example_id": 29,
+        "category": "format",
+        "source": "koala",
+        "level": 5,
+        "instruction": "Who was the black cabinet member who went on to play an important role in the civil rights movement? Respond in a table format using LaTeX, with columns \"Name\", \"Position\", and \"Contribution to Civil Rights Movement\". Ensure that the \"Contribution to Civil Rights Movement\" column contains no more than fifteen words per entry. Make sure all names in the \"Name\" column are capitalized. Who was the black cabinet member who went on to play an important role in the civil rights movement? Respond in a table format using LaTeX, with columns \"Name\", \"Position\", and \"Contribution to Civil Rights Movement\". Ensure that the \"Contribution to Civil Rights Movement\" column contains no more than fifteen words per entry. Make sure all positions in the \"Position\" column are written in Chinese.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "format",
+        "source": "koala",
+        "level": 0,
+        "instruction": "Draft a ministerial speech outlining the top five benefits that innovation brings to the Australian economy",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "format",
+        "source": "koala",
+        "level": 1,
+        "instruction": "Draft a ministerial speech outlining the top five benefits using the marker \"**\" that innovation brings to the Australian economy.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "format",
+        "source": "koala",
+        "level": 2,
+        "instruction": "Draft a ministerial speech outlining the top five benefits using the marker \"**\" that innovation brings to the Australian economy. Each point should contain less than 2 sentences.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "format",
+        "source": "koala",
+        "level": 3,
+        "instruction": "Draft a ministerial speech outlining the top five benefits using the marker \"**\" that innovation brings to the Australian economy. Each point should contain less than 2 sentences. Each sentence should be 10-15 words long.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "format",
+        "source": "koala",
+        "level": 4, 
+        "instruction": "Draft a ministerial speech outlining the top five benefits using the marker \"**\" that innovation brings to the Australian economy. Each point should contain less than 2 sentences. Each sentence should be 10-15 words long. Do not use any words that contain the suffix '-ly'.",
+        "target": ""
+    },
+    {
+        "example_id": 30,
+        "category": "format",
+        "source": "koala",
+        "level": 5,
+        "instruction": "Draft a ministerial speech outlining the top five benefits using the marker \"**\" that innovation brings to the Australian economy. When talking about each benefits, first present a keyword, then illustrate in detail. Each point should contain less than 2 sentences. Each sentence should be 10-15 words long. Do not use any words that contain the suffix '-ly'.",
+        "target": ""
+    }
+]
