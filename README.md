@@ -5,7 +5,11 @@ we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
 - To enable a precise constraint following estimation on diverse difficulties, we introduce a _Multi-level_ mechanism that incrementally adds a single constraint to the initial instruction at each increased level. 
 - To evaluate whether LLMs' outputs have satisfied every individual constraint, we propose to prompt strong LLMs with _constraint-evolution paths_ to handle challenging semantic constraints. 
 
-By evaluating nine closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
+<p align="center">
+    <br>
+    <img src="figures/intro.png" width="500"/>
+    <br>
+</p>
 
 
 ## Data
@@ -36,6 +40,20 @@ cd FollowBench/
 python code/eval.py --model_names <a_list_of_evaluated_models>
 ```
 
+### Experiments
+By evaluating nine closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
+
+<p align="center">
+    <br>
+    <img src="figures/level.png" width="800"/>
+    <br>
+</p>
+
+<p align="center">
+    <br>
+    <img src="figures/category.png" width="500"/>
+    <br>
+</p>
 
 
 ## Citation
