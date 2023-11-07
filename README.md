@@ -9,7 +9,7 @@ we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
 
 <p align="center">
     <br>
-    <img src="figures/intro.png" width="500"/>
+    <img src="figures/intro.png" width="400"/>
     <br>
 </p>
 
