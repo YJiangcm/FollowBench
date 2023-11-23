@@ -49,7 +49,7 @@ python code/eval.py --model_names <a_list_of_evaluated_models>
 ```
 The final results will be saved in the folder named ```evaluation_result```.
 
-### Experiments
+## Experiments
 By evaluating **10** closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
 
 <p align="center">
