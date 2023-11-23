@@ -50,7 +50,7 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_paths", nargs='+', type=str, required=True, help="Paths or names of the models to be evaluated.")
-    parser.add_argument("--constraint_types", nargs='+', type=str, default=['content', 'scenario', 'style', 'format', 'mixed'])
+    parser.add_argument("--constraint_types", nargs='+', type=str, default=['content', 'situation', 'style', 'format', 'mixed'])
     parser.add_argument("--data_path", type=str, default="data")
     parser.add_argument("--api_output_path", type=str, default="api_output")
     parser.add_argument("--data_gpt4_discriminative_eval_input_path", type=str, default="data_gpt4_discriminative_eval_input")
