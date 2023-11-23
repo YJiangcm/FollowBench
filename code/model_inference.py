@@ -111,15 +111,3 @@ if __name__ == "__main__":
 
     ### model inference
     inference(args)
-
-
-    ### convert api_output to LLM_based_eval_input
-    for constraint_type in args.constraint_types:
-        acquire_discriminative_eval_input(
-                                        data_path=args.data_path, 
-                                        api_output_path=args.api_output_path, 
-                                        constraint_type=constraint_type, 
-                                        model_name=args.model_path, 
-                                        data_gpt4_discriminative_eval_input_path=args.data_gpt4_discriminative_eval_input_path,
-                                        gpt4_discriminative_eval_input_path=args.gpt4_discriminative_eval_input_path
-                                        )
