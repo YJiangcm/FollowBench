@@ -77,7 +77,7 @@ def inference(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     add_model_args(parser)
-    parser.add_argument("--constraint_types", nargs='+', type=str, default=['content', 'scenario', 'style', 'format', 'example', 'mixed'])
+    parser.add_argument("--constraint_types", nargs='+', type=str, default=['content', 'situation', 'style', 'format', 'example', 'mixed'])
     parser.add_argument("--data_path", type=str, default="data")
     parser.add_argument("--api_input_path", type=str, default="api_input")
     parser.add_argument("--api_output_path", type=str, default="api_output")
