@@ -36,8 +36,8 @@ python code/model_inference.py --model-path <model_name_or_path>
 ```
 
 ### Evaluation
-After the model inference, the 
-You should first use GPT-4's API to acquire the LLM-based evaluation results and save it in the file named ```gpt4_discriminative_eval_output```. 
+After the model inference, the files requiring GPT-4's evaluation have been saved in ```gpt4_discriminative_eval_input```.
+You should first use GPT-4's API to acquire the LLM-based evaluation results and save it in ```gpt4_discriminative_eval_output```. 
 
 Next, we can organize and merge the rule-based evaluation results and LLM-based evaluation results using the following script:
 ```bash
