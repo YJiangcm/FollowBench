@@ -2,19 +2,20 @@ import json
 import os
 
 
-
 def convert_to_api_input(data_path, api_input_path, constraint_type):
 
     with open(os.path.join(data_path, "{}_constraints.json".format(constraint_type)), 'r', encoding='utf-8') as input_file:
         input_data = json.load(input_file)
 
     # check if the data format is correct
+    num = 0
     for i in range(len(input_data)):
         if constraint_type != 'example':
             assert i % 6 == input_data[i]['level']
         if input_data[i]['level'] > 0:
             assert input_data[i]['instruction'] != ""
-    print(f"\n{constraint_type}: number of examples: {i+1}")
+            num += 1
+    print(f"\n[{constraint_type}] number of examples: {num}")
 
     with open(os.path.join(api_input_path, "{}_constraint.jsonl".format(constraint_type)), 'w', encoding='utf-8') as output_file:
         for d in input_data:
