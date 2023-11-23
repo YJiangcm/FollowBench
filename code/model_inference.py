@@ -12,9 +12,6 @@ import torch
 
 from fastchat.model import load_model, get_conversation_template, add_model_args
 
-from utils import convert_to_api_input
-from gpt4_based_evaluation import acquire_discriminative_eval_input
-
 
 @torch.inference_mode()
 def inference(args):
