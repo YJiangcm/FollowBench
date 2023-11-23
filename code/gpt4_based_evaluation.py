@@ -147,7 +147,7 @@ def format_evaluation_prompt(evolve_instructions, answer):
 
 ############################################################################################################################################## evaluation prompt for mixed constraints
 
-def mix_evaluation_prompt(evolve_instructions, answer):
+def mixed_evaluation_prompt(evolve_instructions, answer):
     level = len(evolve_instructions)-1
 
     if level == 1:
