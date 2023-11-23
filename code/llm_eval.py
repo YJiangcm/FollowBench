@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 from gpt4_based_evaluation import acquire_discriminative_eval_input
 from openai import OpenAI
 
-MAX_API_RETRY = 0
+MAX_API_RETRY = 5
 
 def get_eval(user_prompt: str, max_tokens: int, api_key: str):
     logging.basicConfig(level=logging.INFO)
