@@ -35,15 +35,19 @@ cd FollowBench/
 python code/model_inference.py --model-path <model_name_or_path>
 ```
 
-### Evaluation
-After the model inference, the files requiring GPT-4's evaluation have been saved in ```gpt4_discriminative_eval_input```.
-You should first use GPT-4's API to acquire the LLM-based evaluation results and save it in ```gpt4_discriminative_eval_output```. 
+### LLM-based Evaluation
+```bash
+cd FollowBench/
+python code/llm_eval.py --model-path <model_name_or_path> --api_key <your_own_gpt4_api_key>
+```
 
-Next, we can organize and merge the rule-based evaluation results and LLM-based evaluation results using the following script:
+### Merge Evaluation and Save Results 
+Next, we can merge the rule-based evaluation results and LLM-based evaluation results using the following script:
 ```bash
 cd FollowBench/
 python code/eval.py --model_names <a_list_of_evaluated_models>
 ```
+The final results will be saved in the folder named ```evaluation_result```.
 
 ### Experiments
 By evaluating **10** closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
