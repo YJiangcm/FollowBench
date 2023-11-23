@@ -81,8 +81,6 @@ if __name__ == "__main__":
     parser.add_argument("--data_path", type=str, default="data")
     parser.add_argument("--api_input_path", type=str, default="api_input")
     parser.add_argument("--api_output_path", type=str, default="api_output")
-    parser.add_argument("--data_gpt4_discriminative_eval_input_path", type=str, default="data_gpt4_discriminative_eval_input")
-    parser.add_argument("--gpt4_discriminative_eval_output_path", type=str, default="gpt4_discriminative_eval_output")
 
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--repetition_penalty", type=float, default=1.0)
