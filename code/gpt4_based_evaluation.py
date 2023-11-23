@@ -46,13 +46,13 @@ def content_evaluation_prompt(evolve_instructions, answer):
 
 
 
-############################################################################################################################################## evaluation prompt for scenario constraints
+############################################################################################################################################## evaluation prompt for situation constraints
 
-def scenario_evaluation_prompt(evolve_instructions, answer):
+def situation_evaluation_prompt(evolve_instructions, answer):
     level = len(evolve_instructions)-1
 
     if level == 1:
-        prompt = "Given an initial instruction, we add one scenario constraint (information to describe a specific situation/background) and obtain the final instruction with 1 additional constraint.\n\n" \
+        prompt = "Given an initial instruction, we add one situation constraint (information to describe a specific situation/background) and obtain the final instruction with 1 additional constraint.\n\n" \
                 + "#Initial Instruction#\n" + evolve_instructions[0] + "\n\n"
 
         prompt += "#Initial Instruction + 1 constraint#\n" + evolve_instructions[1] + "\n\n"
@@ -63,7 +63,7 @@ def scenario_evaluation_prompt(evolve_instructions, answer):
 
 
     else:
-        prompt = "Given an initial instruction, we add one scenario constraint (information to describe a specific situation/background) per time and obtain the final instruction with {} additional constraints.\n\n".format(level) \
+        prompt = "Given an initial instruction, we add one situation constraint (information to describe a specific situation/background) per time and obtain the final instruction with {} additional constraints.\n\n".format(level) \
                 + "#Initial Instruction#\n" + evolve_instructions[0] + "\n\n"
 
         prompt += "#Initial Instruction + 1 constraint#\n" + evolve_instructions[1] + "\n\n"
