@@ -32,13 +32,13 @@ pip install -r requirements.txt
 ### 2. Model Inference
 ```bash
 cd FollowBench/
-python code/model_inference.py --model-path <model_name_or_path>
+python code/model_inference.py --model_path <model_name_or_path>
 ```
 
 ### 3. LLM-based Evaluation
 ```bash
 cd FollowBench/
-python code/llm_eval.py --model-path <model_name_or_path> --api_key <your_own_gpt4_api_key>
+python code/llm_eval.py --model_path <model_name_or_path> --api_key <your_own_gpt4_api_key>
 ```
 
 ### 4. Merge Evaluation and Save Results 
