@@ -36,7 +36,7 @@ python code/model_inference.py --model-path <model_name_or_path>
 ```
 
 ### Evaluation
-You should first use GPT-4's API to acquire the LLM-based evaluation results, then we can organize and merge the rule-based evaluation results and LLM-based evaluation results using the following script:
+You should first use GPT-4's API to acquire the LLM-based evaluation results and save it in the file named . Next, we can organize and merge the rule-based evaluation results and LLM-based evaluation results using the following script:
 ```bash
 cd FollowBench/
 python code/eval.py --model_names <a_list_of_evaluated_models>
