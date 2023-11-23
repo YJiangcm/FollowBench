@@ -4,7 +4,6 @@ from rule_based_evaluation import save_evaluate_example_constraint, save_csl_exa
 from gpt4_based_evaluation import save_discriminative_evaluation, save_csl_evaluation
 
 
-
 def main(args):
 
     ### rule-based evaluation
@@ -44,6 +43,8 @@ def main(args):
                             model_names=args.model_paths,
                             evaluation_result_path=args.evaluation_result_path
                             )
+    
+    print(f"\nEvaluation finished!\nThe evaluation results have been saved in '{args.evaluation_result_path}'.")
         
 
 
@@ -62,4 +63,4 @@ if __name__ == "__main__":
     if not os.path.exists(args.evaluation_result_path):
         os.makedirs(args.evaluation_result_path)
 
-    main(args) 
+    main(args)
