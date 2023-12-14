@@ -76,9 +76,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     add_model_args(parser)
     parser.add_argument("--constraint_types", nargs='+', type=str, default=['content', 'situation', 'style', 'format', 'example', 'mixed'])
-    parser.add_argument("--data_path", type=str, default="data")
-    parser.add_argument("--api_input_path", type=str, default="api_input")
-    parser.add_argument("--api_output_path", type=str, default="api_output")
+    parser.add_argument("--data_path", type=str, default="data_zh")
+    parser.add_argument("--api_input_path", type=str, default="api_input_zh")
+    parser.add_argument("--api_output_path", type=str, default="api_output_zh")
 
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--repetition_penalty", type=float, default=1.0)
