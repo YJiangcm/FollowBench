@@ -23,29 +23,7 @@ def convert_to_api_input(data_path, api_input_path, constraint_type):
                 output_file.write(json.dumps({'prompt_new': d['instruction']})+ "\n")
 
 
-
 def data_match_api_output(data_path, api_output_path, constraint_type, model_name):
-    with open(os.path.join(data_path, "{}_constraints.json".format(constraint_type)), 'r', encoding='utf-8') as data_file:
-        data = json.load(data_file)
-
-    output = []
-    with open(os.path.join(api_output_path, api_output_path + "_llama2_70b_chat" + "_merge.jsonl"), 'r', encoding='utf-8') as output_file:
-        for line in output_file:
-            output.append(json.loads(line))
-
-    # match
-    for i in range(len(data)):
-        for j in range(len(output)):
-            if data[i]['instruction'] == output[j]['prompt_new']:
-                data[i]['generation'] = output[j]['choices'][0]['message']['content']
-                break
-            if j == len(output)-1 and data[i]['level'] != 0 and data[i]['instruction'] != output[j]['prompt_new']:
-                print(i)
-
-    return data
-
-
-def data_match_api_output_1(data_path, api_output_path, constraint_type, model_name):
     with open(os.path.join(data_path, "{}_constraints.json".format(constraint_type)), 'r', encoding='utf-8') as data_file:
         data = json.load(data_file)
 
@@ -61,6 +39,6 @@ def data_match_api_output_1(data_path, api_output_path, constraint_type, model_n
                 data[i]['generation'] = output[j]['choices'][0]['message']['content']
                 break
             if j == len(output)-1 and data[i]['level'] != 0 and data[i]['instruction'] != output[j]['prompt_new']:
-                print("rule", i)
+                print(i)
 
     return data
