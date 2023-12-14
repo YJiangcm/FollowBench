@@ -6,7 +6,7 @@ import ast
 import matplotlib.pyplot as plt
 import string
 
-from utils import data_match_api_output_1
+from utils import data_match_api_output
 
 
 
@@ -16,7 +16,7 @@ def rule_evaluation(data_path, api_output_path, constraint_type, model_name):
                         "text_editing", "cnn_dailymail", "xsum", "samsum", "gigaword", "arxiv", 
                         "BBH_logical", "BBH_time", "self_made_space", "gsm_8k"]
 
-    data = data_match_api_output_1(data_path, api_output_path, constraint_type, model_name)
+    data = data_match_api_output(data_path, api_output_path, constraint_type, model_name)
 
     results = [0, 0, 0, 0, 0]
     n_group = 0
@@ -327,7 +327,7 @@ def csl_five_constraint(data_path, api_output_path, constraint_type, model_name)
                         "text_editing", "cnn_dailymail", "xsum", "samsum", "gigaword", "arxiv", 
                         "BBH_logical", "BBH_time", "self_made_space", "gsm_8k"]
 
-    data = data_match_api_output_1(data_path, api_output_path, constraint_type, model_name)
+    data = data_match_api_output(data_path, api_output_path, constraint_type, model_name)
 
     all_consistency = 0
     n_group = 0
