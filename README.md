@@ -15,9 +15,9 @@ we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
 
 
 ## Data
-The data of FollowBench can be found in the [data/](data/).
+The data of FollowBench can be found in [data/](data/).
 
-We also provide a **Chinese** version of FollowBench in the [data_zh/](data_zh/).
+We also provide a **Chinese version** of FollowBench in [data_zh/](data_zh/).
 
 
 ## How to Implement
