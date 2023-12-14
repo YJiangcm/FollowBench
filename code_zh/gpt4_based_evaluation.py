@@ -274,7 +274,7 @@ def discriminative_evaluation(data_gpt4_discriminative_eval_input_path, gpt4_dis
             data.append(json.loads(line))
 
     output = []
-    with open(os.path.join(gpt4_discriminative_eval_output_path, gpt4_discriminative_eval_output_path + "_merge.jsonl"), 'r', encoding='utf-8') as output_file:
+    with open(os.path.join(gpt4_discriminative_eval_output_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as output_file:
         for line in output_file:
             output.append(json.loads(line))
 
@@ -420,7 +420,7 @@ def csl_evaluation(data_gpt4_discriminative_eval_input_path, gpt4_discriminative
             data.append(json.loads(line))
 
     output = []
-    with open(os.path.join(gpt4_discriminative_eval_output_path, gpt4_discriminative_eval_output_path + "_merge.jsonl"), 'r', encoding='utf-8') as output_file:
+    with open(os.path.join(gpt4_discriminative_eval_output_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as output_file:
         for line in output_file:
             output.append(json.loads(line))
 
