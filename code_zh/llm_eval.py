@@ -50,11 +50,11 @@ if __name__ == '__main__':
     parser.add_argument('--max_tokens', type=int, default=1024, help='maximum number of tokens produced in the output')
     parser.add_argument("--model_path", type=str, required=True)
     parser.add_argument("--constraint_types", nargs='+', type=str, default=['content', 'situation', 'style', 'format', 'mixed'])
-    parser.add_argument("--data_path", type=str, default="data")
-    parser.add_argument("--api_output_path", type=str, default="api_output")
-    parser.add_argument("--gpt4_discriminative_eval_input_path", type=str, default="gpt4_discriminative_eval_input")
-    parser.add_argument("--data_gpt4_discriminative_eval_input_path", type=str, default="data_gpt4_discriminative_eval_input")
-    parser.add_argument("--gpt4_discriminative_eval_output_path", type=str, default="gpt4_discriminative_eval_output")
+    parser.add_argument("--data_path", type=str, default="data_zh")
+    parser.add_argument("--api_output_path", type=str, default="api_output_zh")
+    parser.add_argument("--gpt4_discriminative_eval_input_path", type=str, default="gpt4_discriminative_eval_input_zh")
+    parser.add_argument("--data_gpt4_discriminative_eval_input_path", type=str, default="data_gpt4_discriminative_eval_input_zh")
+    parser.add_argument("--gpt4_discriminative_eval_output_path", type=str, default="gpt4_discriminative_eval_output_zh")
     
     args = parser.parse_args()
 
