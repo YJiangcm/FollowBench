@@ -1,13 +1,5 @@
 # FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models
 
-**************************** **Updates** ****************************
-* 2023/12/20: We evaluated Qwen-Chat-72B/14B/7B on FollowBench, check it in [Results](#results).
-* 2023/12/15: We released a Chinese version of FolllowBench, check it in [data_zh/](data_zh/).
-* 2023/11/14: We released the second verson of our [paper](https://arxiv.org/abs/2310.20410). Check it out!
-* 2022/11/10: We released the data and code of FollowBench.
-* 2023/10/31: We released the first verson of our [paper](https://arxiv.org/abs/2310.20410v1). Check it out!
-
-## Overview
 we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following Benchmark for LLMs.
 - **FollowBench** comprehensively includes five different types (i.e., Content, Situation, Style, Format, and Example) of _fine-grained constraints_. 
 - To enable a precise constraint following estimation on diverse difficulties, we introduce a _Multi-level_ mechanism that incrementally adds a single constraint to the initial instruction at each increased level. 
@@ -19,14 +11,47 @@ we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
     <br>
 </p>
 
+## 🔥 Updates
+* 2023/12/20: We evaluated Qwen-Chat-72B/14B/7B on FollowBench, check it in [Results](#results).
+* 2023/12/15: We released a Chinese version of FolllowBench, check it in [data_zh/](data_zh/).
+* 2023/11/14: We released the second verson of our [paper](https://arxiv.org/abs/2310.20410). Check it out!
+* 2022/11/10: We released the data and code of FollowBench.
+* 2023/10/31: We released the first verson of our [paper](https://arxiv.org/abs/2310.20410v1). Check it out!
 
-## Data
+
+## 🔍 Table of Contents
+  - [🖥️ Leaderboard](#leaderboard)
+  - [📄 Data of FollowBench](#data-of-followbench)
+  - [⚙️ How to Evaluate on FollowBench](#how-to-evaluate-on-followbench)
+  - [📝 Citation](#citation)
+
+
+## Leaderboard
+By evaluating **14** closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
+
+<p align="center">
+    <br>
+    <img src="figures/Level.png" width="800"/>
+    <br>
+</p>
+
+<p align="center">
+    <br>
+    <img src="figures/category.png" width="500"/>
+    <br>
+</p>
+
+
+
+## Data of FollowBench
 The data of FollowBench can be found in [data/](data/).
 
 We also provide a **Chinese version** of FollowBench in [data_zh/](data_zh/).
 
 
-## How to Implement
+
+
+## How to Evaluate on FollowBench
 
 ### 1. Install Dependencies
 
@@ -57,24 +82,11 @@ python code/eval.py --model_paths <a_list_of_evaluated_models>
 ```
 The final results will be saved in the folder named ```evaluation_result```.
 
-## Results
-By evaluating **14** closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
 
-<p align="center">
-    <br>
-    <img src="figures/Level.png" width="800"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="figures/category.png" width="500"/>
-    <br>
-</p>
 
 
 ## Citation
-Please cite our paper if you use the code in this repo.
+Please cite our paper if you use the data or code in this repo.
 ```
 @misc{jiang2023followbench,
       title={FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models}, 
