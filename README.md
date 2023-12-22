@@ -27,6 +27,7 @@ We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
   - [📝 Citation](#citation)
 
 
+<a name="leaderboard"></a>
 ## 🖥️ Leaderboard
 
 ### Metrics
@@ -51,7 +52,7 @@ We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
     <br>
 </p>
 
-
+<a name="data-of-followbench"></a>
 ## 📄 Data of FollowBench
 The data of FollowBench can be found in [data/](data/).
 
@@ -59,7 +60,7 @@ We also provide a **Chinese version** of FollowBench in [data_zh/](data_zh/).
 
 
 
-
+<a name="how-to-evaluate-on-followbench"></a>
 ## ⚙️ How to Evaluate on FollowBench
 
 #### Install Dependencies
@@ -93,7 +94,7 @@ The final results will be saved in the folder named ```evaluation_result```.
 
 
 
-
+<a name="citation"></a>
 ## 📝 Citation
 Please cite our paper if you use the data or code in this repo.
 ```
