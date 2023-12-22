@@ -1,3 +1,6 @@
+![](figures/logo.png)
+
+
 # FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models
 
 We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following Benchmark for **systemically** and **precisely** evaluate the instruction-following capability of LLMs.
