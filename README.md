@@ -37,15 +37,22 @@ We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
 
 
 ### Level-categorized Results
-**English**
+#### English
 <p align="center">
     <br>
     <img src="figures/Level.png" width="800"/>
     <br>
 </p>
 
+#### Chinese
+<p align="center">
+    <br>
+    <img src="figures/Level_zh.png" width="800"/>
+    <br>
+</p>
+
 ### Constraint-categorized Results
-**English**
+#### English
 <p align="center">
     <br>
     <img src="figures/category.png" width="500"/>
