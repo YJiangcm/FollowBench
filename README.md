@@ -55,7 +55,14 @@ We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
 #### English
 <p align="center">
     <br>
-    <img src="figures/category.png" width="500"/>
+    <img src="figures/Category.png" width="500"/>
+    <br>
+</p>
+
+#### Chinese
+<p align="center">
+    <br>
+    <img src="figures/Category_zh.png" width="500"/>
     <br>
 </p>
 
