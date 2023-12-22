@@ -62,7 +62,7 @@ We also provide a **Chinese version** of FollowBench in [data_zh/](data_zh/).
 
 ## ⚙️ How to Evaluate on FollowBench
 
-### Install Dependencies
+#### Install Dependencies
 
 ```
 conda create -n followbench python=3.10
@@ -71,19 +71,19 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 pip install -r requirements.txt
 ```
 
-### Model Inference
+#### Model Inference
 ```bash
 cd FollowBench/
 python code/model_inference.py --model_path <model_name_or_path>
 ```
 
-### LLM-based Evaluation
+#### LLM-based Evaluation
 ```bash
 cd FollowBench/
 python code/llm_eval.py --model_path <model_name_or_path> --api_key <your_own_gpt4_api_key>
 ```
 
-### Merge Evaluation and Save Results 
+#### Merge Evaluation and Save Results 
 Next, we can merge the **rule-based evaluation** results and **LLM-based evaluation** results using the following script:
 ```bash
 cd FollowBench/
