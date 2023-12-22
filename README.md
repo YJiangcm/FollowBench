@@ -1,9 +1,10 @@
 # FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models
 
-we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following Benchmark for LLMs.
+We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following Benchmark for **systemically** and **precisely** evaluate the instruction-following capability of LLMs.
 - **FollowBench** comprehensively includes five different types (i.e., Content, Situation, Style, Format, and Example) of _fine-grained constraints_. 
 - To enable a precise constraint following estimation on diverse difficulties, we introduce a _Multi-level_ mechanism that incrementally adds a single constraint to the initial instruction at each increased level. 
-- To evaluate whether LLMs' outputs have satisfied every individual constraint, we propose to prompt strong LLMs with _constraint-evolution paths_ to handle challenging open-ended instructions. 
+- To evaluate whether LLMs' outputs have satisfied every individual constraint, we propose to prompt strong LLMs with _constraint-evolution paths_ to handle challenging open-ended instructions.
+- By evaluating **14** closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
 
 <p align="center">
     <br>
@@ -12,7 +13,7 @@ we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
 </p>
 
 ## 🔥 Updates
-* 2023/12/20: We evaluated Qwen-Chat-72B/14B/7B on FollowBench, check it in [Results](#results).
+* 2023/12/20: We evaluated Qwen-Chat-72B/14B/7B on FollowBench, check it in [Leaderboard](#leaderboard).
 * 2023/12/15: We released a Chinese version of FolllowBench, check it in [data_zh/](data_zh/).
 * 2023/11/14: We released the second verson of our [paper](https://arxiv.org/abs/2310.20410). Check it out!
 * 2022/11/10: We released the data and code of FollowBench.
@@ -26,15 +27,24 @@ we introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
   - [📝 Citation](#citation)
 
 
-## Leaderboard
-By evaluating **14** closed-source and open-source popular LLMs on FollowBench, we highlight the weaknesses of LLMs in instruction following and point towards potential avenues for future work.
+## 🖥️ Leaderboard
 
+### Metrics
+* **Hard Satisfaction Rate (HSR):** the average rate at which all constraints of individual instructions are fully satisfied
+* **Soft Satisfaction Rate (SSR):** the average satisfaction rate of individual constraints across all instructions
+* **Consistent Satisfaction Levels (CSL):** how many consecutive levels a model can satisfy, beginning from level 1
+
+
+### Level-categorized Results
+**English**
 <p align="center">
     <br>
     <img src="figures/Level.png" width="800"/>
     <br>
 </p>
 
+### Constraint-categorized Results
+**English**
 <p align="center">
     <br>
     <img src="figures/category.png" width="500"/>
@@ -42,8 +52,7 @@ By evaluating **14** closed-source and open-source popular LLMs on FollowBench, 
 </p>
 
 
-
-## Data of FollowBench
+## 📄 Data of FollowBench
 The data of FollowBench can be found in [data/](data/).
 
 We also provide a **Chinese version** of FollowBench in [data_zh/](data_zh/).
@@ -51,9 +60,9 @@ We also provide a **Chinese version** of FollowBench in [data_zh/](data_zh/).
 
 
 
-## How to Evaluate on FollowBench
+## ⚙️ How to Evaluate on FollowBench
 
-### 1. Install Dependencies
+### Install Dependencies
 
 ```
 conda create -n followbench python=3.10
@@ -62,19 +71,19 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 pip install -r requirements.txt
 ```
 
-### 2. Model Inference
+### Model Inference
 ```bash
 cd FollowBench/
 python code/model_inference.py --model_path <model_name_or_path>
 ```
 
-### 3. LLM-based Evaluation
+### LLM-based Evaluation
 ```bash
 cd FollowBench/
 python code/llm_eval.py --model_path <model_name_or_path> --api_key <your_own_gpt4_api_key>
 ```
 
-### 4. Merge Evaluation and Save Results 
+### Merge Evaluation and Save Results 
 Next, we can merge the **rule-based evaluation** results and **LLM-based evaluation** results using the following script:
 ```bash
 cd FollowBench/
@@ -85,7 +94,7 @@ The final results will be saved in the folder named ```evaluation_result```.
 
 
 
-## Citation
+## 📝 Citation
 Please cite our paper if you use the data or code in this repo.
 ```
 @misc{jiang2023followbench,
