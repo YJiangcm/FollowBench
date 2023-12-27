@@ -1,0 +1,1058 @@
+[
+    {
+        "example_id": 1,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的三个对象的集合。每个段落中的陈述在逻辑上是一致的。树枝上有三只鸟：一只蓝鸦、一只鹌鹑和一只猎鹰。猎鹰在蓝鸦的右边。蓝鸦在鹌鹑的右边。\n选项：\n(A)蓝鸦是左数第二只\n(B)鹌鹑是左数第二只\n(C)猎鹰是左数第二只\n答案：",
+        "target": "(A)"
+    },
+    {
+        "example_id": 1,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了以固定顺序排列的四个对象的集合。每个段落中的陈述在逻辑上是一致的。树枝上有四只鸟：一只蓝鸦、一只鹌鹑、一只猎鹰和一只乌鸦。猎鹰在蓝鸦的右边。蓝鸦在鹌鹑的右边。乌鸦是右数第二个。\n选项：\n(A)蓝鸦是左起第二只\n(B)鹌鹑是左起第二只\n(C)猎鹰是左起第二只\n(D)乌鸦是左起第二只\n答案：",
+        "target": "(A)"
+    },
+    {
+        "example_id": 1,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了一组以固定顺序排列的五个对象。每个段落中的陈述在逻辑上是一致的。树枝上有五只鸟：一只蓝鸦、一只鹌鹑、一只猎鹰、一只乌鸦和一只猫头鹰。猎鹰在蓝鸦的右边。蓝鸦在鹌鹑的右边。乌鸦是右数第二个。猫头鹰是最左边的。\n选项：\n(A)蓝鸦是左起第二只\n(B)鹌鹑是左起第二只\n(C)猎鹰是左起第二只\n(D)乌鸦是左起第二只\n(E)猫头鹰是左起第二只\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 1,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的六个对象的集合。每个段落中的陈述在逻辑上是一致的。在树枝上，有六只鸟：一只蓝鸦、一只鹌鹑、一只猎鹰、一只乌鸦、一只猫头鹰和一只知更鸟。猎鹰在蓝鸦的右边。蓝鸦在鹌鹑的右边。乌鸦是右数第三个。猫头鹰是最左边的。知更鸟在猎鹰的右边。\n选项：\n(A)蓝鸦是左数第二个\n(B)鹌鹑是左数第二个\n(C)猎鹰是左数第二个\n(D)乌鸦是左数第二个\n(E)猫头鹰是左数第二个\n(F)知更鸟是左数第二个\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 1,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的七个对象的集合。每个段落中的陈述在逻辑上是一致的。树枝上有七只鸟：一只蓝鸦、一只鹌鹑、一只猎鹰、一只乌鸦、一只猫头鹰、一只知更鸟和一只乌鸦。猎鹰在蓝鸦的右边。蓝鸦在鹌鹑的右边。乌鸦是右数第三个。猫头鹰是最左边的。知更鸟在猎鹰的右边。乌鸦是左数第三个。\n选项：\n(A)蓝鸦是左数第二个\n(B)鹌鹑是左数第二个\n(C)猎鹰是左数第二个\n(D)乌鸦是左数第二个\n(E)猫头鹰是左数第二个\n(F)知更鸟是左起第二只（G）乌鸦是左起第二只\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 1,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了一组以固定顺序排列的八个对象。每个段落中的陈述在逻辑上是一致的。树枝上有八只鸟：一只蓝鸦、一只鹌鹑、一只猎鹰、一只乌鸦、一只猫头鹰、一只知更鸟、一只乌鸦和一只鹰。猎鹰在蓝鸦的右边。蓝鸦在鹌鹑的右边。乌鸦是右数第三个。猫头鹰是最左边的。知更鸟在猎鹰的右边。乌鸦是左数第四个。鹰在鹌鹑的左边。\n选项：\n(A)蓝鸦是左数第二个\n(B)鹌鹑是左数第二个\n(C)猎鹰是左数第二个\n(D)乌鸦是左数第二个\n(E)猫头鹰是左数第二个\n(F)知更鸟是左起第二只（G）乌鸦是左起第二只（H）鹰是左起第二只\n答案：",
+        "target": "(H)"
+    },
+    {
+        "example_id": 2,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的三个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个古董车展中，有三种车辆：一辆摩托车、一辆豪华轿车和一辆敞篷车。摩托车比豪华轿车新。敞篷车比摩托车新。\n选项：\n(A)摩托车是最老的\n(B)豪华轿车是最老的\n(C)敞篷车是最老的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 2,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了以固定顺序排列的四个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个古董车展中，有四种车辆：一辆摩托车、一辆豪华轿车、一辆敞篷车和一辆公共汽车。摩托车比豪华轿车新。敞篷车比摩托车新。公共汽车是第二老的。选项：\n(A)摩托车是最老的\n(B)豪华轿车是最老的\n(C)敞篷车是最老的\n(D)公共汽车是最老的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 2,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\nQ：以下段落分别描述了一组按固定顺序排列的五个对象。每个段落中的陈述在逻辑上是一致的。在一个古董车展中，有五种车辆：一辆摩托车、一辆豪华轿车、一辆敞篷车、一辆公共汽车和一辆卡车。摩托车比豪华轿车新。敞篷车比摩托车新。公共汽车是第二老的。卡车是最新的。选项：\n(A)摩托车是最古老的\n(B)豪华轿车是最古老的\n(C)敞篷车是最古老的\n(D)公共汽车是最古老的\n(E)卡车是最古老的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 2,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的六个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个古董车展中，有六种车辆：摩托车、豪华轿车、敞篷车、公共汽车、卡车和掀背车。摩托车比豪华轿车新。敞篷车比摩托车新。公共汽车是第三老的。卡车是最新的。掀背车比豪华轿车老。选项：\n(A)摩托车是最古老的\n(B)豪华轿车是最古老的\n(C)敞篷车是最古老的\n(D)公共汽车是最古老的\n(E)卡车是最古老的\n(F)掀背车是最古老的\n 答案：",
+        "target": "(F)"
+    },
+    {
+        "example_id": 2,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的七个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个古董车展上，有七种车辆：摩托车、豪华轿车、敞篷车、公共汽车、卡车、掀背车和旅行车。摩托车比豪华轿车新。敞篷车比摩托车新。公共汽车是第三老的。卡车是最新的。掀背车比豪华轿车老。旅行车是第二新的。\n选项：\n(A)摩托车是最老的\n(B)豪华轿车是最老的\n(C)敞篷车是最老的\n(D)公共汽车是最老的\n(E)卡车是最老的\n(F)掀背车是最老的\n(G)旅行车最古老的\n答案：",
+        "target": "(F)"
+    },
+    {
+        "example_id": 2,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了一组以固定顺序排列的八个对象。每个段落中的陈述在逻辑上是一致的。在一个古董车展上，共有八种车辆：一辆摩托车、一辆豪华轿车、一辆敞篷车、一辆公共汽车、一辆卡车、一辆掀背车、一辆旅行车和一辆小型货车。摩托车比豪华轿车新。敞篷车比摩托车新。公共汽车是第三老的。卡车是最新的。掀背车比豪华轿车老。旅行车是第二新的。小型货车比敞篷车新。\n选项：\n(A)摩托车是最老的\n(B)豪华轿车是最老的\n(C)敞篷车是最老的\n(D)公共汽车是最老的\n(E)卡车是最老的\n(F)掀背车是最老的\n(G)旅行车最老的（H）小型货车是最老的\n答案：",
+        "target": "(F)"
+    },
+    {
+        "example_id": 3,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的三个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个书架上，有三本书：一本绿皮书，一本红皮书，一本蓝皮书。红皮书是最右边的。蓝皮书在绿皮书的右边。\n选项：\n(A)绿皮书是最右边的\n(B)红皮书是最右边的\n(C)蓝皮书是最右边的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了以固定顺序排列的四个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个书架上，有四本书：一本绿皮书，一本红皮书，一本蓝皮书，一本白皮书。红皮书是最右边的。蓝皮书在绿皮书的右边。白色的书是最左边的。\n选项：\n(A)绿皮书是最右边的\n(B)红皮书是最右边的\n(C)蓝皮书是最右边的\n(D)白皮书是最右边的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\nQ：以下段落分别描述了一组按固定顺序排列的五个对象。每个段落中的陈述在逻辑上是一致的。在一个书架上，有五本书：一本绿皮书，一本红皮书，一本蓝皮书，一本白皮书，一本黄皮书。红皮书是最右边的。蓝皮书在绿皮书的右边。白皮书是最左边的。黄皮书在绿皮书的左边。选项：\n(A)绿皮书是最右边的\n(B)红皮书是最右边的\n(C)蓝皮书是最右边的\n(D)白皮书是最右边的\n(E)黄皮书是最右边的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的六个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个书架上，有六本书：一本绿色的书，一本红色的书，一本蓝色的书，一本白色的书，一本黄色的书，一本橙色的书。红书是最右边的。蓝书在绿书的右边。白色的书是最左边的。黄书在绿书的左边。橙色的书是右数第三个。选项：\n(A)绿书是最右边的\n(B)红书是最右边的\n(C)蓝书是最右边的\n(D)白书是最右边的\n(E)黄书是最右边的\n(F)橙书是最右边的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的七个对象的集合。每个段落中的陈述在逻辑上是一致的。在一个书架上，有七本书：一本绿皮书，一本红皮书，一本蓝皮书，一本白皮书，一本黄皮书，一本橘皮书，一本粉皮书。红皮书是最右边的。蓝皮书在绿皮书的右边。白皮书是最左边的。黄皮书在绿皮书的左边。橙皮书是右数第四个。粉皮书在蓝皮书的右边。选项：\n(A)绿皮书是最右边的\n(B)红皮书是最右边的\n(C)蓝皮书是最右边的\n(D)白皮书是最右边的\n(E)黄皮书是最右边的\n(F)橙皮书是最右边的\n(G)粉皮书是最右边的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 3,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了一组以固定顺序排列的八个对象。每个段落中的陈述在逻辑上是一致的。在一个书架上，有八本书：一本绿书，一本红书，一本蓝书，一本白书，一本黄书，一本橙书，一本粉书，一本黑书。红书是最右边的。蓝书在绿书的右边。白书是最左边的。黄书在绿书的左边。橙书是右数第四个。粉书在蓝书的右边。黑书在黄书的左边。选项：\n(A)绿书是最右边的\n(B)红书是最右边的\n(C)蓝书是最右边的\n(D)白书是最右边的\n(E)黄书是最右边的\n(F)橙书是最右边的\n(G)粉书是最右边的书（H）黑书是最右边的书\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的三个对象的集合。每个段落中的陈述在逻辑上是一致的。一个水果摊卖三种水果：苹果、桃子和芒果。芒果比桃子便宜。苹果比芒果便宜。\n选项：\n(A)苹果是第二贵的\n(B)桃子是第二贵的\n(C)芒果是第二贵的\n答案：",
+        "target": "(C)"
+    },
+    {
+        "example_id": 4,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了以固定顺序排列的四个对象的集合。每个段落中的陈述在逻辑上是一致的。一个水果摊卖四种水果：苹果、桃子、芒果和猕猴桃。芒果比桃子便宜。苹果比芒果便宜。猕猴桃是最贵的。\n选项：\n(A)苹果是第二贵的\n(B)桃子是第二贵的\n(C)芒果是第二贵的\n(D)猕猴桃是第二贵的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了一组以固定顺序排列的五个对象。每个段落中的陈述在逻辑上是一致的。一个水果摊出售五种水果：苹果、桃子、芒果、猕猴桃和西瓜。芒果比桃子便宜。苹果比芒果便宜。猕猴桃是最贵的。西瓜是最便宜的。选项：\n(A)苹果是第二贵的\n(B)桃子是第二贵的\n(C)芒果是第二贵的\n(D)猕猴桃是第二贵的\n(E)西瓜是第二贵的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的六个对象的集合。每个段落中的陈述在逻辑上是一致的。一个水果摊卖六种水果：苹果、桃子、芒果、猕猴桃、西瓜和香蕉。芒果比桃子便宜。苹果比芒果便宜。猕猴桃是最贵的。西瓜是最便宜的。香蕉比苹果便宜。\n选项：\n(A)苹果是第二贵的\n(B)桃子是第二贵的\n(C)芒果是第二贵的\n(D)猕猴桃是第二贵的\n(E)西瓜是第二贵的\n(F)香蕉是第二贵的\n答案：",
+        "target": "(B)"
+    },
+    {
+        "example_id": 4,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的七个对象的集合。每个段落中的陈述在逻辑上是一致的。一个水果摊上出售7种水果：苹果、桃子、芒果、猕猴桃、西瓜、香蕉和橙子。芒果比桃子便宜。苹果比芒果便宜。猕猴桃是最贵的。西瓜是最便宜的。香蕉比苹果便宜。橘子比桃子贵。\n选项：\n(A)苹果是第二贵的\n(B)桃子是第二贵的\n(C)芒果是第二贵的\n(D)猕猴桃是第二贵的\n(E)西瓜是第二贵的\n(F)香蕉是第二贵的。（G）橘子是第二贵的\n答案：",
+        "target": "(G)"
+    },
+    {
+        "example_id": 4,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了一组以固定顺序排列的八个对象。每个段落中的陈述在逻辑上是一致的。一个水果摊上出售8种水果：苹果、桃子、芒果、猕猴桃、西瓜、香蕉、橙子和枇杷。芒果比桃子便宜。苹果比芒果便宜。猕猴桃是最贵的。西瓜是最便宜的。香蕉比苹果便宜。橘子比桃子贵。枇杷是第二便宜的。\n选项：\n(A)苹果是第二贵的\n(B)桃子是第二贵的\n(C)芒果是第二贵的\n(D)猕猴桃是第二贵的\n(E)西瓜是第二贵的\n(F)香蕉是第二贵的。（G）橘子是第二贵的。（H）枇杷是第二贵的\n答案：",
+        "target": "(G)"
+    },
+    {
+        "example_id": 5,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 0,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的三个对象的集合。每个段落中的陈述在逻辑上是一致的。在一次高尔夫球比赛中，有三个高尔夫球手：伊芙、罗布和梅尔。罗布在梅尔下面结束了。梅尔在伊芙下面完成。\n选项：\n(A)伊芙第一个完成\n(B)罗布第一个完成\n(C)梅尔第一个完成\n答案：",
+        "target": "(A)"
+    },
+    {
+        "example_id": 5,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 1,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了以固定顺序排列的四个对象的集合。每个段落中的陈述在逻辑上是一致的。在一次高尔夫球比赛中，有四个高尔夫球手：伊芙、罗布、梅尔和鲍勃。罗布在梅尔下面结束了。梅尔在伊芙下面完成。鲍勃在罗布后面完成。\n选项：\n(A)伊芙第一个完成\n(B)罗布第一个完成\n(C)梅尔第一个完成\n(D)鲍勃第一个完成\n答案：",
+        "target": "(A)"
+    },
+    {
+        "example_id": 5,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 2,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\nQ：以下段落分别描述了一组按固定顺序排列的五个对象。每个段落中的陈述在逻辑上是一致的。在一次高尔夫比赛中，有五名高尔夫球手：伊芙、罗布、梅尔、鲍勃和约翰。罗布在梅尔下面结束了。梅尔在伊芙下面完成。鲍勃在罗布后面完成。约翰在伊芙之前完成。选项：\n(A)伊芙第一个完成\n(B)罗布第一个完成\n(C)梅尔第一个完成\n(D)鲍勃第一个完成\n(E)约翰第一个完成\n答案：",
+        "target": "(E)"
+    },
+    {
+        "example_id": 5,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 3,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\nQ：以下段落分别描述了以固定顺序排列的六个对象的集合。每个段落中的陈述在逻辑上是一致的。在一次高尔夫球锦标赛中，有六个高尔夫球手：伊芙、罗布、梅尔、鲍勃、约翰和艾米。罗布在梅尔下面结束了。梅尔在伊芙下面完成。鲍勃在罗布后面完成。约翰在伊芙之前完成。艾米最后完成了。选项：\n(A)伊芙第一名\n(B)罗布第一名\n(C)梅尔第一名\n(D)鲍勃第一名\n(E)约翰第一名\n(F)艾米第一名\n答案：",
+        "target": "(E)"
+    },
+    {
+        "example_id": 5,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 4,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导对象序列的顺序。\n\n Q：以下段落分别描述了以固定顺序排列的七个对象的集合。每个段落中的陈述在逻辑上是一致的。在一次高尔夫球比赛中，共有七名高尔夫球手：伊芙、罗布、梅尔、鲍勃、约翰、艾米和威廉。罗布在梅尔下面结束了。梅尔在伊芙下面完成。鲍勃在罗布后面完成。约翰在伊芙之前完成。艾米最后完成了。威廉获得倒数第三名。选项：\n(A)伊芙第一名\n(B)罗布第一名\n(C)梅尔第一名\n(D)鲍勃第一名\n(E)约翰第一名\n(F)艾米第一名\n(G)威廉第一名\n答案：",
+        "target": "(E)"
+    },
+    {
+        "example_id": 5,
+        "category": "situation",
+        "source": "BBH_logical",
+        "level": 5,
+        "instruction": "任务描述：一个逻辑推理任务，需要推导一个对象序列的顺序。\n\nQ：以下段落分别描述了一组以固定顺序排列的八个对象。每个段落中的陈述在逻辑上是一致的。在一次高尔夫球比赛中，有八位高尔夫球手：伊芙、罗布、梅尔、鲍勃、约翰、艾米、威廉和丹。罗布在梅尔下面结束了。梅尔在伊芙下面完成。鲍勃在罗布后面完成。约翰在伊芙之前完成。艾米最后完成了。威廉获得倒数第三名。丹的成绩超过了约翰。选项：\n(A)伊芙第一名\n(B)罗布第一名\n(C)梅尔第一名\n(D)鲍勃第一名\n(E)约翰第一名\n(F)艾米第一名\n(G)威廉第一名\n(H)丹第一名\n答案：",
+        "target": "(H)"
+    },
+    {
+        "example_id": 6,
+        "category": "situation",
+        "source": "BBH_time",
+        "level": 0,
+        "instruction": "今天是1937年的平安夜。以MM/DD/YYYY表示的明天是几号？",
+        "target": "12/25/1937"
+    },
+    {
+        "example_id": 6,
+        "category": "situation",
+        "source": "BBH_time",
+        "level": 1,
+        "instruction": "如果今天是1937年的平安夜，今天后五天是哪一天？用MM/DD/YYYY表示",
+        "target": "12/29/1937"
+    },
+    {
+        "example_id": 6,
+        "category": "situation",
+        "source": "BBH_time",
+        "level": 2,
+        "instruction": "如果今天是1937年的平安夜，那么今天后两周又两天是哪一天？用MM/DD/YYYY表示",
+        "target": "01/09/1938"
+    },
+    {
+        "example_id": 6,
+        "category": "situation",
+        "source": "BBH_time",
+        "level": 3,
+        "instruction": "如果今天是1937年的平安夜，那么今天之后的一个月、两周又两天是哪一天？用MM/DD/YYYY表示",
+        "target": "02/09/1938"
+    },
+    {
+        "example_id": 6,
+        "category": "situation",
+        "source": "BBH_time",
+        "level": 4,
+        "instruction": "如果今天是1937年的平安夜，那么4年1月2周2天之后的日期是什么？用MM/DD/YYYY表示",
+        "target": "02/09/1942"
+    },
+    {
+        "example_id": 6,
+        "category": "situation",
+        "source": "BBH_time",
+        "level": 5,
+        "instruction": "如果昨天是1937年的平安夜，那么4年、1个月、2周又2天之后的日期是什么？用MM/DD/YYYY表示",
+        "target": "02/10/1942"
+    },
+    {
+        "example_id": 7,
+        "category": "situation",
+        "source": "self_made_space",
+        "level": 0,
+        "instruction": "小张住在1号公寓15楼。他上了七层楼。他现在在几楼？",
+        "target": "22楼"
+    },
+    {
+        "example_id": 7,
+        "category": "situation",
+        "source": "self_made_space",
+        "level": 1,
+        "instruction": "小张住在1号公寓15楼。如果他先下两层楼，然后上了七层楼，他现在在哪一层楼？",
+        "target": "20楼"
+    },
+    {
+        "example_id": 7,
+        "category": "situation",
+        "source": "self_made_space",
+        "level": 2,
+        "instruction": "小张住在1号公寓15楼。如果他先下两层楼，然后上七层楼，最后下六层楼，他现在在几楼？",
+        "target": "14楼"
+    },
+    {
+        "example_id": 7,
+        "category": "situation",
+        "source": "self_made_space",
+        "level": 3,
+        "instruction": "小张住在1号公寓15楼。如果他先下两层楼去拜访朋友，然后从朋友的楼层上了七层楼，最后下了六层楼，那么他现在在哪一层楼？",
+        "target": "14楼"
+    },
+    {
+        "example_id": 7,
+        "category": "situation",
+        "source": "self_made_space",
+        "level": 4,
+        "instruction": "小张住在1号公寓15楼。每层有3套公寓，从左到右编号为1至3。如果他先下两层楼去拜访2号公寓的一个朋友，然后从他朋友的楼层上了七层，最后下了六层，那么他现在在几号公寓几层楼？",
+        "target": "2号公寓14楼"
+    },
+    {
+        "example_id": 7,
+        "category": "situation",
+        "source": "self_made_space",
+        "level": 5,
+        "instruction": "小张住在1号公寓15楼。每层有3套公寓，从左到右编号为1至3。考虑下面的场景：小张先下两层去2号公寓拜访朋友，然后从朋友的楼层上了7层，最后下了6层。然后他去了最右边的公寓。根据这个，他现在在几号公寓几层楼？",
+        "target": "3号公寓14楼"
+    },
+    {
+        "example_id": 8,
+        "category": "situation",
+        "source": "gsm_8k",
+        "level": 0,
+        "instruction": "温做保姆时薪12美元。昨天，她刚做了50分钟的保姆。她挣了多少钱？",
+        "target": "10美元"
+    },
+    {
+        "example_id": 8,
+        "category": "situation",
+        "source": "gsm_8k",
+        "level": 1,
+        "instruction": "温做保姆时薪12美元。如果她昨天在原来的工作之外多做了20分钟的保姆，而她原来做了50分钟的保姆，她总共赚了多少钱？",
+        "target": "14美元"
+    },
+    {
+        "example_id": 8,
+        "category": "situation",
+        "source": "gsm_8k",
+        "level": 2,
+        "instruction": "温做保姆时薪12美元。如果她昨天一共照看孩子50分钟，今天照顾孩子一个半小时。她总共挣了多少钱？",
+        "target": "28美元"
+    },
+    {
+        "example_id": 8,
+        "category": "situation",
+        "source": "gsm_8k",
+        "level": 3,
+        "instruction": "温在工作日做保姆时薪为12美元/小时，周末则为16美元/小时。如果她周五总共照顾了50分钟，周六照顾了一个半小时。她总共赚了多少钱？",
+        "target": "34美元"
+    },
+    {
+        "example_id": 8,
+        "category": "situation",
+        "source": "gsm_8k",
+        "level": 4,
+        "instruction": "温在工作日做保姆时薪为12美元/小时，周末则为16美元/小时。如果她在周五总共照顾孩子50分钟，周六上午照顾孩子一个半小时，周六下午照顾孩子30分钟。她总共挣了多少钱？",
+        "target": "42美元"
+    },
+    {
+        "example_id": 8,
+        "category": "situation",
+        "source": "gsm_8k",
+        "level": 5,
+        "instruction": "温在工作日做保姆时薪为12美元/小时，周末则为16美元/小时。如果她在周五一共看孩子50分钟，周六上午看孩子一个半小时，周六下午看孩子30分钟。不幸的是，她打破了一个杯子，不得不赔偿她的雇主5美元。她总共赚了多少钱？",
+        "target": "37美元"
+    },
+    {
+        "example_id": 9,
+        "category": "situation",
+        "source": "humaneval",
+        "level": 0,
+        "instruction": "定义函数unique(l: list): \"\"\"返回列表中排序后的唯一元素 >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123]) [0, 2, 3, 5, 9, 123] \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "situation",
+        "source": "humaneval",
+        "level": 1,
+        "instruction": "定义函数unique(l: list): \"\"\"返回一个列表，其中元素只出现一次，按升序排序 >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123]) [0, 2, 9, 123] \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "situation",
+        "source": "humaneval",
+        "level": 2,
+        "instruction": "定义函数unique(l: list, n: int): \"\"\"返回一个列表，其中包含在给定列表中恰好出现n次的元素，按升序排序 >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1) [0, 2, 9, 123] \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "situation",
+        "source": "humaneval",
+        "level": 3,
+        "instruction": "定义函数unique(l: list, n: int): \"\"\"返回一个列表，其中包含在给定列表中恰好出现n次的元素，按升序排序。此外，将这些元素求和并作为第二个输出返回 >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1) ([0, 2, 9, 123], 134) \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "situation",
+        "source": "humaneval",
+        "level": 4,
+        "instruction": "定义函数unique(l: list, n: int, m: int): \"\"\"返回一个列表，其中的元素在给定列表中正好出现n次，但也大于参数m，按升序排序。此外，找到这些元素的中位数，并将其作为第二个输出返回。 >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1, 3) ([9, 123], 66) \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "situation",
+        "source": "humaneval",
+        "level": 5,
+        "instruction": "定义函数unique(l: list, n: int, m: int, p: int): \"\"\"从输入列表中，识别出不仅恰好出现n次且大于m的元素，而且可以被p整除而没有余数的元素。将这些元素按升序排序，然后找到这些元素的中位数和均值，分别作为第二和第三输出返回。 >>> unique([5, 3, 5, 2, 3, 3, 9, 0, 123], 1, 3, 3) ([9], 9, 9) \"\"\" ",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "situation",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "我正在Python项目中使用VS Code。我的主项目文件夹名为“IB”。在“IB”中，我有名为“TESTOUT”的子文件夹和一个名为“Code.py”的python文件。“Code.py”有一个名为“Eclass”的类。\n\n你明白吗？你能提供文本绘制我的项目的内容吗？",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "situation",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "我正在Python项目中使用VS Code。我的主项目文件夹名为“IB”。在“IB”中，我有名为“TESTOUT”的子文件夹和一个名为“Code.py”的python文件。“Code.py”有一个名为“Eclass”的类。“TESTOUT”子文件夹有一些html文件和一个名为“test.py”的python文件。\n\n你明白吗？你能提供文本绘制我的项目的内容吗？",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "situation",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "我正在Python项目中使用VS Code。我的主项目文件夹名为“IB”。在“IB”中，我有名为“TESTOUT”的子文件夹和一个名为“Code.py”的python文件。“Code.py”有一个名为“Eclass”的类。“TESTOUT”子文件夹有一些html文件和一个名为“test.py”的python文件。在'test.py'中，我有以下代码：\n\nfrom代码import Eclass\n\n n=Eclass()\n\n你明白吗？你能提供文本绘制我的项目的内容吗？",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "situation",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "我正在Python项目中使用VS Code。我的主项目文件夹名为“IB”。在“IB”中，我有名为“TESTOUT”的子文件夹和一个名为“Code.py”的python文件。“Code.py”有一个名为“Eclass”的类。“TESTOUT”子文件夹有一些html文件和一个名为“test.py”的python文件。在“test.py”中，我有以下代码：\n\nfrom Code import Eclass\n\n nib=Eclass()\n\n想象一下，在“IB”中还有另一个名为“UTILS”的子文件夹，其中包含各种实用的Python脚本。其中一个名为“helper.py”的脚本包含了“Code.py”使用的几个函数。\n\n你明白吗？你能提供文本绘制我的项目的内容吗？",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "situation",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "我正在Python项目中使用VS Code。我的主项目文件夹名为“IB”。在“IB”中，我有名为“TESTOUT”的子文件夹和一个名为“Code.py”的python文件。“Code.py”有一个名为“Eclass”的类。“TESTOUT”子文件夹有一些html文件和一个名为“test.py”的python文件。在“test.py”中，我有以下代码：\n\nfrom Code import Eclass\n\n nib=Eclass()\n\n想象一下，在“IB”中还有另一个名为“UTILS”的子文件夹，其中包含各种实用的Python脚本。其中一个名为“helper.py”的脚本包含了“Code.py”使用的几个函数。\n\n此外，在“TESTOUT”中，还有另一个名为“模板”的子文件夹，其中包含一些“test.py”用来生成HTML文件的.j2模板。\n\n你明白吗？你能提供文本绘制我的项目的内容吗？",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "situation",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "我正在Python项目中使用VS Code。我的主项目文件夹名为“IB”。在“IB”中，我有名为“TESTOUT”的子文件夹和一个名为“Code.py”的python文件。“Code.py”有一个名为“Eclass”的类。“TESTOUT”子文件夹有一些html文件和一个名为“test.py”的python文件。在“test.py”中，我有以下代码：\n\nfrom Code import Eclass\n\n nib=Eclass()\n\n想象一下，在“IB”中还有另一个名为“UTILS”的子文件夹，其中包含各种实用的Python脚本。其中一个名为“helper.py”的脚本包含了“Code.py”使用的几个函数。\n\n此外，在“TESTOUT”中，还有另一个名为“模板”的子文件夹，其中包含一些“test.py”用来生成HTML文件的.j2模板。此外，'Code.py'现在还包含另一个名为'Dclass'的类，它是'Eclass'的依赖项。这意味着“Eclass”依赖于“Dclass”来实现某些功能。\n\n你明白吗？你能提供文本绘制我的项目的内容吗？",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "situation",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "想象一下下面的情况：\n\n我在家里。我在一个玻璃杯子里放了一颗小钻石。\n\n在这一切结束时，钻石在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "situation",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "想象一下下面的情况：\n\n我在家里。我在一个玻璃杯子里放了一颗小钻石。我把杯子放在托盘上，然后把托盘搬到厨房。\n\n在这一切结束时，钻石在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "situation",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "想象一下下面的情况：\n\n我在家里。我在一个玻璃杯子里放了一颗小钻石。我把杯子放在托盘上，然后把托盘搬到厨房。在厨房，我在托盘上放了另一个杯子。\n\n在这一切结束时，钻石在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "situation",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "想象一下下面的情况：\n\n我在家里。我在一个玻璃杯子里放了一颗小钻石。我把杯子放在托盘上，然后把托盘搬到厨房。在厨房，我在托盘上放了另一个杯子。然后，我把上面有两个杯子的托盘搬到浴室。\n\n在这一切结束时，钻石在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "situation",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "想象一下下面的情况：\n\n我在家里。我在一个玻璃杯子里放了一颗小钻石。我把杯子放在托盘上，然后把托盘搬到厨房。在厨房，我在托盘上放了另一个杯子。然后我拿着上面有两个杯子的托盘去卫生间。我拿起两个杯子，把它们完全倒过来放在水槽旁边的柜台上。\n\n在这一切结束时，钻石在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "situation",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "想象一下下面的情况：\n\n我在家里。我在一个玻璃杯子里放了一颗小钻石。我把杯子放在托盘上，然后把托盘搬到厨房。在厨房，我在托盘上放了另一个杯子。然后，我把上面有两个杯子的托盘搬到浴室。我拿起两个杯子，把它们完全倒过来放在水槽旁边的柜台上。然后，我把杯子放回托盘上，把托盘搬到客厅。\n\n在这一切结束时，钻石在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "situation",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "我想让你充当一个linux终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个独特的代码块中的终端输出，而没有其他内容。不要写解释。不要键入命令，除非我指示你这样做。我的第一个命令是nvidia-smi。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "situation",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "我想让你充当一个linux终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个独特的代码块中的终端输出，而没有其他内容。不要写解释。不要键入命令，除非我指示你这样做。我安装了4个V100 GPU。我的第一个命令是nvidia-smi。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "situation",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "我想让你充当一个linux终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有任何其他内容。不要编写解释。不要键入命令，除非我指示你这样做。我安装了4个V100 GPU。第三个GPU正在运行一个占满全部内存和实用程序的作业。我的第一个命令是nvidia-smi。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "situation",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "我想让你充当一个linux终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个独特的代码块内的终端输出，而没有其他内容。不要编写解释。不要键入命令，除非我指示你这样做。我安装了4个V100 GPU。第三个GPU正在运行一个占满全部内存和实用程序的作业。第二个GPU不是在运行作业，但是它的内存被一个进程使用了20%。我的第一个命令是nvidia-smi。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "situation",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "我想让你充当一个linux终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有其他任何东西。不要编写解释。不要键入命令，除非我指示你这样做。我安装了4个V100 GPU。第三个GPU正在运行一个占满全部内存和实用程序的作业。第二个GPU不是在运行作业，但是它的内存被一个进程占用了20%。空GPU温度正常为35°C。我的第一个命令是nvidia-smi。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "situation",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "我想让你充当一个linux终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个独特的代码块中的终端输出，而没有其他内容。不要编写解释。不要键入命令，除非我指示你这样做。我安装了4个V100 GPU。第三个GPU正在运行一个占满全部内存和实用程序的作业。第二个GPU不是在运行作业，但是它的内存被一个进程使用了20%。空GPU温度正常为35°C。我的CUDA版本是11.5。我的第一个命令是nvidia-smi。",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "situation",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "我正在VS Code中使用Flask开发一个Web应用程序。我的项目的主目录名为“ShopApp”。在“ShopApp”中，有一个名为“ModelS”的子目录和一个名为“app.py”的主Python脚本。“app.py”有一个主路径，也从“ModelS”目录导入类。\n\n你是否了解我的项目的结构和依赖关系？你能把我的项目的内容可视化吗？",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "situation",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "我正在VS Code中使用Flask开发一个Web应用程序。我的项目的主目录名为“ShopApp”。在“ShopApp”中，有一个名为“ModelS”的子目录和一个名为“app.py”的主Python脚本。“app.py”有一个主路径，也从“ModelS”目录导入类。在“ModelS”目录中，有两个Python文件：“product.py”和“user.py”。“product.py”文件定义了一个类“Product”，它具有“product_name”和“price”等属性。另一方面，'user.py'文件定义了一个具有'username'和'email'属性的类'User'。\n\n你是否了解我的项目的结构和依赖关系？你能把我的项目的内容可视化吗？",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "situation",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "我正在VS Code中使用Flask开发一个Web应用程序。我的项目的主目录名为“ShopApp”。在“ShopApp”中，有一个名为“ModelS”的子目录和一个名为“app.py”的主Python脚本。“app.py”有一个主路径，也从“ModelS”目录导入类。在“ModelS”目录中，有两个Python文件：“product.py”和“user.py”。“product.py”文件定义了一个类“Product”，它具有“product_name”和“price”等属性。另一方面，'user.py'文件定义了一个具有'username'和'email'属性的类'User'。你还了解到，在“ShopApp”目录中，还有另一个名为“Views”的子目录。在“views”内部，有多个HTML文件，如“int.html”、“login.html”和“register.html”。这些HTML文件是通过'app.py'中定义的路径来呈现的。\n\n你了解我的项目的结构和依赖关系吗？你能把我的项目的内容可视化吗？",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "situation",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "我正在VS Code中使用Flask开发一个Web应用程序。我的项目的主目录名为“ShopApp”。在“ShopApp”中，有一个名为“ModelS”的子目录和一个名为“app.py”的主Python脚本。“app.py”有一个主路径，也从“ModelS”目录导入类。在“ModelS”目录中，有两个Python文件：“product.py”和“user.py”。“product.py”文件定义了一个类“Product”，它具有“product_name”和“price”等属性。另一方面，'user.py'文件定义了一个具有'username'和'email'属性的类'User'。你还了解到，在“ShopApp”目录中，还有一个名为“Views”的子目录。在“views”内部，有多个HTML文件，如“int.html”、“login.html”和“register.html”。这些HTML文件是通过'app.py'中定义的路径来呈现的。此外，在“ShopApp”中，有一个名为“STATIC”的文件夹，包含各种静态文件，如CSS样式和JavaScript脚本。其中一个名为“styles.css”的CSS文件被大量用于“”目录中的所有HTML文件来设置网页的样式。\n\n你是否了解我的项目的结构和依赖关系？你能把我的项目的内容可视化吗？",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "situation",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "我正在VS Code中使用Flask开发一个Web应用程序。我的项目的主目录名为“ShopApp”。在“ShopApp”中，有一个名为“ModelS”的子目录和一个名为“app.py”的主Python脚本。“app.py”有一个主路径，也从“ModelS”目录导入类。在“ModelS”目录中，有两个Python文件：“product.py”和“user.py”。“product.py”文件定义了一个类“Product”，它具有“product_name”和“price”等属性。另一方面，'user.py'文件定义了一个具有'username'和'email'属性的类'User'。你还了解到，在“ShopApp”目录中，还有另一个名为“Views”的子目录。在“View”内部，有多个HTML文件，如“Dashboard.html”、“login.html”和“register.html”。这些HTML文件是通过'app.py'中定义的路径来呈现的。此外，在“ShopApp”中，有一个名为“STATIC”的文件夹，包含各种静态文件，如CSS样式和JavaScript脚本。其中一个名为“styles.css”的CSS文件被大量用于“”目录中的所有HTML文件来设置网页的样式。为了方便数据库操作，'app.py'采用了一个名为'db_ops.py'的模块，该模块位于'ShopApp'主目录中。该模块包含“add_product”和“get_user_details”等函数。\n\n你是否了解我的项目的结构和依赖关系？你能把我的项目的内容可视化吗？",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "situation",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "我正在VS Code中使用Flask开发一个Web应用程序。我的项目的主目录名为“ShopApp”。在“ShopApp”中，有一个名为“ModelS”的子目录和一个名为“app.py”的主Python脚本。“app.py”有一个主路径，也从“ModelS”目录导入类。在“ModelS”目录中，有两个Python文件：“product.py”和“user.py”。“product.py”文件定义了一个类“Product”，它具有“product_name”和“price”等属性。另一方面，'user.py'文件定义了一个具有'username'和'email'属性的类'User'。你还了解到，在“ShopApp”目录中，还有另一个名为“Views”的子目录。在“View”内部，有多个HTML文件，如“Dashboard.html”、“login.html”和“register.html”。这些HTML文件是通过'app.py'中定义的路径来呈现的。此外，在“ShopApp”中，有一个名为“STATIC”的文件夹，包含各种静态文件，如CSS样式和JavaScript脚本。其中一个名为“styles.css”的CSS文件被大量用于“”目录中的所有HTML文件来设置网页的样式。为了方便数据库操作，'app.py'使用了一个名为'db_ops.py'的模块，该模块位于'ShopApp'主目录中。该模块包含“add_product”和“get_user_details”等函数。最后，'user.py'依赖名为'bcrypt'的外部库来散列和验证用户密码。\n\n你了解我的项目的结构和依赖关系吗？你能把我的项目的内容可视化吗？",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "situation",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "想象一下下面的场景：\n\n你在你的卧室里。在你的办公桌上，有一把金钥匙。你拿着钥匙放在一个蓝色信封里。然后把这个信封放在一本名为“宇宙之谜”的红皮书里。\n\n考虑到所采取的行动，在这个场景结束时的金钥匙在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "situation",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "想象一下下面的场景：\n\n你在你的卧室里。在你的办公桌上，有一把金钥匙。你拿着钥匙放在一个蓝色信封里。然后，你把这个信封放在一本名为“宇宙之谜”的红皮书里。合上这本书，你把它带到图书室。在图书馆里，你把红皮书放在绿色植物旁边的木架上。\n\n考虑到所采取的行动，这个场景最后的金钥匙在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "situation",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "想象一下下面的场景：\n\n你在你的卧室里。在你的办公桌上，有一把金钥匙。你拿着钥匙放在一个蓝色信封里。然后，你把这个信封放在一本名为“宇宙之谜”的红皮书里。合上这本书，你把它带到图书室。在图书馆里，你把红皮书放在绿色植物旁边的木架上。然后你决定从相邻的架子上拿一个黑色笔记本。当你拿起它时，你把红色本子上的蓝色信封塞到了黑色笔记本里。\n\n考虑到所采取的行动，这个场景最后的金钥匙在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "situation",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "想象一下下面的场景：\n\n你在你的卧室里。在你的办公桌上，有一把金钥匙。你拿着钥匙放在一个蓝色信封里。然后，你把这个信封放在一本名为“宇宙之谜”的红皮书里。合上这本书，你把它带到图书室。在图书馆里，你把红皮书放在绿色植物旁边的木架上。然后你决定从相邻的架子上拿一个黑色笔记本。当你拿起它时，你把红色本子上的蓝色信封塞到了黑色笔记本里。拿着两本书，你走向餐厅。\n\n考虑到所采取的行动，这个场景最后的金钥匙在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "situation",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "想象一下下面的场景：\n\n你在你的卧室里。在你的桌子上，有一把金钥匙。你拿着钥匙放在一个蓝色信封里。然后，你把这个信封放在一本名为“宇宙之谜”的红皮书里。合上这本书，你把它带到图书室。在图书馆里，你把红皮书放在绿色植物旁边的木架上。然后你决定从相邻的架子上拿一个黑色笔记本。当你拿起它时，你把红色本子上的蓝色信封塞到了黑色笔记本里。拿着两本书，你走向餐厅。在餐桌上，你放下了黑色笔记本，但决定把红色本子放在附近橱柜的抽屉里。\n\n考虑到所采取的行动，在这个场景结束时的金钥匙在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 14,
+        "category": "situation",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "想象一下下面的场景：\n\n你在你的卧室里。在你的办公桌上，有一把金钥匙。你拿着钥匙放在一个蓝色信封里。然后，你把这个信封放在一本名为“宇宙之谜”的红皮书里。合上这本书，你把它带到图书室。在图书馆里，你把红皮书放在绿色植物旁边的木架上。然后你决定从相邻的架子上拿一个黑色笔记本。当你拿起它时，你将红色本子上的蓝色信封塞入黑色笔记本中。拿着两本书，你走向餐厅。在餐桌上，你放下了黑色笔记本，但决定把红色本子放在附近橱柜的抽屉里。几分钟后，你拿起黑色笔记本，走向书房。\n\n考虑到所采取的行动，这个场景最后的金钥匙在哪里？",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "situation",
+        "source": "self-made",
+        "level": 0,
+        "instruction": "我希望你作为macOS终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有其他任何内容。不要写解释。请勿键入命令，除非我指示你这样做。下面是我系统上存储的详细分类：主驱动器（固态硬盘）名为“Macintosh HD”。我的第一个命令是df -h。",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "situation",
+        "source": "self-made",
+        "level": 1,
+        "instruction": "我希望你作为macOS终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有其他任何内容。不要写解释。请勿键入命令，除非我指示你这样做。下面是我系统上存储的详细分类：主驱动器（固态硬盘）名为“Macintosh HD”。它的总容量为1TB，目前有650GB的可用空间。我的第一个命令是df -h。",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "situation",
+        "source": "self-made",
+        "level": 2,
+        "instruction": "我希望你作为macOS终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有其他任何内容。不要写解释。请勿键入命令，除非我指示你这样做。下面是我系统上存储的详细分类：主驱动器（固态硬盘）名为“Macintosh HD”。它的总容量为1TB，目前有650GB的可用空间。\n已连接外部USB驱动器，其名称为\"BackupDrive\"。我的第一个命令是df -h。",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "situation",
+        "source": "self-made",
+        "level": 3,
+        "instruction": "我希望你作为macOS终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有其他任何内容。不要写解释。请勿键入命令，除非我指示你这样做。下面是我系统上存储的详细分类：主驱动器（固态硬盘）名为“Macintosh HD”。它的总容量为1TB，目前有650GB的可用空间。\n已连接外部USB驱动器，其名称为\"BackupDrive\"。此硬盘的总容量为2TB，目前有1.5TB的可用空间。我的第一个命令是df -h。",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "situation",
+        "source": "self-made",
+        "level": 4,
+        "instruction": "我希望你作为macOS终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有其他任何内容。不要写解释。请勿键入命令，除非我指示你这样做。下面是我系统上存储的详细分类：主驱动器（固态硬盘）名为“Macintosh HD”。它的总容量为1TB，目前有650GB的可用空间。\n已连接外部USB驱动器，其名称为\"BackupDrive\"。此硬盘的总容量为2TB，目前有1.5TB的可用空间。\n还有一个名为“Recovery HD”的恢复分区，占用650MB的空间。我的第一个命令是df -h。",
+        "target": ""
+    },
+    {
+        "example_id": 15,
+        "category": "situation",
+        "source": "self-made",
+        "level": 5,
+        "instruction": "我希望你作为macOS终端。我将键入命令，然后你将回答终端应显示的内容。我希望你只回复一个唯一代码块内的终端输出，而没有其他任何内容。不要写解释。请勿键入命令，除非我指示你这样做。下面是我系统上存储的详细分类：主驱动器（固态硬盘）名为“Macintosh HD”。它的总容量为1TB，目前有650GB的可用空间。\n已连接外部USB驱动器，其名称为\"BackupDrive\"。此硬盘的总容量为2TB，目前有1.5TB的可用空间。\n还有一个名为“Recovery HD”的恢复分区，它占用650MB空间，几乎已满。我的第一个命令是df -h。",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "在家办公时，如何提高工作效率？",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "自从新冠大流行开始，我就一直在远程工作。在家工作时，如何提高工作效率？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "我家里有个小孩。自从新冠大流行开始以来，我一直在远程工作。在家工作时，如何提高工作效率？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "去年生完孩子后，我家里有一个小孩。自从新冠大流行开始以来，我一直在远程工作。在家办公时，如何提高工作效率？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "去年生完孩子后，我家里有一个小孩。自从新冠大流行开始以来，我一直在远程工作。最近因为宝宝长牙，我晚上经常失眠。在家办公时，如何提高工作效率？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 16,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "去年生完孩子后，我家里有一个小孩。自从新冠大流行开始以来，我一直在远程工作。最近因为宝宝长牙，我晚上经常失眠。并且我老公太忙了，没有时间做家务。在家办公时，如何提高工作效率？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "如何提高我的时间管理技能？",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "我下周就要开始一份新工作了。如何提高我的时间管理技能？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "我最近一直在处理多个项目。我下周就要开始一份新工作了。如何提高我的时间管理技能？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "我最近一直在做多个项目。我刚刚被录用为一名软件工程师，我下周就要开始新工作了。如何提高我的时间管理技能？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "从实习过渡到现在，我最近一直在处理多个项目。我刚刚被录用为一名软件工程师，我下周就要开始新工作了。如何提高我的时间管理技能？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 17,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "从实习过渡到全职角色后，我承担了多个项目，我刚刚被一家快节奏的科技初创公司聘用为软件工程师，我下周就要开始新工作了。如何提高我的时间管理技能？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "如何培养我的批判性思维能力？",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "我是一名哲学专业的大学生。如何培养我的批判性思维能力？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "我是一名哲学专业的大学生，正在为下个月的辩论赛做准备。如何培养我的批判性思维能力？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "我是一名主修哲学的大学生，已被选为下个月即将举行的一场活动的主辩手。如何培养我的批判性思维能力？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "我是一名哲学专业的大学生，最近被选中代表我的学院参加全国性的辩论比赛。如何培养我的批判性思维能力？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 18,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "考虑到我最近选修的一门关于苏格拉底提问的课程，我是一名哲学专业的大学生，最近被选中代表我的学院参加全国性的辩论比赛。如何培养我的批判性思维能力？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 0,
+        "instruction": "影响消费者行为的主要因素是什么？",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 1,
+        "instruction": "我要开一个新的网上商店。影响消费者行为的主要因素是什么？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 2,
+        "instruction": "我正在推出一个新的手工工艺品网上商店。影响消费者行为的主要因素是什么？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 3,
+        "instruction": "我最近从实体店过渡到了线上。我正在推出一个新的手工工艺品网上商店。影响消费者行为的主要因素是什么？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 4,
+        "instruction": "在关闭了我的实体店后，我最近过渡到了在线平台。我正在推出一个新的手工工艺品网上商店。我的目标客户是中国人。影响消费者行为的主要因素是什么？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 19,
+        "category": "situation",
+        "source": "vicuna",
+        "level": 5,
+        "instruction": "在关闭了我的实体店后，我最近过渡到了在线平台。我正在推出一个新的手工工艺品网上商店。我的目标客户是中国的年轻人。影响消费者行为的主要因素是什么？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "situation",
+        "source": "helpful_base",
+        "level": 0,
+        "instruction": "如何将礼物包装整齐？",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "situation",
+        "source": "helpful_base",
+        "level": 1,
+        "instruction": "我有一个朋友的生日派对快到了。如何将礼物包装整齐？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "situation",
+        "source": "helpful_base",
+        "level": 2,
+        "instruction": "我这周末要参加一个好朋友的惊喜生日派对。如何将礼物包装整齐，让它看起来有吸引力和体贴？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "situation",
+        "source": "helpful_base",
+        "level": 3,
+        "instruction": "这个周末我要参加一个好朋友的惊喜生日派对，我买了一本书作为礼物。如何将礼物包装整齐，让它看起来有吸引力和体贴？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "situation",
+        "source": "helpful_base",
+        "level": 4,
+        "instruction": "本周末，我被邀请参加一个主题惊喜生日派对，为一个密友，我选择了一本书作为礼物，与主题相符。你能指导我如何将礼物包装得整齐，以确保它看起来既美观又体贴吗？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 20,
+        "category": "situation",
+        "source": "helpful_base",
+        "level": 5,
+        "instruction": "本周末我将参加一个主题为“文学与经典”的好友的惊喜生日派对，我选择了一本与主题完美契合的书。你能指导我如何将礼物包装得整齐，以确保它看起来既美观又体贴吗？确保你的回答仔细考虑上面提到的所有场景。",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "situation",
+        "source": "coding",
+        "level": 0,
+        "instruction": "使用Python类创建一个简单的银行系统。",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "situation",
+        "source": "coding",
+        "level": 1,
+        "instruction": "通过考虑以下场景，使用Python类创建一个简单的银行系统：\n\n实现一个BankAccount类，该类具有以下特性：\n1.一个构造函数（__init__），它接受一个account_number和一个可选的余额（默认为0）。\n2.一种存款方法，允许你向帐户中存入正金额。它应该更新余额并返回带有新余额的消息。",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "situation",
+        "source": "coding",
+        "level": 2,
+        "instruction": "通过考虑以下场景，使用Python类创建一个简单的银行系统：\n\n实现一个BankAccount类，该类具有以下特性：\n1.一个构造函数（__init__），它接受一个account_number和一个可选的余额（默认为0）。\n2.一种存款方法，允许你向账户中存入正金额。它应该更新余额并返回带有新余额的消息。\n3.一种提取方法，允许你从帐户中提取正数金额，只要金额不超过当前余额。它应该更新余额并返回带有新余额的消息。\n4.返回帐户余额的get_balance方法。",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "situation",
+        "source": "coding",
+        "level": 3,
+        "instruction": "通过考虑以下场景，使用Python类创建一个简单的银行系统：\n\n实现一个BankAccount类，该类具有以下特性：\n1.一个构造函数（__init__），它接受一个account_number和一个可选的余额（默认为0）。\n2.一种存款方法，允许你向账户中存入正金额。它应该更新余额并返回带有新余额的消息。\n3.一种提取方法，允许你从帐户中提取正数金额，只要金额不超过当前余额。它应该更新余额并返回带有新余额的消息。\n4.返回帐户余额的get_balance方法。\n\n创建一个继承自BankAccount的储蓄账户类。SavesAccount类应具有一个附加功能：\n1.一个构造函数（__init__），它接受一个account_number、一个可选的余额（默认为0）和一个可选的利率（默认为0.02）。\n2.apply_interest方法，用于根据提供的利率计算并将利息添加到帐户余额中。",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "situation",
+        "source": "coding",
+        "level": 4,
+        "instruction": "通过考虑以下场景，使用Python类创建一个简单的银行系统：\n\n实现一个BankAccount类，该类具有以下特性：\n1.一个构造函数（__init__），它接受一个account_number和一个可选的余额（默认为0）。\n2.一种存款方法，允许你向账户中存入正金额。它应该更新余额并返回带有新余额的消息。\n3.一种取款方法，允许你从帐户中提取正数金额，只要金额不超过当前余额。它应该更新余额并返回带有新余额的消息。\n4.返回帐户余额的get_balance方法。\n\n创建一个继承自BankAccount的储蓄账户类。SavesAccount类应具有一个附加功能：\n1.一个构造函数（__init__），它接受一个account_number、一个可选的余额（默认为0）和一个可选的利率（默认为0.02）。\n2.apply_interest方法，用于根据提供的利率计算并将利息添加到帐户余额中。\n\n实现表示银行客户的Customer类。Customer类应该具有以下特性：\n1.一个使用客户名称的构造函数(__init__)。\n2.add_account方法允许你将BankAccount或SavesAccount添加到客户的帐户列表中。",
+        "target": ""
+    },
+    {
+        "example_id": 21,
+        "category": "situation",
+        "source": "coding",
+        "level": 5,
+        "instruction": "通过考虑以下场景，使用Python类创建一个简单的银行系统：\n\n实现一个BankAccount类，该类具有以下特性：\n1.一个构造函数（__init__），它接受一个account_number和一个可选的余额（默认为0）。\n2.一种存款方法，允许你向账户中存入正金额。它应该更新余额并返回带有新余额的消息。\n3.一种提取方法，允许你从账户中提取正数金额，只要金额不超过当前余额。它应该更新余额并返回带有新余额的消息。\n4.返回帐户余额的get_balance方法。\n\n创建一个继承自BankAccount的储蓄账户类。SavesAccount类应具有一个附加功能：\n1.一个构造函数（__init__），它接受account_number、一个可选的余额（默认为0）和一个可选的利率（默认为0.02）。\n2.apply_interest方法，用于根据提供的利率计算并将利息添加到帐户余额中。\n\n实现表示银行客户的Customer类。Customer类应该具有以下特性：\n1.一个使用客户名称的构造函数(__init__)。\n2.add_account方法，它允许你将BankAccount或SavesAccount添加到客户的帐户列表中。\n3.get_account方法获取account_number并返回对应的帐户（如果存在），如果不存在则返回一条消息。",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "situation",
+        "source": "coding",
+        "level": 0,
+        "instruction": "你需要实现一个C++类来表示矩阵。",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "situation",
+        "source": "coding",
+        "level": 1,
+        "instruction": "你需要实现一个C++类来表示矩阵。以下是所需功能的详细信息：\n\n定义一个名为Matrix的类，它表示由整数组成的二维矩阵。\n类应该有行数、列数的私有成员变量，以及存储矩阵数据的二维向量。",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "situation",
+        "source": "coding",
+        "level": 2,
+        "instruction": "你需要实现一个C++类来表示矩阵。以下是所需功能的详细信息：\n\n定义一个名为Matrix的类，它表示由整数组成的二维矩阵。\n类应该有私有成员变量，用于行数、列数和存储矩阵数据的二维向量。\n该类应该有一个构造函数，该构造函数接受行数和列数作为参数，并使用零初始化矩阵。",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "situation",
+        "source": "coding",
+        "level": 3,
+        "instruction": "你需要实现一个C++类来表示矩阵。以下是所需功能的详细信息：\n\n定义一个名为Matrix的类，它表示由整数组成的二维矩阵。\n该类应该具有用于行数、列数的私有成员变量，以及用于存储矩阵数据的二维向量。\n该类应该有一个构造函数，该构造函数接受行数和列数作为参数，并使用零初始化矩阵。\n实现运算符（）方法，该方法允许使用行索引和列索引访问矩阵的各个元素。确保执行边界检查，并在索引超出边界时抛出std::out_of_range异常。",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "situation",
+        "source": "coding",
+        "level": 4,
+        "instruction": "你需要实现一个C++类来表示矩阵。以下是所需功能的详细信息：\n\n定义一个名为Matrix的类，它表示由整数组成的二维矩阵。\n类应该有用于行数、列数的私有成员变量，以及用于存储矩阵数据的二维向量。\n该类应该有一个构造函数，该构造函数接受行数和列数作为参数，并使用零初始化矩阵。\n实现运算符（）方法，该方法允许使用行索引和列索引访问矩阵的各个元素。确保执行边界检查，如果索引超出边界，则抛出std::out_of_range异常。\n实现运算符+方法来执行矩阵相加。该方法应该将另一个Matrix作为参数，并返回一个新的Matrix，其中包含两个矩阵的和。如果矩阵的维度不匹配，则抛出std::invalid_argument异常。",
+        "target": ""
+    },
+    {
+        "example_id": 22,
+        "category": "situation",
+        "source": "coding",
+        "level": 5,
+        "instruction": "你需要实现一个C++类来表示矩阵。以下是所需功能的详细信息：\n\n定义一个名为Matrix的类，它表示由整数组成的二维矩阵。\n类应该有用于行数、列数的私有成员变量，以及用于存储矩阵数据的二维向量。\n该类应该有一个构造函数，该构造函数接受行数和列数作为参数，并使用零初始化矩阵。\n实现运算符（）方法，该方法允许使用行索引和列索引访问矩阵的各个元素。确保执行边界检查，如果索引超出边界，则抛出std::out_of_range异常。\n实现运算符+方法来执行矩阵相加。该方法应该将另一个Matrix作为参数，并返回一个新的Matrix，其中包含两个矩阵的和。如果矩阵的维度不匹配，则抛出std::invalid_argument异常。\n实现一个print方法，该方法将矩阵打印到标准输出，逐行显示元素。",
+        "target": ""
+    }
+]

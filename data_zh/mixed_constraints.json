@@ -1,0 +1,626 @@
+[
+    {
+        "example_id": 1,
+        "category": "mixed",
+        "source": "ROCStories",
+        "level": 0,
+        "instruction": "使用下面的词语来生成一个故事。\n\n需要，钱，电脑，买了，高兴",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format",
+        "source": "ROCStories",
+        "level": 1,
+        "instruction": "使用以下词语生成一个五句话的故事。\n\n需要，钱，电脑，买了，高兴",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format, content",
+        "source": "ROCStories",
+        "level": 2,
+        "instruction": "使用以下词语生成一个五句话的故事。你应该确保下面的词语按照给定的顺序出现在输出中。\n\n需要，钱，电脑，买了，高兴",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format, content, content",
+        "source": "ROCStories",
+        "level": 3,
+        "instruction": "使用以下词语生成一个五句话的故事。你应该确保下面的词语按照给定的顺序出现在输出中。每个句子至少应包含其中一个词语。\n\n需要，钱，电脑，买了，高兴",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format, content, content, format",
+        "source": "ROCStories",
+        "level": 4,
+        "instruction": "使用以下词语生成一个五句话的故事。你应该确保下面的词语按照给定的顺序出现在输出中。每个句子至少应包含其中一个词。你也应该遵循这些词所对应的时态。\n\n需要，钱，电脑，买了，高兴",
+        "target": ""
+    },
+    {
+        "example_id": 1,
+        "category": "format, content, content, format, style",
+        "source": "ROCStories",
+        "level": 5,
+        "instruction": "使用以下词语生成一个五句话的故事。你应该确保下面的词语按照给定的顺序出现在输出中。每个句子至少应包含其中一个词。你也应该遵循这些词所对应的时态。此外，请使用正式的口吻。\n\n需要，钱，电脑，买了，高兴",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "mixed",
+        "source": "WritingPrompts",
+        "level": 0,
+        "instruction": "提示：迷路了，找到了伏特加，喝了就忘了。\n\n根据上面的提示，写一个故事。",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content",
+        "source": "WritingPrompts",
+        "level": 1,
+        "instruction": "提示：迷路了，找到了伏特加，喝了就忘了。\n\n根据上面的提示，写一个描述一个人的故事。",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content, format",
+        "source": "WritingPrompts",
+        "level": 2,
+        "instruction": "提示：迷路了，找到了伏特加，喝了就忘了。\n\n根据上面的提示，写一个描述一个男人的四句话故事。",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content, format, content",
+        "source": "WritingPrompts",
+        "level": 3,
+        "instruction": "提示：迷路了，找到了伏特加，喝了就忘了。\n\n根据上面的提示，写一个描述一个男人的四句话故事。请使用内省的叙述语气写作。",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content, format, content, style",
+        "source": "WritingPrompts",
+        "level": 4,
+        "instruction": "提示：迷路了，找到了伏特加，喝了就忘了。\n\n根据上面的提示，写一个描述一个男人的四句话故事。然而，“人”这个词不应出现在故事中。请使用内省的叙述语气写作。",
+        "target": ""
+    },
+    {
+        "example_id": 2,
+        "category": "content, format, content, style, content",
+        "source": "WritingPrompts",
+        "level": 5,
+        "instruction": "提示：迷路了，找到了伏特加，喝了就忘了。\n\n根据上面的提示，写一个描述一个男人的四句话故事。然而，“人”这个词不应出现在故事中。请使用内省的叙述语气写作。你还应该描述一些关于恶劣天气的事情。",
+        "target": ""
+    },
+    {
+        "example_id": 3,
+        "category": "mixed",
+        "source": "text_editing",
+        "level": 0,
+        "instruction": "直接输出给定的句子“我爱吃苹果”",
+        "target": "我爱吃苹果"
+    },
+    {
+        "example_id": 3,
+        "category": "content",
+        "source": "text_editing",
+        "level": 1,
+        "instruction": "请对给定的句子\"我爱吃苹果\"做以下编辑步骤\n\n1.将句子中的“我”改成“小明”。\n\n只输出编辑后的句子。",
+        "target": "小明爱吃苹果"
+    },
+    {
+        "example_id": 3,
+        "category": "content, content",
+        "source": "text_editing",
+        "level": 2,
+        "instruction": "请对给定的句子\"我爱吃苹果\"做以下编辑步骤\n\n1.将句子中的“我”改成“小明”。\n2.将“爱”改成“喜欢”。\n\n只输出编辑后的句子。",
+        "target": "小明喜欢吃苹果"
+    },
+    {
+        "example_id": 3,
+        "category": "content, content, content",
+        "source": "text_editing",
+        "level": 3,
+        "instruction": "请对给定的句子\"我爱吃苹果\"做以下编辑步骤\n\n1.将句子中的“我”改成“小明”。\n2.将“爱”改成“喜欢”。\n3.增加对苹果的描述：“酸酸的”。\n\n只输出编辑后的句子。",
+        "target": "小明喜欢吃酸酸的苹果"
+    },
+    {
+        "example_id": 3,
+        "category": "content, content, content, format",
+        "source": "text_editing",
+        "level": 4,
+        "instruction": "请对给定的句子\"我爱吃苹果\"做以下编辑步骤\n\n1.将句子中的“我”改成“小明”。\n2.将“爱”改成“喜欢”。\n3.增加对苹果的描述：“酸酸的”。\n4.在句子的结尾加上句号。\n\n只输出编辑后的句子。",
+        "target": "小明喜欢吃酸酸的苹果。"
+    },
+    {
+        "example_id": 3,
+        "category": "content, content, content, format, format",
+        "source": "text_editing",
+        "level": 5,
+        "instruction": "请对给定的句子\"我爱吃苹果\"做以下编辑步骤\n\n1.将句子中的“我”改成“小明”。\n2.将“爱”改成“喜欢”。\n3.增加对苹果的描述：“酸酸的”。\n4.在句子的结尾加上句号。\n5.在句子的前后加上星号。\n\n只输出编辑后的句子。",
+        "target": "*小明喜欢吃酸酸的苹果。*"
+    },
+    {
+        "example_id": 4,
+        "category": "mixed",
+        "source": "text_editing",
+        "level": 0,
+        "instruction": "这是一封辞职信\n\n[您的姓名]\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\n[经理姓名]\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的[经理姓名],\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\n[您的姓名]\n\n\n===\n\n\n请进行以下编辑：\n1.将[经理姓名]替换为“Joe Biden”",
+        "target": "[您的姓名]\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\nJoe Biden\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的Joe Biden,\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\n[您的姓名]"
+    },
+    {
+        "example_id": 4,
+        "category": "content",
+        "source": "text_editing",
+        "level": 1,
+        "instruction": "这是一封辞职信\n\n[您的姓名]\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\n[经理姓名]\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的[经理姓名],\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\n[您的姓名]\n\n\n===\n\n\n请进行以下编辑：\n1.将[经理姓名]替换为“Joe Biden”\n2.将[您的姓名]替换为“David”",
+        "target": "David\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\nJoe Biden\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的Joe Biden,\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\nDavid"
+    },
+    {
+        "example_id": 4,
+        "category": "content, content",
+        "source": "text_editing",
+        "level": 2,
+        "instruction": "这是一封辞职信\n\n[您的姓名]\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\n[经理姓名]\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的[经理姓名],\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向，作为一名JAVA程序员。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\n[您的姓名]\n\n\n===\n\n\n请进行以下编辑：\n1.将[经理姓名]替换为“Joe Biden”\n2.将[您的姓名]替换为“David”\n3.在第二段中增加一句关于JAVA程序员的新职业方向",
+        "target": "David\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\nJoe Biden\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的Joe Biden,\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\nDavid"
+    },
+    {
+        "example_id": 4,
+        "category": "content, content, format",
+        "source": "text_editing",
+        "level": 3,
+        "instruction": "这是一封辞职信\n\n[您的姓名]\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\n[经理姓名]\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的[经理姓名],\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向，作为一名JAVA程序员。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\n[您的姓名]\n\n\n===\n\n\n请进行以下编辑：\n1.将[经理姓名]替换为“Joe Biden”\n2.将[您的姓名]替换为“David”\n3.在第二段中增加一句关于JAVA程序员的新职业方向\n4.把最后两段合成一段",
+        "target": "David\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\nJoe Biden\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的Joe Biden,\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\nDavid"
+    },
+    {
+        "example_id": 4,
+        "category": "content, content, format, format",
+        "source": "text_editing",
+        "level": 4,
+        "instruction": "这是一封辞职信\n\n[您的姓名]\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\n[经理姓名]\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的[经理姓名],\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向，作为一名JAVA程序员。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\n[您的姓名]\n\n\n===\n\n\n请进行以下编辑：\n1.将[经理姓名]替换为“Joe Biden”\n2.将[您的姓名]替换为“David”\n3.在第二段中增加一句关于JAVA程序员的新职业方向\n4.把最后两段合成一段\n5.把“具有挑战性”改为“富有挑战性",
+        "target": "David\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\nJoe Biden\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的Joe Biden,\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多富有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\nDavid"
+    },
+    {
+        "example_id": 4,
+        "category": "content, content, format, format, content",
+        "source": "text_editing",
+        "level": 5,
+        "instruction": "这是一封辞职信\n\n[您的姓名]\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\n[经理姓名]\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的[经理姓名],\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向，作为一名JAVA程序员。我在[公司名称]的时间是无价的。我有机会参与许多具有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。\n\n我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以温馨的问候，\n\n[您的姓名]\n\n\n===\n\n\n请进行以下编辑：\n1.将[经理姓名]替换为“Joe Biden”\n2.将[您的姓名]替换为“David”\n3.在第二段中增加一句关于JAVA程序员的新职业方向\n4.把最后两段合成一段\n5.把“具有挑战性”改为“富有挑战性\n6.把“致以温馨的问候”改成“致以诚挚的问候”",
+        "target": "David\n[您的地址]\n[城市，邮编]\n[电子邮件地址]\n[电话号码]\n[日期]\n\nJoe Biden\n[公司名称]\n[公司地址]\n[城市，邮编]\n\n尊敬的Joe Biden,\n\n我写信正式辞去我在[公司名称]的职务，自[最后一个工作日，例如2023年10月31日]起生效。这个决定不是轻易作出的。经过深思熟虑，我选择了在事业上追求一个新的方向。我在[公司名称]的时间是无价的。我有机会参与许多富有挑战性的项目，向敬业的同事学习，并在专业和个人方面都得到了成长。我深深地感谢在这里得到的所有机会和指导。我一直致力于尽我所能，我为我们共同取得的成就感到自豪。我致力于确保平稳过渡，在这一过渡阶段，我非常愿意帮助培训我的继任者或以任何可能的方式提供协助。请接受我最诚挚的谢意。我希望我们的道路在未来会再次相通，并祝愿[公司名称]继续取得成功。致以诚挚的问候，\n\nDavid"
+    },
+    {
+        "example_id": 5,
+        "category": "mixed",
+        "source": "Tedtalks",
+        "level": 0,
+        "instruction": "将下列英文翻译成荷兰语：We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.",
+        "target": "We hoeven niet in een wereld te leven waar 99 procent van de verkrachters er mee weg komt, aldus TED Fellow Jessica Ladd. Met Callisto, een nieuw platform waar studenten vertrouwelijk seksmisdrijven kunnen melden, helpt Ladd overlevenden, zodat zij de ondersteuning en gerechtelijke genoegdoening ontvangen waar ze recht op hebben terwijl tegelijkertijd hun privacy beschermd wordt. \"We kunnen een wereld creëren met een werkend afschrikmiddel tegen het schenden van de rechten van een medemens\", zegt ze."
+    },
+    {
+        "example_id": 5,
+        "category": "format",
+        "source": "Tedtalks",
+        "level": 1,
+        "instruction": "将下列英文翻译成荷兰语：We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\n翻译文本中应包含4个句子。",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format, content",
+        "source": "Tedtalks",
+        "level": 2,
+        "instruction": "将下列英文翻译成荷兰语：We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\n翻译文本中应包含4个句子。\n将“99 percent”翻译为“99%”",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format, content, style",
+        "source": "Tedtalks",
+        "level": 3,
+        "instruction": "将下列英文翻译成荷兰语：We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\n翻译文本中应包含4个句子。\n将“99 percent”翻译为“99%”\n以Kader Abdolah的风格呈现",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format, content, style, format",
+        "source": "Tedtalks",
+        "level": 4,
+        "instruction": "将下列英文翻译成荷兰语：We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\n翻译文本中应包含4个句子。\n将“99 percent”翻译为“99%”\n以Kader Abdolah的风格呈现\n请以JSON格式输出结果，如{\"en\":\"...\",\"nl\":\"...}}",
+        "target": ""
+    },
+    {
+        "example_id": 5,
+        "category": "format, content, style, format, content",
+        "source": "Tedtalks",
+        "level": 5,
+        "instruction": "将下列英文翻译成荷兰语：We don't have to live in a world where 99 percent of rapists get away with it, says TED Fellow Jessica Ladd. With Callisto, a new platform for college students to confidentially report sexual assault, Ladd is helping survivors get the support and justice they deserve while respecting their privacy concerns. \"We can create a world where there's a real deterrent to violating the rights of another human being,\" she says.\n\n翻译文本中应包含4个句子。\n将“99 percent”翻译为“99%”\n以Kader Abdolah的风格呈现\n请以JSON格式输出结果，如{\"en\":\"...\",\"nl\":\"...}}\n除了json结果，不要输出任何内容。",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "mixed",
+        "source": "Tedtalks",
+        "level": 0,
+        "instruction": "Die Sixtinische Kapelle gehört zu den symbolträchtigsten Gebäuden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag führt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des berühmten Gebäudes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler über die religiöse Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gemäldes gezwungen, uns umzuschauen, als wäre die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem großen Theater des Lebens?\"\n\n将以上文本翻译成日语。",
+        "target": "システィーナ礼拝堂は地球上で最も象徴的な建物ですが、知られていないことも沢山あります。美術史家エリザベス・レヴが巧みに案内してくれるのは、この有名な建物の天井画の全体像、そしてミケランジェロが生き生きと描いた、いにしえの物語です。そして彼が当時の宗教的な図像を乗り越えて、新しい芸術の海図を作り上げていった様子を教えてくれます。レヴによれば、ミケランジェロがこの絵を描いて500年経った今、私たちはシスティーナ礼拝堂によって、鏡を覗くように世界を見て、自問するように仕向けられます。「自分は何者か、そして人生という大舞台で自分はどんな役を演じているのか？」と。"
+    },
+    {
+        "example_id": 6,
+        "category": "style",
+        "source": "Tedtalks",
+        "level": 1,
+        "instruction": "Die Sixtinische Kapelle gehört zu den symbolträchtigsten Gebäuden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag führt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des berühmten Gebäudes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler über die religiöse Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gemäldes gezwungen, uns umzuschauen, als wäre die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem großen Theater des Lebens?\"\n\n将上述文字翻译成日语，使用友好和邀请的语气。",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style, format",
+        "source": "Tedtalks",
+        "level": 2,
+        "instruction": "Die Sixtinische Kapelle gehört zu den symbolträchtigsten Gebäuden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag führt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des berühmten Gebäudes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler über die religiöse Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gemäldes gezwungen, uns umzuschauen, als wäre die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem großen Theater des Lebens?\"\n\n将上述文字翻译成日语，使用友好和邀请的语气。译文中应该有5个句子。",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style, format, format",
+        "source": "Tedtalks",
+        "level": 3,
+        "instruction": "Die Sixtinische Kapelle gehört zu den symbolträchtigsten Gebäuden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag führt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des berühmten Gebäudes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler über die religiöse Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gemäldes gezwungen, uns umzuschauen, als wäre die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem großen Theater des Lebens?\"\n\n将上述文字翻译成日语，使用友好和邀请的语气。翻译文本中应该有5个句子，不要把句子拆成单独的行。",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style, format, format, format",
+        "source": "Tedtalks",
+        "level": 4,
+        "instruction": "Die Sixtinische Kapelle gehört zu den symbolträchtigsten Gebäuden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag führt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des berühmten Gebäudes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler über die religiöse Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gemäldes gezwungen, uns umzuschauen, als wäre die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem großen Theater des Lebens?\"\n\n将上述文字翻译成日语，使用友好和邀请的语气。翻译文本中应该有5个句子，不要把句子拆成单独的行。首先输出\"翻译后的文本为：\"，然后输出结果。",
+        "target": ""
+    },
+    {
+        "example_id": 6,
+        "category": "style, format, format, format, style",
+        "source": "Tedtalks",
+        "level": 5,
+        "instruction": "Die Sixtinische Kapelle gehört zu den symbolträchtigsten Gebäuden der Welt, aber es gibt noch viele Dinge, die wahrscheinlich unbekannt sind. In diesem meisterlichen Vortrag führt uns die Kunsthistorikerin Elizabeth Lev in einer entlang der Deckenmalereien des berühmten Gebäudes und Michelangelos lebendiger Schilderung traditioneller Geschichten. Sie zeigt dabei, wie der Maler über die religiöse Ikonographie der Zeit hinausgriff, um in der Kunst neue Wege zu gehen. Laut Lev werden wir 500 Jahre nach Entstehung des Gemäldes gezwungen, uns umzuschauen, als wäre die Sixtinsiche Kapelle ein Spiegel und uns zu fragen: \"Wer bin ich und welche Rolle spiele ich in diesem großen Theater des Lebens?\"\n\n将上述文字翻译成日语，使用友好和邀请的语气。翻译文本中应该有5个句子，不要把句子拆成单独的行。首先输出\"翻译后的文本为：\"，然后输出结果。请模仿村上春树的写作风格。",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "mixed",
+        "source": "cnn_dailymail",
+        "level": 0,
+        "instruction": "总结下面的新闻：\n\n路透社，英国伦敦报道：《哈利·波特》影星丹尼尔·雷德克里夫将在周一年满18岁时获得3.2亿美元（合4110万美元）的财富，但他坚称这笔钱不会对他造成影响。丹尼尔·雷德克里夫（Daniel Radcliffe）在《哈利·波特与凤凰社》中饰演哈利·波特，令全世界的八卦专栏作家失望，这位年轻的演员说，他不打算把钱花在开快车、喝酒和名人派对上。“我不打算成为那种刚满18岁就突然给自己买大量跑车或类似的东西的人，”本月早些时候，他对澳大利亚的一位采访者说。“我不认为我会特别奢侈。”“我喜欢买的东西是10英镑左右的东西——书、CD和DVD。18岁时，拉德克利夫将可以在赌场赌博，在酒吧买杯酒，或者看恐怖片《旅馆：第二部》。目前，他在英国票房榜上排名第一的电影比他低6位。有关他将如何庆祝他具有里程碑意义的生日的细节目前尚未公布。他的经纪人和公关没有对他的计划发表评论。“我肯定会开某种派对，”他在接受采访时说。\"希望你们都不会读到它。雷德克里夫前五部《波特》电影的收益都存放在一个信托基金中，他一直无法触及。尽管他的名气越来越大，财富也越来越多，但这位演员说，他还是坚定地脚踏实地。“人们总是想说‘小明星出轨了’，”他上个月告诉记者。“但我很努力地尝试不走那条路，因为这对他们来说太容易了。”他最近在《哈利波特与凤凰社》中饰演的男巫正在打破大西洋两岸的记录，他将在最后两部电影中重演这个角色。看I-记者给她的评论波特的最新»。然而，波特之外还有生命。《伦敦人》拍摄了一部名为《我的男孩杰克》的电视电影，讲述了作家鲁德亚德·吉卜林和他的儿子，定于今年晚些时候上映。他还将出演《十二月男孩》，这是一部关于四个从孤儿院逃出的男孩的澳大利亚电影。今年早些时候，他在彼得·谢弗的《Equus》中首次登台，扮演一个受折磨的少年。“同时，他现在已经是合法成年人了，他已经准备好接受媒体更严格的审查：“我只是觉得我应该更公平一些，”他对路透社说。给朋友发邮件。版权所有2007路透社。保留所有权利。此材料不得发布、广播、重写或再分发。",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format",
+        "source": "cnn_dailymail",
+        "level": 1,
+        "instruction": "把下面的新闻总结成三句话：\n\n路透社，英国伦敦报道：《哈利·波特》影星丹尼尔·雷德克里夫将在周一年满18岁时获得3.2亿美元（合4110万美元）的财富，但他坚称这笔钱不会对他造成影响。丹尼尔·雷德克里夫（Daniel Radcliffe）在《哈利·波特与凤凰社》中饰演哈利·波特，令全世界的八卦专栏作家失望，这位年轻的演员说，他不打算把钱花在开快车、喝酒和名人派对上。“我不打算成为那种刚满18岁就突然给自己买大量跑车或类似的东西的人，”本月早些时候，他对澳大利亚的一位采访者说。“我不认为我会特别奢侈。”“我喜欢买的东西是10英镑左右的东西——书、CD和DVD。18岁时，拉德克利夫将可以在赌场赌博，在酒吧买杯酒，或者看恐怖片《旅馆：第二部》。目前，他在英国票房榜上排名第一的电影比他低6位。有关他将如何庆祝他具有里程碑意义的生日的细节目前尚未公布。他的经纪人和公关没有对他的计划发表评论。“我肯定会开某种派对，”他在接受采访时说。\"希望你们都不会读到它。雷德克里夫前五部《波特》电影的收益都存放在一个信托基金中，他一直无法触及。尽管他的名气越来越大，财富也越来越多，但这位演员说，他还是坚定地脚踏实地。“人们总是想说‘小明星出轨了’，”他上个月告诉记者。“但我很努力地尝试不走那条路，因为这对他们来说太容易了。”他最近在《哈利波特与凤凰社》中饰演的男巫正在打破大西洋两岸的记录，他将在最后两部电影中重演这个角色。看I-记者给她的评论波特的最新»。然而，波特之外还有生命。《伦敦人》拍摄了一部名为《我的男孩杰克》的电视电影，讲述了作家鲁德亚德·吉卜林和他的儿子，定于今年晚些时候上映。他还将出演《十二月男孩》，这是一部关于四个从孤儿院逃出的男孩的澳大利亚电影。今年早些时候，他在彼得·谢弗的《Equus》中首次登台，扮演一个受折磨的少年。“同时，他现在已经是合法成年人了，他已经准备好接受媒体更严格的审查：“我只是觉得我应该更公平一些，”他对路透社说。给朋友发邮件。版权所有2007路透社。保留所有权利。此材料不得发布、广播、重写或再分发。",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format, format",
+        "source": "cnn_dailymail",
+        "level": 2,
+        "instruction": "把下面的新闻总结成三句话，每句话不超过15个字：\n\n路透社，英国伦敦报道：《哈利·波特》影星丹尼尔·雷德克里夫将在周一年满18岁时获得3.2亿美元（合4110万美元）的财富，但他坚称这笔钱不会对他造成影响。丹尼尔·雷德克里夫（Daniel Radcliffe）在《哈利·波特与凤凰社》中饰演哈利·波特，令全世界的八卦专栏作家失望，这位年轻的演员说，他不打算把钱花在开快车、喝酒和名人派对上。“我不打算成为那种刚满18岁就突然给自己买大量跑车或类似的东西的人，”本月早些时候，他对澳大利亚的一位采访者说。“我不认为我会特别奢侈。”“我喜欢买的东西是10英镑左右的东西——书、CD和DVD。18岁时，拉德克利夫将可以在赌场赌博，在酒吧买杯酒，或者看恐怖片《旅馆：第二部》。目前，他在英国票房榜上排名第一的电影比他低6位。有关他将如何庆祝他具有里程碑意义的生日的细节目前尚未公布。他的经纪人和公关没有对他的计划发表评论。“我肯定会开某种派对，”他在接受采访时说。\"希望你们都不会读到它。雷德克里夫前五部《波特》电影的收益都存放在一个信托基金中，他一直无法触及。尽管他的名气越来越大，财富也越来越多，但这位演员说，他还是坚定地脚踏实地。“人们总是想说‘小明星出轨了’，”他上个月告诉记者。“但我很努力地尝试不走那条路，因为这对他们来说太容易了。”他最近在《哈利波特与凤凰社》中饰演的男巫正在打破大西洋两岸的记录，他将在最后两部电影中重演这个角色。看I-记者给她的评论波特的最新»。然而，波特之外还有生命。《伦敦人》拍摄了一部名为《我的男孩杰克》的电视电影，讲述了作家鲁德亚德·吉卜林和他的儿子，定于今年晚些时候上映。他还将出演《十二月男孩》，这是一部关于四个从孤儿院逃出的男孩的澳大利亚电影。今年早些时候，他在彼得·谢弗的《Equus》中首次登台，扮演一个受折磨的少年。“同时，他现在已经是合法成年人了，他已经准备好接受媒体更严格的审查：“我只是觉得我应该更公平一些，”他对路透社说。给朋友发邮件。版权所有2007路透社。保留所有权利。此材料不得发布、广播、重写或再分发。",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format, format, content",
+        "source": "cnn_dailymail",
+        "level": 3,
+        "instruction": "把下面的新闻总结成三句话，每句话不超过15个字。确保“波特”、“演员”、“电影”分别出现在第一个、第二个和第三个句子。\n\n路透社，英国伦敦报道：《哈利·波特》影星丹尼尔·雷德克里夫将在周一年满18岁时获得3.2亿美元（合4110万美元）的财富，但他坚称这笔钱不会对他造成影响。丹尼尔·雷德克里夫（Daniel Radcliffe）在《哈利·波特与凤凰社》中饰演哈利·波特，令全世界的八卦专栏作家失望，这位年轻的演员说，他不打算把钱花在开快车、喝酒和名人派对上。“我不打算成为那种刚满18岁就突然给自己买大量跑车或类似的东西的人，”本月早些时候，他对澳大利亚的一位采访者说。“我不认为我会特别奢侈。”“我喜欢买的东西是10英镑左右的东西——书、CD和DVD。18岁时，拉德克利夫将可以在赌场赌博，在酒吧买杯酒，或者看恐怖片《旅馆：第二部》。目前，他在英国票房榜上排名第一的电影比他低6位。有关他将如何庆祝他具有里程碑意义的生日的细节目前尚未公布。他的经纪人和公关没有对他的计划发表评论。“我肯定会开某种派对，”他在接受采访时说。\"希望你们都不会读到它。雷德克里夫前五部《波特》电影的收益都存放在一个信托基金中，他一直无法触及。尽管他的名气越来越大，财富也越来越多，但这位演员说，他还是坚定地脚踏实地。“人们总是想说‘小明星出轨了’，”他上个月告诉记者。“但我很努力地尝试不走那条路，因为这对他们来说太容易了。”他最近在《哈利波特与凤凰社》中饰演的男巫正在打破大西洋两岸的记录，他将在最后两部电影中重演这个角色。看I-记者给她的评论波特的最新»。然而，波特之外还有生命。《伦敦人》拍摄了一部名为《我的男孩杰克》的电视电影，讲述了作家鲁德亚德·吉卜林和他的儿子，定于今年晚些时候上映。他还将出演《十二月男孩》，这是一部关于四个从孤儿院逃出的男孩的澳大利亚电影。今年早些时候，他在彼得·谢弗的《Equus》中首次登台，扮演一个受折磨的少年。“同时，他现在已经是合法成年人了，他已经准备好接受媒体更严格的审查：“我只是觉得我应该更公平一些，”他对路透社说。给朋友发邮件。版权所有2007路透社。保留所有权利。此材料不得发布、广播、重写或再分发。",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format, format, content, content",
+        "source": "cnn_dailymail",
+        "level": 4,
+        "instruction": "把下面的新闻总结成三句话，每句话不超过15个字。确保“波特”、“演员”、“电影”分别出现在第一个、第二个和第三个句子。“奢侈”一词不应该出现在第二句中。\n\n路透社，英国伦敦报道：《哈利·波特》影星丹尼尔·雷德克里夫将在周一年满18岁时获得3.2亿美元（合4110万美元）的财富，但他坚称这笔钱不会对他造成影响。丹尼尔·雷德克里夫（Daniel Radcliffe）在《哈利·波特与凤凰社》中饰演哈利·波特，令全世界的八卦专栏作家失望，这位年轻的演员说，他不打算把钱花在开快车、喝酒和名人派对上。“我不打算成为那种刚满18岁就突然给自己买大量跑车或类似的东西的人，”本月早些时候，他对澳大利亚的一位采访者说。“我不认为我会特别奢侈。”“我喜欢买的东西是10英镑左右的东西——书、CD和DVD。18岁时，拉德克利夫将可以在赌场赌博，在酒吧买杯酒，或者看恐怖片《旅馆：第二部》。目前，他在英国票房榜上排名第一的电影比他低6位。有关他将如何庆祝他具有里程碑意义的生日的细节目前尚未公布。他的经纪人和公关没有对他的计划发表评论。“我肯定会开某种派对，”他在接受采访时说。\"希望你们都不会读到它。雷德克里夫前五部《波特》电影的收益都存放在一个信托基金中，他一直无法触及。尽管他的名气越来越大，财富也越来越多，但这位演员说，他还是坚定地脚踏实地。“人们总是想说‘小明星出轨了’，”他上个月告诉记者。“但我很努力地尝试不走那条路，因为这对他们来说太容易了。”他最近在《哈利波特与凤凰社》中饰演的男巫正在打破大西洋两岸的记录，他将在最后两部电影中重演这个角色。看I-记者给她的评论波特的最新»。然而，波特之外还有生命。《伦敦人》拍摄了一部名为《我的男孩杰克》的电视电影，讲述了作家鲁德亚德·吉卜林和他的儿子，定于今年晚些时候上映。他还将出演《十二月男孩》，这是一部关于四个从孤儿院逃出的男孩的澳大利亚电影。今年早些时候，他在彼得·谢弗的《Equus》中首次登台，扮演一个受折磨的少年。“同时，他现在已经是合法成年人了，他已经准备好接受媒体更严格的审查：“我只是觉得我应该更公平一些，”他对路透社说。给朋友发邮件。版权所有2007路透社。保留所有权利。此材料不得发布、广播、重写或再分发。",
+        "target": ""
+    },
+    {
+        "example_id": 7,
+        "category": "format, format, content, content, format",
+        "source": "cnn_dailymail",
+        "level": 5,
+        "instruction": "把下面的新闻总结成三句话，每句话不超过15个字。确保“波特”、“演员”、“电影”分别出现在第一个、第二个和第三个句子。“奢侈”一词不应该出现在第二句中。第三句应该用现在完成时。\n\n路透社，英国伦敦报道：《哈利·波特》影星丹尼尔·雷德克里夫将在周一年满18岁时获得3.2亿美元（合4110万美元）的财富，但他坚称这笔钱不会对他造成影响。丹尼尔·雷德克里夫（Daniel Radcliffe）在《哈利·波特与凤凰社》中饰演哈利·波特，令全世界的八卦专栏作家失望，这位年轻的演员说，他不打算把钱花在开快车、喝酒和名人派对上。“我不打算成为那种刚满18岁就突然给自己买大量跑车或类似的东西的人，”本月早些时候，他对澳大利亚的一位采访者说。“我不认为我会特别奢侈。”“我喜欢买的东西是10英镑左右的东西——书、CD和DVD。18岁时，拉德克利夫将可以在赌场赌博，在酒吧买杯酒，或者看恐怖片《旅馆：第二部》。目前，他在英国票房榜上排名第一的电影比他低6位。有关他将如何庆祝他具有里程碑意义的生日的细节目前尚未公布。他的经纪人和公关没有对他的计划发表评论。“我肯定会开某种派对，”他在接受采访时说。\"希望你们都不会读到它。雷德克里夫前五部《波特》电影的收益都存放在一个信托基金中，他一直无法触及。尽管他的名气越来越大，财富也越来越多，但这位演员说，他还是坚定地脚踏实地。“人们总是想说‘小明星出轨了’，”他上个月告诉记者。“但我很努力地尝试不走那条路，因为这对他们来说太容易了。”他最近在《哈利波特与凤凰社》中饰演的男巫正在打破大西洋两岸的记录，他将在最后两部电影中重演这个角色。看I-记者给她的评论波特的最新»。然而，波特之外还有生命。《伦敦人》拍摄了一部名为《我的男孩杰克》的电视电影，讲述了作家鲁德亚德·吉卜林和他的儿子，定于今年晚些时候上映。他还将出演《十二月男孩》，这是一部关于四个从孤儿院逃出的男孩的澳大利亚电影。今年早些时候，他在彼得·谢弗的《Equus》中首次登台，扮演一个受折磨的少年。“同时，他现在已经是合法成年人了，他已经准备好接受媒体更严格的审查：“我只是觉得我应该更公平一些，”他对路透社说。给朋友发邮件。版权所有2007路透社。保留所有权利。此材料不得发布、广播、重写或再分发。",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "mixed",
+        "source": "xsum",
+        "level": 0,
+        "instruction": "请为下面的文字写一份摘要：\n\n在牛顿斯图尔特（受灾最严重的地区之一）的全部损失仍在评估中。哈威克的修复工作正在进行中，皮布尔斯郡的许多道路仍然受到积水的严重影响。由于拉明顿高架桥受损，西海岸主线上的列车面临中断。克里河泛滥进入该镇后，牛顿斯图尔特的许多企业和居民受到洪水的影响。首席部长尼古拉·斯特金（Nicola Sturgeon）前往该地区视察了受损情况。洪水冲破了挡土墙，淹没了维多利亚街（主要购物大道）的许多商业房产。受灾严重的肉桂咖啡馆的老板珍妮特·塔特（Jeanette Tate）说，洪灾来袭后，她不能指责多机构的应对措施。不过，她表示，本可以进行更多的预防性工作，以确保挡土墙不会倒塌。她说：“这很困难，但我确实认为邓弗里斯和尼特有这么多的宣传--我非常欣赏这一点--但我们几乎被忽略或遗忘了。”“这可能不是真的，但这也许是我过去几天的看法。”“当警告和警报都发出时，你为什么不准备多帮助我们一点？”与此同时，由于持续降雨，边境地区仍有洪水警报。皮布尔斯受到问题的严重打击，引发了在该地区引入更多防线的呼声。苏格兰边境委员会在其网站上列出了受影响最严重的道路，并呼吁司机不要忽视关闭标志。工党的苏格兰副领袖亚历克斯·罗利（Alex Rowley）周一在哈维克（Hawick）亲眼看到了情况。他说，正确制定防洪计划很重要，但支持加快这一进程的呼吁。他说：“我对所造成的损害之大感到相当震惊。”\"显然，对于被迫离开家园的人们以及对企业的影响是令人心碎的。他说，重要的是“立即采取措施”保护最脆弱的地区，并为防洪计划制定一个明确的时间表。您是否受到邓弗里斯和加洛韦或边境地区洪水的影响？请告诉我们你对这种情况的体验和处理方式。请发送电子邮件至selkirk.news@bbc.co.uk或dumfries@bbc.co.uk。",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format",
+        "source": "xsum",
+        "level": 1,
+        "instruction": "请为下面的文字写一份一句话的摘要：\n\n在牛顿斯图尔特（受灾最严重的地区之一）的全部损失仍在评估中。哈威克的修复工作正在进行中，皮布尔斯郡的许多道路仍然受到积水的严重影响。由于拉明顿高架桥受损，西海岸主线上的列车面临中断。克里河泛滥进入该镇后，牛顿斯图尔特的许多企业和居民受到洪水的影响。首席部长尼古拉·斯特金（Nicola Sturgeon）前往该地区视察了受损情况。洪水冲破了挡土墙，淹没了维多利亚街（主要购物大道）的许多商业房产。受灾严重的肉桂咖啡馆的老板珍妮特·塔特（Jeanette Tate）说，洪灾来袭后，她不能指责多机构的应对措施。不过，她表示，本可以进行更多的预防性工作，以确保挡土墙不会倒塌。她说：“这很困难，但我确实认为邓弗里斯和尼特有这么多的宣传--我非常欣赏这一点--但我们几乎被忽略或遗忘了。”“这可能不是真的，但这也许是我过去几天的看法。”“当警告和警报都发出时，你为什么不准备多帮助我们一点？”与此同时，由于持续降雨，边境地区仍有洪水警报。皮布尔斯受到问题的严重打击，引发了在该地区引入更多防线的呼声。苏格兰边境委员会在其网站上列出了受影响最严重的道路，并呼吁司机不要忽视关闭标志。工党的苏格兰副领袖亚历克斯·罗利（Alex Rowley）周一在哈维克（Hawick）亲眼看到了情况。他说，正确制定防洪计划很重要，但支持加快这一进程的呼吁。他说：“我对所造成的损害之大感到相当震惊。”\"显然，对于被迫离开家园的人们以及对企业的影响是令人心碎的。他说，重要的是“立即采取措施”保护最脆弱的地区，并为防洪计划制定一个明确的时间表。您是否受到邓弗里斯和加洛韦或边境地区洪水的影响？请告诉我们你对这种情况的体验和处理方式。请发送电子邮件至selkirk.news@bbc.co.uk或dumfries@bbc.co.uk。",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, format",
+        "source": "xsum",
+        "level": 2,
+        "instruction": "请为下面的文字写一份一句话的摘要，不超过20个字：\n\n在牛顿斯图尔特（受灾最严重的地区之一）的全部损失仍在评估中。哈威克的修复工作正在进行中，皮布尔斯郡的许多道路仍然受到积水的严重影响。由于拉明顿高架桥受损，西海岸主线上的列车面临中断。克里河泛滥进入该镇后，牛顿斯图尔特的许多企业和居民受到洪水的影响。首席部长尼古拉·斯特金（Nicola Sturgeon）前往该地区视察了受损情况。洪水冲破了挡土墙，淹没了维多利亚街（主要购物大道）的许多商业房产。受灾严重的肉桂咖啡馆的老板珍妮特·塔特（Jeanette Tate）说，洪灾来袭后，她不能指责多机构的应对措施。不过，她表示，本可以进行更多的预防性工作，以确保挡土墙不会倒塌。她说：“这很困难，但我确实认为邓弗里斯和尼特有这么多的宣传--我非常欣赏这一点--但我们几乎被忽略或遗忘了。”“这可能不是真的，但这也许是我过去几天的看法。”“当警告和警报都发出时，你为什么不准备多帮助我们一点？”与此同时，由于持续降雨，边境地区仍有洪水警报。皮布尔斯受到问题的严重打击，引发了在该地区引入更多防线的呼声。苏格兰边境委员会在其网站上列出了受影响最严重的道路，并呼吁司机不要忽视关闭标志。工党的苏格兰副领袖亚历克斯·罗利（Alex Rowley）周一在哈维克（Hawick）亲眼看到了情况。他说，正确制定防洪计划很重要，但支持加快这一进程的呼吁。他说：“我对所造成的损害之大感到相当震惊。”\"显然，对于被迫离开家园的人们以及对企业的影响是令人心碎的。他说，重要的是“立即采取措施”保护最脆弱的地区，并为防洪计划制定一个明确的时间表。您是否受到邓弗里斯和加洛韦或边境地区洪水的影响？请告诉我们你对这种情况的体验和处理方式。请发送电子邮件至selkirk.news@bbc.co.uk或dumfries@bbc.co.uk。",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, format, content",
+        "source": "xsum",
+        "level": 3,
+        "instruction": "请为下面的文字写一份一句话的摘要，不超过20个字。确保“牛顿斯图尔特”不会出现在摘要中。\n\n在牛顿斯图尔特（受灾最严重的地区之一）的全部损失仍在评估中。哈威克的修复工作正在进行中，皮布尔斯郡的许多道路仍然受到积水的严重影响。由于拉明顿高架桥受损，西海岸主线上的列车面临中断。克里河泛滥进入该镇后，牛顿斯图尔特的许多企业和居民受到洪水的影响。首席部长尼古拉·斯特金（Nicola Sturgeon）前往该地区视察了受损情况。洪水冲破了挡土墙，淹没了维多利亚街（主要购物大道）的许多商业房产。受灾严重的肉桂咖啡馆的老板珍妮特·塔特（Jeanette Tate）说，洪灾来袭后，她不能指责多机构的应对措施。不过，她表示，本可以进行更多的预防性工作，以确保挡土墙不会倒塌。她说：“这很困难，但我确实认为邓弗里斯和尼特有这么多的宣传--我非常欣赏这一点--但我们几乎被忽略或遗忘了。”“这可能不是真的，但这也许是我过去几天的看法。”“当警告和警报都发出时，你为什么不准备多帮助我们一点？”与此同时，由于持续降雨，边境地区仍有洪水警报。皮布尔斯受到问题的严重打击，引发了在该地区引入更多防线的呼声。苏格兰边境委员会在其网站上列出了受影响最严重的道路，并呼吁司机不要忽视关闭标志。工党的苏格兰副领袖亚历克斯·罗利（Alex Rowley）周一在哈维克（Hawick）亲眼看到了情况。他说，正确制定防洪计划很重要，但支持加快这一进程的呼吁。他说：“我对所造成的损害之大感到相当震惊。”\"显然，对于被迫离开家园的人们以及对企业的影响是令人心碎的。他说，重要的是“立即采取措施”保护最脆弱的地区，并为防洪计划制定一个明确的时间表。您是否受到邓弗里斯和加洛韦或边境地区洪水的影响？请告诉我们你对这种情况的体验和处理方式。请发送电子邮件至selkirk.news@bbc.co.uk或dumfries@bbc.co.uk。",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, format, content, format",
+        "source": "xsum",
+        "level": 4,
+        "instruction": "请为下面的文字写一份一句话的摘要，不超过20个字。确保“牛顿斯图尔特”不会出现在摘要中。请使用现在进行时。\n\n在牛顿斯图尔特（受灾最严重的地区之一）的全部损失仍在评估中。哈威克的修复工作正在进行中，皮布尔斯郡的许多道路仍然受到积水的严重影响。由于拉明顿高架桥受损，西海岸主线上的列车面临中断。克里河泛滥进入该镇后，牛顿斯图尔特的许多企业和居民受到洪水的影响。首席部长尼古拉·斯特金（Nicola Sturgeon）前往该地区视察了受损情况。洪水冲破了挡土墙，淹没了维多利亚街（主要购物大道）的许多商业房产。受灾严重的肉桂咖啡馆的老板珍妮特·塔特（Jeanette Tate）说，洪灾来袭后，她不能指责多机构的应对措施。不过，她表示，本可以进行更多的预防性工作，以确保挡土墙不会倒塌。她说：“这很困难，但我确实认为邓弗里斯和尼特有这么多的宣传--我非常欣赏这一点--但我们几乎被忽略或遗忘了。”“这可能不是真的，但这也许是我过去几天的看法。”“当警告和警报都发出时，你为什么不准备多帮助我们一点？”与此同时，由于持续降雨，边境地区仍有洪水警报。皮布尔斯受到问题的严重打击，引发了在该地区引入更多防线的呼声。苏格兰边境委员会在其网站上列出了受影响最严重的道路，并呼吁司机不要忽视关闭标志。工党的苏格兰副领袖亚历克斯·罗利（Alex Rowley）周一在哈维克（Hawick）亲眼看到了情况。他说，正确制定防洪计划很重要，但支持加快这一进程的呼吁。他说：“我对所造成的损害之大感到相当震惊。”\"显然，对于被迫离开家园的人们以及对企业的影响是令人心碎的。他说，重要的是“立即采取措施”保护最脆弱的地区，并为防洪计划制定一个明确的时间表。您是否受到邓弗里斯和加洛韦或边境地区洪水的影响？请告诉我们你对这种情况的体验和处理方式。请发送电子邮件至selkirk.news@bbc.co.uk或dumfries@bbc.co.uk。",
+        "target": ""
+    },
+    {
+        "example_id": 8,
+        "category": "format, format, content, format, content",
+        "source": "xsum",
+        "level": 5,
+        "instruction": "请为下面的文字写一份一句话的摘要，不超过20个字。确保“牛顿斯图尔特”不会出现在摘要中，并且“操作”出现在摘要中。请使用现在进行时。\n\n在牛顿斯图尔特（受灾最严重的地区之一）的全部损失仍在评估中。哈威克的修复工作正在进行中，皮布尔斯郡的许多道路仍然受到积水的严重影响。由于拉明顿高架桥受损，西海岸主线上的列车面临中断。克里河泛滥进入该镇后，牛顿斯图尔特的许多企业和居民受到洪水的影响。首席部长尼古拉·斯特金（Nicola Sturgeon）前往该地区视察了受损情况。洪水冲破了挡土墙，淹没了维多利亚街（主要购物大道）的许多商业房产。受灾严重的肉桂咖啡馆的老板珍妮特·塔特（Jeanette Tate）说，洪灾来袭后，她不能指责多机构的应对措施。不过，她表示，本可以进行更多的预防性工作，以确保挡土墙不会倒塌。她说：“这很困难，但我确实认为邓弗里斯和尼特有这么多的宣传--我非常欣赏这一点--但我们几乎被忽略或遗忘了。”“这可能不是真的，但这也许是我过去几天的看法。”“当警告和警报都发出时，你为什么不准备多帮助我们一点？”与此同时，由于持续降雨，边境地区仍有洪水警报。皮布尔斯受到问题的严重打击，引发了在该地区引入更多防线的呼声。苏格兰边境委员会在其网站上列出了受影响最严重的道路，并呼吁司机不要忽视关闭标志。工党的苏格兰副领袖亚历克斯·罗利（Alex Rowley）周一在哈维克（Hawick）亲眼看到了情况。他说，正确制定防洪计划很重要，但支持加快这一进程的呼吁。他说：“我对所造成的损害之大感到相当震惊。”\"显然，对于被迫离开家园的人们以及对企业的影响是令人心碎的。他说，重要的是“立即采取措施”保护最脆弱的地区，并为防洪计划制定一个明确的时间表。您是否受到邓弗里斯和加洛韦或边境地区洪水的影响？请告诉我们你对这种情况的体验和处理方式。请发送电子邮件至selkirk.news@bbc.co.uk或dumfries@bbc.co.uk。",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "mixed",
+        "source": "samsum",
+        "level": 0,
+        "instruction": "为下面的对话写一个总结。\n\n蒂姆：嗨，什么事？金：心情不好，我本来想做很多事情，但最后却拖拖拉拉的。蒂姆：你打算做什么？金：哦，你知道，你知道的，统一的东西，清理我的房间。金：也许明天我会移动我的屁股，做所有的事情。金：我们要解冻冰箱，所以我将吃一些解冻的蔬菜，而不是购物。蒂姆：我推荐Pomodoro技巧，你可以利用休息时间做家务。蒂姆：这真的很有帮助。金：谢谢，也许我会这样做。蒂姆：我还喜欢用卡班式的便条",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format",
+        "source": "samsum",
+        "level": 1,
+        "instruction": "为下面的对话写一个一句话的总结。\n\n蒂姆：嗨，什么事？金：心情不好，我本来想做很多事情，但最后却拖拖拉拉的。蒂姆：你打算做什么？金：哦，你知道，你知道的，统一的东西，清理我的房间。金：也许明天我会移动我的屁股，做所有的事情。金：我们要解冻冰箱，所以我将吃一些解冻的蔬菜，而不是购物。蒂姆：我推荐Pomodoro技巧，你可以利用休息时间做家务。蒂姆：这真的很有帮助。金：谢谢，也许我会这样做。蒂姆：我还喜欢用卡班式的便条",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format, format",
+        "source": "samsum",
+        "level": 2,
+        "instruction": "为下面的对话写一个一句话的总结，不超过15个字。\n\n蒂姆：嗨，什么事？金：心情不好，我本来想做很多事情，但最后却拖拖拉拉的。蒂姆：你打算做什么？金：哦，你知道，你知道的，统一的东西，清理我的房间。金：也许明天我会移动我的屁股，做所有的事情。金：我们要解冻冰箱，所以我将吃一些解冻的蔬菜，而不是购物。蒂姆：我推荐Pomodoro技巧，你可以利用休息时间做家务。蒂姆：这真的很有帮助。金：谢谢，也许我会这样做。蒂姆：我还喜欢用卡班式的便条",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format, format, content",
+        "source": "samsum",
+        "level": 3,
+        "instruction": "为下面的对话写一个一句话的总结，不超过15个字。总结必须包含词语“琐碎的”。\n\n蒂姆：嗨，什么事？金：心情不好，我本来想做很多事情，但最后却拖拖拉拉的。蒂姆：你打算做什么？金：哦，你知道，你知道的，统一的东西，清理我的房间。金：也许明天我会移动我的屁股，做所有的事情。金：我们要解冻冰箱，所以我将吃一些解冻的蔬菜，而不是购物。蒂姆：我推荐Pomodoro技巧，你可以利用休息时间做家务。蒂姆：这真的很有帮助。金：谢谢，也许我会这样做。蒂姆：我还喜欢用卡班式的便条",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format, format, content, content",
+        "source": "samsum",
+        "level": 4,
+        "instruction": "为下面的对话写一个一句话的总结，不超过15个字。总结必须包含词语“琐碎的”，并且不能包含词语“拖沓的”。\n\n蒂姆：嗨，什么事？金：心情不好，我本来想做很多事情，但最后却拖拖拉拉的。蒂姆：你打算做什么？金：哦，你知道，你知道的，统一的东西，清理我的房间。金：也许明天我会移动我的屁股，做所有的事情。金：我们要解冻冰箱，所以我将吃一些解冻的蔬菜，而不是购物。蒂姆：我推荐Pomodoro技巧，你可以利用休息时间做家务。蒂姆：这真的很有帮助。金：谢谢，也许我会这样做。蒂姆：我还喜欢用卡班式的便条",
+        "target": ""
+    },
+    {
+        "example_id": 9,
+        "category": "format, format, content, content, format",
+        "source": "samsum",
+        "level": 5,
+        "instruction": "为下面的对话写一个一句话的总结，不超过15个字。总结必须包含词语“琐碎的”，并且不能包含词语“拖沓的”。总结中只能有一个标点符号。\n\n蒂姆：嗨，什么事？金：心情不好，我本来想做很多事情，但最后却拖拖拉拉的。蒂姆：你打算做什么？金：哦，你知道，你知道的，统一的东西，清理我的房间。金：也许明天我会移动我的屁股，做所有的事情。金：我们要解冻冰箱，所以我将吃一些解冻的蔬菜，而不是购物。蒂姆：我推荐Pomodoro技巧，你可以利用休息时间做家务。蒂姆：这真的很有帮助。金：谢谢，也许我会这样做。蒂姆：我还喜欢用卡班式的便条",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "mixed",
+        "source": "gigaword",
+        "level": 0,
+        "instruction": "为下面的文字写一个摘要：\n\n军方说，周一，在冲突频发的菲律宾南部，一辆客车上发生了疑似炸弹袭击，至少有两人丧生。",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format",
+        "source": "gigaword",
+        "level": 1,
+        "instruction": "为下面的文字写一个8字摘要：\n\n军方说，周一，在冲突频发的菲律宾南部，一辆客车上发生了疑似炸弹袭击，至少有两人丧生。",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, format",
+        "source": "gigaword",
+        "level": 2,
+        "instruction": "为下面的文字写一个8字摘要，并且不用任何标点符号：\n\n军方说，周一，在冲突频发的菲律宾南部，一辆客车上发生了疑似炸弹袭击，至少有两人丧生。",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, format, format",
+        "source": "gigaword",
+        "level": 3,
+        "instruction": "为下面的文字写一个8字摘要，并且不用任何标点符号，确保没有阿拉伯数字：\n\n军方说，周一，在冲突频发的菲律宾南部，一辆客车上发生了疑似炸弹袭击，至少有两人丧生。",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, format, format, content",
+        "source": "gigaword",
+        "level": 4,
+        "instruction": "为下面的文字写一个8字摘要，并且不用任何标点符号，确保没有阿拉伯数字。摘要中不能出现“公交车”一词：\n\n军方说，周一，在冲突频发的菲律宾南部，一辆客车上发生了疑似炸弹袭击，至少有两人丧生。",
+        "target": ""
+    },
+    {
+        "example_id": 10,
+        "category": "format, format, format, content, content",
+        "source": "gigaword",
+        "level": 5,
+        "instruction": "为下面的文字写一个8字摘要，并且不用任何标点符号，确保没有阿拉伯数字。摘要中不能出现“公交车”和“在”：\n\n军方说，周一，在冲突频发的菲律宾南部，一辆客车上发生了疑似炸弹袭击，至少有两人丧生。",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "mixed",
+        "source": "arxiv",
+        "level": 0,
+        "instruction": "总结下面的文字。\n\n我们分析了自回归transformer语言模型中事实关联的存储和召回，发现了这些关联对应于局部化的、可直接编辑的计算的证据。我们首先开发了一个因果干预，用于识别在模型的事实预测中起决定性作用的神经元激活。这揭示了中间层前馈模块中的一组不同的步骤，它们在处理主题令牌的同时中介事实预测。为了测试我们的假设，即这些计算对应于事实关联召回，我们修改前馈权重，以使用Rank-One Model Editing(Rom)更新特定的事实关联。我们发现，该方法在标准的零镜头关系提取（zsRE）模型编辑任务上是有效的，与现有的方法相当。为了执行更敏感的评估，我们还对反事实断言的新数据集进行评估，在该数据集上，它同时保持了特异性和泛化，而其他方法牺牲了其中的一个或另一个。我们的结果证实了中间层前馈模块在存储事实关联方面的重要作用，并表明直接操作计算机制可能是模型编辑的一种可行方法。在补充材料中提供了代码、数据集、可视化和交互式演示笔记本。",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format",
+        "source": "arxiv",
+        "level": 1,
+        "instruction": "使用一句话总结下面的文字。\n\n我们分析了自回归transformer语言模型中事实关联的存储和召回，发现了这些关联对应于局部化的、可直接编辑的计算的证据。我们首先开发了一个因果干预，用于识别在模型的事实预测中起决定性作用的神经元激活。这揭示了中间层前馈模块中的一组不同的步骤，它们在处理主题令牌的同时中介事实预测。为了测试我们的假设，即这些计算对应于事实关联召回，我们修改前馈权重，以使用Rank-One Model Editing(Rom)更新特定的事实关联。我们发现，该方法在标准的零镜头关系提取（zsRE）模型编辑任务上是有效的，与现有的方法相当。为了执行更敏感的评估，我们还对反事实断言的新数据集进行评估，在该数据集上，它同时保持了特异性和泛化，而其他方法牺牲了其中的一个或另一个。我们的结果证实了中间层前馈模块在存储事实关联方面的重要作用，并表明直接操作计算机制可能是模型编辑的一种可行方法。在补充材料中提供了代码、数据集、可视化和交互式演示笔记本。",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format, format",
+        "source": "arxiv",
+        "level": 2,
+        "instruction": "使用一句话不超过20个字总结下面的文字。\n\n我们分析了自回归transformer语言模型中事实关联的存储和召回，发现了这些关联对应于局部化的、可直接编辑的计算的证据。我们首先开发了一个因果干预，用于识别在模型的事实预测中起决定性作用的神经元激活。这揭示了中间层前馈模块中的一组不同的步骤，它们在处理主题令牌的同时中介事实预测。为了测试我们的假设，即这些计算对应于事实关联召回，我们修改前馈权重，以使用Rank-One Model Editing(Rom)更新特定的事实关联。我们发现，该方法在标准的零镜头关系提取（zsRE）模型编辑任务上是有效的，与现有的方法相当。为了执行更敏感的评估，我们还对反事实断言的新数据集进行评估，在该数据集上，它同时保持了特异性和泛化，而其他方法牺牲了其中的一个或另一个。我们的结果证实了中间层前馈模块在存储事实关联方面的重要作用，并表明直接操作计算机制可能是模型编辑的一种可行方法。在补充材料中提供了代码、数据集、可视化和交互式演示笔记本。",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format, format, content",
+        "source": "arxiv",
+        "level": 3,
+        "instruction": "使用一句话不超过20个字总结下面的文字。总结应以“我们”一词开头。\n\n我们分析了自回归transformer语言模型中事实关联的存储和召回，发现了这些关联对应于局部化的、可直接编辑的计算的证据。我们首先开发了一个因果干预，用于识别在模型的事实预测中起决定性作用的神经元激活。这揭示了中间层前馈模块中的一组不同的步骤，它们在处理主题令牌的同时中介事实预测。为了测试我们的假设，即这些计算对应于事实关联召回，我们修改前馈权重，以使用Rank-One Model Editing(Rom)更新特定的事实关联。我们发现，该方法在标准的零镜头关系提取（zsRE）模型编辑任务上是有效的，与现有的方法相当。为了执行更敏感的评估，我们还对反事实断言的新数据集进行评估，在该数据集上，它同时保持了特异性和泛化，而其他方法牺牲了其中的一个或另一个。我们的结果证实了中间层前馈模块在存储事实关联方面的重要作用，并表明直接操作计算机制可能是模型编辑的一种可行方法。在补充材料中提供了代码、数据集、可视化和交互式演示笔记本。",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format, format, content, content",
+        "source": "arxiv",
+        "level": 4,
+        "instruction": "使用一句话不超过20个字总结下面的文字。总结应以“我们”一词开头，且必须包含词语“激活”。\n\n我们分析了自回归transformer语言模型中事实关联的存储和召回，发现了这些关联对应于局部化的、可直接编辑的计算的证据。我们首先开发了一个因果干预，用于识别在模型的事实预测中起决定性作用的神经元激活。这揭示了中间层前馈模块中的一组不同的步骤，它们在处理主题令牌的同时中介事实预测。为了测试我们的假设，即这些计算对应于事实关联召回，我们修改前馈权重，以使用Rank-One Model Editing(Rom)更新特定的事实关联。我们发现，该方法在标准的零镜头关系提取（zsRE）模型编辑任务上是有效的，与现有的方法相当。为了执行更敏感的评估，我们还对反事实断言的新数据集进行评估，在该数据集上，它同时保持了特异性和泛化，而其他方法牺牲了其中的一个或另一个。我们的结果证实了中间层前馈模块在存储事实关联方面的重要作用，并表明直接操作计算机制可能是模型编辑的一种可行方法。在补充材料中提供了代码、数据集、可视化和交互式演示笔记本。",
+        "target": ""
+    },
+    {
+        "example_id": 11,
+        "category": "format, format, content, content, content",
+        "source": "arxiv",
+        "level": 5,
+        "instruction": "使用一句话不超过20个字总结下面的文字。总结应以“我们”一词开头，且必须包含词语“激活”，必须不包含词语“transformer”。\n\n我们分析了自回归transformer语言模型中事实关联的存储和召回，发现了这些关联对应于局部化的、可直接编辑的计算的证据。我们首先开发了一个因果干预，用于识别在模型的事实预测中起决定性作用的神经元激活。这揭示了中间层前馈模块中的一组不同的步骤，它们在处理主题令牌的同时中介事实预测。为了测试我们的假设，即这些计算对应于事实关联召回，我们修改前馈权重，以使用Rank-One Model Editing(Rom)更新特定的事实关联。我们发现，该方法在标准的零镜头关系提取（zsRE）模型编辑任务上是有效的，与现有的方法相当。为了执行更敏感的评估，我们还对反事实断言的新数据集进行评估，在该数据集上，它同时保持了特异性和泛化，而其他方法牺牲了其中的一个或另一个。我们的结果证实了中间层前馈模块在存储事实关联方面的重要作用，并表明直接操作计算机制可能是模型编辑的一种可行方法。在补充材料中提供了代码、数据集、可视化和交互式演示笔记本。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "mixed",
+        "source": "synthetic_data_generation",
+        "level": 0,
+        "instruction": "请生成5个句子。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content",
+        "source": "synthetic_data_generation",
+        "level": 1,
+        "instruction": "请生成5个句子，这些句子是“在机器学习中，知识蒸馏是将知识从一个大模型转移到一个较小模型的过程。”的同义句。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content, format",
+        "source": "synthetic_data_generation",
+        "level": 2,
+        "instruction": "请生成5个句子，这些句子是“在机器学习中，知识蒸馏是将知识从一个大模型转移到一个较小模型的过程。”的同义句。在开始处使用项目符号点标记每个同义句。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content, format, content",
+        "source": "synthetic_data_generation",
+        "level": 3,
+        "instruction": "请生成5个句子，这些句子是“在机器学习中，知识蒸馏是将知识从一个大模型转移到一个较小模型的过程。”的同义句。在开始处使用项目符号点标记每个同义句。不要使用“大模型”或“小模型”字样。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content, format, content, content",
+        "source": "synthetic_data_generation",
+        "level": 4,
+        "instruction": "请生成5个句子，这些句子是“在机器学习中，知识蒸馏是将知识从一个大模型转移到一个较小模型的过程。”的同义句。在开始处使用项目符号点标记每个同义句。不要使用“大模型”或“小模型”字样。这些同义句应根据句子中的字数降序排列。",
+        "target": ""
+    },
+    {
+        "example_id": 12,
+        "category": "content, format, content, content, format",
+        "source": "synthetic_data_generation",
+        "level": 5,
+        "instruction": "请生成5个句子，这些句子是“在机器学习中，知识蒸馏是将知识从一个大模型转移到一个较小模型的过程。”的同义句。在开始处使用项目符号点标记每个同义句。不要使用“大模型”或“小模型”字样。这些同义句应根据句子中的字数降序排列。请将“知识蒸馏”一词用方括号括起来。",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "mixed",
+        "source": "synthetic_data_generation",
+        "level": 0,
+        "instruction": "生成一个python字典。",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content",
+        "source": "synthetic_data_generation",
+        "level": 1,
+        "instruction": "生成一个关于图书馆的python字典。生成的字典应该包含以下所有信息。亚历山大图书馆位于埃及亚历山大市，是一个历史悠久的著名机构，建立于公元前283年。",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content, content",
+        "source": "synthetic_data_generation",
+        "level": 2,
+        "instruction": "生成一个关于图书馆的python字典。生成的字典应该包含以下所有信息。亚历山大图书馆位于埃及亚历山大市，是一个历史悠久的著名机构，建立于公元前283年。",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content, content, content",
+        "source": "synthetic_data_generation",
+        "level": 3,
+        "instruction": "生成一个关于图书馆的python字典。生成的字典应该包含以下所有信息。亚历山大图书馆位于埃及亚历山大市，是一座历史悠久的著名机构，建立于公元前283年。图书馆的图书收藏有几部著名的作品，包括荷马的《伊利亚特》，可追溯到大约公元前-750年，有5本可用。列夫·托尔斯泰于1869年出版的《战争与和平》也是他们收藏的一部分，现有3本。此外，哈珀·李(Harper Lee)于1960年出版的《杀死一只知更鸟》共8册，供读者欣赏。",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content, content, content, content",
+        "source": "synthetic_data_generation",
+        "level": 4,
+        "instruction": "生成一个关于图书馆的python字典。生成的字典应该包含以下所有信息。亚历山大图书馆位于埃及亚历山大市，是一座历史悠久的著名机构，建立于公元前283年。图书馆的图书收藏有几部著名的作品，包括荷马的《伊利亚特》，可追溯到大约公元前-750年，有5本可用。列夫·托尔斯泰于1869年出版的《战争与和平》也是他们收藏的一部分，现有3本。此外，哈珀·李(Harper Lee)于1960年出版的《杀死一只知更鸟》共8册，供读者欣赏。除了书籍，亚历山大图书馆还提供期刊，包括“图书馆期刊”和“国家地理杂志”，都是每月出版的。",
+        "target": ""
+    },
+    {
+        "example_id": 13,
+        "category": "content, content, content, content, format",
+        "source": "synthetic_data_generation",
+        "level": 5,
+        "instruction": "使用格式'indent=4'生成一个关于图书馆的python字典。生成的字典应该包含以下所有信息。亚历山大图书馆位于埃及亚历山大市，是一座历史悠久的著名机构，建立于公元前283年。图书馆的图书收藏有几部著名的作品，包括荷马的《伊利亚特》，可追溯到大约公元前-750年，有5本可用。列夫·托尔斯泰于1869年出版的《战争与和平》也是他们收藏的一部分，现有3本。此外，哈珀·李(Harper Lee)于1960年出版的《杀死一只知更鸟》共8册，供读者欣赏。除了书籍，亚历山大图书馆还提供期刊，包括“图书馆期刊”和“国家地理杂志”，都是每月出版的。",
+        "target": ""
+    }
+]
