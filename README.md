@@ -2,7 +2,7 @@
 
 
 [![Github](https://img.shields.io/static/v1?logo=github&style=flat&color=pink&label=github&message=YJiangcm/FollowBench)](https://github.com/YJiangcm/FollowBench)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-huggingface-yellow)](https://huggingface.co/YuxinJiang/FollowBench)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-huggingface-yellow)](https://huggingface.co/datasets/YuxinJiang/FollowBench)
 
 
 
