@@ -244,13 +244,16 @@ def paring_discriminative_generation(generation, level):
         else:
             satisify_list = re.search(r'\[.*\]', satisify)
             if satisify_list:
-                satisify_list = eval(satisify_list.group())
+                if "\"" not in satisify_list.group() and "'" not in satisify_list.group():
+                    satisify_list = eval(satisify_list.group().replace("YES", "'YES'").replace("NO", "'NO'"))
+                else:
+                    satisify_list = eval(satisify_list.group())
                 if len(satisify_list) >= level:
                     num_true = 0
                     for i in satisify_list[: level]:
                         if i == 'YES':
                             num_true += 1
-                        elif i in ['NO', 'PARTIAL', 'MAYBE', 'UNKNOWN']:
+                        elif i in ['NO', 'PARTIAL', 'PARTIALLY', 'MAYBE', 'UNKNOWN']:
                             num_true += 0
                         else:
                             raise Exception('Invalid element in the list.')
