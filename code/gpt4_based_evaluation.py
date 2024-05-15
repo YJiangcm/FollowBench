@@ -190,7 +190,6 @@ def acquire_discriminative_eval_input(data_path, api_output_path, constraint_typ
     
     rule_based_source = ["E2E", "WIKIEVENTS", "CONLL2003", 
                         "text_editing", "cnn_dailymail", "xsum", "samsum", "gigaword", "arxiv", 
-
                         "BBH_logical", "BBH_time", "self_made_space", "gsm_8k"]
 
     data = data_match_api_output(data_path, api_output_path, constraint_type, model_name)
@@ -231,7 +230,7 @@ def acquire_discriminative_eval_input(data_path, api_output_path, constraint_typ
 
 def paring_discriminative_generation(generation, level):
     try:
-        satisify = generation.strip().split('\n')[-1]
+        satisify = generation.strip("```").strip().split('\n')[-1]
 
         if level == 1:
             if 'YES' in satisify:
@@ -249,7 +248,7 @@ def paring_discriminative_generation(generation, level):
                     for i in satisify_list:
                         if i == 'YES':
                             num_true += 1
-                        elif i == 'NO':
+                        elif i in ['NO', 'PARTIAL', 'MAYBE', 'UNKNOWN', 'N/A']:
                             num_true += 0
                         else:
                             raise Exception('Invalid element in the list.')
