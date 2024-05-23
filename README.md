@@ -6,7 +6,7 @@
 
 
 
-# FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models
+# FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models (ACL 2024)
 
 We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following Benchmark for **systemically** and **precisely** evaluate the instruction-following capability of LLMs.
 - **FollowBench** comprehensively includes five different types (i.e., Content, Situation, Style, Format, and Example) of _fine-grained constraints_. 
