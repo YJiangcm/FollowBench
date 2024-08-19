@@ -122,12 +122,27 @@ The final results will be saved in the folder named ```evaluation_result```.
 ## 📝 Citation
 Please cite our paper if you use the data or code in this repo.
 ```
-@misc{jiang2023followbench,
-      title={FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models}, 
-      author={Yuxin Jiang and Yufei Wang and Xingshan Zeng and Wanjun Zhong and Liangyou Li and Fei Mi and Lifeng Shang and Xin Jiang and Qun Liu and Wei Wang},
-      year={2023},
-      eprint={2310.20410},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{jiang-etal-2024-followbench,
+    title = "{F}ollow{B}ench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models",
+    author = "Jiang, Yuxin  and
+      Wang, Yufei  and
+      Zeng, Xingshan  and
+      Zhong, Wanjun  and
+      Li, Liangyou  and
+      Mi, Fei  and
+      Shang, Lifeng  and
+      Jiang, Xin  and
+      Liu, Qun  and
+      Wang, Wei",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.257",
+    pages = "4667--4688",
 }
 ```
