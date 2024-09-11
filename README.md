@@ -109,7 +109,7 @@ python code/llm_eval.py --model_path <model_name_or_path> --api_key <your_own_gp
 ```
 
 #### Merge Evaluation and Save Results 
-Next, we can merge the **rule-based evaluation** results and **LLM-based evaluation** results using the following script:
+Next, we conduct **rule-based evaluation** and merge the **rule-based evaluation** results and **LLM-based evaluation** results using the following script:
 ```bash
 cd FollowBench/
 python code/eval.py --model_paths <a_list_of_evaluated_models>
