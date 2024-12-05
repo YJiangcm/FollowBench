@@ -1,0 +1,8 @@
+api_input/
+api_output/
+api_output_vllm/
+evaluation_result/
+gpt4_discriminative_eval_input/
+gpt4_discriminative_eval_output/
+data_gpt4_discriminative_eval_input/
+code/__pycache__/
