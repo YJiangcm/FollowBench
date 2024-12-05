@@ -59,7 +59,8 @@ def inference(args):
             data[i]['choices'][0]['message']['content'] = outputs
 
         # save file
-        with open(os.path.join(args.api_output_path, f"{args.model_path}_{constraint_type}_constraint.jsonl"), 'w', encoding='utf-8') as output_file:
+        os.makedirs(f"{args.api_output_path}/{args.model_path}", exist_ok=True)
+        with open(os.path.join(args.api_output_path, f"{args.model_path}/{constraint_type}_constraint.jsonl"), 'w', encoding='utf-8') as output_file:
             for d in data:
                 output_file.write(json.dumps(d) + "\n")
 

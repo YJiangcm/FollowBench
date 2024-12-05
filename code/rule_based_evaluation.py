@@ -290,17 +290,17 @@ def evaluate_example_constraint(data_path, api_output_path, model_name):
         data = json.load(data_file)
 
     output = []
-    with open(os.path.join(api_output_path, '{}_example_constraint.jsonl'.format(model_name)), 'r', encoding='utf-8') as output_file:
+    with open(os.path.join(api_output_path, '{}/example_constraint.jsonl'.format(model_name)), 'r', encoding='utf-8') as output_file:
         for line in output_file:
             output.append(json.loads(line))
 
     # match
     for i in range(len(data)):
         for j in range(len(output)):
-            if data[i]['instruction'] == output[j]['prompt_new']:
+            if data[i]['instruction'] == output[j]['prompt']:
                 data[i]['generation'] = output[j]['choices'][0]['message']['content']
                 break
-            if j == len(output)-1 and data[i]['instruction'] != output[j]['prompt_new']:
+            if j == len(output)-1 and data[i]['instruction'] != output[j]['prompt']:
                 print(i)
     
     # check correct
@@ -429,17 +429,17 @@ def csl_example_constraint(data_path, api_output_path, model_name):
         data = json.load(data_file)
 
     output = []
-    with open(os.path.join(api_output_path, '{}_example_constraint.jsonl'.format(model_name)), 'r', encoding='utf-8') as output_file:
+    with open(os.path.join(api_output_path, '{}/example_constraint.jsonl'.format(model_name)), 'r', encoding='utf-8') as output_file:
         for line in output_file:
             output.append(json.loads(line))
 
     # match
     for i in range(len(data)):
         for j in range(len(output)):
-            if data[i]['instruction'] == output[j]['prompt_new']:
+            if data[i]['instruction'] == output[j]['prompt']:
                 data[i]['generation'] = output[j]['choices'][0]['message']['content']
                 break
-            if j == len(output)-1 and data[i]['instruction'] != output[j]['prompt_new']:
+            if j == len(output)-1 and data[i]['instruction'] != output[j]['prompt']:
                 print(i)
     
     # check correct

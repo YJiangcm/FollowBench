@@ -17,7 +17,7 @@ def get_eval(user_prompt: str, max_tokens: int, api_key: str):
         try:
             client = OpenAI(api_key=api_key)
             response = client.chat.completions.create(
-                model='gpt-4',
+                model='gpt-4o-mini',
                 max_tokens=max_tokens,
                 temperature=0.0,
                 messages=[{
@@ -25,7 +25,7 @@ def get_eval(user_prompt: str, max_tokens: int, api_key: str):
                     'content': user_prompt,
                 }],
             )
-            content = response['choices'][0]['message']['content']
+            content = response.choices[0].message.content
             logger.info(content)
             return content
         except Exception as e:
@@ -70,14 +70,13 @@ if __name__ == '__main__':
                                         )
 
     ### LLM-based evaluation
-    if not os.path.exists(args.gpt4_discriminative_eval_output_path):
-        os.makedirs(args.gpt4_discriminative_eval_output_path)
+    os.makedirs(os.path.join(args.gpt4_discriminative_eval_output_path, f"{args.model_path}"), exist_ok=True)
 
     for constraint_type in args.constraint_types:
 
-        eval_input = get_json_list(os.path.join(args.gpt4_discriminative_eval_input_path, "{0}_{1}_constraint.jsonl".format(args.model_path, constraint_type)))
+        eval_input = get_json_list(os.path.join(args.gpt4_discriminative_eval_input_path, "{0}/{1}_constraint.jsonl".format(args.model_path, constraint_type)))
         
-        with open(os.path.join(args.gpt4_discriminative_eval_output_path, "{0}_{1}_constraint.jsonl".format(args.model_path, constraint_type)), 'w') as output_file:
+        with open(os.path.join(args.gpt4_discriminative_eval_output_path, "{0}/{1}_constraint.jsonl".format(args.model_path, constraint_type)), 'w') as output_file:
             for idx in tqdm(range(len(eval_input))):
                 response = get_eval(eval_input[idx]['prompt_new'], args.max_tokens, args.api_key)
                 output_file.write(json.dumps({'prompt_new': eval_input[idx]['prompt_new'], "choices": [{"message": {"content": response}}]}) + '\n')

@@ -194,8 +194,10 @@ def acquire_discriminative_eval_input(data_path, api_output_path, constraint_typ
 
     data = data_match_api_output(data_path, api_output_path, constraint_type, model_name)
 
-    with open(os.path.join(data_gpt4_discriminative_eval_input_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'w', encoding='utf-8') as data_gpt_eval_input_file:
-        with open(os.path.join(gpt4_discriminative_eval_input_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'w', encoding='utf-8') as gpt_eval_input_file:
+    os.makedirs(os.path.join(data_gpt4_discriminative_eval_input_path, f"{model_name}"), exist_ok=True)
+    os.makedirs(os.path.join(gpt4_discriminative_eval_input_path, f"{model_name}"), exist_ok=True)
+    with open(os.path.join(data_gpt4_discriminative_eval_input_path, "{0}/{1}_constraint.jsonl".format(model_name, constraint_type)), 'w', encoding='utf-8') as data_gpt_eval_input_file:
+        with open(os.path.join(gpt4_discriminative_eval_input_path, "{0}/{1}_constraint.jsonl".format(model_name, constraint_type)), 'w', encoding='utf-8') as gpt_eval_input_file:
             
             evolve_instructions = []
             example_id = data[0]['example_id']
@@ -267,12 +269,12 @@ def paring_discriminative_generation(generation, level):
 
 def discriminative_evaluation(data_gpt4_discriminative_eval_input_path, gpt4_discriminative_eval_output_path, constraint_type, model_name):
     data = []
-    with open(os.path.join(data_gpt4_discriminative_eval_input_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as data_file:
+    with open(os.path.join(data_gpt4_discriminative_eval_input_path, "{0}/{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as data_file:
         for line in data_file:
             data.append(json.loads(line))
 
     output = []
-    with open(os.path.join(gpt4_discriminative_eval_output_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as output_file:
+    with open(os.path.join(gpt4_discriminative_eval_output_path, "{0}/{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as output_file:
         for line in output_file:
             output.append(json.loads(line))
 
@@ -411,12 +413,12 @@ def save_discriminative_evaluation(data_path, api_output_path, data_gpt4_discrim
 
 def csl_evaluation(data_gpt4_discriminative_eval_input_path, gpt4_discriminative_eval_output_path, constraint_type, model_name):
     data = []
-    with open(os.path.join(data_gpt4_discriminative_eval_input_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as data_file:
+    with open(os.path.join(data_gpt4_discriminative_eval_input_path, "{0}/{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as data_file:
         for line in data_file:
             data.append(json.loads(line))
 
     output = []
-    with open(os.path.join(gpt4_discriminative_eval_output_path, "{0}_{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as output_file:
+    with open(os.path.join(gpt4_discriminative_eval_output_path, "{0}/{1}_constraint.jsonl".format(model_name, constraint_type)), 'r', encoding='utf-8') as output_file:
         for line in output_file:
             output.append(json.loads(line))
 
