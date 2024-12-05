@@ -7,3 +7,4 @@ gpt4_discriminative_eval_output/
 data_gpt4_discriminative_eval_input/
 code/__pycache__/
 venv/
+./idea/
