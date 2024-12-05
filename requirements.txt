@@ -1,6 +1,6 @@
+vllm
 transformers
 fschat
 openai
-vllm
 matplotlib
 tqdm
