@@ -25,7 +25,7 @@ def get_eval(user_prompt: str, max_tokens: int, api_key: str):
                     'content': user_prompt,
                 }],
             )
-            content = response['choices'][0]['message']['content']
+            content = response.choices[0].message.content
             logger.info(content)
             return content
         except Exception as e:
