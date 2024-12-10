@@ -340,7 +340,7 @@ def save_discriminative_evaluation(data_path, api_output_path, data_gpt4_discrim
 
         result = [i+j for i, j in zip(discriminative_result[0], rule_result)]
         n_group = discriminative_n_group + rule_n_group
-        result = ["{:.2f}%".format(r/n_group*100) for r in result]
+        result = ["{:.2f}".format(r/n_group*100) for r in result]
 
         results.append([model_name] + result)
 
@@ -383,7 +383,7 @@ def save_discriminative_evaluation(data_path, api_output_path, data_gpt4_discrim
 
         result = [i+j for i, j in zip(discriminative_result[1], rule_result)]
         n_group = discriminative_n_group + rule_n_group
-        result = ["{:.2f}%".format(r/n_group*100) for r in result]
+        result = ["{:.2f}".format(r/n_group*100) for r in result]
 
         results.append([model_name] + result)
 
