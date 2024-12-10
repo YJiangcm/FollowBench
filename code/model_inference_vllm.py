@@ -80,6 +80,7 @@ def main():
     
     args = parser.parse_args()
 
+    os.makedirs(args.api_input_path, exist_ok=True)
     for constraint_type in args.constraint_types:
         convert_to_api_input(
                             data_path=args.data_path, 
