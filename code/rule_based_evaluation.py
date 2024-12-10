@@ -329,7 +329,7 @@ def evaluate_example_constraint(data_path, api_output_path, model_name):
     # for i in range(len(results)):
     #     print("Level {}: {:.2f}%".format(i+1, results[i]/n_group*100))
 
-    return ["{:.2f}%".format(r/n_group*100) for r in results]
+    return ["{:.2f}".format(r/n_group*100) for r in results]
 
 
 def save_evaluate_example_constraint(data_path, api_output_path, model_names, evaluation_result_path):
