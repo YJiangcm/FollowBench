@@ -1,5 +1,6 @@
-transformers==4.31.0
-"fschat[model_worker,webui]==0.2.28"
-openai==1.57.1
+vllm
+transformers
+fschat
+openai
 matplotlib
 tqdm
