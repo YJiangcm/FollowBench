@@ -99,7 +99,7 @@ pip install -r requirements.txt
 #### Model Inference
 ```bash
 cd FollowBench/
-python code/model_inference.py --model_path <model_name_or_path>
+python code/model_inference_vllm.py --model_path <model_name_or_path>
 ```
 
 #### LLM-based Evaluation
