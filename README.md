@@ -21,7 +21,7 @@ We introduce **FollowBench**, a Multi-level Fine-grained Constraints Following B
 </p>
 
 ## 🔥 Updates
-* 2025/04/22: FollowBench supports [vllm](https://github.com/vllm-project/vllm) for fast inference.
+* 2025/04/22: FollowBench supports [vllm](https://github.com/vllm-project/vllm) for a faster inference.
 * 2024/05/16: We are delighted that FollowBench has been accepted to ACL 2024 main conference!
 * 2024/01/11: We have uploaded the English and Chinese version of FollowBench to [Hugging Face](https://huggingface.co/datasets/YuxinJiang/FollowBench).
 * 2023/12/20: We evaluated Qwen-Chat-72B/14B/7B on FollowBench, check it in [Leaderboard](#leaderboard).
